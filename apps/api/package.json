@@ -1,0 +1,23 @@
+{
+  "name": "@rm/api",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run --passWithNoTests",
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "db:migrate": "tsx src/db/migrate.ts",
+    "db:seed": "tsx src/db/seed.ts",
+    "demo:reset": "tsx src/scripts/reset.ts"
+  },
+  "dependencies": {
+    "@rm/shared": "workspace:*",
+    "@rm/guard": "workspace:*",
+    "@rm/ledger": "workspace:*",
+    "@rm/agent": "workspace:*",
+    "@rm/channel3": "workspace:*",
+    "@rm/paypal": "workspace:*"
+  }
+}

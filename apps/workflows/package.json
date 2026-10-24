@@ -1,0 +1,20 @@
+{
+  "name": "@rm/workflows",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run --passWithNoTests",
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "trigger": "tsx src/trigger.ts"
+  },
+  "dependencies": {
+    "@rm/shared": "workspace:*",
+    "@rm/guard": "workspace:*",
+    "@rm/ledger": "workspace:*",
+    "@rm/agent": "workspace:*",
+    "@rm/channel3": "workspace:*"
+  }
+}

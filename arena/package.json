@@ -1,0 +1,15 @@
+{
+  "name": "@rm/arena",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run --passWithNoTests",
+    "run": "tsx runner.ts"
+  },
+  "dependencies": {
+    "@rm/shared": "workspace:*",
+    "@rm/guard": "workspace:*"
+  }
+}

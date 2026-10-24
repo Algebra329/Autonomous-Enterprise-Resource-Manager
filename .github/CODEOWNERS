@@ -1,0 +1,24 @@
+# Replace the placeholders with real GitHub handles.
+# SWE = software engineer, BAI = backend/AI engineer, MLE = ML engineer
+
+/apps/web/            @SWE
+/apps/vendor-a/       @SWE
+/apps/vendor-b/       @SWE
+/packages/vendor-kit/ @SWE
+/render.yaml          @SWE
+/.github/             @SWE
+
+/apps/api/            @BAI
+/apps/workflows/      @BAI
+/packages/guard/      @BAI @MLE
+/packages/shared/     @BAI @SWE @MLE
+/packages/agent/      @BAI
+/packages/paypal/     @BAI
+/packages/channel3/   @BAI
+/packages/ledger/     @BAI
+/db/                  @BAI
+
+/apps/ml/             @MLE
+/ml/                  @MLE
+/arena/               @MLE @BAI
+/seed/                @MLE

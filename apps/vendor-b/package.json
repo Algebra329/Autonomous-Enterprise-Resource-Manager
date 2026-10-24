@@ -1,0 +1,17 @@
+{
+  "name": "@rm/vendor-b",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run --passWithNoTests",
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@rm/shared": "workspace:*",
+    "@rm/vendor-kit": "workspace:*",
+    "@rm/paypal": "workspace:*"
+  }
+}

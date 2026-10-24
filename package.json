@@ -1,0 +1,23 @@
+{
+  "name": "autonomous-enterprise-resource-manager",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.15.4",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev:api": "pnpm --filter @rm/api dev",
+    "dev:web": "pnpm --filter @rm/web dev",
+    "dev:vendor-a": "pnpm --filter @rm/vendor-a dev",
+    "dev:vendor-b": "pnpm --filter @rm/vendor-b dev",
+    "build": "pnpm -r --if-present build",
+    "typecheck": "pnpm -r --if-present typecheck",
+    "test": "pnpm -r --if-present test",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "arena:run": "pnpm --filter @rm/arena run",
+    "db:migrate": "pnpm --filter @rm/api db:migrate",
+    "db:seed": "pnpm --filter @rm/api db:seed",
+    "demo:reset": "pnpm --filter @rm/api demo:reset"
+  }
+}
