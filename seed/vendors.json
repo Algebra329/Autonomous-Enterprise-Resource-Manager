@@ -1,0 +1,49 @@
+{
+  "vendor_a": {
+    "display_name": "Apex Tech Supply",
+    "style": "premium list price, flexible when countered",
+    "list_multiplier": {
+      "laptops": 1.1,
+      "monitors": 1.04,
+      "accessories": 1.06
+    },
+    "floor_multiplier": {
+      "laptops": 1.0,
+      "monitors": 0.98,
+      "accessories": 1.0
+    },
+    "concession_rate": 0.4,
+    "max_rounds": 3,
+    "skus": [
+      "LAP-13",
+      "LAP-14",
+      "LAP-16",
+      "MON-24",
+      "MON-27",
+      "DOCK-TB"
+    ]
+  },
+  "vendor_b": {
+    "display_name": "ValueByte Direct",
+    "style": "competitive list price, stubborn",
+    "list_multiplier": {
+      "laptops": 1.02,
+      "monitors": 0.95,
+      "accessories": 0.97
+    },
+    "floor_multiplier": {
+      "laptops": 1.0,
+      "monitors": 0.94,
+      "accessories": 0.96
+    },
+    "concession_rate": 0.1,
+    "max_rounds": 3,
+    "skus": [
+      "LAP-13",
+      "LAP-14",
+      "MON-24",
+      "MON-27",
+      "DOCK-TB"
+    ]
+  }
+}

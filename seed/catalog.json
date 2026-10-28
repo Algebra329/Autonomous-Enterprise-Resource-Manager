@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "LAP-13",
+    "name": "UltraLight 13 Laptop",
+    "category": "laptops",
+    "market_price": 1250.0
+  },
+  {
+    "sku": "LAP-14",
+    "name": "Business 14 Laptop",
+    "category": "laptops",
+    "market_price": 1450.0
+  },
+  {
+    "sku": "LAP-16",
+    "name": "Performance 16 Laptop",
+    "category": "laptops",
+    "market_price": 1950.0
+  },
+  {
+    "sku": "MON-24",
+    "name": "24in FHD Monitor",
+    "category": "monitors",
+    "market_price": 230.0
+  },
+  {
+    "sku": "MON-27",
+    "name": "27in 4K Monitor",
+    "category": "monitors",
+    "market_price": 420.0
+  },
+  {
+    "sku": "DOCK-TB",
+    "name": "Thunderbolt Dock",
+    "category": "accessories",
+    "market_price": 240.0
+  }
+]
