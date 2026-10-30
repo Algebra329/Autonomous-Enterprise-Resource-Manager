@@ -1,0 +1,62 @@
+{
+  "_note": "Defaults for every guard case. A case's arrange/act objects override only what they mention.",
+  "now": "2026-11-05T12:00:00Z",
+  "mandate": {
+    "type": "intent",
+    "issuer": "arena_manager",
+    "constraints": {
+      "categories": [
+        "laptops",
+        "monitors"
+      ],
+      "max_unit_price": 1500,
+      "monthly_cap": 8000,
+      "currency": "USD",
+      "approved_vendors": [
+        "vendor_a",
+        "vendor_b"
+      ],
+      "max_over_benchmark_pct": 10
+    },
+    "mode": "auto_under_cap",
+    "not_before_offset_s": -86400,
+    "expires_offset_s": 2592000
+  },
+  "state": {
+    "spent_this_month": 0,
+    "breaker_open": false,
+    "kill_switch": false,
+    "orders_last_hour": 0,
+    "nonce_used": false
+  },
+  "breaker_config": {
+    "max_orders_per_hour": 10,
+    "max_spend_per_hour": 5000
+  },
+  "price_drift_tolerance_pct": 2,
+  "proposal": {
+    "vendor_id": "vendor_b",
+    "sku": "LAP-14",
+    "category": "laptops",
+    "quantity": 1,
+    "unit_price": 1479.0,
+    "currency": "USD",
+    "benchmark_price": 1450.0,
+    "quote_price": 1479.0
+  },
+  "monitor_proposal": {
+    "vendor_id": "vendor_b",
+    "sku": "MON-27",
+    "category": "monitors",
+    "quantity": 1,
+    "unit_price": 399.0,
+    "currency": "USD",
+    "benchmark_price": 420.0,
+    "quote_price": 399.0
+  },
+  "vendor_registry": {
+    "vendor_a": "merchant_vendor_a_sandbox",
+    "vendor_b": "merchant_vendor_b_sandbox"
+  },
+  "agent_task": "Source one Business 14 Laptop (LAP-14) within the policy and propose a purchase."
+}
