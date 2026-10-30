@@ -1,0 +1,3463 @@
+{
+  "products": [
+    {
+      "id": "Cnn0qac",
+      "title": "Asus VA24EHEY Eye Care Monitor",
+      "description": "The ASUS VA24EHE is a 23.8-inch Eye Care monitor featuring a Full HD (1920 x 1080) IPS panel for vivid image quality and wide 178\u00b0 viewing angles. It supports a refresh rate of up to 75Hz with Adaptive-Sync/FreeSync\u2122 technology to ensure smooth, tear-free visuals during gameplay and video playback. Designed for comfort, it is T\u00dcV Rheinland-certified for its Flicker-free and Low Blue Light technologies, reducing eye strain during extended use. Additionally, it includes ASUS-exclusive GamePlus and Splendid Video Intelligence technologies to enhance the gaming and viewing experience.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ad0f73c9-faaf-42e4-a9b6-3370366a929f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA27EHE eye care monitor displaying a human eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8 inch IPS panel with Full HD (1920 x 1080) resolution",
+        "178\u00b0 wide viewing angle",
+        "75Hz refresh rate with Adaptive-Sync/FreeSync\u2122",
+        "T\u00dcV Rheinland-certified Flicker-free and Low Blue Light technologies",
+        "Frameless Design",
+        "ASUS GamePlus Technology",
+        "Splendid Video Intelligence Technology",
+        "Regular fit for unrestricted movement",
+        "Crew-neck design",
+        "HDMI connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#e6e4e5",
+          "percentage": 0.5238
+        },
+        {
+          "hex": "#262526",
+          "percentage": 0.1308
+        },
+        {
+          "hex": "#ccbbbe",
+          "percentage": 0.1211
+        },
+        {
+          "hex": "#5b5558",
+          "percentage": 0.1127
+        },
+        {
+          "hex": "#a4a4ae",
+          "percentage": 0.1117
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Cnn0qac-LWYJ-8tFxDf?o=01M33TTRQMPQEJD3X15NTJB38K&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 33.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Operating System",
+            "values": [
+              {
+                "label": "Windows 7 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 7 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8.1 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8.1 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 10 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 10 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI",
+          "DVI",
+          "VGA"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Anti-glare",
+          "Flicker-free"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "pJUxHjd",
+      "title": "Nike Sip Photo T-shirt",
+      "description": "The ASUS VA24EHE is a 23.8-inch Eye Care monitor featuring a Full HD (1920 x 1080) IPS panel for vivid image quality and wide 178\u00b0 viewing angles. It supports a refresh rate of up to 75Hz with Adaptive-Sync/FreeSync\u2122 technology to ensure smooth, tear-free visuals during gameplay and video playback. Designed for comfort, it is T\u00dcV Rheinland-certified for its Flicker-free and Low Blue Light technologies, reducing eye strain during extended use. Additionally, it includes ASUS-exclusive GamePlus and Splendid Video Intelligence technologies to enhance the gaming and viewing experience.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ad0f73c9-faaf-42e4-a9b6-3370366a929f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA27EHE eye care monitor displaying a human eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD resolution",
+        "75Hz refresh rate",
+        "Adaptive-sync technology",
+        "T\u00dcV Rheinland certified Eye Care technology",
+        "HDMI connectivity",
+        "Regular fit for unrestricted movement",
+        "Crew-neck design",
+        "23.8 inch IPS panel with Full HD (1920 x 1080) resolution",
+        "178\u00b0 wide viewing angle",
+        "Frameless Design"
+      ],
+      "colors": [
+        {
+          "hex": "#e6e4e5",
+          "percentage": 0.5238
+        },
+        {
+          "hex": "#262526",
+          "percentage": 0.1308
+        },
+        {
+          "hex": "#ccbbbe",
+          "percentage": 0.1211
+        },
+        {
+          "hex": "#5b5558",
+          "percentage": 0.1127
+        },
+        {
+          "hex": "#a4a4ae",
+          "percentage": 0.1117
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/pJUxHjd-LWYJ-8tFxDf?o=01M35ZVJ46FR2JEX7E354JGXX6&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 149.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Operating System",
+            "values": [
+              {
+                "label": "Windows 7 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 7 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8.1 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 8.1 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 10 32-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 10 64-bit",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "DJvFIWF",
+      "title": "ASUS 24 inch Full HD 100Hz, 1ms, Adaptive-Sync Computer Monitor VA24EHF",
+      "description": "The ASUS VA24EHF is a 24-inch (23.8-inch viewable) Full HD gaming and productivity monitor. It features an IPS panel with a 1920 x 1080 resolution, offering wide 178\u00b0 viewing angles and a frameless design ideal for multi-monitor setups. For smooth visuals, it provides a 100Hz refresh rate and 1ms MPRT response time, supported by Adaptive-Sync technology to reduce screen tearing. The monitor is designed with eye health in mind, incorporating T\u00dcV Rheinland-certified Flicker-Free and Low Blue Light technologies. It includes a tilt stand and is VESA mountable for flexible desktop arrangements.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/051a3eca-d5d2-4932-b01d-7a32e0f43f9c?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/dfb287b8-bb2b-4ee7-ae0e-e6c56a8a7299?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Family posing with an Asus gaming monitor in a bright living space."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b72db46c-c3a0-47cf-8a78-2c6f0c44e7df?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black Asus gaming monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d6125e5f-a8f0-4b79-af43-b00b00539f5c?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Family posing with an Asus gaming monitor in a bright living space."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4322d74e-207e-4092-9338-fd6f48722869?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Family posing with an Asus gaming monitor in a bright living space."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0a772fdd-b5fc-40ca-aa94-299f9b6da530?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black Asus gaming monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6323aab9-cb8a-4dc5-99ea-2061939a9276?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4cfdec79-3942-4fe2-a7ab-2d895c3282ba?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gaming monitor showing racing and data displays."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/117a0ee1-0c45-4739-a850-06b9f32c878f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4df3b00-9b31-4f22-8f26-21609d7e08f8?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying a scenic landscape and display features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b6f84880-4bc2-4742-8cdc-91a501486138?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor features: 100Hz, streaming, and scrolling capabilities."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6cce1c14-4ce9-4ff5-b130-2ff04d75a2fc?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ada5b62c-9b71-40c2-84c7-30aaf7350069?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor comparison: Flicker-free vs conventional display with certification."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a103dddb-adb2-471d-96b2-3bdb7e3cbcbc?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f6e61831-131e-4171-be62-95267a08881d?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor showing aviation graphics and gaming HUD elements."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3ceb20cd-04ea-49ee-a47a-608c2deadc0b?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor interface showing various game overlay features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0eef8a7-c893-4a72-85a4-68506bf644ec?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Three Asus Va24ehf monitors set up on a desk."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "23.8-inch viewable Full HD (1080P) display",
+        "IPS panel",
+        "100Hz refresh rate",
+        "1ms response time",
+        "Adaptive-Sync technology",
+        "Eye Care technology: Low Blue Light and Flicker Free",
+        "Frameless bezel design",
+        "HDMI connectivity",
+        "VESA mountable",
+        "Tilt adjustment"
+      ],
+      "colors": [
+        {
+          "hex": "#faf8f4",
+          "percentage": 0.5755
+        },
+        {
+          "hex": "#453c3a",
+          "percentage": 0.1538
+        },
+        {
+          "hex": "#deded2",
+          "percentage": 0.1062
+        },
+        {
+          "hex": "#0d1015",
+          "percentage": 0.1028
+        },
+        {
+          "hex": "#7e8586",
+          "percentage": 0.0617
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/DJvFIWF-LPzf-8tFxDf?o=01M4MSA42Y39JRBSCY5MZD6F8Y&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "newegg.com",
+          "price": {
+            "price": 113.5,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 21.24,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.11,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.43,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 6.26,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/DJvFIWF-RnUy-8tFxDf?o=01KR1EDRD5DZRHNE3YQT9V8V7K&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 138.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "Suitable for gaming",
+          "Adjustable viewing angle"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ]
+      },
+      "ratings": {
+        "value": 4.59,
+        "count": 3,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "nhOC2zc",
+      "title": "VA24EHF 24-inch 1920 x 1080 Full HD LED Backlit LCD Frameless Monitor",
+      "description": "This is a 2-pack bundle of ASUS VA24EHF monitors, each featuring a 24-inch Full HD IPS display with a 100Hz refresh rate and 1ms response time for smooth visuals. They boast a frameless design for an immersive experience, ideal for multi-monitor setups. Enhanced with ASUS Eye Care technology, including flicker-free backlighting and low blue light filters, these monitors reduce eye strain during extended use. Connectivity is provided via HDMI ports, and the stand offers basic tilt adjustment for ergonomic comfort.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c9a6bfda-e66b-41fa-b4ee-65d0be5955c1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/f334b5a3-2c52-4ad3-9f5a-a2f57146b967?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Asus VA24EHF 24-inch Full HD monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/01KM8PZ8EN8BE9A5PVZ0X2JH0T?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two Asus VA24EHF 24-inch Full HD monitors side by side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0dd1b91-d475-4c53-af3d-a2e742c7cf08?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e0dd1b91-d475-4c53-af3d-a2e742c7cf08?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus VA24EHF 24-inch Full HD monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9347dd5b-b428-4319-950c-b9964f93b9a1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9347dd5b-b428-4319-950c-b9964f93b9a1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Asus VA24EHF 24-inch monitor at an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d28d890d-023f-4d44-a2c3-0cc467662b7a?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "The back of an Asus monitor showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e583db93-afa2-4e3f-8a01-74ffd35c3cc2?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e583db93-afa2-4e3f-8a01-74ffd35c3cc2?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "The back of an Asus monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Immerse yourself with the ASUS 23.8\" Full HD gaming monitor, boasting vibrant IPS panel technology.",
+        "Experience smooth gameplay with a 100Hz refresh rate, perfect for fast-paced action and esports titles.",
+        "Enjoy blur-free visuals with the 1ms response time, giving you a competitive edge in your favorite games.",
+        "Adaptive-Sync technology eliminates screen tearing for a fluid gaming experience.",
+        "ASUS Eye Care+ technology reduces eye strain during long gaming sessions.",
+        "Easily mount this VESA compatible monitor to a wall or monitor arm for optimal ergonomic setup."
+      ],
+      "colors": [
+        {
+          "hex": "#fafdfe",
+          "percentage": 0.275
+        },
+        {
+          "hex": "#0c288f",
+          "percentage": 0.1633
+        },
+        {
+          "hex": "#06124c",
+          "percentage": 0.1442
+        },
+        {
+          "hex": "#576b91",
+          "percentage": 0.1394
+        },
+        {
+          "hex": "#3c4054",
+          "percentage": 0.1252
+        },
+        {
+          "hex": "#99b0c9",
+          "percentage": 0.0917
+        },
+        {
+          "hex": "#1c357e",
+          "percentage": 0.0611
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/nhOC2zc-T9Fg-8tFxDf?o=01KNJZAJ9QRCBCHGRT7G5FDAY1&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "adorama.com",
+          "price": {
+            "price": 114.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "AMD FreeSync",
+          "VESA Adaptive Sync"
+        ],
+        "contrast-ratio-typical": [
+          "1300:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED",
+          "LCD"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "Suitable for gaming"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "abMMUWC",
+      "title": "VA24EHF2 Gaming Monitor",
+      "description": "The ASUS VA24EHF2 is a 23.8-inch Full HD (1920 x 1080) gaming monitor featuring a frameless IPS panel for wide 178\u00b0 viewing angles and vivid image quality. Designed for smooth performance, it offers a 120Hz refresh rate and 1ms MPRT with Adaptive-Sync technology to eliminate screen tearing. The monitor is equipped with HDMI and VGA connectivity, is VESA wall-mountable, and includes TV Rheinland-certified Flicker-free and Low Blue Light technologies for eye comfort.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7f29f63c-a8be-4faa-a20e-ab8e30c97461?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7f29f63c-a8be-4faa-a20e-ab8e30c97461?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the ASUS monitor with vibrant blue and green display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9d75aab5-ddb9-4607-a19f-cab981dc7228?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9d75aab5-ddb9-4607-a19f-cab981dc7228?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS 23.8-inch monitor with blue screen and black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ade3e1ee-d58b-4084-a7e3-ae36127d4968?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ade3e1ee-d58b-4084-a7e3-ae36127d4968?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the ASUS monitor showing the stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e4964e7f-2ce9-434d-8651-295ad723090e?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4964e7f-2ce9-434d-8651-295ad723090e?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the ASUS monitor with vibrant blue and green display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce1f5960-0102-4c62-8b31-501db31599fb?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS monitor showing connectivity options and wall mount specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ffd1c69e-f37c-4eb4-8b92-b747102d0e9f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS monitor showing dimensions and what's in the box."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f93d0839-c995-4b49-8a5e-df961bdda430?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying a wide viewing angle demonstration scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fdf3ecb9-c2ef-418e-a74e-ba346c1f4e92?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "ASUS monitor on a desk with laptop and peripherals."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f7cae4b0-c062-4cc8-ab4d-59238208f5a7?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "ASUS monitor showing fluid motion video streaming and gaming."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4b76ac0-3311-4315-b9ce-453e259bc55e?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Screenshot of the ASUS Display Widget Center settings menu."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d430f8d-1de8-4bdc-89a1-b546addae49d?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS monitor highlighting blue light filter and eye care features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0b2a3211-af6d-4d60-96aa-55317e6fbf9f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "merchant_information",
+          "alt_text": "Banner showing environmental certification and eco-friendly materials."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch Full HD (1920x1080) frameless design",
+        "IPS 178\u00b0 wide viewing angle panel",
+        "120Hz refresh rate and 1ms MPRT",
+        "Adaptive-Sync technology",
+        "HDMI and VGA connectivity",
+        "TV Rheinland-certified Flicker-free and Low Blue Light technologies",
+        "VESA wall-mountable"
+      ],
+      "colors": [
+        {
+          "hex": "#89ebfc",
+          "percentage": 0.196
+        },
+        {
+          "hex": "#00246b",
+          "percentage": 0.1924
+        },
+        {
+          "hex": "#1dddea",
+          "percentage": 0.1384
+        },
+        {
+          "hex": "#0065ba",
+          "percentage": 0.137
+        },
+        {
+          "hex": "#07b5ca",
+          "percentage": 0.1274
+        },
+        {
+          "hex": "#102657",
+          "percentage": 0.0816
+        },
+        {
+          "hex": "#475e6f",
+          "percentage": 0.0794
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/abMMUWC-p1PB-8tFxDf?o=01M09CBXS9Z3VWQ8SEA7MGDQ8F&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 131.94,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "LED backlight",
+          "Suitable for gaming"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA",
+          "3.5 mm"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "g5SrCZh",
+      "title": "VA24EHFA",
+      "description": "The ASUS VA24EHFA is a 23.8-inch Full HD Eye Care Gaming Monitor featuring an IPS panel with a 100Hz refresh rate and Adaptive-Sync technology for smooth visuals. It is designed with a frameless bezel, a 1ms MPRT response time, and includes built-in stereo speakers and HDMI connectivity. To ensure user comfort during extended use, it incorporates Low Blue Light and Flicker Free technologies.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/92b47a50-f367-43af-b6d4-f2f5441eb067?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/92b47a50-f367-43af-b6d4-f2f5441eb067?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA24EHFA monitor showing abstract blue and green graphics."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch Full HD IPS display",
+        "100Hz refresh rate",
+        "Adaptive-Sync",
+        "1ms MPRT response time",
+        "Frameless design",
+        "Low Blue Light and Flicker Free technology",
+        "Built-in stereo speakers",
+        "HDMI connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#aae9fb",
+          "percentage": 0.2459
+        },
+        {
+          "hex": "#002568",
+          "percentage": 0.1817
+        },
+        {
+          "hex": "#02519d",
+          "percentage": 0.1513
+        },
+        {
+          "hex": "#1cafc6",
+          "percentage": 0.1474
+        },
+        {
+          "hex": "#545455",
+          "percentage": 0.1391
+        },
+        {
+          "hex": "#2fdae8",
+          "percentage": 0.0872
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/g5SrCZh-LWYJ-8tFxDf?o=01M324PC1HRZ59VQ066Y7JC02K&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 99.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "Frameless",
+          "Suitable for gaming"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "5sdJ3Bk",
+      "title": "ASUS Dual 24\" VA24EHF Eye Care Monitor Kit",
+      "description": "The ASUS Dual 24\" VA24EHF Eye Care Monitor Kit is a multitasking setup featuring two 24-inch IPS monitors. These monitors offer a 1920 x 1080 resolution with a 100Hz refresh rate and a 1ms MPRT response time, making them suitable for both office work and fast-paced gaming. Key features include Adaptive-Sync technology to eliminate screen tearing, a frameless design for seamless multi-display setups, and built-in Eye Care technology (flicker-free and low blue light) to reduce eye strain during extended use.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f0ba985c-5ccb-412c-8798-8205e700b0de?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA24EHF 24 inch monitor on a black stand showing a screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1e6fd1eb-25f9-48b6-91f5-a802007c2987?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1e6fd1eb-25f9-48b6-91f5-a802007c2987?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA24EHF 24 inch monitor on a black stand showing a screen."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" 16:9 IPS Panel",
+        "1920 x 1080 Resolution at 100 Hz",
+        "1 ms MPRT Response Time",
+        "Adaptive-Sync technology",
+        "Flicker Free & Low Blue Light Technology",
+        "Frameless Design",
+        "HDMI Video Input"
+      ],
+      "colors": [
+        {
+          "hex": "#e5c5b4",
+          "percentage": 0.1746
+        },
+        {
+          "hex": "#b9805e",
+          "percentage": 0.1513
+        },
+        {
+          "hex": "#6f4633",
+          "percentage": 0.1335
+        },
+        {
+          "hex": "#eed9b9",
+          "percentage": 0.1282
+        },
+        {
+          "hex": "#8e6854",
+          "percentage": 0.1227
+        },
+        {
+          "hex": "#241e1e",
+          "percentage": 0.1103
+        },
+        {
+          "hex": "#c79f84",
+          "percentage": 0.1006
+        },
+        {
+          "hex": "#e1ab80",
+          "percentage": 0.0789
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5sdJ3Bk-oHaU-8tFxDf?o=01M3R0MNVCKGNX06ZCQTYECV7K&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 109.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 8.8,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1300:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Frameless",
+          "Suitable for gaming"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 3,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "Jvzp6py",
+      "title": "Asus 23.8-inch Monitor 1920 x 1080 LED (VA24EQSB)",
+      "description": "The Asus VA24EQSB is a 23.8-inch Full HD LED monitor featuring a 1920 x 1080 resolution and a 75Hz refresh rate. Designed for eye comfort, it includes Eye Care technology, low blue light, and flicker-free display capabilities. The monitor is frameless and equipped with built-in speakers, a VESA mount, height adjustment, and multiple connectivity options including DisplayPort, HDMI, and VGA.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/32307c1d-9fdd-46b7-ab98-0ca8ccfd4111?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/32307c1d-9fdd-46b7-ab98-0ca8ccfd4111?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA27EQSB monitor displaying a close-up of a human eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "IPS"
+      ],
+      "key_features": [
+        "1920 x 1080 Full HD Resolution",
+        "23.8-inch LED Screen",
+        "75Hz Refresh Rate",
+        "IPS Panel",
+        "Built-in Speakers",
+        "Eye Care, Low Blue Light, and Flicker Free technology",
+        "VESA Mountable",
+        "Height Adjustment",
+        "Frameless design",
+        "Connectivity: DisplayPort, HDMI, VGA, USB Hub"
+      ],
+      "colors": [
+        {
+          "hex": "#e6e4e5",
+          "percentage": 0.5112
+        },
+        {
+          "hex": "#c4bec5",
+          "percentage": 0.1449
+        },
+        {
+          "hex": "#272627",
+          "percentage": 0.1247
+        },
+        {
+          "hex": "#5a5457",
+          "percentage": 0.1218
+        },
+        {
+          "hex": "#a89aa1",
+          "percentage": 0.0975
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Jvzp6py-LWYJ-8tFxDf?o=01M35NP7EFVZ9RMH9V1WV29CM1&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 27.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/Jvzp6py-n0yg-8tFxDf?o=01M3820ZSVZH014ADRKGRWPQH5&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 300.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "VGA",
+          "USB"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "Frameless"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "04jQmo7",
+      "title": "LCD VA Monitor",
+      "description": "This ASUS 23.8-inch Full HD monitor features a VA panel with a 178/178-degree wide viewing angle, a 3000:1 contrast ratio, and a 5ms response time for excellent image quality. It includes T\u00dcV certified eye care features like a Blue Light Filter and Flicker-Free technology to reduce eye strain. The monitor comes with an HDMI port for multimedia connectivity and is compatible with USB Type-C and Type-A enabled laptops. Its slim and lightweight design makes it ideal for on-the-go use.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/268fd9d2-5cf3-4d33-a5c2-898a6b162279?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VA249HE monitor displaying a close-up of a human eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch anti-glare LCD VA panel gaming monitor",
+        "1920 x 1080 display resolution",
+        "3000:1 contrast ratio",
+        "178-degree Horizontal/178-degree Vertical viewing angle",
+        "Image Brightness: 250 cd/m2",
+        "TUV certified eye features, Blue Light Filter & Flicker free",
+        "Ports: HDMI, D-Sub",
+        "Dimensions: 21.7\" x 13.2\" x 2.2\"",
+        "8.1 lb"
+      ],
+      "colors": [
+        {
+          "hex": "#e7e4e5",
+          "percentage": 0.5316
+        },
+        {
+          "hex": "#605a5c",
+          "percentage": 0.1307
+        },
+        {
+          "hex": "#272627",
+          "percentage": 0.1178
+        },
+        {
+          "hex": "#d3b8bc",
+          "percentage": 0.1172
+        },
+        {
+          "hex": "#9ea3ad",
+          "percentage": 0.1027
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/04jQmo7-LWYJ-8tFxDf?o=01M3A5RT0H48A87Q29Y8NARHK2&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 24.9,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/04jQmo7-6Uzl-8tFxDf?o=01M02NWTXSXASKH4ABTZR0JVH1&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 163.49,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "3000:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight",
+          "Suitable for gaming"
+        ],
+        "display-technology": [
+          "VA",
+          "LED",
+          "TFT"
+        ],
+        "device-interface": [
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 44,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "1nl7FMa",
+      "title": "ASUS 23.8\" Full HD 1080P Eye Care Monitor - VA24EQSB",
+      "description": "The ASUS VA24EQSB is a 23.8-inch Full HD (1920 x 1080) Eye Care monitor featuring a frameless IPS panel for wide-angle viewing. Designed for comfort and productivity, it includes a highly ergonomic stand with tilt, swivel, pivot, and height adjustments. To reduce eye strain during long use, it is T\u00dcV Rheinland-certified for Flicker-free and Low Blue Light technologies. The monitor supports refresh rates up to 75Hz with Adaptive-Sync (compatible with NVIDIA and AMD graphics) to eliminate screen tearing. Connectivity options include HDMI, DisplayPort, D-sub, and a built-in USB hub, and it comes equipped with dual 2W speakers.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/60ae004b-5c25-4fe8-8656-f10487688513?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/60ae004b-5c25-4fe8-8656-f10487688513?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor on a stand with an eye graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d118fee9-a552-413b-bb16-98742b2ad526?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d118fee9-a552-413b-bb16-98742b2ad526?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Asus Eye Care Monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a4016726-18ec-4360-a02d-3dd5c72635c6?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a4016726-18ec-4360-a02d-3dd5c72635c6?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor with an eye graphic on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3c35655f-b3ae-4053-ab63-5e9764ad3384?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3c35655f-b3ae-4053-ab63-5e9764ad3384?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor with an eye graphic on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/980d9ec2-fcef-484b-8898-d53dac6ca4ee?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor with an eye graphic on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/71f6da66-a7a2-4594-9621-84a442ee9d7f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/71f6da66-a7a2-4594-9621-84a442ee9d7f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor with an eye graphic on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ede10fea-ee65-44fe-bc3b-6da0f18acb6a?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor with an adjustable arm stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4c29f229-d9db-4faf-b960-4de3e51328a1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4c29f229-d9db-4faf-b960-4de3e51328a1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Eye Care Monitor on a stand with an eye graphic."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch Full HD (1920 x 1080) LED backlight display with IPS 178 degree wide viewing angle panel",
+        "Up to 75Hz refresh rate with Adaptive-Sync technology to eliminate tracing",
+        "T\u00dcV Rheinland-certified Flicker-free and Low Blue Light technologies",
+        "Ergonomic design with tilt, swivel, pivot, and 130mm height adjustments",
+        "Extensive connectivity including HDMI, DisplayPort, D-sub, and USB hub",
+        "Built-in 2Wx2 speakers",
+        "ASUS Splendid Video Intelligence Technology for optimized color, brightness, and sharpness"
+      ],
+      "colors": [
+        {
+          "hex": "#e6e4e5",
+          "percentage": 0.5093
+        },
+        {
+          "hex": "#c4bec5",
+          "percentage": 0.1394
+        },
+        {
+          "hex": "#262527",
+          "percentage": 0.1281
+        },
+        {
+          "hex": "#5d575a",
+          "percentage": 0.1198
+        },
+        {
+          "hex": "#a89ca2",
+          "percentage": 0.1034
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1nl7FMa-LWYJ-8tFxDf?o=01M3M4T48BH0X95SD237R1ZRWC&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "eshop.asus.com",
+          "price": {
+            "price": 159.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 54.04,
+              "unit": "cm"
+            },
+            "width": {
+              "number": 21.14,
+              "unit": "cm"
+            },
+            "height": {
+              "number": 45.08,
+              "unit": "cm"
+            },
+            "weight": {
+              "number": 5.2,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight",
+          "Frameless",
+          "Suitable for gaming"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA",
+          "USB"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "DsXedAo",
+      "title": "24\" Full HD Eye Care Gaming Monitor",
+      "description": "Experience smoother visuals and protect your eyes with the ASUS 24\" Full HD Eye Care Gaming Monitor. This monitor features a 100Hz refresh rate and 1ms MPRT for fluid gaming and work, while Adaptive-Sync technology eliminates screen tearing. The IPS panel offers wide 178\u00b0 viewing angles and a slim, frameless design. ASUS Eye Care technology, including T\u00dcV Rheinland-certified Flicker-Free and Low Blue Light filters, ensures a comfortable viewing experience even during extended use. With HDMI connectivity and VESA wall-mounting capabilities, this monitor is a versatile addition to any setup.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/62ec7f08-15f2-4eac-a379-79eed51a37e3?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/62ec7f08-15f2-4eac-a379-79eed51a37e3?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS VZ24EHF monitor with a girl and boy looking at the screen."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch viewable IPS panel",
+        "Full HD resolution",
+        "10Hz refresh rate",
+        "Adaptive-Sync",
+        "1ms MPRT",
+        "Low Blue Light and Flicker Free technology",
+        "Frameless design",
+        "Wall mountable",
+        "HDMI connectivity",
+        "178 degree wide view angle"
+      ],
+      "colors": [
+        {
+          "hex": "#e8cab3",
+          "percentage": 0.3021
+        },
+        {
+          "hex": "#b97e5b",
+          "percentage": 0.146
+        },
+        {
+          "hex": "#704732",
+          "percentage": 0.1351
+        },
+        {
+          "hex": "#8c6953",
+          "percentage": 0.123
+        },
+        {
+          "hex": "#c59b7f",
+          "percentage": 0.1084
+        },
+        {
+          "hex": "#261f20",
+          "percentage": 0.1082
+        },
+        {
+          "hex": "#e0a677",
+          "percentage": 0.0771
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/DsXedAo-LWYJ-8tFxDf?o=01M2W81J1CY2KHVW4HRB6AC23S&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 79.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/DsXedAo-p1PB-8tFxDf?o=01KYC7Z5ZSAJ23830J19N77RHJ&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 147.35,
+            "compare_at_price": 148.33,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Frameless",
+          "HDR support",
+          "Suitable for gaming",
+          "Flicker-free",
+          "Anti-glare",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm",
+          "75 x 75 mm"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync",
+          "AMD FreeSync"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1300:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ANL5oJr",
+      "title": "24\" Class WQHD LCD Monitor",
+      "description": "This ASUS HA2441A monitor is designed for healthcare professionals. It features a 23.8-inch, 3.6MP (2560 x 1440) frameless IPS panel with a 178\u00b0 wide viewing angle. The monitor includes Eye Care+ technology to protect eyes during long use, and is compliant with DICOM Part 14 GSDF standards for medical imaging. It offers ASUS exclusive auto-calibration for DICOM accuracy and has multiple I/O ports including DisplayPort with Daisy-chain, HDMI, and USB-C. The ergonomic design allows for tilt, swivel, pivot, and height adjustments. Additionally, it features a proprietary long-lasting antibacterial treatment on the monitor head.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/533e6a66-1717-45b1-aac7-89f4e63e64f0?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Computer monitor display with medical icons and a pointing hand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch IPS panel",
+        "2560 x 1440 WQHD resolution",
+        "16:9 aspect ratio",
+        "75Hz refresh rate",
+        "HDMI 2.0, DisplayPort 1.4, USB Type-C 3.2 Gen 1 connectivity",
+        "Ergonomic stand with tilt, swivel, pivot, and height adjustments",
+        "Eye Care+ Technology (Low Blue Light, Flicker-free)",
+        "Anti-Glare, Low-Reflection (AGLR)",
+        "Multiple I/O for flexibility: DisplayPort with Daisy-chain, HDMI, USB-C and USB hub",
+        "Proprietary long-lasting antibacterial treatment"
+      ],
+      "colors": [
+        {
+          "hex": "#bfd8ec",
+          "percentage": 0.3656
+        },
+        {
+          "hex": "#f9fcfc",
+          "percentage": 0.2476
+        },
+        {
+          "hex": "#8ec2eb",
+          "percentage": 0.179
+        },
+        {
+          "hex": "#262e3e",
+          "percentage": 0.1198
+        },
+        {
+          "hex": "#8ba1b8",
+          "percentage": 0.088
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ANL5oJr-LWYJ-8tFxDf?o=01KXCEVWEQWVDTMKH4NDSSS5WD&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "eshop.asus.com",
+          "price": {
+            "price": 699.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.4,
+              "unit": "kg"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/ANL5oJr-p1PB-8tFxDf?o=01KYC7XY374F7JPMNYRDRES3P2&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 749.99,
+            "compare_at_price": 799.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "LCD",
+          "IPS"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "Thunderbolt",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "monitor-specialized-features": [
+          "LED backlight",
+          "Frameless",
+          "Blue light filter",
+          "3D support"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "DCI-P3",
+          "Rec. 2020"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "9JJorT2",
+      "title": "VA247HE",
+      "description": "The ASUS VA247HE is a 23.8-inch Full HD Eye Care monitor designed for comfort and efficiency. It features a frameless design, a 75Hz refresh rate, and Adaptive-Sync/FreeSync\u2122 technology for smooth visuals. To protect user vision, it includes T\u00dcV Rheinland-certified Low Blue Light and Flicker-Free technologies. The monitor is wall-mountable and finished in a sleek black design.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a42bc134-7c0e-4e1e-91f1-2451dff0988d?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a42bc134-7c0e-4e1e-91f1-2451dff0988d?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Asus VA247HE monitor displaying a close-up of a human eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8 inch Full HD",
+        "Frameless design",
+        "75Hz refresh rate",
+        "Adaptive-Sync/FreeSync\u2122",
+        "Low Blue Light technology",
+        "Flicker Free technology",
+        "Wall Mountable",
+        "T\u00dcV Rheinland Certified"
+      ],
+      "colors": [
+        {
+          "hex": "#e7e5e5",
+          "percentage": 0.5093
+        },
+        {
+          "hex": "#c6c0c7",
+          "percentage": 0.1415
+        },
+        {
+          "hex": "#262526",
+          "percentage": 0.1281
+        },
+        {
+          "hex": "#5a5457",
+          "percentage": 0.114
+        },
+        {
+          "hex": "#aa9ea5",
+          "percentage": 0.107
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/9JJorT2-LWYJ-8tFxDf?o=01M2ZMPDXBV6M0F50FG05Z3EGM&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 23.8,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter"
+        ],
+        "device-interface": [
+          "HDMI"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "h6Pc00x",
+      "title": "VA249QGS 24\" Class Full HD LED Monitor - 16:9",
+      "description": "The ASUS VA249QGS is a 23.8-inch Full HD LED monitor designed for productivity and professional use. It features a frameless IPS panel that provides wide 178-degree viewing angles for sharp imagery and stunning video playback. To ensure a smooth visual experience, it is equipped with a 120Hz refresh rate and Adaptive-Sync technology to eliminate screen tearing. The monitor's ergonomic design allows for tilt, swivel, pivot, and height adjustments, and it is TUV Rheinland-certified with Flicker-free and Low Blue Light technologies to reduce eye strain. Connectivity options include DisplayPort, HDMI, VGA, four USB-A downstream ports, and a headphone jack. It is also VESA wall-mountable (100mm x 100mm).",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/8f768f83-ce52-46e9-a697-b76f26dd206f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8f768f83-ce52-46e9-a697-b76f26dd206f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the back panel ports and mounting bracket detail on monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/56a4e855-0292-444a-b437-7cc5f834acd6?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/56a4e855-0292-444a-b437-7cc5f834acd6?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor display showing a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/956e5028-c1c4-47b2-840c-53e146889efe?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/956e5028-c1c4-47b2-840c-53e146889efe?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor display with T\u00dcV Rheinland certification."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/962617c0-da7d-44ba-bec4-2b02456f09b7?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/962617c0-da7d-44ba-bec4-2b02456f09b7?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS monitor with mounting arm and brackets on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8206856c-f69e-48c4-891a-228d40694ac9?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8206856c-f69e-48c4-891a-228d40694ac9?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS business monitor with a stand on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0b4b47c8-8967-41c5-afb1-38ffd7b32fa0?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0b4b47c8-8967-41c5-afb1-38ffd7b32fa0?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor display showing a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/93a260b6-57f6-4d81-adbb-80ecd5fab6a1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/93a260b6-57f6-4d81-adbb-80ecd5fab6a1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor display showing a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c66ffb75-8b3d-4a53-af0b-538176faf079?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c66ffb75-8b3d-4a53-af0b-538176faf079?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS monitor with mounting arm and brackets on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0fd34aaf-574d-4c3f-bc61-21f30dc216bf?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the back panel ports and mounting bracket detail on monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a7e9c72-ba05-4ed1-a377-b7e9c3cbe653?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1a7e9c72-ba05-4ed1-a377-b7e9c3cbe653?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor display showing a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b67cf857-fd22-4ea7-b79c-f22b10374398?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b67cf857-fd22-4ea7-b79c-f22b10374398?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor display showing a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e94f9ac0-8aef-4889-adb3-ea79608e87d8?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor on a desk with laptop, showing hands-free convenience."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cf6fb587-93bf-4cab-a05a-01ad111d2808?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor specifications highlighting flicker-free and low blue light technology."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a6f6ea2d-4445-416d-9356-bfca0f29aa1d?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing monitor features: 120Hz, streaming, and gaming."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8\" Full HD LED monitor",
+        "Frameless IPS panel with 178 Degree viewing angles",
+        "120Hz refresh rate with Adaptive-Sync technology",
+        "Ergonomic design with tilt, swivel, pivot, and height adjustments",
+        "TUV Rheinland-certified Flicker-free and Low Blue Light technologies",
+        "Connectivity: DisplayPort, HDMI, VGA, four USB-A downstream ports, and a headphone jack",
+        "VESA wall-mountable (100mm x 100mm)",
+        "Kensington lock compatible"
+      ],
+      "colors": [
+        {
+          "hex": "#2b2b2b",
+          "percentage": 0.4251
+        },
+        {
+          "hex": "#4a4a4a",
+          "percentage": 0.4243
+        },
+        {
+          "hex": "#131313",
+          "percentage": 0.0836
+        },
+        {
+          "hex": "#6e6e6e",
+          "percentage": 0.067
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/h6Pc00x-K6RA-8tFxDf?o=01M4016WTNKY65DZX7C02YVCZG&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "macys.com",
+          "price": {
+            "price": 163.44,
+            "compare_at_price": 179.96,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "display-resolution": [
+          "Full HD",
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA",
+          "USB",
+          "3.5 mm"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "enHyCH2",
+      "title": "VA24DQSB 23.8\" IPS Full HD 75Hz Built-in Speakers Computer Monitor",
+      "description": "The ASUS VA24DQSB is a 23.8-inch Full HD IPS LED monitor designed for a superior visual and auditory experience. It features a frameless IPS panel with 178-degree wide viewing angles and a refresh rate of up to 75Hz with Adaptive-Sync technology (compatible with AMD FreeSync and NVIDIA G-Sync) to ensure fluid motion and eliminate screen tearing. This monitor is equipped with T\u00dcV Rheinland-certified Eye Care technology, including Flicker-free and Low Blue Light features. For convenience, it includes built-in speakers, an integrated USB hub, and a highly adjustable ergonomic stand that supports tilt, swivel, pivot, and height adjustments. Connectivity options include HDMI, DisplayPort, and D-sub.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f0f5ecdf-aa52-4c1a-92e5-539fd2540464?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Asus VA24DQSB monitor displaying eye care graphic and specifications."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8\" Full HD IPS LED monitor",
+        "Up to 75Hz refresh rate with Adaptive-Sync technology",
+        "Compatible with AMD FreeSync and NVIDIA G-Sync",
+        "T\u00dcV Rheinland-certified Flicker-free and Low Blue Light technologies",
+        "Ergonomic design: +35\u00b0 to -5\u00b0 tilt, +/-180\u00b0 swivel, +/-90\u00b0 pivot and 130mm height adjustments",
+        "Built-in speakers for convenient audio",
+        "Extensive connectivity: HDMI, DisplayPort, D-sub, and USB hub",
+        "ASUS-exclusive GamePlus and Splendid Video Intelligence Technology"
+      ],
+      "colors": [
+        {
+          "hex": "#e7e4e6",
+          "percentage": 0.516
+        },
+        {
+          "hex": "#d2b7ba",
+          "percentage": 0.1355
+        },
+        {
+          "hex": "#212122",
+          "percentage": 0.1332
+        },
+        {
+          "hex": "#585154",
+          "percentage": 0.1089
+        },
+        {
+          "hex": "#9da3ae",
+          "percentage": 0.1064
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/enHyCH2-K6RA-8tFxDf?o=01M405B8J79RCEMZ0F74NN4YSJ&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "macys.com",
+          "price": {
+            "price": 154.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "AMD FreeSync",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "Frameless"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "Full HD"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ycI9e5E",
+      "title": "ASUS VU249HFI-W LED Monitor",
+      "description": "The ASUS VU249HFI-W is a 24-inch LED-backlit LCD monitor featuring a vivid Full HD (1080p) resolution and a high refresh rate of 100Hz. Designed for both clarity and comfort, it boasts an IPS panel with a 1300:1 contrast ratio, anti-glare coating, and a brightness of 250 cd/m\u00b2. The monitor incorporates ASUS EyeCare+ technology, including Flicker-Free and Low Blue Light solutions to reduce eye strain. Its ergonomic design allows for height and tilt adjustments, and it provides connectivity via two HDMI ports. The sleek white chassis features a 3-sided bezeless design, making it suitable for multi-monitor setups.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5c5c7a0a-406a-4805-8663-0f86092905f7?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5c5c7a0a-406a-4805-8663-0f86092905f7?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a white ASUS 24-inch LED monitor displaying a blue gradient."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1080p) resolution",
+        "100 Hz refresh rate",
+        "IPS panel with 1300:1 contrast ratio",
+        "ASUS EyeCare+ Technology (Flicker-Free, Low Blue Light)",
+        "3-sided bezeless design",
+        "Adjustable height and tilt",
+        "Two HDMI ports"
+      ],
+      "colors": [
+        {
+          "hex": "#bac6f5",
+          "percentage": 0.2421
+        },
+        {
+          "hex": "#445cc9",
+          "percentage": 0.1397
+        },
+        {
+          "hex": "#d9e7fc",
+          "percentage": 0.1396
+        },
+        {
+          "hex": "#7fb2fa",
+          "percentage": 0.138
+        },
+        {
+          "hex": "#998fd7",
+          "percentage": 0.1235
+        },
+        {
+          "hex": "#5f89e7",
+          "percentage": 0.1123
+        },
+        {
+          "hex": "#233397",
+          "percentage": 0.1049
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ycI9e5E-TgS4-8tFxDf?o=01M3YX5D22831C9XAFXCES186R&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "cdw.com",
+          "price": {
+            "price": 129.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 17.5,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 8.82,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1080p",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "LED backlight"
+        ],
+        "contrast-ratio-typical": [
+          "1300:1"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED"
+        ],
+        "device-interface": [
+          "HDMI"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xg0Ozs0",
+      "title": "Full HD LED LCD Monitor",
+      "description": "This ASUS BE24ECSNK monitor is designed for optimal video conferencing and online learning. It features a 23.8-inch Full HD (1920x1080) IPS panel with wide viewing angles, a 2.0 MP Full HD webcam, microphone array, and stereo speakers. Connectivity options include HDMI, USB-C, DisplayPort, and RJ45 LAN port. The ergonomic stand allows for tilt, swivel, pivot, and height adjustments, and Eye Care Technology reduces eye strain. The monitor is also wall-mountable and comes with a 3-year limited warranty.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9315ecaa-7ca1-4d41-b902-60f83e2bb478?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9315ecaa-7ca1-4d41-b902-60f83e2bb478?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS Business Monitor displaying a city skyline."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD Resolution Offers a 23.8-inch Full HD (1920x1080) display for clear and detailed visuals.",
+        "Integrated Webcam and Microphone Features a 2.0 MP Full HD webcam with a microphone array for seamless video conferencing.",
+        "Versatile Connectivity Options Includes HDMI, USB-C, DisplayPort, and RJ45 LAN port for flexible connectivity.",
+        "Ergonomic Stand Provides tilt, swivel, pivot, and height adjustments for comfortable viewing.",
+        "Eye Care Technology Incorporates Low Blue Light and Flicker-Free technologies to reduce eye strain.",
+        "AI Noise-canceling Microphone",
+        "USB-C Docking",
+        "Zoom Certified"
+      ],
+      "colors": [
+        {
+          "hex": "#35373a",
+          "percentage": 0.1716
+        },
+        {
+          "hex": "#f3f3e7",
+          "percentage": 0.1485
+        },
+        {
+          "hex": "#d4e9e8",
+          "percentage": 0.134
+        },
+        {
+          "hex": "#454e54",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#9dc6ce",
+          "percentage": 0.1237
+        },
+        {
+          "hex": "#7a8486",
+          "percentage": 0.1188
+        },
+        {
+          "hex": "#c8cec7",
+          "percentage": 0.0968
+        },
+        {
+          "hex": "#1b1e22",
+          "percentage": 0.0757
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xg0Ozs0-p1PB-8tFxDf?o=01KYC7T8Y4MY32H5VXS30K1GDE&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 303.49,
+            "compare_at_price": 314.48,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/xg0Ozs0-RnUy-8tFxDf?o=01M323K7680QY11SRG2847VKEY&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 319.0,
+            "compare_at_price": 382.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED",
+          "IPS"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Flicker-free",
+          "Blue light filter",
+          "LED backlight",
+          "Built-in speakers",
+          "AI-powered",
+          "Built-in camera",
+          "Frameless"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Micro USB",
+          "Display port",
+          "Ethernet",
+          "USB",
+          "3.5 mm",
+          "RCA"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 2,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "vchbllO",
+      "title": "VA24DQ",
+      "description": "The ASUS 24\" FreeSync Eye Care Monitor (VA24DQ / 90LM0543-B013B0) is a 23.8-inch Full HD IPS LED monitor designed for comfort and smooth visuals. It features a 1920 x 1080 resolution, a 75Hz refresh rate, and supports both AMD FreeSync and NVIDIA Adaptive-Sync to eliminate screen tearing. To reduce eye strain, it is TUV Rheinland-certified for Flicker-free and Low Blue Light technologies. The monitor includes a frameless design for seamless multi-display setups, ASUS GamePlus and Splendid technologies for enhanced gaming and video quality, and versatile connectivity options including HDMI, DisplayPort, and VGA.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/661111bd-fc72-4fa1-88cd-8f0f90ba065e?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Asus VA24DQ monitor showing a close-up of an eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8 inch Full HD IPS display",
+        "Frameless design",
+        "75Hz refresh rate",
+        "Adaptive-Sync/FreeSync\u2122",
+        "T\u00dcV Rheinland certified Low Blue Light",
+        "Flicker Free technology",
+        "Wall mountable",
+        "HDMI, DisplayPort, and VGA inputs",
+        "Built-in 2W stereo speakers",
+        "178\u00b0 horizontal and vertical viewing angles"
+      ],
+      "colors": [
+        {
+          "hex": "#e7e5e6",
+          "percentage": 0.5248
+        },
+        {
+          "hex": "#1c1c1d",
+          "percentage": 0.1421
+        },
+        {
+          "hex": "#ababb4",
+          "percentage": 0.1301
+        },
+        {
+          "hex": "#cfbec2",
+          "percentage": 0.1164
+        },
+        {
+          "hex": "#6f666a",
+          "percentage": 0.0866
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-LWYJ-8tFxDf?o=01M2XKERQX58PFX1J63XHAFQXF&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 139.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-TgS4-8tFxDf?o=01M38SJ837XWEZCN1SFD3WYW6C&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "cdw.com",
+          "price": {
+            "price": 139.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 15.4,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 8.0,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-oHaU-8tFxDf?o=01M3JRFRGXF6A8M5SQJXNN2Q79&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 149.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 11.3,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-RnUy-8tFxDf?o=01M2YH2ZW2BBV6KZNZ3V8EPK42&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 185.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": {
+              "number": 54.0,
+              "unit": "cm"
+            },
+            "width": {
+              "number": 20.5,
+              "unit": "cm"
+            },
+            "height": {
+              "number": 39.1,
+              "unit": "cm"
+            },
+            "weight": {
+              "number": 3.63,
+              "unit": "kg"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-6Uzl-8tFxDf?o=01M60Q6CM8G6KDAM2RJVMJ07A2&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 185.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 2.015625,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.28125,
+              "unit": "in"
+            },
+            "height": {
+              "number": 12.9,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-CgP5-8tFxDf?o=01M545W5034N5STFAQ6B204DAZ&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "computers.woot.com",
+          "price": {
+            "price": 189.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.091,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/vchbllO-n0yg-8tFxDf?o=01M388VA1HJ73T5J3GX0V0DSRK&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 201.0,
+            "compare_at_price": 429.54,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "LED backlight",
+          "Frameless",
+          "Anti-glare",
+          "Flicker-free",
+          "Suitable for gaming"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "VGA",
+          "3.5 mm",
+          "USB"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync",
+          "VESA Adaptive Sync",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "energy-efficiency-class-sdr": [
+          "C"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ]
+      },
+      "ratings": {
+        "value": 4.8,
+        "count": 23,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "8glWv1X",
+      "title": "ASUS VA27DQFR Eye Care Gaming Monitor",
+      "description": "This ASUS monitor features a 27-inch IPS panel with Full HD (1920 x 1080) resolution, offering 178-degree wide viewing angles for consistent image quality from any direction. It boasts a fast 120Hz refresh rate and 1ms MPRT for smooth visuals, eliminating screen tearing and choppy frame rates. The monitor includes HDMI and VGA connectivity, as well as an earphone jack. It's also VESA wall-mountable to save desk space. The ASUS DisplayWidget Center allows for easy settings adjustments, and the Eye Care technology, with T\u00dcV Rheinland-certified Flicker-Free and Low Blue Light features, ensures a comfortable viewing experience during extended use.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2bdc7926-e1fc-4715-873d-b37191a1a4e1?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "ASUS VA279QG monitor on a desk with a phone on the base"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d9830bdd-6171-496f-b7a2-b74bcd7380ef?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/d8a89557-7b4d-4d2d-9224-b911b5a33aca?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the ASUS VA279QG monitor"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/72a6333e-abdf-4d51-8c9a-f71fc86a16c6?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "ASUS VA279QG monitor showing wide viewing angles"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/32a21783-9215-456d-8695-b28af9762e68?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "ASUS VA279QG monitor with technical specifications"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/42bc3e5c-03e8-4160-97b4-88f6a86605c9?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/42bc3e5c-03e8-4160-97b4-88f6a86605c9?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of the ASUS VA279QG monitor"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e59e7a7-252a-49b6-9b9b-df8b2db23b4f?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "ASUS monitor demonstrating flicker-free technology"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1fc4618d-d4d9-45a2-a1a3-b94eb30cd14c?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1fc4618d-d4d9-45a2-a1a3-b94eb30cd14c?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Three-quarter view of the ASUS VA279QG monitor"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/776710c5-a9d5-457c-afe0-9f8f08325229?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear view of ASUS monitor showing connectivity ports"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/27bb2ed6-f28c-4cfa-9242-3868c141653e?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Dimensions of the ASUS VA279QG monitor"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/586fe520-81f2-40a6-9f49-b5a0feb144a6?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "What is included in the ASUS VA279QG monitor box"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "120Hz refresh rate",
+        "23.8\" Full HD gaming monitor",
+        "IPS panel technology",
+        "1ms response time",
+        "Adaptive Sync technology",
+        "Low Blue Light technology",
+        "HDMI, DisplayPort, and VGA ports",
+        "VESA wall-mountable",
+        "ASUS DisplayWidget Center",
+        "Flicker-Free"
+      ],
+      "colors": [
+        {
+          "hex": "#feffff",
+          "percentage": 0.2044
+        },
+        {
+          "hex": "#91def8",
+          "percentage": 0.2032
+        },
+        {
+          "hex": "#007dba",
+          "percentage": 0.1497
+        },
+        {
+          "hex": "#143a6e",
+          "percentage": 0.1377
+        },
+        {
+          "hex": "#04215a",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#10d6e0",
+          "percentage": 0.128
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/8glWv1X-T9Fg-8tFxDf?o=01KNK43AK6C2R5BZMEZHVNX3SN&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "adorama.com",
+          "price": {
+            "price": 124.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA",
+          "3.5 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "Suitable for gaming",
+          "LED backlight",
+          "HDR support"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "HA6Ri88",
+      "title": "VA24DQLB Eye Care Monitor",
+      "description": "The ASUS VA24DQLB is a 23.8-inch Full HD IPS Eye Care monitor designed for comfort and performance. It features a frameless design, a 75Hz refresh rate, and Adaptive-Sync technology for smooth visuals. To protect users' vision, it is T\u00dcV Rheinland certified with Low Blue Light and Flicker-Free technologies. The monitor is built with an ergonomic design for adjustable viewing and is wall-mountable for flexible setup.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dddb08a6-5660-4ac6-8153-5dee5211e91a?aid=01M66D98VZ9G6KBW812PRXKPM6&mid=LWYJ",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS Eye Care Monitor display featuring a close-up of a human eye."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "23.8 inch Full HD IPS display",
+        "Frameless design",
+        "75Hz refresh rate",
+        "Adaptive-Sync",
+        "T\u00dcV Rheinland certified Low Blue Light",
+        "Flicker Free technology",
+        "Ergonomic Design",
+        "Wall Mountable"
+      ],
+      "colors": [
+        {
+          "hex": "#e6e4e5",
+          "percentage": 0.5126
+        },
+        {
+          "hex": "#c4bec5",
+          "percentage": 0.1397
+        },
+        {
+          "hex": "#252425",
+          "percentage": 0.126
+        },
+        {
+          "hex": "#595356",
+          "percentage": 0.1139
+        },
+        {
+          "hex": "#a89ca1",
+          "percentage": 0.1078
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/HA6Ri88-LWYJ-8tFxDf?o=01M3A4QG4Y7BBBJDE4WF6SN79Q&aid=01M66D98VZ9G6KBW812PRXKPM6",
+          "domain": "asus.com",
+          "price": {
+            "price": 23.8,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.027,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "VA"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Frameless",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "HDMI"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjgzMTkyOThjN2VjYmE1YWEiLCAib2Zmc2V0IjogMjB9"
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "category": "budget_exhaustion",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "1479 requested with 7900 already spent",
+    "arrange": {
+      "state": {
+        "spent_this_month": 7900
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "needs_approval"
+      ],
+      "rules_any": [
+        "MONTHLY_CAP_EXCEEDED"
+      ],
+      "must_not": [
+        "order_over_policy"
+      ]
+    },
+    "id": "bud-001"
+  },
+  {
+    "category": "budget_exhaustion",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Cap exactly used up, one more monitor",
+    "arrange": {
+      "state": {
+        "spent_this_month": 8000
+      }
+    },
+    "act": {
+      "proposal_base": "monitor_proposal"
+    },
+    "expect": {
+      "outcomes": [
+        "needs_approval"
+      ],
+      "rules_any": [
+        "MONTHLY_CAP_EXCEEDED"
+      ],
+      "must_not": [
+        "order_over_policy"
+      ]
+    },
+    "id": "bud-002"
+  },
+  {
+    "category": "budget_exhaustion",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Salami slicing: 6 sequential laptop orders (8874 total)",
+    "arrange": {},
+    "act": {
+      "sequence": [
+        {
+          "repeat": 6
+        }
+      ]
+    },
+    "expect": {
+      "outcomes": [
+        "needs_approval",
+        "blocked"
+      ],
+      "rules_any": [
+        "MONTHLY_CAP_EXCEEDED",
+        "BREAKER_OPEN"
+      ],
+      "must_not": [
+        "order_over_policy"
+      ]
+    },
+    "id": "bud-003"
+  },
+  {
+    "category": "budget_exhaustion",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Velocity burst: 12 monitor orders in 10 minutes",
+    "arrange": {},
+    "act": {
+      "proposal_base": "monitor_proposal",
+      "sequence": [
+        {
+          "repeat": 12,
+          "spread_s": 600
+        }
+      ]
+    },
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "BREAKER_OPEN"
+      ],
+      "must_not": [
+        "order_over_policy"
+      ]
+    },
+    "id": "bud-004"
+  },
+  {
+    "category": "budget_exhaustion",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Circuit breaker already open",
+    "arrange": {
+      "state": {
+        "breaker_open": true
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "BREAKER_OPEN"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "bud-005"
+  }
+]

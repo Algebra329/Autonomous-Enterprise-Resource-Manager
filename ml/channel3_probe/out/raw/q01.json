@@ -1,0 +1,3914 @@
+{
+  "products": [
+    {
+      "id": "3afSDZU",
+      "title": "Apple 13\" MacBook Air (M3, Starlight)",
+      "description": "The Apple 13\" MacBook Air (Early 2024) in Starlight features the powerful M3 8-core chip with a 10-core GPU and a 16-core Neural Engine, delivering significant performance boosts for creative apps and games. It is equipped with 16GB of unified RAM and a 512GB SSD. The laptop boasts a 13.6\" Liquid Retina Display with a resolution of 2560 x 1664, offering vivid colors and sharp detail. Designed for portability, it weighs only 2.73 lbs and is 0.44\" thin, featuring a durable 100% recycled aluminum enclosure. Additional features include a backlit Magic Keyboard, Touch ID sensor, Wi-Fi 6E, Bluetooth 5.3, and two Thunderbolt/USB4 ports.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cdd3bc3e-e625-4334-9453-9a78d87e12ed?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cdd3bc3e-e625-4334-9453-9a78d87e12ed?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air laptop screen displaying abstract yellow and black swirl pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3dcfd24c-7cb5-4c46-a06f-e8e3ef6b1d01?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3dcfd24c-7cb5-4c46-a06f-e8e3ef6b1d01?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air laptop screen displaying abstract yellow and black swirl pattern."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Apple M3 8-Core Chip with 10-Core GPU and 16-Core Neural Engine",
+        "16GB Unified RAM and 512GB SSD",
+        "13.6\" Liquid Retina Display (2560 x 1664 resolution)",
+        "100% recycled aluminum enclosure",
+        "Backlit Magic Keyboard and Touch ID sensor",
+        "Wi-Fi 6E and Bluetooth 5.3 connectivity",
+        "Two Thunderbolt / USB4 ports",
+        "Full HD 1080p FaceTime Camera"
+      ],
+      "colors": [
+        {
+          "hex": "#f1b215",
+          "percentage": 0.1844
+        },
+        {
+          "hex": "#342105",
+          "percentage": 0.1522
+        },
+        {
+          "hex": "#090502",
+          "percentage": 0.1316
+        },
+        {
+          "hex": "#f9e483",
+          "percentage": 0.121
+        },
+        {
+          "hex": "#f5c73a",
+          "percentage": 0.119
+        },
+        {
+          "hex": "#573809",
+          "percentage": 0.1132
+        },
+        {
+          "hex": "#221102",
+          "percentage": 0.1123
+        },
+        {
+          "hex": "#d29016",
+          "percentage": 0.0662
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3afSDZU-oHaU-8tFxDf?o=01M3474GM0TA11W8JSZE1PGZY4&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 1199.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 12.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.46,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.44,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.73,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Scissor switch"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Quiet operation"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-family": [
+          "Apple M3"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "memory-technology": [
+          "DRAM"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WsnqPM0",
+      "title": "MacBook Air 13\"",
+      "description": "The Apple MacBook Air 13-inch is a high-performance, portable laptop powered by the M5 chip with a 10-core CPU and 8-core GPU. Designed for efficiency and AI workloads, it features 16 GB of unified memory, a 512 GB SSD, and a brilliant 13.6-inch Liquid Retina display supporting one billion colors. This model comes in a sleek Midnight aluminum finish and offers up to 18 hours of battery life, making it ideal for demanding workflows on the go. It includes a 12MP Center Stage camera, a three-mic array, and a four-speaker sound system with Spatial Audio and Dolby Atmos.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6fbbd9bf-bcb7-45ee-885c-375ca5572c78?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6fbbd9bf-bcb7-45ee-885c-375ca5572c78?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Apple MacBook Air with blue gradient screen on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a4f8c4cf-e405-4633-b36b-fa8703913d7e?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a4f8c4cf-e405-4633-b36b-fa8703913d7e?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air keyboard and palm rest in dark gray."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/23aa5366-7247-4925-a1b6-0631e2a16deb?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/23aa5366-7247-4925-a1b6-0631e2a16deb?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Color options for the MacBook Air laptop: Sky Blue, Silver, Starlight, Midnight."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c351bcda-0eb3-475f-aa4f-51d7fb66d2d1?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic showing the M5 chip and up to 18 hours of battery life."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1e9fc93e-0f98-4ab3-b499-176606af7293?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air display showing a vibrant scene on a pink background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ecfb9a6b-0eb3-4147-a571-4f0ca22a3658?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of MacBook Air ports showing Thunderbolt 4 and MagSafe."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fa296731-9e2d-4c3b-9519-318a2f635ce4?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a MacBook Air in a warm room."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cae32213-b017-4831-93ad-ea4696cba96f?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic showing M5 chip built for AI and 32GB unified memory."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bf9fd2ec-40fc-42df-9fb6-f3e41aa4630b?aid=01M66D85D83X8WB9AF1STAE89B&mid=yqJJ",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "What's in the box for the MacBook Air: laptop, power adapter, cable."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "M5 chip with 10-core CPU and 8-core GPU",
+        "16 GB Unified Memory",
+        "512 GB SSD storage",
+        "13.6-inch Liquid Retina display",
+        "Up to 18 hours of battery life",
+        "12MP Center Stage camera",
+        "Two Thunderbolt 4 ports",
+        "Wi-Fi 7 and Bluetooth 6.0",
+        "Apple Intelligence support",
+        "MacOS"
+      ],
+      "colors": [
+        {
+          "hex": "#091023",
+          "percentage": 0.2621
+        },
+        {
+          "hex": "#020307",
+          "percentage": 0.1355
+        },
+        {
+          "hex": "#2959a3",
+          "percentage": 0.1273
+        },
+        {
+          "hex": "#4c86c9",
+          "percentage": 0.126
+        },
+        {
+          "hex": "#90bfe2",
+          "percentage": 0.1217
+        },
+        {
+          "hex": "#061c52",
+          "percentage": 0.1171
+        },
+        {
+          "hex": "#1a386e",
+          "percentage": 0.1103
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WsnqPM0-yqJJ-8tFxDf?o=01M41KCTYW1BJPKDZBTV0S0YD8&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "microcenter.com",
+          "price": {
+            "price": 1169.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.46,
+              "unit": "in"
+            },
+            "width": {
+              "number": 11.97,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.44,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.7,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/WsnqPM0-TgS4-8tFxDf?o=01M42PA8XNE1N0R9EHK95XNP13&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 1299.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.46,
+              "unit": "in"
+            },
+            "width": {
+              "number": 11.97,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.44,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.73,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "processor-cores": [
+          "Deca",
+          "Multi"
+        ],
+        "processor-family": [
+          "Apple M5",
+          "Apple M3"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 30,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "kh27geT",
+      "title": "Mosiso 5in1 Kit For Macbook Air 13-inch M5 M4 M3 M2 2022-2026, Hard Shell, Sleeve Bag, Keyboard Skin, Webcam Cover & Screen Film",
+      "description": "A comprehensive 5-in-1 protective kit for MacBook Air 13-inch (M2, M3, M4, M5 models 2022-2026), featuring a Water Blue Marble design. The bundle includes a hard shell case, a shockproof sleeve bag with a handle and accessory pocket, a keyboard skin, a webcam cover, and a screen protector film to provide 360-degree protection against spills, scratches, and impact.",
+      "brands": [
+        {
+          "id": "qkhk",
+          "name": "MOSISO"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/27fb60de-2e43-491c-8ac7-22ceeb2c0a58?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/27fb60de-2e43-491c-8ac7-22ceeb2c0a58?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Water blue marble laptop skin and keyboard cover with mouse."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f7370918-9535-4193-ba83-5327758e521c?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Compatibility chart for M5, M4, M3, M2 MacBook models."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4cbab7a-c850-4cbf-8a6b-900a278fbe13?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing 360\u00b0 protection and small pockets for laptop safety."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0badcb6a-49fb-4919-b67a-bd5539e02923?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Three layers of protection for the laptop case: Polyester, sponge, and cushion."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f1128fce-d7b6-444d-a492-ef4e4ded4bc0?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Exterior view of the hard shell bag with handle and material details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/54f5e969-c271-4dd6-b05a-db1e11668923?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/54f5e969-c271-4dd6-b05a-db1e11668923?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Woman modeling the blue marble laptop bag."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2fa41a95-0745-416e-869c-0304cd5dba28?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Instructions on how to install the mosiso hard case."
+        }
+      ],
+      "category": {
+        "slug": "computer-covers-skins",
+        "title": "Computer Covers & Skins",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "polyester"
+      ],
+      "key_features": [
+        "Designed exclusively for MacBook Air 13.6 inch M2 M3 M4 M5 2022-2026 (models: A2681 A3113 A3240 A3449)",
+        "Protective sleeve features 360-degree shock protection and lightweight polyester construction",
+        "Includes a convenient front pocket for accessories",
+        "Complete set includes hard shell case, sleeve bag, keyboard cover, screen protector, and webcam cover sticker",
+        "Sleeve external dimensions: 13.98 x 9.84 x 0.79 inches"
+      ],
+      "colors": [
+        {
+          "hex": "#a4b5d7",
+          "percentage": 0.8099
+        },
+        {
+          "hex": "#d3daec",
+          "percentage": 0.1009
+        },
+        {
+          "hex": "#767f9f",
+          "percentage": 0.0891
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kh27geT-p1PB-8tFxDf?o=01M423YFRDJDD9PTE3PWAE4W7W&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 33.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Air Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/9927958b-100a-4bcb-8c93-bba77a648d74",
+                "product_id": "XjvO8ik"
+              },
+              {
+                "label": "Antique Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/19fd19f4-d0fc-440b-bd8c-778c7fe40ab9",
+                "product_id": "RwwQ8mV"
+              },
+              {
+                "label": "Baby Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/70bd5950-fbe4-4fe5-b5a7-f2f579c42d1c",
+                "product_id": "mlR8p4d"
+              },
+              {
+                "label": "Beige",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/0bce4ac1-f8be-49fd-a0e0-0f27cd9fad43",
+                "product_id": "h6hgxdg"
+              },
+              {
+                "label": "Beige Brown",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/eec406aa-7042-46f2-87c6-ed2bbd7e42aa",
+                "product_id": "6hjqLIw"
+              },
+              {
+                "label": "Black",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/837380ff-2a71-44b6-ab49-3e8def420940",
+                "product_id": "Z3L9NIZ"
+              },
+              {
+                "label": "Bright Rose",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/1af3d569-0754-46cf-af23-1ac9b11a427d",
+                "product_id": "S3LkOc2"
+              },
+              {
+                "label": "Bronze Brown",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/94b351e7-5104-45cf-baf1-f4b37a078082",
+                "product_id": "Gnl0qgw"
+              },
+              {
+                "label": "Burgundy",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/fd49b6f1-8420-4d65-9daf-0606192bf7ea",
+                "product_id": "LEQKHkU"
+              },
+              {
+                "label": "Caramel Brown",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/60ad92be-d4bc-4dfa-b230-5d0fcfcf4872",
+                "product_id": "ud5Q1p2"
+              },
+              {
+                "label": "Chalk Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/067c81da-1d84-42eb-bda4-cc51c619f47d",
+                "product_id": "bbUp1Ka"
+              },
+              {
+                "label": "Creative Wave Marble",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/62a93303-2338-4f8b-ade1-1b5ca1a7c075",
+                "product_id": "Rghp7XW"
+              },
+              {
+                "label": "Dusty Rose",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c4805c87-6ee2-4f04-819d-ef7403271ba5",
+                "product_id": "GxjLe3b"
+              },
+              {
+                "label": "Emerald Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/430a32f9-3f95-4510-bf44-18773e9287df",
+                "product_id": "FBjwBte"
+              },
+              {
+                "label": "Green Peony",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/09e77c71-6275-447b-88e7-56f7378bfcc6",
+                "product_id": "Q6uaGDw"
+              },
+              {
+                "label": "Imperial Purple",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c6bbeb29-2f36-477f-ae58-80d275348f80",
+                "product_id": "iaVSzzv"
+              },
+              {
+                "label": "Lavender Gray",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/658be3af-aec6-4771-9af0-7fca08c1604b",
+                "product_id": "8I2IpzD"
+              },
+              {
+                "label": "Midnight",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c7876565-1605-4261-b267-640659a5dbac",
+                "product_id": "86lYUdV"
+              },
+              {
+                "label": "Navy Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/deac55b1-0689-4bed-aed4-f1a90e8b23ff",
+                "product_id": "YmKyQZ5"
+              },
+              {
+                "label": "Peacock Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/12eb0143-35c9-4895-85bf-b706fbcec1d6",
+                "product_id": "D5zKzgd"
+              },
+              {
+                "label": "Plum Purple",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f39591c9-e283-40f0-a6bc-e85c48baff02",
+                "product_id": "aC3gRbD"
+              },
+              {
+                "label": "Purple",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/59fc6a9a-8825-4a37-b967-5d1277741777",
+                "product_id": "fDmJk9R"
+              },
+              {
+                "label": "Red",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/1fd136ee-92ed-4ac9-89eb-d8f725a38d25",
+                "product_id": "3DK1vnN"
+              },
+              {
+                "label": "Steel Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/77060716-f03c-4be1-a944-986364c8be44",
+                "product_id": "QNt0nQd"
+              },
+              {
+                "label": "Stone Gray",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/19093e1a-d70a-4e1c-a0a3-57603bf4fda2",
+                "product_id": "dnl3mTR"
+              },
+              {
+                "label": "Water Blue Marble",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/27fb60de-2e43-491c-8ac7-22ceeb2c0a58",
+                "product_id": "kh27geT"
+              },
+              {
+                "label": "White Marble",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/9f6f5de9-f2a4-4eb7-a0a4-143ba31f013f",
+                "product_id": "WR6h4e6"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Water Blue Marble"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "durability-features": [
+          "Shockproof"
+        ],
+        "material": [
+          "Polyester"
+        ],
+        "closure-type": [
+          "Zipper"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "MpB0Zzy",
+      "title": "Mosiso 5in1 Kit For Macbook Air 13-inch M5 M4 M3 M2 2022-2026",
+      "description": "A comprehensive 5-in-1 protective kit for the MacBook Air 13-inch (M2, M3, M4, M5 models 2022-2026). This bundle includes a hard shell case, a 360-degree shockproof polyester sleeve with a front accessory pocket, a keyboard cover, a screen protector, and a webcam privacy cover sticker to safeguard the device from spills, scratches, and unauthorized camera access.",
+      "brands": [
+        {
+          "id": "qkhk",
+          "name": "MOSISO"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c408d307-18ee-4284-be52-765f954da131?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c408d307-18ee-4284-be52-765f954da131?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Pastel blue laptop, sleeve, keyboard skin, webcam cover, and screen film set."
+        }
+      ],
+      "category": {
+        "slug": "computer-covers-skins",
+        "title": "Computer Covers & Skins",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "polyester"
+      ],
+      "key_features": [
+        "Designed specifically for MacBook Air 13.6 inch (M2 M3 M4 M5 2022-2026, models A2681 A3113 A3240 A3449)",
+        "360-degree shockproof protective sleeve with handle and accessory pocket",
+        "Complete protection set including keyboard cover, screen protector, and webcam cover",
+        "Lightweight polyester construction for the sleeve",
+        "Hard shell case dimensions: 12 x 8.5 x 0.46 inch"
+      ],
+      "colors": [
+        {
+          "hex": "#cad1ea",
+          "percentage": 1.0
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/MpB0Zzy-p1PB-8tFxDf?o=01M423RKKDE4C6NA2Y7TY1ZDFC&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 38.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 0.79,
+              "unit": "in"
+            },
+            "width": {
+              "number": 13.98,
+              "unit": "in"
+            },
+            "height": {
+              "number": 9.84,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Sage Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/48bf75df-ff02-4c16-9743-e3d6d76f0226",
+                "product_id": "3RI3iuT"
+              },
+              {
+                "label": "Royal Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c8753aa8-b8e6-466c-a0e9-a677766ed029",
+                "product_id": "lnePNab"
+              },
+              {
+                "label": "Pastel Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c408d307-18ee-4284-be52-765f954da131",
+                "product_id": "MpB0Zzy"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Pastel Blue"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "material": [
+          "Polyester"
+        ],
+        "durability-features": [
+          "Shockproof"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "AUu4siA",
+      "title": "ProDock Solo USB-C Docking Station for MacBook Air 13-Inch M2, M3, M4 & M5",
+      "description": "The Brydge ProDock Solo is an aluminum vertical USB-C docking station designed specifically for MacBooks. It transforms your workspace into a focused single-display setup by holding the laptop upright to save desk space. The dock supports one external display up to 4K at 60Hz and provides up to 90W of power delivery to charge the connected MacBook. It significantly expands connectivity with 3 USB-A ports, 2 USB-C 3.1 ports (up to 10 Gbps), Gigabit Ethernet, an SD 3.0 card reader, and a 3.5mm audio jack. Additionally, it features a 10-watt MagSafe-compatible wireless charging area for compatible iPhones. This plug-and-play device requires no driver installation.",
+      "brands": [
+        {
+          "id": "87af",
+          "name": "Brydge"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e4bb5c89-9635-40a0-ba4b-776bd7b8b5d6?aid=01M66D85D83X8WB9AF1STAE89B&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4bb5c89-9635-40a0-ba4b-776bd7b8b5d6?aid=01M66D85D83X8WB9AF1STAE89B&mid=ZQQu",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black USB-C docking station with ports and connectivity features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a652bdb2-3686-4cda-bce6-e2717e24e181?aid=01M66D85D83X8WB9AF1STAE89B&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a652bdb2-3686-4cda-bce6-e2717e24e181?aid=01M66D85D83X8WB9AF1STAE89B&mid=ZQQu",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black USB-C docking station viewed from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Designed for MacBook Air 13-inch models powered by Apple M2 through M5 chips",
+        "Supports single 4K external display",
+        "Up to 90W Power Delivery to charge compatible MacBooks through the dock",
+        "Expands connectivity for peripherals, displays, storage, and networking accessories",
+        "Vertical docking station keeps a MacBook upright to reclaim desk space",
+        "USB-C 3.1 supports data transfer up to 10 gigabits per second",
+        "Adds 3 USB-A ports and 2 USB-C ports for desktop peripherals",
+        "Gigabit Ethernet supports a wired network connection",
+        "SD 3.0 card reader and 3.5 mm audio jack expand everyday connectivity",
+        "10-watt MagSafe-compatible wireless charging supports compatible iPhone charging"
+      ],
+      "colors": [
+        {
+          "hex": "#4b4b4b",
+          "percentage": 0.6626
+        },
+        {
+          "hex": "#303030",
+          "percentage": 0.1266
+        },
+        {
+          "hex": "#151515",
+          "percentage": 0.1083
+        },
+        {
+          "hex": "#8c8c8d",
+          "percentage": 0.1025
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/AUu4siA-ZQQu-8tFxDf?o=01M3VVPEEBJSG272QDC3V9M1CE&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "focuscamera.com",
+          "price": {
+            "price": 229.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/AUu4siA-p1PB-8tFxDf?o=01M4EDAP90ADQSQQHSC7A7JXKB&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 229.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "material": [
+          "Aluminum"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "USB",
+          "Ethernet",
+          "HDMI",
+          "SD card",
+          "TRS",
+          "Wireless charging"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "J2QYr3O",
+      "title": "Mosiso Case for Macbook Air 13 Inch (202-2026)",
+      "description": "A protective hard shell case for MacBook Air 13-inch (M2, M3, M4, M5 models released 2022-2026). This Sky Blue semi-transparent case features a lightweight snap-on design that ensures full access to all ports and buttons while providing airflow for heat dissipation. The bundle includes a matching keyboard cover and screen protector to guard against spills, dust, and scratches.",
+      "brands": [
+        {
+          "id": "qkhk",
+          "name": "MOSISO"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/8f30f152-551f-4854-811b-2d86f9eccab5?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8f30f152-551f-4854-811b-2d86f9eccab5?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Blue MacBook with a clear case next to charging cables and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ebe41980-7b94-4961-bd91-cb38682d1c53?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Comparison chart of compatible and incompatible MacBook models."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/24d3b7d3-0649-41fe-8d2c-749bfef224e3?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Instructions on how to install a hard case for a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9dafb758-ef26-40d4-bb76-f9900d4a72c7?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a sleek laptop showing precise cut-out design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/03a07315-e5c2-454c-aa14-73d836023e64?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver MacBook laptop shown from above on a white desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e439ab7a-275e-4a8f-9b15-304b2052fb5f?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using a blue MacBook while relaxing on a bed."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Designed for MacBook Air 13 inch M2, M3, M4, M5 (models A3449, A3240, A3113, A2681)",
+        "Lightweight, snap-on design for easy installation and removal",
+        "Semi-transparent finish for everyday protection against scrapes and scratches",
+        "Includes keyboard cover and screen protector for comprehensive protection",
+        "Precise cut-outs for full access to ports, buttons, and features",
+        "Designed to allow airflow for heat dissipation"
+      ],
+      "colors": [
+        {
+          "hex": "#95adc4",
+          "percentage": 0.5531
+        },
+        {
+          "hex": "#b2c8db",
+          "percentage": 0.3879
+        },
+        {
+          "hex": "#6a7888",
+          "percentage": 0.059
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/J2QYr3O-p1PB-8tFxDf?o=01M420Q1VM3EKDC01624HH77W0&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 20.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 0.46,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 8.5,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Air Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/e2bae25d-0146-4ac7-b91f-87e6f6f7aead",
+                "product_id": "nGAcYhY"
+              },
+              {
+                "label": "Antique Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/73094926-23d6-44c2-826e-fb3c47c1ffbc",
+                "product_id": "dUQxdAs"
+              },
+              {
+                "label": "Aquamarine",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/a9480b4e-6f6d-4415-b4f9-da31e013e319",
+                "product_id": "v7k7L83"
+              },
+              {
+                "label": "Baby Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/77d8ea7d-eb5e-48ca-9c5e-80befc48e182",
+                "product_id": "MdVcMxJ"
+              },
+              {
+                "label": "Bright Rose",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/b7f2143a-5dd4-4263-abc0-d93868331b5a",
+                "product_id": "i7IZBwc"
+              },
+              {
+                "label": "Burgundy",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/4b5402f1-39ee-4170-849f-752b2f44e3ce",
+                "product_id": "AgILUQc"
+              },
+              {
+                "label": "Crystal Clear",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/9ecd1d35-f2fb-4fcc-99c4-b9f3aa1da77e",
+                "product_id": "rFu8tyl"
+              },
+              {
+                "label": "Crystal Midnight",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f4939ac4-3040-4bec-9a29-4cf93b8077c9",
+                "product_id": "LYnF4Ba"
+              },
+              {
+                "label": "Crystal Sky Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/dde22928-16df-4993-b600-ba37d9ef8b76",
+                "product_id": "poh6jUx"
+              },
+              {
+                "label": "Crystal Starlight",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/ed0d7fdd-c33b-44ed-8fcf-87ddb70c7949",
+                "product_id": "pKqkITb"
+              },
+              {
+                "label": "Dusty Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/1099e026-b6f2-42d9-898d-a1f87a5175e0",
+                "product_id": "LOp9iiP"
+              },
+              {
+                "label": "Dusty Rose",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/77c5a050-7293-4b14-83fe-0b389192bb61",
+                "product_id": "i0tVkl4"
+              },
+              {
+                "label": "Frost",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/76d076a8-7f38-490b-8e05-d81a865fc3ed",
+                "product_id": "oq4iexK"
+              },
+              {
+                "label": "Peach Fuzz",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/61f07f1d-cea4-4897-8326-4d831f326080",
+                "product_id": "qG5Aisr"
+              },
+              {
+                "label": "Purple",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/d43a70d6-27b8-42f2-88c6-3f9b4bbbc231",
+                "product_id": "xJ0nAVB"
+              },
+              {
+                "label": "Sage Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/deebf8fa-f725-4bb8-9708-8238504013a7",
+                "product_id": "txcBJHU"
+              },
+              {
+                "label": "Slate Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/980acf17-a620-4b05-bb5a-1f00c16e4e58",
+                "product_id": "VHpkGPv"
+              },
+              {
+                "label": "Sky Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/8f30f152-551f-4854-811b-2d86f9eccab5",
+                "product_id": "J2QYr3O"
+              },
+              {
+                "label": "Sky Blue Clear",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/d231a3eb-ad1e-4578-b708-a405468913ff",
+                "product_id": "zBazm58"
+              },
+              {
+                "label": "Teal Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/26e6bd1e-30b0-4ff4-9360-fb6a927b3ecd",
+                "product_id": "My5FkmX"
+              },
+              {
+                "label": "White",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/07b1a865-7b4d-46d5-8bf4-ab4b4845a9e5",
+                "product_id": "XlTZ7po"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Sky Blue"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "case-transparency-level": [
+          "Semi-Clear"
+        ],
+        "closure-type": [
+          "Snap"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "1oTAcRR",
+      "title": "Mosiso Case for MacBook Air 13 Inch M5 M4 M3 M2 (2022-2026)",
+      "description": "A protective hard shell case for the MacBook Air 13 inch (2022-2026 models including M2, M3, M4, and M5 chips). This lightweight, snap-on case in Teal Green features a semi-transparent finish and is designed to provide full access to all ports and buttons while facilitating heat dissipation. The bundle includes a keyboard cover and a screen protector to safeguard the device against spills, dust, and scratches.",
+      "brands": [
+        {
+          "id": "qkhk",
+          "name": "MOSISO"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/85c0d621-ed98-4b3f-a4be-09654aa88de7?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Teal green laptop case with charging accessories."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2cb7d3c9-d1ac-4e2b-b34c-5dab4508af75?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Compatibility chart for Mosiso MacBook case models."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0053430d-2f32-4678-995f-b88b07650176?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Instructions on how to install the Mosiso hard case."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/34ffe99e-c61f-45d8-afeb-35a083c3b2ba?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing different laptop viewing angles with case."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/607c5222-dcf0-45d2-8bcd-030a05e021bb?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/607c5222-dcf0-45d2-8bcd-030a05e021bb?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "flat_lay",
+          "alt_text": "Flat lay showing components and fitted case for MacBook."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aa1d47f8-2bb3-4cbf-8249-68d998949666?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a laptop with a teal green case."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Designed exclusively for MacBook Air 13 inch (M2, M3, M4, M5) models A3449, A3240, A3113, and A2681",
+        "Lightweight, snap-on design for easy installation and removal",
+        "Semi-transparent finish allows for heat dissipation and full access to ports",
+        "Includes keyboard cover and screen protector for comprehensive protection",
+        "Does not affect Wi-Fi performance"
+      ],
+      "colors": [
+        {
+          "hex": "#686868",
+          "percentage": 0.2619
+        },
+        {
+          "hex": "#252525",
+          "percentage": 0.2517
+        },
+        {
+          "hex": "#a5a5a5",
+          "percentage": 0.1519
+        },
+        {
+          "hex": "#434343",
+          "percentage": 0.118
+        },
+        {
+          "hex": "#898989",
+          "percentage": 0.1094
+        },
+        {
+          "hex": "#e6e6e6",
+          "percentage": 0.107
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1oTAcRR-p1PB-8tFxDf?o=01M423XFRAVZ5TPV689MZRJ4T2&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 22.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 0.46,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 8.5,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Air Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/1ead19e1-25b9-431a-9c87-fc39336e313b",
+                "product_id": "hhy2Ch2"
+              },
+              {
+                "label": "Aqua Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/929b62d4-e017-43c1-a4aa-2a24c972fdab",
+                "product_id": "LKqHAH3"
+              },
+              {
+                "label": "Army Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/987e3156-8396-4f68-9a33-f6ebe7c261f8",
+                "product_id": "yeMQ7WG"
+              },
+              {
+                "label": "Baby Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/38a838af-fa81-4de5-bda8-b4e5bea9d082",
+                "product_id": "6CemTBT"
+              },
+              {
+                "label": "Baby Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/e9f614c4-86d1-4370-a68b-b03d96360d5d",
+                "product_id": "cdZHp1I"
+              },
+              {
+                "label": "Beige",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/7e485db8-4851-46ab-ad7b-0350525e02f7",
+                "product_id": "Ojcj7sL"
+              },
+              {
+                "label": "Bright Rose",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/081712ad-2727-443e-9052-d142d188020e",
+                "product_id": "BL6CN2Y"
+              },
+              {
+                "label": "Bronze Brown",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/3e4c6ae9-6ed5-4613-8118-99a4dc5e531c",
+                "product_id": "3DOl1W4"
+              },
+              {
+                "label": "Burgundy",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/71855c20-1e3d-4f82-8148-0fb54baae73b",
+                "product_id": "MWb8erg"
+              },
+              {
+                "label": "Caramel Brown",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/84ad8f64-7f12-4f01-9112-cdf27c155d55",
+                "product_id": "ldWFxnT"
+              },
+              {
+                "label": "Chartreuse",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/74684915-9d43-43ed-94a5-64d770d2ce9d",
+                "product_id": "ycycj6y"
+              },
+              {
+                "label": "Chalk Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/012ed5f0-e1f9-4fdc-8428-c0c620628448",
+                "product_id": "3r9fTi2"
+              },
+              {
+                "label": "Crystal Clear",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/61d1b746-0ebc-4d44-b69c-faede2e4cdc7",
+                "product_id": "hQEoMoE"
+              },
+              {
+                "label": "Crystal Sky Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/6b0d76a0-6e98-440c-b3b9-67917ec4b0b3",
+                "product_id": "a1ptqur"
+              },
+              {
+                "label": "Dusty Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/35b03584-85e9-40ee-9ec5-111744fd74b8",
+                "product_id": "pTbFom3"
+              },
+              {
+                "label": "Frost",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/98ec906c-7687-4ada-8e2c-02578c618696",
+                "product_id": "BG2YMRd"
+              },
+              {
+                "label": "Imperial Purple",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/6868e36c-7762-4b0d-afe1-c6520edc5f13",
+                "product_id": "Y78DTPA"
+              },
+              {
+                "label": "Lavender Gray",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/71a2866a-d9ba-4cb8-a273-c78c6fc7f199",
+                "product_id": "RCEDWAQ"
+              },
+              {
+                "label": "Mint Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/47a944e7-f0bb-41f3-87ff-bebaeba9969d",
+                "product_id": "IBDBs7K"
+              },
+              {
+                "label": "Navy Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/9c0b79af-4823-4d30-85f8-e1350729b9ef",
+                "product_id": "upSLG8t"
+              },
+              {
+                "label": "Pastel Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/6d790d67-f7a0-4bc1-889e-a2ec8a263504",
+                "product_id": "OlLRRj5"
+              },
+              {
+                "label": "Purple",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/b521f046-46cc-445a-a8f3-f8b3892122bb",
+                "product_id": "saC6Ntj"
+              },
+              {
+                "label": "Red",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/6bf6b6f3-d51a-48c0-b815-194fdf76050e",
+                "product_id": "ToiDEU9"
+              },
+              {
+                "label": "Rose Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f66d3ecc-c2ba-49a1-a731-ca651ca99159",
+                "product_id": "GOVmYEg"
+              },
+              {
+                "label": "Royal Blue",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/fe2c87e7-c9e1-48ed-b2ce-51a72b8d7d2c",
+                "product_id": "KeHVxjQ"
+              },
+              {
+                "label": "Sage Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/e9702013-489e-466e-b80d-7b55f163d5da",
+                "product_id": "foIKfKK"
+              },
+              {
+                "label": "Slate Gray",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/b23fbbc1-9ae1-479b-84e8-572b15663f36",
+                "product_id": "KR9HxFx"
+              },
+              {
+                "label": "Starlight",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/2f8461eb-86dd-4fd0-85e6-89f3c2af60d6",
+                "product_id": "Nu3Kbjw"
+              },
+              {
+                "label": "Stone Gray",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/7c573ad2-c846-4e4a-a321-09e6d8e159d1",
+                "product_id": "kldbVnu"
+              },
+              {
+                "label": "Teal Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85c0d621-ed98-4b3f-a4be-09654aa88de7",
+                "product_id": "1oTAcRR"
+              },
+              {
+                "label": "White",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/6608c642-344a-42ca-9d94-9465a6489dee",
+                "product_id": "QDSVRWc"
+              },
+              {
+                "label": "Gray",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/fea35643-50a7-4eea-9fc8-47196880d690",
+                "product_id": "bLZJiJb"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Teal Green"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "case-transparency-level": [
+          "Semi-Clear"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "closure-type": [
+          "Snap"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "5zq7xx6",
+      "title": "MacBook Air 13-Inch Hardshell Case Protector",
+      "description": "This is a clear frost hardshell case designed to protect the Apple MacBook Air 13-inch models featuring the M2 or M3 chips (2023-2024 versions). It offers optimal protection against scratches and daily wear while maintaining a sleek, sophisticated look. The case features a transparent design to allow the Apple logo to be visible and has precise cutouts for full access to all ports and buttons. It boasts an easy snap-on installation, a ventilated base for heat dissipation, and a frosted texture for improved grip.",
+      "brands": [
+        {
+          "id": "d7ik",
+          "name": "ABT"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ca8c464f-735b-4691-a501-36d470a54951?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Clear frost case for a MacBook Air with a grid pattern base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88b9a273-1ad4-4b0c-98b3-ca3fc4b27615?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88b9a273-1ad4-4b0c-98b3-ca3fc4b27615?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Clear frost case for a white MacBook Air profile view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d07e771-d57c-4988-a778-ba42c99ed5ed?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up view of MacBook Air keyboard area with case."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c2544031-20ce-4382-a103-faefb2de9689?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of clear frost protective case for MacBook."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "high-quality, sturdy materials"
+      ],
+      "key_features": [
+        "Compatible With MacBook Air 13\" (M2/M3, 2023-2024)",
+        "Sleek, Sophisticated Look And Feel",
+        "Transparent Design To Showcase Apple Logo",
+        "Optimal Protection",
+        "Precise Cutouts To Ports And Keys",
+        "Easy, Snap-On Installation",
+        "Ventilated Base",
+        "Lightweight Construction",
+        "Clear Frost Finish"
+      ],
+      "colors": [
+        {
+          "hex": "#a0a0a2",
+          "percentage": 0.4109
+        },
+        {
+          "hex": "#d1d1d3",
+          "percentage": 0.3801
+        },
+        {
+          "hex": "#29292a",
+          "percentage": 0.1496
+        },
+        {
+          "hex": "#6b6b6d",
+          "percentage": 0.0594
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5zq7xx6-DO3T-8tFxDf?o=01KBP9ZFPKXGQMZ19YDN50540P&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "abt.com",
+          "price": {
+            "price": 35.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "case-transparency-level": [
+          "Frosted"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "finish": [
+          "Matte"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "closure-type": [
+          "Snap"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WVMHdgN",
+      "title": "Hardshell Case for MacBook Air 13-Inch",
+      "description": "A protective, hard-shell laptop case specifically designed for the MacBook Air 13-Inch models featuring the M2 or M3 chips (2022-2024). This case comes in a distinctive Pink Frosted finish, adding a personalized aesthetic touch while guarding against common hazards like spills, dents, and scratches. It is constructed from durable, eco-friendly polycarbonate material and features a snap-on design for easy installation and removal. The case is lightweight and slim, ensuring minimal bulk.",
+      "brands": [
+        {
+          "id": "d7ik",
+          "name": "ABT"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/94f9d5b6-f41b-4306-8eac-e5b8fd88ecb8?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/065f026d-1d04-414c-923a-68c6693dea0b?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Pink frosted Macbook Air laptop lid and base viewed from an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9ae13771-d21a-47a8-920e-9ee1e9a3a630?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Hand using a key to open the pink frosted Macbook Air case."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Polycarbonate"
+      ],
+      "key_features": [
+        "Compatible With MacBook Air 13\" (M2/M3, 2022-2024)",
+        "Water Resistant Protection",
+        "Eco-Friendly Design",
+        "Pink Frosted Finish"
+      ],
+      "colors": [
+        {
+          "hex": "#f4c5c4",
+          "percentage": 0.8258
+        },
+        {
+          "hex": "#e8d2d1",
+          "percentage": 0.0988
+        },
+        {
+          "hex": "#877979",
+          "percentage": 0.0754
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WVMHdgN-DO3T-8tFxDf?o=01KBPD0ECJWHXFDM0TM12PNEPF&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "abt.com",
+          "price": {
+            "price": 35.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Polycarbonate (PC)"
+        ],
+        "closure-type": [
+          "Snap"
+        ],
+        "durability-features": [
+          "Waterproof"
+        ],
+        "case-transparency-level": [
+          "Frosted"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "KQgXUT4",
+      "title": "MacBook Air 13-Inch (M2/M3, 2023-2024) Hardshell Case Protector",
+      "description": "Protect your MacBook Air 13-inch (M2/M3, 2023-2024) with this sleek hardshell case. The black frost finish adds a touch of sophistication while the transparent design showcases the Apple logo. Made from high-quality materials, it offers optimal protection against scratches and bumps, with precise cutouts for easy access to all ports and buttons.",
+      "brands": [
+        {
+          "id": "d7ik",
+          "name": "ABT"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fe8f3282-4117-4553-8520-bb9c8eb8e3ea?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/20307ca4-5a2a-48be-a153-a07f6ab7d960?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black frosted Macbook Air hardshell case protector shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cf1ba2b0-d40f-43fd-b5e9-065be7c49b7c?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/e1465d6b-f0e7-4a5b-a7ec-281670559059?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Clear hardshell case protector with a white Macbook Air inside."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/334f187f-503a-4268-b299-99792aff56c3?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/36f72bf5-3a6a-49a4-ae89-b92c601e7fa9?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the open Macbook Air keyboard and palm rest area."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/408747f0-d97a-4af4-9887-ffcd02a87aa9?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/1bb0c395-c4ff-49ad-90d0-ea52cf96ac77?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the clear protective case cover on the back of the laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Compatible With MacBook Air 13\" (M2/M3, 2023-2024)",
+        "Sleek, Sophisticated Look And Feel",
+        "Transparent Design To Showcase Apple Logo",
+        "Optimal Protection",
+        "Precise Cutouts To Ports And Keys",
+        "Easy, Snap-On Installation",
+        "Ventilated Base",
+        "Lightweight Construction",
+        "Black Frost Finish"
+      ],
+      "colors": [
+        {
+          "hex": "#49525b",
+          "percentage": 0.7962
+        },
+        {
+          "hex": "#cdcfd1",
+          "percentage": 0.1645
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/KQgXUT4-DO3T-8tFxDf?o=01KBPCQ2WFAFVACGQNYRTCFMFR&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "abt.com",
+          "price": {
+            "price": 35.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "case-transparency-level": [
+          "Frosted"
+        ],
+        "finish": [
+          "Matte"
+        ],
+        "closure-type": [
+          "Snap"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "dO0BtPm",
+      "title": "Abt Macbook Air 13-inch (M2/M3) Hardshell Case Protector",
+      "description": "Protect your MacBook Air 13-inch (M2/M3, 2023-2024) with this sleek, black hardshell case from Abt. It offers optimal protection against daily wear and tear while maintaining the device's aesthetic appeal. The case features a transparent finish, allowing the Apple logo to remain visible, and precise cutouts for easy access to all ports and keys. Its lightweight construction and ventilated base ensure improved heat dissipation without adding bulk. Installation is a simple snap-on process.",
+      "brands": [
+        {
+          "id": "d7ik",
+          "name": "ABT"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/873762e3-a2c2-4c56-abb4-1cc7c2fad085?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/03555b98-11ff-4ef6-8d35-7985693741ee?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Macbook Air case protector with transparent overlay on a gray surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c952b798-020c-4c88-bfbc-28a2e6de79d9?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c952b798-020c-4c88-bfbc-28a2e6de79d9?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dark blue Macbook Air case protector shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/77bf44c5-77c4-406d-afc2-1b585c29c6c7?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/779872fd-32c8-4bf3-a0c5-b65dceae9f0c?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Front view of a white Macbook Air keyboard and case edge."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Sleek, Sophisticated Look And Feel",
+        "Transparent Design To Showcase Apple Logo",
+        "Optimal Protection",
+        "Precise Cutouts To Ports And Keys",
+        "Easy, Snap-On Installation",
+        "Ventilated Base",
+        "Lightweight Construction",
+        "Black Finish"
+      ],
+      "colors": [
+        {
+          "hex": "#a0a0a2",
+          "percentage": 0.4043
+        },
+        {
+          "hex": "#d1d1d3",
+          "percentage": 0.3809
+        },
+        {
+          "hex": "#29292a",
+          "percentage": 0.1507
+        },
+        {
+          "hex": "#6d6d6e",
+          "percentage": 0.0641
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dO0BtPm-DO3T-8tFxDf?o=01KBPA0DZSSKQ2CAHD6697WDD8&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "abt.com",
+          "price": {
+            "price": 35.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Black",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/873762e3-a2c2-4c56-abb4-1cc7c2fad085",
+                "product_id": "dO0BtPm"
+              },
+              {
+                "label": "Clear",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/988815fb-a166-4570-897a-86a413cba5fa",
+                "product_id": "r7Lt8lY"
+              },
+              {
+                "label": "Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/832b6d6b-5b75-4fec-83fe-85c82347686b",
+                "product_id": "kdIf6t5"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Black"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "case-transparency-level": [
+          "Semi-Clear"
+        ],
+        "finish": [
+          "Matte"
+        ],
+        "closure-type": [
+          "Snap"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "1ReL5b5",
+      "title": "Smartshell Apple Macbook Air 13-inch Case",
+      "description": "The Speck SmartShell is a slim, durable hardshell case designed for the Apple MacBook Air 13-inch (compatible with M5, M4, M3, and M2 models). It provides a lightweight layer of protection against scratches, punctures, and dents, featuring a matte scratch-resistant and fade-resistant finish. The case is designed for easy installation and removal, using secure clips to stay in place and rubberized feet on the bottom to prevent the laptop from sliding on smooth surfaces.",
+      "brands": [
+        {
+          "id": "fvwQ",
+          "name": "Speck"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/99a36934-e59b-48cf-bfa3-fdc2e4f977b6?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/99a36934-e59b-48cf-bfa3-fdc2e4f977b6?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dark blue MacBook Air case shown from a three-quarter angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1d297f1c-a80e-430b-8961-81f266ecd3b0?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1d297f1c-a80e-430b-8961-81f266ecd3b0?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White MacBook Air case shown from a front angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/81b7fbd0-6e90-4ef3-9929-179c10efae31?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Stack of three MacBook Air cases shown from a three-quarter view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/98cfc248-dfc9-412b-8c19-2fd527caee40?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/98cfc248-dfc9-412b-8c19-2fd527caee40?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the USB-C port on a MacBook Air."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7e75fc97-364c-4f91-905a-bd54db1e3849?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7e75fc97-364c-4f91-905a-bd54db1e3849?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver MacBook Air open with a vibrant blue screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f0701757-ca60-40f4-a59c-f1aeefee8e30?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f0701757-ca60-40f4-a59c-f1aeefee8e30?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver MacBook Air laptop shown from a front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/436d4774-3d09-4db2-8d8d-727119cf34e6?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/436d4774-3d09-4db2-8d8d-727119cf34e6?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dark gray MacBook Air case shown from a front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/14d344ee-be07-4976-aee4-ff4f24759b16?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Stack of three dark gray MacBook Air cases shown from a three-quarter view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cb265b42-05b4-437e-9503-dd66e6a27990?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cb265b42-05b4-437e-9503-dd66e6a27990?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Pink MacBook Air case shown from a front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ac22654-c367-4126-bc6a-f5762827fdf3?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Stack of three pink MacBook Air cases shown from a three-quarter view."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Durable, slim hardshell protection against scratches, punctures, and dents",
+        "Secure clips hold the case securely onto the device",
+        "Matte scratch-resistant and fade-resistant finish",
+        "Rubberized feet prevent sliding on smooth surfaces",
+        "Ultra-thin, form-fitting two-piece design for easy installation and removal"
+      ],
+      "colors": [
+        {
+          "hex": "#1d202d",
+          "percentage": 0.93
+        },
+        {
+          "hex": "#4d4f5b",
+          "percentage": 0.07
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1ReL5b5-qYyS-8tFxDf?o=01M5SJKKT3W0X92ABBXCA19S5F&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "speckproducts.com",
+          "price": {
+            "price": 49.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 277.0,
+              "unit": "g"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Obsidian",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/4d25793d-30b8-460c-aa47-bfcaa7ee6964",
+                "product_id": "sEH5kn5"
+              },
+              {
+                "label": "Naval Blue Tint",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/99a36934-e59b-48cf-bfa3-fdc2e4f977b6",
+                "product_id": "1ReL5b5"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Naval Blue Tint"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "case-transparency-level": [
+          "Opaque"
+        ],
+        "material": [
+          "Plastic",
+          "Rubber"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "finish": [
+          "Matte"
+        ],
+        "closure-type": [
+          "Clip-on"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "GLA9VDf",
+      "title": "Keyscaper Wwe Steel Laptop Case Apple Macbook Air 13 Inch (m2, 2022)/(m3, 2024)",
+      "description": "A protective hard-shell laptop case for the Apple MacBook Air 13-inch (M2, 2022 and M3, 2024 models), featuring an officially licensed WWE Jey Uso design. The case is constructed with a durable PC panel and a soft TPU frame to guard against daily impacts and jolts. Its frosted polished surface prevents fingerprints, and it is designed for an easy snap-on installation that maintains full access to all laptop ports.",
+      "brands": [
+        {
+          "id": "dp3Y",
+          "name": "Keyscaper"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/565076fb-a546-4fef-b458-d293eba247e0?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/565076fb-a546-4fef-b458-d293eba247e0?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop case shown in three-quarter view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5832ec97-b2fa-4790-8b3b-126cbc5b3455?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop case shown with lid open."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ac4369d4-76e7-4cec-a7c0-aa76f62b18b1?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ac4369d4-76e7-4cec-a7c0-aa76f62b18b1?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop with case shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c8dce407-e9c4-455f-a3dc-3bf348d20507?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop case cover and pad."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5dd62d38-b64f-452a-a3b0-3962b3dd30a2?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Pro laptop with a protective case."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/95d1deb8-083f-4e13-9e5e-9c0fd5a6c7f9?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Apple MacBook Pro laptop from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c125767-27a5-4eb4-9d33-fe5cf6d4ede1?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Open Apple MacBook Pro showing screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/841c978f-6b90-4fd4-9cb6-68c8058d1e9d?aid=01M66D85D83X8WB9AF1STAE89B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "flat_lay",
+          "alt_text": "Laptop case with 'YEET' graphic on a flat lay."
+        }
+      ],
+      "category": {
+        "slug": "laptop-hard-cases",
+        "title": "Laptop Hard Cases",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-covers-skins",
+            "title": "Computer Covers & Skins"
+          },
+          {
+            "slug": "laptop-hard-cases",
+            "title": "Laptop Hard Cases"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "PC",
+        "TPU"
+      ],
+      "key_features": [
+        "Protective hard PC case with soft TPU frame",
+        "Officially licensed WWE design on top surface",
+        "Frosted polished surface to prevent fingerprints",
+        "Easy snap-on installation with access to all ports",
+        "One-year warranty against manufacturing defects"
+      ],
+      "colors": [
+        {
+          "hex": "#c2c5c7",
+          "percentage": 0.4361
+        },
+        {
+          "hex": "#9fa0a1",
+          "percentage": 0.1794
+        },
+        {
+          "hex": "#1d1f21",
+          "percentage": 0.1369
+        },
+        {
+          "hex": "#6f94a2",
+          "percentage": 0.1227
+        },
+        {
+          "hex": "#535e63",
+          "percentage": 0.0889
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/GLA9VDf-p1PB-8tFxDf?o=01M3W6E2SGBER9922G152E5XBX&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 79.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Design",
+            "values": [
+              {
+                "label": "AJ Lee",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/8eb5ac45-25c1-4828-a9b7-f87659c5cbec",
+                "product_id": "eQQF4O9"
+              },
+              {
+                "label": "Jey Uso",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/565076fb-a546-4fef-b458-d293eba247e0",
+                "product_id": "GLA9VDf"
+              },
+              {
+                "label": "Kevin Owens",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/5be1020c-d11b-4884-abf0-76b2b36409e9",
+                "product_id": "uUuLcNh"
+              },
+              {
+                "label": "LA Knight",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/36beea9c-de99-4a93-94ac-95b2e0762d59",
+                "product_id": "rUApp4o"
+              },
+              {
+                "label": "Liv Morgan",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/2d7ee8e8-0805-466d-97e8-5b4e10709b60",
+                "product_id": "RVwOIpj"
+              },
+              {
+                "label": "Logan Paul",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/2a321f64-3cbb-438c-af67-9d19fb193a18",
+                "product_id": "35sErTW"
+              },
+              {
+                "label": "Roman Reigns",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/72953ca7-8d75-44d8-a9a7-7e05ec566165",
+                "product_id": "l3iSvTN"
+              },
+              {
+                "label": "Seth Freakin Rollins",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c6d37eb3-b95c-44fd-a720-917e98204aa3",
+                "product_id": "XURlNKf"
+              },
+              {
+                "label": "WWE Logo",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/c880985c-8d40-41c3-a756-6cd5977c2f7d",
+                "product_id": "I2082lJ"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Design",
+            "label": "Jey Uso"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "closure-type": [
+          "Snap"
+        ],
+        "case-transparency-level": [
+          "Frosted"
+        ],
+        "pattern": [
+          "Graphic"
+        ],
+        "material": [
+          "Polycarbonate (PC)",
+          "Thermoplastic polyurethane (TPU)"
+        ],
+        "finish": [
+          "Matte"
+        ],
+        "durability-features": [
+          "Shockproof"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "q9lGIQN",
+      "title": "MacBook Air 13-Inch Keyboard Cover",
+      "description": "Protect your MacBook Air 13-inch (M2-M3, 2022-2024) from spills, dust, and debris with this clear keyboard cover. Made from durable silicone, it provides a snug fit and maintains typing comfort while keeping your keyboard clean and functional.",
+      "brands": [
+        {
+          "id": "d7ik",
+          "name": "ABT"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/q9lGIQN?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": null,
+          "alt_text": null
+        },
+        {
+          "url": "https://content.abt.com/image.php/abt-cover-KEYBOARDCOVER-front-view.jpg?image=/images/products/BDP_Images/abt-cover-KEYBOARDCOVER-front-view.jpg&canvas=1&width=750&height=550",
+          "cleaned_url": "https://cdn.trychannel3.com/be4efc25-6ed8-4264-99c3-92fea94a835f?aid=01M66D85D83X8WB9AF1STAE89B&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Transparent keyboard skin with white outline"
+        }
+      ],
+      "category": {
+        "slug": "keyboard-protectors",
+        "title": "Keyboard Protectors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "electronics-films-shields",
+            "title": "Electronics Films & Shields"
+          },
+          {
+            "slug": "keyboard-protectors",
+            "title": "Keyboard Protectors"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "silicone"
+      ],
+      "key_features": [
+        "Compatible With MacBook Air 13\" M2 & M3 (2022-2024)",
+        "Dustproof And Waterproof",
+        "0.1mm Thick",
+        "Silicone Construction",
+        "Clear Finish"
+      ],
+      "colors": [
+        {
+          "hex": "#f3f3f3",
+          "percentage": 1.0
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/q9lGIQN-DO3T-8tFxDf?o=01KBPCTKKDCRM7SB901AVRH7N1&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "abt.com",
+          "price": {
+            "price": 20.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "case-transparency-level": [
+          "Clear"
+        ],
+        "care-instructions": [
+          "Hand wash"
+        ],
+        "material": [
+          "Silicone"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "CHZxmx0",
+      "title": "ShieldView Glass Privacy Apple MacBook Air 13-inch (M5/M4/M3/M2) Screen Protector",
+      "description": "The ShieldView\u2122 Glass Privacy magnetic screen protector for Apple MacBook Air 13-inch (M5/M4/M3/M2) is designed to keep your screen private in shared spaces. It features a limited \u00b130\u00b0 viewing angle to block unwanted glances while maintaining clarity for the user. The adhesive-free magnetic design allows for effortless installation and easy removal/reapplication. Additionally, it offers a bubble-free fit and an anti-glare, fingerprint-resistant finish to minimize reflections and smudges.",
+      "brands": [
+        {
+          "id": "fvwQ",
+          "name": "Speck"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/57af51bc-8603-4746-9222-fcda00b35557?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/57af51bc-8603-4746-9222-fcda00b35557?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air with a black screen protector installed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3d1879d4-f1fa-491d-8603-fdb4af962be1?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of a black screen protector shape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/31794105-e6c3-4f11-82c6-50df8b730ae2?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/31794105-e6c3-4f11-82c6-50df8b730ae2?aid=01M66D85D83X8WB9AF1STAE89B&mid=qYyS",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Angled close-up of a screen protector shape with a notch."
+        }
+      ],
+      "category": {
+        "slug": "laptop-privacy-filters",
+        "title": "Laptop Privacy Filters",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "electronics-films-shields",
+            "title": "Electronics Films & Shields"
+          },
+          {
+            "slug": "privacy-filters",
+            "title": "Privacy Filters"
+          },
+          {
+            "slug": "laptop-privacy-filters",
+            "title": "Laptop Privacy Filters"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Glass"
+      ],
+      "key_features": [
+        "\u00b130\u00b0 privacy viewing angle",
+        "Easy magnetic attachment",
+        "Remove and reapply with ease",
+        "Bubble-free fit",
+        "Anti-glare and fingerprint-resistant finish",
+        "Ultra-thin, flexible design"
+      ],
+      "colors": [
+        {
+          "hex": "#3e3f3f",
+          "percentage": 0.6005
+        },
+        {
+          "hex": "#212223",
+          "percentage": 0.3387
+        },
+        {
+          "hex": "#565f62",
+          "percentage": 0.0608
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CHZxmx0-qYyS-8tFxDf?o=01M5W55TCSAVHJQ09TS4V2NVM5&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "speckproducts.com",
+          "price": {
+            "price": 49.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 32.0,
+              "unit": "g"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "finish": [
+          "Matte"
+        ],
+        "privacy-filtering-direction": [
+          "30\u00b0 anti-peep"
+        ],
+        "material": [
+          "Glass"
+        ],
+        "monitor-screen-specialized-features": [
+          "Anti-glare"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xBGFcFN",
+      "title": "MacBook Air",
+      "description": "A high-performance 13-inch MacBook Air in Midnight, powered by the M5 chip with a 10-core CPU and 10-core GPU. This configuration is tailored for intensive multitasking and creative work, featuring 32GB of unified memory and a massive 4TB SSD storage capacity.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c4b3aded-4564-497d-b302-2fd5518636b2?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c4b3aded-4564-497d-b302-2fd5518636b2?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air laptop shown from above on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d134fde4-bb29-4897-9f69-a340459a9d29?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d134fde4-bb29-4897-9f69-a340459a9d29?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air laptop with blue abstract design on the display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c54911aa-7b7c-4f7b-a5ca-b598d3b65280?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c54911aa-7b7c-4f7b-a5ca-b598d3b65280?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dark gray MacBook Air laptop viewed from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4a989c55-1ede-4179-845c-e885050cced3?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4a989c55-1ede-4179-845c-e885050cced3?aid=01M66D85D83X8WB9AF1STAE89B&mid=DoAg",
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Color swatches for MacBook Air finishes: silver, white, beige, black."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "M5 chip with 10-core CPU, 10-core GPU, and 16-core Neural Engine",
+        "32GB unified memory for faster multitasking",
+        "4TB SSD storage for ample space",
+        "13-inch display",
+        "Two Thunderbolt 4 ports, MagSafe 3 port, and 3.5mm headphone jack",
+        "Wi-Fi 7 and Bluetooth 6 support",
+        "US English Backlit Magic Keyboard with Touch ID"
+      ],
+      "colors": [
+        {
+          "hex": "#434854",
+          "percentage": 0.4844
+        },
+        {
+          "hex": "#8c929d",
+          "percentage": 0.1949
+        },
+        {
+          "hex": "#1e2530",
+          "percentage": 0.1363
+        },
+        {
+          "hex": "#676d77",
+          "percentage": 0.1098
+        },
+        {
+          "hex": "#b9bec9",
+          "percentage": 0.0746
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xBGFcFN-DoAg-8tFxDf?o=01M2C5F6V5E8Z94R5C830N6B08&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "apple.com",
+          "price": {
+            "price": 1299.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.2,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "ram": [
+          "16 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Apple M1"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "operating-system": [
+          "macOS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "KohsD4E",
+      "title": "MacBook Air 13.6\" with M5 Chip",
+      "description": "The 2026 Apple MacBook Air 13\" is a thin-and-light laptop powered by the M5 chip. It features a 10-core GPU, 16GB of unified memory, and a lightning-fast 1TB SSD, making it ideal for seamless multitasking and creative projects. The device boasts a stunning 13.3-inch Retina display with True Tone technology and a sleek silver aluminum chassis.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/13df7699-db8d-4245-8ea9-eca9cfc9fe6c?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/d06c552d-2c3b-4f12-8322-1b1428d8cc97?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Macbook Air 13.6 laptop displaying a vibrant blue abstract design on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7e05d61b-da25-4c5b-9fe1-3508dee3600b?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7e05d61b-da25-4c5b-9fe1-3508dee3600b?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Keyboard and palm rest of the Macbook Air laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/800acedc-a4f6-4f6f-8693-93f8bf152a41?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/f44aeeb3-4694-48df-8c80-e58d049dfa26?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Color options for the Macbook Air laptop: Sky Blue, Silver, Starlight, and Midnight."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce7a71bc-f7cd-4d0f-b392-80e47d13855e?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Macbook Air powered by the M5 chip with up to 18 hours of battery life."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9e259c9-0f68-4c77-b0c7-8c0e592ea73a?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a9e259c9-0f68-4c77-b0c7-8c0e592ea73a?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Macbook Air 13.6 inch Liquid Retina display showing a vibrant scene with a person on a surfboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c13b7b5d-ef3e-4216-9000-1eb658a5ef10?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/dcc52b47-aa68-487f-8b46-b7a61ead63c5?aid=01M66D85D83X8WB9AF1STAE89B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Ports and connectors on the side of the Macbook Air laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Apple M5 Chip with 10-Core CPU and 10-Core GPU",
+        "16GB Unified Memory",
+        "1TB Ultra-Fast SSD",
+        "13.3\" Retina Display with True Tone Technology",
+        "Thunderbolt 4 connectivity",
+        "Wi-Fi 6E and Bluetooth 5.3",
+        "Passive Cooling Design",
+        "12MP Center Stage camera with Desk View",
+        "Up to 18 hours of battery life",
+        "Apple Intelligence is built right in"
+      ],
+      "colors": [
+        {
+          "hex": "#040f16",
+          "percentage": 0.3762
+        },
+        {
+          "hex": "#082d3d",
+          "percentage": 0.1426
+        },
+        {
+          "hex": "#508ba5",
+          "percentage": 0.1315
+        },
+        {
+          "hex": "#bde0ee",
+          "percentage": 0.1295
+        },
+        {
+          "hex": "#88b8cd",
+          "percentage": 0.1224
+        },
+        {
+          "hex": "#1f556c",
+          "percentage": 0.0977
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/KohsD4E-T9Fg-8tFxDf?o=01KNJWTB3FMB0943ZKZCTYPQYS&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "adorama.com",
+          "price": {
+            "price": 1299.0,
+            "compare_at_price": 1599.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "LED"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Apple M5"
+        ],
+        "storage-capacity": [
+          "1 TB",
+          "512 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "Battery-powered"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "processor-cores": [
+          "Deca"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "b9xnTWl",
+      "title": "13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB - Space Gray",
+      "description": "The 13-inch MacBook Air is a strikingly thin and powerful laptop redesigned around the next-generation M2 chip. It features an all-aluminum enclosure and delivers exceptional speed and power efficiency, allowing for silent operation without a fan. Key specifications include an 8-core CPU, up to a 10-core GPU, and a high-performance media engine for 4K and 8K ProRes video. It offers up to 18 hours of battery life and is equipped with a Liquid Retina display and a 1080p camera.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3da94f96-763b-4715-8a9c-357be122c61c?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3da94f96-763b-4715-8a9c-357be122c61c?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air laptop showing vibrant purple liquid screen on white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/68163e5d-3b8c-4b4f-a0dc-bb5f456ad24e?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Four color variants of the MacBook Air laptop shown from an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a168b31f-aa15-4bbc-956f-1b2662181b13?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a168b31f-aa15-4bbc-956f-1b2662181b13?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Space Gray MacBook Air laptop open showing keyboard and screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b93237b-e358-4b9c-a0aa-5b47145fa36a?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specification graphic showing M2 chip and 18-hour battery life."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eb9f89f8-0fbc-4f69-b93a-607593a266f1?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "MacBook Air displaying colorful design on Liquid Retina display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ecc3451a-6ae2-4704-b4c2-77528cca8639?aid=01M66D85D83X8WB9AF1STAE89B&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specifications highlighting camera, mics, and audio features on MacBook."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Apple M2 Chip",
+        "8-Core CPU",
+        "8-Core GPU",
+        "8GB RAM",
+        "256GB SSD",
+        "13.3-inch display",
+        "Professionally restored",
+        "Power adapter included",
+        "Up to 10-core GPU",
+        "Up to 18 hours of battery life"
+      ],
+      "colors": [
+        {
+          "hex": "#060311",
+          "percentage": 0.2365
+        },
+        {
+          "hex": "#1b0f30",
+          "percentage": 0.1492
+        },
+        {
+          "hex": "#c9acd1",
+          "percentage": 0.1313
+        },
+        {
+          "hex": "#eed8f1",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#664782",
+          "percentage": 0.1212
+        },
+        {
+          "hex": "#381c58",
+          "percentage": 0.1196
+        },
+        {
+          "hex": "#9e7eaa",
+          "percentage": 0.1112
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/b9xnTWl-BsaX-8tFxDf?o=01M5ZPBWTN62Y81AHMFJ5BTR8C&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "walmart.com",
+          "price": {
+            "price": 629.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/b9xnTWl-KB7L-8tFxDf?o=01M2W0J92A0YBWVV51T891VPQ4&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "musicarts.com",
+          "price": {
+            "price": 1099.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "Rechargeable"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "processor-cores": [
+          "Octa",
+          "Quad"
+        ],
+        "processor-family": [
+          "Apple M2"
+        ],
+        "computer-specialized-features": [
+          "Quiet operation"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New",
+          "Refurbished-good"
+        ],
+        "ram": [
+          "8 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "U9Kprkh",
+      "title": "13\" MacBook Air: M2 Chip With 8-Core CPU and 10-Core GPU, 512GB",
+      "description": "The Apple 13\" MacBook Air features the M2 chip for exceptional speed and power efficiency in an all-aluminum enclosure. This ultralight laptop offers incredible performance without a fan, ensuring silent operation. The M2 chip powers an 8-core CPU and up to a 10-core GPU for creating captivating visuals and handling multiple streams of 4K and 8K ProRes video with its high-performance media engine. Enjoy up to 18 hours of battery life for all-day productivity and entertainment. The Liquid Retina display boasts a 13.6-inch screen with a 2560x1664 resolution, 500 nits of brightness, and P3 wide color support.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c73f6996-b796-45b1-b07a-71c1575e8c83?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c73f6996-b796-45b1-b07a-71c1575e8c83?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air with vibrant blue liquid display on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f09948f1-7b4d-467d-a003-18ebabe6cab1?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Several colors of MacBook Air laptops shown from an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/69739f65-a483-4165-8536-0f1fe03e93c4?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/69739f65-a483-4165-8536-0f1fe03e93c4?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air laptop open showing keyboard and screen, dark blue background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e90254da-ff30-4e2b-a8f4-8b9eab14f362?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic showing M2 chip and up to 18 hours of battery life."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4e6c4867-0a5a-485c-84ab-d4350c0ccb6d?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4e6c4867-0a5a-485c-84ab-d4350c0ccb6d?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "MacBook Air showing a colorful abstract design on the liquid Retina display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5c128984-2520-4edb-8aa5-382c15b6543a?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic detailing 1080p camera, mic array, and four-speaker sound system."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7c701427-9b66-4295-8294-ee705f4d59fe?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Detail of MagSafe charging port, keyboard, and Thunderbolt ports on MacBook."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15126537-202a-4f04-92d1-ef0a2f2838f0?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": "https://cdn.trychannel3.com/d2518408-3afe-40c6-b4ec-68b0e4b2ce1e?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a laptop connected to musical instruments."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2df0f3e4-e484-43cb-9d5a-7b9c198d1378?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "MacBook Air screen showing seamless content sharing between iPhone and Mac."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f7b9a23-d54c-42bf-8dbe-11a43682ec09?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": "https://cdn.trychannel3.com/bf85e4d7-91d2-4960-b0f6-9d32c63194ec?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "MacBook Air showing various application icons for increased speed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/97009968-e553-48c4-ae72-84b8c242ee3d?aid=01M66D85D83X8WB9AF1STAE89B&mid=H7gT",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "What's in the box: MacBook Air, power adapter, and charging cable."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "M2 chip",
+        "8-core CPU",
+        "10-core GPU",
+        "512GB storage",
+        "Liquid Retina display",
+        "13.6-inch screen",
+        "Up to 18 hours battery life"
+      ],
+      "colors": [
+        {
+          "hex": "#03050c",
+          "percentage": 0.2703
+        },
+        {
+          "hex": "#cfe2f1",
+          "percentage": 0.1317
+        },
+        {
+          "hex": "#344774",
+          "percentage": 0.1303
+        },
+        {
+          "hex": "#96b9dc",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#1a264d",
+          "percentage": 0.1178
+        },
+        {
+          "hex": "#0e132a",
+          "percentage": 0.1145
+        },
+        {
+          "hex": "#637ca4",
+          "percentage": 0.1062
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/U9Kprkh-H7gT-8tFxDf?o=01KVA3F7D5RYDJNGXFEDVF50ZJ&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "guitarcenter.com",
+          "price": {
+            "price": 1399.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "memory-technology": [
+          "DDR4",
+          "DRAM"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Apple M2"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "display-technology": [
+          "LCD",
+          "IPS",
+          "LED"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen",
+          "AI-powered",
+          "Overclocking support"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 126,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "AQaWWZ8",
+      "title": "Apple 13\" MacBook Air with AppleCare+ (M5, Sky Blue)",
+      "description": "The Apple 13\" MacBook Air (M5, 2026) is a compact and lightweight laptop featuring the powerful M5 10-Core chip and next-generation 10-Core GPU, specifically optimized for AI-powered workflows and Apple Intelligence. This high-end configuration includes 32GB of unified RAM and a massive 4TB SSD for high-performance storage. It boasts a 13.6\" Liquid Retina Display with 2560 x 1664 resolution and 500 nits brightness. The device is designed for portability and sustainability, featuring a recycled aluminum unibody chassis, a fanless silent design, and up to 18 hours of battery life. Connectivity is modernized with Wi-Fi 7, Bluetooth 6, and Thunderbolt 4 ports. This specific bundle includes a 3-year AppleCare+ protection plan for extended hardware and software support.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f6dc8223-9542-4233-9aea-1d55d0f7c609?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f6dc8223-9542-4233-9aea-1d55d0f7c609?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver MacBook Air laptop with power adapter on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/619d070f-f1d5-4734-a20f-60730e5bb6ca?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/619d070f-f1d5-4734-a20f-60730e5bb6ca?aid=01M66D85D83X8WB9AF1STAE89B&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver MacBook Air laptop viewed from the front on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Apple M5 10-Core Chip with Neural Engine",
+        "32GB Unified RAM and 4TB SSD",
+        "13.6\" Liquid Retina Display (2560 x 1664)",
+        "Wi-Fi 7 and Bluetooth 6 connectivity",
+        "12MP Center Stage camera with Desk View",
+        "Recycled aluminum enclosure, fanless design",
+        "Up to 18 hours of battery life",
+        "Includes AppleCare+ 3-Year Protection Plan"
+      ],
+      "colors": [
+        {
+          "hex": "#061219",
+          "percentage": 0.3778
+        },
+        {
+          "hex": "#0a3344",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#81b1c6",
+          "percentage": 0.1282
+        },
+        {
+          "hex": "#b7dbea",
+          "percentage": 0.1268
+        },
+        {
+          "hex": "#51879f",
+          "percentage": 0.1247
+        },
+        {
+          "hex": "#27586e",
+          "percentage": 0.1134
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/AQaWWZ8-oHaU-8tFxDf?o=01M3HVQ5E48KA7RVW71PTN5QKJ&aid=01M66D85D83X8WB9AF1STAE89B",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 1314.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 11.97,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.5,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.44,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.73,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Quiet operation"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "memory-technology": [
+          "DRAM"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-capacity": [
+          "4 TB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "processor-family": [
+          "Apple M5"
+        ]
+      },
+      "ratings": {
+        "value": 4.9,
+        "count": 42,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmY3NjBhMmQ5NGY0ZmM0NDUiLCAib2Zmc2V0IjogMjB9"
+}

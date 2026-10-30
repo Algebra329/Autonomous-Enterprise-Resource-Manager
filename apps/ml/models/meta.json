@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "trained": "2026-10-30",
+  "train_seeds": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106
+  ],
+  "val_seeds": [
+    107,
+    108
+  ],
+  "test_seeds": [
+    20261028,
+    202,
+    203
+  ],
+  "seat_threshold": 0.7500000000000001,
+  "anomaly_threshold": 0.8300000000000001,
+  "n_seat_train_rows": 5127,
+  "note": "synthetic data from ml/seedgen/generate.py; thresholds chosen on validation seeds only"
+}

@@ -1,0 +1,3590 @@
+{
+  "products": [
+    {
+      "id": "aGgZkGb",
+      "title": "HP Laptop 15.6\" FHD LED Laptop",
+      "description": "The HP Laptop features a 15.6-inch FHD LED display and is powered by an Intel Core i5-1235U processor, designed to handle multitasking for students and home workers. It comes equipped with 8GB of SODIMM DDR4 SDRAM for efficient browser and application handling, and a 256GB SSD for fast storage and access to files. The laptop comes pre-installed with Windows 11 and features a silver/grey chassis with a full-sized keyboard.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1af15edc-c9b9-42cf-a86c-68cdb2c0824c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1af15edc-c9b9-42cf-a86c-68cdb2c0824c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver HP laptop open displaying a blue desktop background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel 12th Generation Core i5-1235U processor",
+        "15.6-inch FHD LED display (1920 x 1080)",
+        "8GB SODIMM DDR4 SDRAM",
+        "256GB SSD",
+        "Intel Iris Xe Integrated Graphics",
+        "Windows 11 pre-installed"
+      ],
+      "colors": [
+        {
+          "hex": "#dfe2e5",
+          "percentage": 0.3829
+        },
+        {
+          "hex": "#9fc8df",
+          "percentage": 0.1673
+        },
+        {
+          "hex": "#a8b1b5",
+          "percentage": 0.1302
+        },
+        {
+          "hex": "#223050",
+          "percentage": 0.1278
+        },
+        {
+          "hex": "#6db4d8",
+          "percentage": 0.1038
+        },
+        {
+          "hex": "#467098",
+          "percentage": 0.088
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/aGgZkGb-p1PB-8tFxDf?o=01M5X3TCV3JMVD3P30C7V767ZJ&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 524.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "display-technology": [
+          "LED"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "8 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WETVuo8",
+      "title": "HP 14\" Laptop",
+      "description": "A compact and portable HP 14-inch laptop designed for basic multitasking and everyday use. It is powered by an AMD Athlon Silver 3050U processor, 4GB of system memory, and a 128GB solid state drive (SSD) for efficient storage. The device features AMD Radeon Graphics and runs on the Windows 10 operating system. Weighing only 3.24 lbs and measuring 0.8\" thin, it is ideal for users seeking a lightweight computing solution.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1b65a9c3-bf25-4c4e-8f3a-2f4924363246?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1b65a9c3-bf25-4c4e-8f3a-2f4924363246?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black HP laptop with open screen showing Windows desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fefb243e-4f1a-4501-a875-fdb8ec126d4f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fefb243e-4f1a-4501-a875-fdb8ec126d4f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP laptop with open screen showing blue Windows desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b5d2422b-1706-41a5-b8e2-722506ab3643?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b5d2422b-1706-41a5-b8e2-722506ab3643?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP laptop angled showing keyboard deck."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2badb88c-6a5f-4ec9-ac52-d4e710b564f5?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2badb88c-6a5f-4ec9-ac52-d4e710b564f5?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop side panel ports and vents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/78418e2b-e75d-4f49-a6af-a6558565df0f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Black HP laptop displaying a mountain wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Windows 10 operating system",
+        "14\" display",
+        "4GB system memory for basic multitasking",
+        "128GB solid state drive (SSD)",
+        "AMD Radeon Graphics",
+        "Weighs 3.24 lbs. and measures 0.8\" thin"
+      ],
+      "colors": [
+        {
+          "hex": "#414142",
+          "percentage": 0.299
+        },
+        {
+          "hex": "#0477e0",
+          "percentage": 0.2628
+        },
+        {
+          "hex": "#cfe0e7",
+          "percentage": 0.1643
+        },
+        {
+          "hex": "#181819",
+          "percentage": 0.1489
+        },
+        {
+          "hex": "#0f3e92",
+          "percentage": 0.0634
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WETVuo8-LPzf-8tFxDf?o=01M60V1GJ0CPNPQDRJ3YAB6SNY&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 374.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": {
+              "number": 0.8,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.24,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "ram": [
+          "4 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-family": [
+          "AMD Ryzen"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "storage-capacity": [
+          "128 GB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "KWuTN83",
+      "title": "HP Spectre x360 Laptop 13-ap0013dx",
+      "description": "HP Spectre x360 Laptop 13-ap0013dx - 13.3 - Core i7 8565U - 8 GB RAM - 256 GB SSD \u2013 US",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fe356f6f-3da8-44de-8de2-81d376e4da3a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP Spectre x360 laptop with blue screen on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Flip design",
+        "13.3 inch display",
+        "Intel Core i7 8565U / 1.8 GHz",
+        "8 GB RAM",
+        "256 GB SSD",
+        "Win 10 Home 64-bit"
+      ],
+      "colors": [
+        {
+          "hex": "#fefefe",
+          "percentage": 0.2891
+        },
+        {
+          "hex": "#2a2a2b",
+          "percentage": 0.1624
+        },
+        {
+          "hex": "#1399d6",
+          "percentage": 0.1569
+        },
+        {
+          "hex": "#7a7878",
+          "percentage": 0.1233
+        },
+        {
+          "hex": "#0a0b0c",
+          "percentage": 0.1051
+        },
+        {
+          "hex": "#3f545f",
+          "percentage": 0.0972
+        },
+        {
+          "hex": "#b8cfd5",
+          "percentage": 0.0659
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/KWuTN83-BsaX-8tFxDf?o=01M5ZPF0Z03S4E9BNMH8GPY8XD&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "walmart.com",
+          "price": {
+            "price": 979.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "computer-form": [
+          "Convertible"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "ram": [
+          "8 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "LNKzx9D",
+      "title": "HP 15 Laptop",
+      "description": "This HP 15 laptop is a high-performance machine featuring a 15.6-inch FHD touchscreen display for clear visuals. It is powered by an Intel Deca-Core i5-1334U processor and Intel Iris Xe Graphics, complemented by 32GB of DDR4 RAM and a 1TB PCIe SSD for ample storage and speed. The laptop runs on Windows 11 and comes with an Office 2024 license, making it suitable for productivity and professional use. Connectivity is ensured via Wi-Fi 6 and Bluetooth 5.3.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c21fe860-1277-4fce-9eb4-f653e9f9f708?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c21fe860-1277-4fce-9eb4-f653e9f9f708?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing detailed specifications: 32GB RAM, 1TB SSD, and Windows 11."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f2898c2-ed9b-44d5-9cec-04c1a5825a70?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing Intel Core i5 processor graphic on a blue background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/46480205-e6fa-4cdd-a4e9-6d819dd77440?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 15.6\" laptop viewed from the front with silver accents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/74797053-ed98-4bae-9ea4-9b6256ce9d8a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying features like long battery life and AI assistance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b74b6408-4b79-493d-8ffe-36b65b4675ab?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 15.6 inch laptop shown with its box and power adapter."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e08fc07e-ed79-41b4-ade3-75c90c41318a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up view of laptop ports and audio jack configuration."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" FHD Touchscreen",
+        "Intel Deca-Core i5-1334U Processor (10 cores, 12 threads, max turbo to 4.6GHz)",
+        "Intel Iris Xe Graphics",
+        "32GB DDR4 RAM",
+        "1 TB PCIe SSD",
+        "Wi-Fi 6 and Bluetooth 5.3",
+        "Windows 11",
+        "Office 2024 License",
+        "Ports: AC smart pin, USB-A 3.2 Gen 1 (x2), HDMI 1.4b, USB Type-C, Headphone/microphone combo jack"
+      ],
+      "colors": [
+        {
+          "hex": "#91c4ee",
+          "percentage": 0.1591
+        },
+        {
+          "hex": "#7b7f84",
+          "percentage": 0.1503
+        },
+        {
+          "hex": "#bab5a8",
+          "percentage": 0.1469
+        },
+        {
+          "hex": "#1d2b33",
+          "percentage": 0.1297
+        },
+        {
+          "hex": "#484f51",
+          "percentage": 0.1154
+        },
+        {
+          "hex": "#bfdaed",
+          "percentage": 0.1119
+        },
+        {
+          "hex": "#42769d",
+          "percentage": 0.1032
+        },
+        {
+          "hex": "#80a9bc",
+          "percentage": 0.0835
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/LNKzx9D-LPzf-8tFxDf?o=01M60DFR0Y1QGPS0E05436XDT0&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1139.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.17,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.29,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.73,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.52,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-cores": [
+          "Deca"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "display-resolution": [
+          "Full HD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "yPqEM3M",
+      "title": "HP 15 Laptop",
+      "description": "This HP 15 Laptop features a 15.6-inch FHD touchscreen and is powered by an Intel Deca-Core i5-1334U processor with Intel Iris Xe Graphics. It is equipped with 32GB of DDR4 RAM and a 512GB PCIe SSD for efficient multitasking and storage. The laptop runs on Windows 11 and includes an Office 2024 license. It offers modern connectivity with Wi-Fi 6, Bluetooth 5.3, and a variety of ports including USB-A 3.2 Gen 1, USB Type-C, and HDMI 1.4b.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b3202c43-77fb-44bc-8202-c6bc649a822d?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "HP laptop screen displaying detailed memory, storage, and OS specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/06758bdf-2e34-47ec-89cd-43ca19fad487?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop screen displaying Intel Core i5 processor graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/29d58f0a-469a-42c2-a97c-78d3fbf1c116?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 15.6\" Laptop in natural silver color with keyboard and screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0fede753-a345-40ca-8cce-64af47ee9393?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person using HP laptop to watch video and use AI assistance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9897805-91a8-47d6-b114-181254436ee9?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 15.6\" Laptop silver model with power adapter and instructions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fafdc3c5-212d-4068-80c8-bf1fa518e569?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of laptop ports showing USB and audio connections."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" FHD Touchscreen",
+        "Intel Deca-Core i5-1334U Processor",
+        "Intel Iris Xe Graphics",
+        "32GB DDR4 RAM",
+        "512GB PCIe SSD",
+        "Wi-Fi 6 and Bluetooth 5.3",
+        "Windows 11",
+        "Office 2024 License"
+      ],
+      "colors": [
+        {
+          "hex": "#f0edec",
+          "percentage": 0.3776
+        },
+        {
+          "hex": "#bfc1c2",
+          "percentage": 0.1538
+        },
+        {
+          "hex": "#5d686f",
+          "percentage": 0.1519
+        },
+        {
+          "hex": "#171b27",
+          "percentage": 0.1369
+        },
+        {
+          "hex": "#523a48",
+          "percentage": 0.0981
+        },
+        {
+          "hex": "#9b9195",
+          "percentage": 0.0816
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/yPqEM3M-LPzf-8tFxDf?o=01M5E58QRVGEJVZ5T74X3N3AF1&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 969.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.17,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.29,
+              "unit": "in"
+            },
+            "height": null,
+            "weight": {
+              "number": 3.52,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "Full HD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen",
+          "AI-powered"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "6RxzDTH",
+      "title": "HP 15 Laptop",
+      "description": "This HP 15 Laptop features a 15.6-inch Full HD touchscreen display and is powered by an Intel Deca-Core i5-1334U processor with Intel Iris Xe Graphics. It comes equipped with 32GB of DDR4 memory and a 2TB PCIe SSD for ample storage and performance. The laptop includes Wi-Fi 6 and Bluetooth 5.3 for modern connectivity, runs Windows 11, and includes an Office 2024 license. Its sleek silver chassis measures 14.17 x 9.29 x 0.73 inches and weighs 3.52 pounds.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/72010706-179e-4955-9d2c-c6d7877bfb6b?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Laptop showing detailed specifications including RAM, SSD, and OS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7a48c94b-4102-4b3e-a477-296d272d1c77?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing Intel Core i5 and Windows 11."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce57b135-dac5-4df1-91c7-5844e8c62bc9?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 15.6\" Laptop in natural silver color."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/545bf714-8b1a-404e-924b-dd05de0ef9b7?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing video playback and long battery life features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e5927f8d-d78b-47bf-b4c0-296086115b21?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "What's in the box for the HP 15.6 Laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eebe9b09-9b09-4b93-b0dc-03aa9eff4560?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of laptop ports showing USB and HDMI connections."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" FHD Touchscreen",
+        "Intel Deca-Core i5-1334U Processor (10 cores, 12 threads, max turbo to 4.6GHz)",
+        "Intel Iris Xe Graphics",
+        "32GB DDR4 Memory",
+        "2TB PCIe SSD",
+        "Wi-Fi 6 and Bluetooth 5.3",
+        "Windows 11",
+        "Office 2024 License",
+        "Webcam included"
+      ],
+      "colors": [
+        {
+          "hex": "#f0edec",
+          "percentage": 0.3776
+        },
+        {
+          "hex": "#bfc1c2",
+          "percentage": 0.1538
+        },
+        {
+          "hex": "#5d686f",
+          "percentage": 0.1519
+        },
+        {
+          "hex": "#171b27",
+          "percentage": 0.1369
+        },
+        {
+          "hex": "#523a48",
+          "percentage": 0.0981
+        },
+        {
+          "hex": "#9b9195",
+          "percentage": 0.0816
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/6RxzDTH-LPzf-8tFxDf?o=01M60DZJDDRTVXPW96T1SM7RMW&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1289.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.17,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.29,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.73,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.52,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-resolution": [
+          "Full HD"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "ram": [
+          "32 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ixXC7fz",
+      "title": "HP 14 laptop",
+      "description": "Designed to keep you productive and entertained, this HP 14-inch laptop PC features a Copilot key for AI assistance, long battery life, and a thin, portable design. It is powered by an Intel Processor N150 with 4GB of RAM and 128GB of UFS storage, making it ideal for students and professionals on the go.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6ba574da-af17-4ee7-9df4-72db790e6404?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Pale rose gold HP laptop shown from above on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9d594600-c60b-4de7-9c5e-27a8b72c5dad?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 14 inch laptop displayed with key specs icons."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/16b25ba2-eb94-4158-a03e-cdfd46975ccf?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop screen displaying colorful birthday scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f7a67efc-bd4b-48a2-b7d7-3004dd1e55ca?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop in use on a wooden desk with work documents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/40016b1e-b59b-4438-ab78-cc579c0d1482?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop being used on a marble table by a window with a view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b3a67d40-cfca-4cef-8544-57f051367ee1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop displaying Microsoft 365 and documents on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4b21b49f-d6d8-4fbb-ac55-8db79c482ce2?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop screen showing Copilot interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/05f3d830-8c47-4c2c-8171-8ebdb782c113?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of laptop ports and connectivity features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/54aca76f-0f23-4e0c-b748-3a9e513f6abd?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dimensions and weight specifications of the HP 14 inch laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/57df370f-ff08-41d7-8854-b7a86638a0b3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop highlighting environmental certifications and sustainability."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/52527d27-9aa2-4c41-a25a-698751b3a5ce?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop placed on a wooden table with headphones in a room."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Processor N150",
+        "4GB DDR4 Memory (RAM)",
+        "128GB Universal Flash Storage",
+        "14-in HD Display with micro-edge bezel",
+        "Up to 11 hours of battery life",
+        "HP Fast Charge technology",
+        "Wi-Fi 6 (2x2) and Bluetooth 5.4",
+        "Windows 11 Home in S Mode",
+        "Microsoft Copilot AI assistance",
+        "Includes one year subscription of Microsoft 365"
+      ],
+      "colors": [
+        {
+          "hex": "#e7cfc7",
+          "percentage": 0.5242
+        },
+        {
+          "hex": "#cbb0a8",
+          "percentage": 0.4758
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ixXC7fz-BsaX-8tFxDf?o=01M5ZPPS8C0H9JM8NRHTHAGFCZ&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "walmart.com",
+          "price": {
+            "price": 219.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/ixXC7fz-p1PB-8tFxDf?o=01M4KR7ZF7TKYV99ENX51ZWAFB&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 257.0,
+            "compare_at_price": 279.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 8.86,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.76,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.71,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.24,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel celeron",
+          "Intel Core Ultra 5"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-capacity": [
+          "128 GB"
+        ],
+        "ram": [
+          "4 GB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "display-resolution": [
+          "HD",
+          "1366 x 768"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Standard"
+        ],
+        "display-technology": [
+          "LCD"
+        ]
+      },
+      "ratings": {
+        "value": 4.47,
+        "count": 615,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "TTWFcIv",
+      "title": "HP 14 Laptop",
+      "description": "Sleek. Slim. Stylish design. Designed for portability and features a micro-edge HD display with an ultra-narrow bezel for a smaller frame. Windows 10 Home in S mode and Office 365 Personal included: Experience the most secure Windows ever built streamlined for security and superb performance. Add in full access to Microsoft Excel Word PowerPoint OneNote Access and 60 Skype minutes per month for one year plus 1TB OneDrive cloud storage for one year for improved productivity. This item was manufactured in 2019",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2b622647-520f-4e68-a5ea-33f8f19378f0?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2b622647-520f-4e68-a5ea-33f8f19378f0?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=BsaX",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver HP 14 laptop with blue screen display, front view."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Celeron N4000",
+        "4GB SDRAM",
+        "64GB eMMC",
+        "Office 365 Personal 1-year included",
+        "Windows 10 Home in S mode",
+        "Micro-edge HD display",
+        "1TB OneDrive cloud storage"
+      ],
+      "colors": [
+        {
+          "hex": "#1e1f23",
+          "percentage": 0.259
+        },
+        {
+          "hex": "#535253",
+          "percentage": 0.1523
+        },
+        {
+          "hex": "#022396",
+          "percentage": 0.1446
+        },
+        {
+          "hex": "#020f55",
+          "percentage": 0.1183
+        },
+        {
+          "hex": "#4478a2",
+          "percentage": 0.1159
+        },
+        {
+          "hex": "#89adc0",
+          "percentage": 0.1114
+        },
+        {
+          "hex": "#344152",
+          "percentage": 0.0985
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/TTWFcIv-BsaX-8tFxDf?o=01M5ZP81H18BHMN99HKWJR1SYJ&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "walmart.com",
+          "price": {
+            "price": 222.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-capacity": [
+          "64 GB"
+        ],
+        "ram": [
+          "4 GB"
+        ],
+        "display-resolution": [
+          "HD"
+        ],
+        "storage-drive-type-installed": [
+          "eMMC"
+        ],
+        "processor-family": [
+          "Intel celeron"
+        ],
+        "memory-technology": [
+          "SDRAM"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ZXOAChV",
+      "title": "HP 14 Laptop",
+      "description": "This HP 14-inch laptop is a portable computing solution finished in modern snowflake white. It is powered by an Intel Celeron N4500 dual-core processor (up to 2.8 GHz) with 8GB of RAM and 256GB of storage. The device runs Windows 11 Home in S mode with AI-powered Copilot and includes a 1-year Microsoft 365 subscription. For added utility, it comes bundled with a wireless mouse and a USB flash drive. Connectivity options include HDMI, USB-C, dual USB-A ports, an SD card reader, Wi-Fi, and Bluetooth.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3416849f-ca68-4aa5-99b4-78eeb23d360c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3416849f-ca68-4aa5-99b4-78eeb23d360c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "White HP 14 laptop with Windows 11 and Office 365 on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f976f611-191a-49cd-9483-fb1d47203987?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop displaying Microsoft 365 branding on a blue background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e200d629-c8f3-46a7-9668-da1417434d61?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop features and connectivity specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aa90cc35-c484-4940-915a-ec7128b60ee0?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop showing Microsoft Copilot AI assistance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5fa25c6e-0655-4bda-b6b3-c495d681ef3e?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop performance features and Intel Celeron processor."
+        },
+        {
+          "url": "https://d3gqasl9vmjfd8.cloudfront.net/2dea3225-7cad-4b6b-a4b2-aa9bc972bb7c.png",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of laptop ports including USB and HDMI."
+        },
+        {
+          "url": "https://d3gqasl9vmjfd8.cloudfront.net/e16d2e94-30de-4199-bece-a8888efad77a.png",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop on a table with coffee and food in a lifestyle setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0bb8952-0954-4b3b-9b52-59d6c7459d28?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop on a wooden desk with a desk lamp."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c44984fd-c135-40e2-ac0c-2198ba5df658?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 14 laptop dimensions and specifications shown."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Celeron N4500 dual-core processor (up to 2.8 GHz)",
+        "8GB RAM",
+        "256GB Storage",
+        "Windows 11 Home in S mode with AI-powered Copilot",
+        "1-year Microsoft 365 subscription included",
+        "Includes wireless mouse and USB flash drive",
+        "HDMI, USB-C, dual USB-A ports, and SD card reader",
+        "Wi-Fi and Bluetooth support"
+      ],
+      "colors": [
+        {
+          "hex": "#020102",
+          "percentage": 0.4352
+        },
+        {
+          "hex": "#b1b2b3",
+          "percentage": 0.1625
+        },
+        {
+          "hex": "#252628",
+          "percentage": 0.1512
+        },
+        {
+          "hex": "#6e334f",
+          "percentage": 0.1139
+        },
+        {
+          "hex": "#936982",
+          "percentage": 0.0805
+        },
+        {
+          "hex": "#200813",
+          "percentage": 0.0566
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ZXOAChV-CgP5-8tFxDf?o=01M60R893JRMQSR5C223DBMBN6&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "computers.woot.com",
+          "price": {
+            "price": 221.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.091,
+          "dimensions": {
+            "length": {
+              "number": 8.86,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.76,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.71,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.24,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "removable-storage-formats-supported": [
+          "SD",
+          "USB flash drive"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel celeron"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "ram": [
+          "8 GB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-cores": [
+          "Dual"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "L21P1sQ",
+      "title": "HP 15 Laptop",
+      "description": "This HP 15 Laptop is a versatile machine featuring a 15.6-inch Full HD (1920 x 1080) display and is powered by a 13th Gen Intel Core i3-N305 processor with 8 cores. It comes equipped with 32GB of DDR4 RAM and a generous 2TB PCIe SSD for ample storage and fast performance. The laptop includes Intel UHD Graphics, Wi-Fi 6, Bluetooth 5.3, and runs on Windows 11, and it also comes with an Office 2024 License. Its sleek silver chassis weighs approximately 3.52 lbs.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/090e744b-2c14-420e-ae1d-ac6abd8d05d1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/090e744b-2c14-420e-ae1d-ac6abd8d05d1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing system specs and Windows 11."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/946cb0b1-dfae-476b-a293-364abb84bc37?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying a search engine interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fb370a49-b9bb-4c8f-9865-ca73d11f638d?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fb370a49-b9bb-4c8f-9865-ca73d11f638d?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying a blue abstract interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/148cb365-d53a-464d-b65c-13f7a957b25b?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/148cb365-d53a-464d-b65c-13f7a957b25b?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying a blue abstract interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9c4ae370-9013-4bc8-b39d-058741af6ae8?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9c4ae370-9013-4bc8-b39d-058741af6ae8?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP 15 laptop showing the top view and keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" FHD (1920 x 1080) Display",
+        "13th Gen Intel Core i3-N305 Processor (8 Cores, 8 Threads, up to 3.80 GHz)",
+        "32GB DDR4 RAM",
+        "2TB PCIe SSD",
+        "Intel UHD Graphics",
+        "Wi-Fi 6 and Bluetooth 5.3 combo",
+        "Windows 11",
+        "Office 2024 License",
+        "1 x USB Type-C 3.0, 2 x USB Type-A 3.0, 1 x HDMI, 1 x Headphone/Microphone combo"
+      ],
+      "colors": [
+        {
+          "hex": "#6d705f",
+          "percentage": 0.172
+        },
+        {
+          "hex": "#403a25",
+          "percentage": 0.1408
+        },
+        {
+          "hex": "#c9c5bb",
+          "percentage": 0.1407
+        },
+        {
+          "hex": "#191a15",
+          "percentage": 0.1375
+        },
+        {
+          "hex": "#4e5435",
+          "percentage": 0.137
+        },
+        {
+          "hex": "#6d9ca6",
+          "percentage": 0.1086
+        },
+        {
+          "hex": "#263028",
+          "percentage": 0.0934
+        },
+        {
+          "hex": "#4a696e",
+          "percentage": 0.07
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/L21P1sQ-LPzf-8tFxDf?o=01M619Q7DBH0XTZDZFEACHH43V&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1129.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.22,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.34,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.78,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.52,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel core i3"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eNxyqDM",
+      "title": "HP 17 Laptop",
+      "description": "This HP 17 Laptop is a high-performance machine featuring a 17.3-inch HD+ (1600x900) display, powered by a 13th Gen Intel Core i5-1334U processor with 10 cores and 12 threads. It comes equipped with 32GB of DDR4 RAM and a 1TB PCIe SSD for ample speed and storage. The laptop is driven by Intel Iris Xe Graphics and runs on Windows 11 Pro, and it includes an Office 2024 license. Connectivity options include Wi-Fi 6, Bluetooth 5.4, a USB-C port, two USB-A ports, and an HDMI 1.4b port. Designed for efficiency and productivity, it weighs 4.6 lbs and is finished in a professional black color.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/823203ac-61b6-4a94-9def-fd3e93600b63?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen showing 32GB RAM, 1TB SSD, and Windows 11 Professional specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/44d735d2-1e71-47d2-8ae0-3dffd1b6dc00?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen showing Office 2024 license and Windows 11 Pro details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fb31b451-8277-41a4-94df-717cf9317579?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fb31b451-8277-41a4-94df-717cf9317579?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP 17.3 laptop shown from above with screen display and dimensions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3e5d41c2-cc39-4aa1-a3bb-1ee19407cda9?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3e5d41c2-cc39-4aa1-a3bb-1ee19407cda9?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP 17.3 laptop shown from above with screen display and dimensions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f9af9526-a0c5-42e4-9704-3d6b19f103b8?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f9af9526-a0c5-42e4-9704-3d6b19f103b8?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP 17.3 laptop shown from above with screen display and dimensions."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "17.3\" HD+ (1600x900) Display",
+        "13th Gen Intel Core i5-1334U (up to 4.6 GHz, 10 cores, 12 threads)",
+        "32GB DDR4 RAM",
+        "1TB PCIe SSD",
+        "Intel Iris Xe Graphics",
+        "Windows 11 Pro",
+        "Office 2024 License",
+        "Wi-Fi 6 and Bluetooth 5.4",
+        "1 x USB-C (5Gbps), 2 x USB-A (5Gbps), 1 x HDMI 1.4b"
+      ],
+      "colors": [
+        {
+          "hex": "#4f4f50",
+          "percentage": 0.2914
+        },
+        {
+          "hex": "#f4f3ec",
+          "percentage": 0.2693
+        },
+        {
+          "hex": "#2e2f30",
+          "percentage": 0.2419
+        },
+        {
+          "hex": "#c8c7cb",
+          "percentage": 0.1299
+        },
+        {
+          "hex": "#827f8c",
+          "percentage": 0.0675
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eNxyqDM-LPzf-8tFxDf?o=01M4PYFY8X1T5WD1BEQXSXCP04&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1039.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 15.78,
+              "unit": "in"
+            },
+            "width": {
+              "number": 0.81,
+              "unit": "in"
+            },
+            "height": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "hHz4bv6",
+      "title": "HP 14 14\" Laptop",
+      "description": "This HP 14-inch laptop is designed for everyday performance, combining a lightweight build with a responsive system suitable for study, work, and creative projects. It features a 14.0\" HD display and is powered by a 3rd Gen Intel Celeron N4500 processor, 16GB of DDR4 memory, and a 512GB PCIe SSD for fast storage. The device runs on Windows 11 Pro and offers modern connectivity including Wi-Fi 6 and Bluetooth 5.4. For added convenience, it comes bundled with an HP wireless mouse.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f462d8fe-25ac-46fc-8acd-bfb2b37d3576?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f462d8fe-25ac-46fc-8acd-bfb2b37d3576?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP 14 laptop with wireless mouse on white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e4b5bda-7c79-4334-93df-ae186f83c3f1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5e4b5bda-7c79-4334-93df-ae186f83c3f1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 14 laptop with wireless mouse on white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ca470f3-9f74-48b5-8d57-f6a660b81b99?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0ca470f3-9f74-48b5-8d57-f6a660b81b99?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Open HP 14 laptop displaying blue abstract graphic on screen."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14.0\" HD (1366x768) 60Hz 16:9 Display",
+        "3rd Gen Celeron N4500 1.10GHz Processor (upto 2.8 GHz, 4MB Cache, 2-Cores, 2-Threads)",
+        "16GB DDR4 SO-DIMM",
+        "512GB PCIe SSD",
+        "Intel UHD Integrated Graphics",
+        "Windows 11 Pro",
+        "Connectivity: 802.11ax Wifi, Bluetooth 5.4",
+        "Includes HP Wireless Mouse"
+      ],
+      "colors": [
+        {
+          "hex": "#030810",
+          "percentage": 0.2657
+        },
+        {
+          "hex": "#e5e5e6",
+          "percentage": 0.2646
+        },
+        {
+          "hex": "#c2c3c5",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#31373f",
+          "percentage": 0.1317
+        },
+        {
+          "hex": "#0d2034",
+          "percentage": 0.1145
+        },
+        {
+          "hex": "#8b909b",
+          "percentage": 0.0906
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/hHz4bv6-K6RA-8tFxDf?o=01M49NH967C3YM7PFB2A11EXP1&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "macys.com",
+          "price": {
+            "price": 369.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.1,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel celeron"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "display-resolution": [
+          "1366 x 768"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "processor-cores": [
+          "Dual"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "VCRdpXL",
+      "title": "HP 17 Laptop",
+      "description": "This HP 17 laptop features a large 17.3-inch HD+ anti-glare display, making it suitable for productivity and entertainment. It is powered by an Intel Core i5-1334U 10-core processor, paired with a significant 64GB of RAM and a 2TB PCIe SSD for fast performance and ample storage. The device includes Intel Iris Xe Graphics, Wi-Fi 6 connectivity, and comes pre-installed with Windows 11 Pro and Lifetime Office 2021. It is designed with a sleek, portable chassis and includes an ergonomic keyboard with a numeric keypad.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c258810c-7cae-44e6-b9c0-790be9331aad?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop with a kitten resting on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6c5eb37b-612b-48a5-a766-435ca80e5c22?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop with a kitten resting on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b0721c74-787a-4f8b-93c1-728ea0ce6f91?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b0721c74-787a-4f8b-93c1-728ea0ce6f91?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 laptop shown from above with a sunny outdoor scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d0c55829-969e-402d-9624-306a35056ac3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d0c55829-969e-402d-9624-306a35056ac3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 laptop shown from above with a sunny outdoor scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8fcd67b8-806d-45e0-9a37-d82583c8f8f3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8fcd67b8-806d-45e0-9a37-d82583c8f8f3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 laptop shown from above with dimensions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f095aef0-f3b1-4e57-ad60-df7586005240?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f095aef0-f3b1-4e57-ad60-df7586005240?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 laptop shown from above with vibrant abstract wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "17.3\" HD+ anti-glare display",
+        "Intel Core i5-1334U 10 Cores Processor",
+        "64GB RAM",
+        "2TB PCIe SSD",
+        "Intel Iris Xe Graphics",
+        "Wi-Fi 6",
+        "Windows 11 Pro",
+        "Lifetime Office 2021",
+        "Ergonomic keyboard with built-in numeric keypad",
+        "Efficient thermal cooling design"
+      ],
+      "colors": [
+        {
+          "hex": "#4f4e50",
+          "percentage": 0.2915
+        },
+        {
+          "hex": "#f5f3ed",
+          "percentage": 0.2684
+        },
+        {
+          "hex": "#2e2f2f",
+          "percentage": 0.2416
+        },
+        {
+          "hex": "#c8c7ca",
+          "percentage": 0.1319
+        },
+        {
+          "hex": "#827e8b",
+          "percentage": 0.0665
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VCRdpXL-LPzf-8tFxDf?o=01M653D2XFPQ8A478779ED0N2R&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1059.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "width": {
+              "number": 15.78,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.78,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "HD"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "64 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "QDMherm",
+      "title": "HP 17-cn3582nr Laptop",
+      "description": "HP 17-cn3582nr Laptop featuring a 17.3-inch HD+ (1600 x 900) anti-glare display, powered by an Intel Core i5-1334U processor and Intel Iris X Graphics. This high-performance laptop comes with 32GB DDR4 RAM and a 512GB PCIe NVMe SSD, running on Windows 11 Pro. It includes a full-size jet black keyboard with a numeric keypad, Wi-Fi 6, Bluetooth 5.4, and an HP True Vision 720p HD camera.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c3bf162b-c7e2-4f06-bbbe-3026e876dd9e?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c3bf162b-c7e2-4f06-bbbe-3026e876dd9e?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black laptop displaying a landscape wallpaper and specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2ccf2560-718a-4a2a-b15c-3a754f5e1626?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2ccf2560-718a-4a2a-b15c-3a754f5e1626?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black laptop with blue wallpaper and screen showing a desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e42f996b-b1cf-4c9e-a047-926ff7c64e4a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e42f996b-b1cf-4c9e-a047-926ff7c64e4a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black laptop with blue wallpaper and screen showing a desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f36df67a-d432-4e50-9501-df74a0df8c5f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f36df67a-d432-4e50-9501-df74a0df8c5f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black laptop viewed from an angle showing hinge and keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "17.3\" diagonal, HD+ (1600 x 900), anti-glare, 250 nits, 60% NTSC Display",
+        "Intel Core i5-1334U Processor (up to 4.6 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
+        "32GB DDR4 RAM",
+        "512 GB PCIe NVMe SSD",
+        "Intel Iris X Graphics",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 6 and Bluetooth 5.4",
+        "HP True Vision 720p HD camera with temporal noise reduction",
+        "Full-size, jet black keyboard with numeric keypad",
+        "1 USB Type-C 5Gbps, 2 USB Type-A 5Gbps, 1 HDMI 1.4b, 1 headphone/microphone combo"
+      ],
+      "colors": [
+        {
+          "hex": "#7499b4",
+          "percentage": 0.3207
+        },
+        {
+          "hex": "#121a15",
+          "percentage": 0.172
+        },
+        {
+          "hex": "#445158",
+          "percentage": 0.1432
+        },
+        {
+          "hex": "#d4dce6",
+          "percentage": 0.1254
+        },
+        {
+          "hex": "#a6b5c6",
+          "percentage": 0.1103
+        },
+        {
+          "hex": "#24232b",
+          "percentage": 0.0736
+        },
+        {
+          "hex": "#6b7481",
+          "percentage": 0.0549
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/QDMherm-LPzf-8tFxDf?o=01M4PXGCNC4GNGM9B4MYWGF00G&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 559.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 15.78,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.81,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "ram": [
+          "32 GB"
+        ],
+        "storage-capacity": [
+          "512 GB",
+          "1 TB",
+          "256 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "1440 x 900"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "operating-system": [
+          "Windows"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "mFsR5hn",
+      "title": "HP 17 Laptop",
+      "description": "HP 17 Laptop featuring a 17.3\" HD+ (1600x900) display, powered by a 13th Gen Intel Core i5-1334U 10-core processor and Intel Iris Xe Graphics. This high-performance machine comes equipped with 16GB DDR4 RAM and a generous 2TB PCIe SSD for ample storage and speed. It runs Windows 11 Pro and includes an Office 2024 License. Connectivity is handled by Wi-Fi 6 and Bluetooth 5.3, making it suitable for professional and personal use.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cbe350aa-5ee0-47ac-8ce3-a7a9f9e3a588?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "HP laptop screen showing specs: 16GB RAM, 2TB SSD, i5, Windows 11."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d99b00d-8af2-4440-a6ae-9ba3abe912da?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "HP laptop screen showing Office 2024 and Windows 11 Pro."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a3e4ac34-02a3-4909-b734-3ff53cf656f4?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a3e4ac34-02a3-4909-b734-3ff53cf656f4?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 Laptop displayed with outdoor scenery wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/194caa4c-1ee5-4f6c-aa47-6a58e57607f6?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/194caa4c-1ee5-4f6c-aa47-6a58e57607f6?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 Laptop displayed with outdoor scenery wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/59d04fd6-3a62-46e8-b041-08421d27c23c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/59d04fd6-3a62-46e8-b041-08421d27c23c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 Laptop displayed with blue crowd wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d2a7e345-08f4-4664-9930-7f8ce3c58e2f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d2a7e345-08f4-4664-9930-7f8ce3c58e2f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17 Laptop displayed with abstract orange wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "13th Gen Intel Core i5-1334U Processor (up to 4.6 GHz, 10 cores, 12 threads)",
+        "17.3\" HD+ (1600x900) Display",
+        "Intel Iris Xe Graphics",
+        "16GB DDR4 RAM",
+        "2TB PCIe SSD",
+        "Wi-Fi 6 and Bluetooth 5.3",
+        "Windows 11 Pro",
+        "Office 2024 License",
+        "Ports: 1 x USB-C (5Gbps), 2 x USB-A (5Gbps), 1 x HDMI 1.4b, 1 x headphone/microphone combo jack"
+      ],
+      "colors": [
+        {
+          "hex": "#4f4f50",
+          "percentage": 0.2914
+        },
+        {
+          "hex": "#f4f3ec",
+          "percentage": 0.2693
+        },
+        {
+          "hex": "#2e2f30",
+          "percentage": 0.2419
+        },
+        {
+          "hex": "#c8c7cb",
+          "percentage": 0.1299
+        },
+        {
+          "hex": "#827f8c",
+          "percentage": 0.0675
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/mFsR5hn-LPzf-8tFxDf?o=01M4PYH4RTJ66E8QCP1YY50Q11&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1049.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 15.78,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "height": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "5rRT2df",
+      "title": "HP 17 Laptop",
+      "description": "The HP 17 Laptop is a professional-grade portable computer featuring a large 17.3-inch HD+ display (1600x900). It is powered by a 13th Gen Intel Core i5-1334U processor with 10 cores and 12 threads, paired with 16GB of DDR4 RAM and a 512GB PCIe SSD for efficient multitasking and storage. For visuals, it utilizes Intel Iris Xe Graphics. The system comes pre-installed with Windows 11 Pro and includes an Office 2024 license. Connectivity options include Wi-Fi 6, Bluetooth 5.4, USB-C, USB-A, and HDMI 1.4b ports.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6bf8c565-b8b5-48be-8fb3-e0ff0b855308?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen showing hardware and software specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a156165d-543c-4005-bbc4-11bb05d01471?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen showing software and OS specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c1d19809-9fdf-4aa8-bb2d-823e9f665f2c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c1d19809-9fdf-4aa8-bb2d-823e9f665f2c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying a sunny outdoor scene with a skateboarder."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/72aa71f2-6892-40fe-9210-928919a15fb3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/72aa71f2-6892-40fe-9210-928919a15fb3?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying a sunny outdoor scene with a skateboarder."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c0f84b6-19b9-499c-8e77-13501d76da55?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1c0f84b6-19b9-499c-8e77-13501d76da55?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black HP 17 laptop showing a crowd scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fbfb0275-8e44-4db1-a30f-6e61797d0ac4?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fbfb0275-8e44-4db1-a30f-6e61797d0ac4?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black HP 17 laptop showing screen and dimensions."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "17.3\" HD+ (1600x900) Display",
+        "13th Gen Intel Core i5-1334U (up to 4.6 GHz, 10 cores)",
+        "16GB DDR4 RAM",
+        "512GB PCIe SSD",
+        "Intel Iris Xe Graphics",
+        "Windows 11 Pro",
+        "Office 2024 License",
+        "Wi-Fi 6 and Bluetooth 5.4",
+        "Ports: 1 x USB-C, 2 x USB-A, 1 x HDMI 1.4b, headphone/microphone combo jack"
+      ],
+      "colors": [
+        {
+          "hex": "#4f4f50",
+          "percentage": 0.2914
+        },
+        {
+          "hex": "#f4f3ec",
+          "percentage": 0.2693
+        },
+        {
+          "hex": "#2e2f30",
+          "percentage": 0.2419
+        },
+        {
+          "hex": "#c8c7cb",
+          "percentage": 0.1299
+        },
+        {
+          "hex": "#827f8c",
+          "percentage": 0.0675
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5rRT2df-LPzf-8tFxDf?o=01M4PYFHBRPQYXGNQNAV41ASVD&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 729.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 15.78,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "height": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-cores": [
+          "Deca"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "GuRwSo6",
+      "title": "HP 15 Laptop",
+      "description": "A customized HP 15 Laptop featuring a 15.6-inch FHD touch display, powered by an Intel Core i5-1334U processor (1.3 - 5GHz). It comes equipped with 32GB DDR4 RAM and a substantial 4TB NVMe SSD for ample storage and performance, running Windows 11 Home. The laptop includes HDMI connectivity and a built-in webcam with an integrated microphone.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0114ef12-b8b7-4c1c-9790-84680b68960b?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop open on a plain background showing a desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/82cc8514-1d24-4a76-bb03-a9502df4372c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/82cc8514-1d24-4a76-bb03-a9502df4372c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop open showing a content window on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cfb8479d-f0b3-4611-844a-d444e70bf5ee?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cfb8479d-f0b3-4611-844a-d444e70bf5ee?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop open with a content window on the display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c9876d10-ae1e-426c-b786-1173a1dddd4a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c9876d10-ae1e-426c-b786-1173a1dddd4a?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the silver laptop showing the side panel and ports."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" FHD Touch Display",
+        "Intel Core i5-1334U (1.3 - 5GHz)",
+        "32GB DDR4 RAM",
+        "4TB NVMe SSD",
+        "Windows 11 Home",
+        "Built-in webcam and microphone",
+        "HDMI port"
+      ],
+      "colors": [
+        {
+          "hex": "#a7c6dc",
+          "percentage": 0.2883
+        },
+        {
+          "hex": "#4b576c",
+          "percentage": 0.1661
+        },
+        {
+          "hex": "#dfe9f3",
+          "percentage": 0.1349
+        },
+        {
+          "hex": "#c6c9cc",
+          "percentage": 0.1243
+        },
+        {
+          "hex": "#1e283e",
+          "percentage": 0.1167
+        },
+        {
+          "hex": "#5284b2",
+          "percentage": 0.0856
+        },
+        {
+          "hex": "#9ca7b0",
+          "percentage": 0.0841
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/GuRwSo6-LPzf-8tFxDf?o=01M61DG8VRRZA2AAKNSHMZFY1E&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1489.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "Full HD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-capacity": [
+          "4 TB"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "CXpY7qz",
+      "title": "HP 17 Laptop",
+      "description": "A high-performance HP 17-inch laptop featuring a 17.3\" HD+ (1600 x 900) anti-glare display. Powered by an Intel Core 5 120U processor with 12 cores and 14 threads, it comes equipped with 16GB of DDR4 RAM and a massive 2TB PCIe SSD for ample storage. The system runs on Windows 11 Pro and includes Wi-Fi 6, Bluetooth, and integrated Intel Graphics, making it suitable for both professional and personal use.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/58eaa9a7-9916-402d-a346-8bcc1d30db3d?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/58eaa9a7-9916-402d-a346-8bcc1d30db3d?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing Windows 11, 16GB RAM, 2TB SSD, and a race car."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/10702816-c5f7-4f84-9ccc-e0ee96d95047?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the HP 17-cn3057nr laptop displaying a colorful screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/75ae80be-188b-40f8-8148-4cf66e012089?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of an FHD IPS anti-glare laptop screen showing a landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c6b28bc-9fba-498c-9d35-47844cebd30d?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A young man using a laptop for work in a room."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fb443d00-6e6c-455f-ba44-3e315cf1086b?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop with webcam and speakers on a wooden desk in a bedroom."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3ec84586-5753-43f0-99fa-8d8be1a31c4f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing a mountain view and 17.3 inch display size."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "17.3\" HD+ (1600 x 900) Anti-Glare Display",
+        "Intel Core 5 120U Processor (12 Cores, 14 Threads, up to 5.0GHz)",
+        "16GB DDR4 RAM",
+        "2TB PCIe SSD Storage",
+        "Intel Integrated Graphics",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 6 and Bluetooth connectivity",
+        "Ports: 2x USB Type-A, 1x USB Type-C, 1x HDMI, 1x headphone/microphone combo"
+      ],
+      "colors": [
+        {
+          "hex": "#494b52",
+          "percentage": 0.1679
+        },
+        {
+          "hex": "#bc1c25",
+          "percentage": 0.1381
+        },
+        {
+          "hex": "#ad8795",
+          "percentage": 0.1294
+        },
+        {
+          "hex": "#181117",
+          "percentage": 0.1276
+        },
+        {
+          "hex": "#302f36",
+          "percentage": 0.1275
+        },
+        {
+          "hex": "#d2b8c2",
+          "percentage": 0.1218
+        },
+        {
+          "hex": "#7e191d",
+          "percentage": 0.0991
+        },
+        {
+          "hex": "#a15a67",
+          "percentage": 0.0886
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CXpY7qz-LPzf-8tFxDf?o=01M5V01MEMSKCTN8EBQ7E82DMY&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1259.79,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 15.78,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.15,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.81,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "display-resolution": [
+          "1440 x 900"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel xeon"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "CZmzUAU",
+      "title": "HP Laptop 17",
+      "description": "Multitask with ease thanks to the powerful Intel\u00ae Processor, fast Wi\u2011Fi technology and plenty of storage. With comforts like an enlarged click pad and HP Fast Charge, you can get back to creating, watching, doing. Enjoy the 17.3\u2011inch diagonal high\u2011res, narrow\u2011bezel screen with lift\u2011hinge keyboard for more natural typing. Thoughtfully designed with recycled plastics and EPEAT\u00ae Gold\u2011registered, ENERGY STAR\u00ae\u2011certified. Includes four\u2011month PC Game Pass and one\u2011month Microsoft Copilot trial.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/89069954-954e-4357-8c5a-6df251455be8?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/89069954-954e-4357-8c5a-6df251455be8?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "is_main_image": true,
+          "shot_type": "packaging",
+          "alt_text": "HP 17 Laptop, AC power adapter, and setup poster in the box."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7b2ce24d-fee9-4a84-b35f-f5342a426787?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP 17.3-inch Laptop PC displaying a snowy landscape on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/577f286e-644d-466b-8034-7a29fb1787b6?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Dimensions and weight specifications for the HP 17.3-inch laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/71c65423-c329-4aac-aea1-b4791b6e125c?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A person jumping outdoors while using an HP laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/393f6fad-1179-4565-9890-014ed64b0835?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/393f6fad-1179-4565-9890-014ed64b0835?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the HP laptop with a rose gold accent."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/486f03d8-b58f-4908-8c2b-57e32eec1ab1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/486f03d8-b58f-4908-8c2b-57e32eec1ab1?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White HP laptop with a vibrant blue wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e05a3bf7-ed79-4738-85de-aa4a612e02d0?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e05a3bf7-ed79-4738-85de-aa4a612e02d0?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dark blue HP laptop displaying a blue abstract design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1178a51a-a0a1-4b08-b1f9-47de0270ff69?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1178a51a-a0a1-4b08-b1f9-47de0270ff69?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP laptop displaying a colorful interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7dfa32a2-2dcd-47c5-929d-55629d28dd7f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7dfa32a2-2dcd-47c5-929d-55629d28dd7f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dark blue HP laptop displaying a dynamic outdoor scene."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": "male",
+      "age": "adult",
+      "materials": [
+        "post\u2011consumer recycled plastic",
+        "ocean\u2011bound plastic"
+      ],
+      "key_features": [
+        "17.3\u2011inch diagonal HD+ display (1600 \u00d7 900)",
+        "12th\u2011Gen Intel Core i7\u20111255U (10\u2011core, 12\u2011thread, up to 4.7 GHz)",
+        "8 GB DDR4\u20113200 RAM",
+        "512 GB PCIe NVMe M.2 SSD",
+        "Intel Iris Xe graphics",
+        "Windows 11 Home OS",
+        "HP Fast Charge",
+        "Lift\u2011hinge keyboard",
+        "EPEAT Gold registered, ENERGY STAR certified",
+        "Recycled plastics"
+      ],
+      "colors": [
+        {
+          "hex": "#05656f",
+          "percentage": 0.2054
+        },
+        {
+          "hex": "#0298a7",
+          "percentage": 0.1933
+        },
+        {
+          "hex": "#365155",
+          "percentage": 0.1887
+        },
+        {
+          "hex": "#afdad1",
+          "percentage": 0.1422
+        },
+        {
+          "hex": "#0a2430",
+          "percentage": 0.121
+        },
+        {
+          "hex": "#2fc6ba",
+          "percentage": 0.0839
+        },
+        {
+          "hex": "#399795",
+          "percentage": 0.0654
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CZmzUAU-KRXv-8tFxDf?o=01KF2WSK8300B24WQT052ZGS06&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "hp.com",
+          "price": {
+            "price": 1099.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.052,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Standard",
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "TPM (trusted platform module)",
+          "BIOS security"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "LED",
+          "IPS"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "Hard disk drive (HDD)",
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Deca",
+          "Quad"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD",
+          "Hard disk drive (HDD)",
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "display-resolution": [
+          "1440 x 900",
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": {
+        "value": 4.1,
+        "count": 648,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "sSbJkHU",
+      "title": "HP 17 Laptop",
+      "description": "A sleek and modern 17.3-inch laptop featuring a Full HD IPS anti-glare display and a premium silver chassis. It is powered by an Intel Core i3-N305 8-core processor, 32GB of RAM, and a massive 4TB SSD, making it suitable for both work and entertainment. The device includes an ergonomic full-size keyboard with a numeric keypad, Wi-Fi 6 connectivity, and a comprehensive set of ports including USB-C, USB-A, and HDMI.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7c34b132-4181-479a-a741-8470fa67bbaa?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a cute cat graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/790177e6-78cc-4458-9048-fc6e34bb22a5?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop display showing screen details and specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/be9a158c-ed83-4973-a417-4df75a882b69?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop demonstrating immersive experience with audio and camera."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6fc2e58f-a8e3-4715-a45a-f11d0c6f91a9?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing wireless connectivity features for long battery life."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5fdfdca5-1629-4a3e-8be6-1530a992c30f?aid=01M66D8AEC955JYV08WF6GDJZ3&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop ports and connectivity options."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "17.3\" Full HD IPS anti-glare display",
+        "Intel Core i3-N305 8-Core processor",
+        "32GB RAM",
+        "4TB SSD",
+        "Integrated ergonomic numeric keypad",
+        "Dual-fan airflow cooling system",
+        "Wi-Fi 6",
+        "Windows 11 Home",
+        "Ports: USB-C, USB-A, HDMI, headphone/microphone combo"
+      ],
+      "colors": [
+        {
+          "hex": "#edebe9",
+          "percentage": 0.2644
+        },
+        {
+          "hex": "#7a7b7c",
+          "percentage": 0.1505
+        },
+        {
+          "hex": "#f6bc5e",
+          "percentage": 0.1446
+        },
+        {
+          "hex": "#382d2b",
+          "percentage": 0.1345
+        },
+        {
+          "hex": "#bfb8ad",
+          "percentage": 0.1183
+        },
+        {
+          "hex": "#eb854e",
+          "percentage": 0.1123
+        },
+        {
+          "hex": "#ad4d27",
+          "percentage": 0.0754
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/sSbJkHU-LPzf-8tFxDf?o=01M65369KVXXMPVRQMTWN9RPPJ&aid=01M66D8AEC955JYV08WF6GDJZ3",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1429.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "4 TB"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-family": [
+          "Intel core i3"
+        ],
+        "display-resolution": [
+          "Full HD"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-cores": [
+          "Octa"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjU0ZGIxYzMwOTM2Yzg1ZTAiLCAib2Zmc2V0IjogMjB9"
+}

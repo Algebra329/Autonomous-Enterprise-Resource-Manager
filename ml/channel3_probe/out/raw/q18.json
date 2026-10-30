@@ -1,0 +1,4276 @@
+{
+  "products": [
+    {
+      "id": "T8rGzim",
+      "title": "ViewSonic ColorPro VP275-4K",
+      "description": "Experience stunning clarity with the ViewSonic ColorPro VP275-4K. This 27\" IPS monitor delivers 4K Ultra HD resolution, USB-C connectivity, and ergonomic adjustments for comfortable work. It is designed for accurate color performance and versatile setup options, including HDMI and DisplayPort. Height, tilt, and swivel adjustments, VESA mount compatibility, and 60Hz refresh rate enhance productivity and workspace customization.",
+      "brands": [
+        {
+          "id": "7Ncd",
+          "name": "ViewSonic"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dc9dde38-1cc6-4b79-9128-37160e04bb24?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/744e84a2-814d-45f2-98c7-bc6ff6860366?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic ColorPro VP275-4K 27-inch IPS LED monitor with vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af54fe70-d965-4974-8f13-986c415b48e5?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/42715fa4-6efe-40bb-9b01-4c6ec3bd3ee7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A 27-inch ViewSonic monitor displaying a blue abstract wave design next to a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/29cda74d-4a10-41a9-9333-fe7bff22b104?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "A 27-inch monitor in use with a laptop and keyboard, showing a video interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b268ac25-f053-4278-a048-b3f09dd42d43?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/a5f280a7-e8f5-4e69-8438-cdb5881ef7e8?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "A 27-inch monitor showcasing vivid, colorful abstract patterns on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/257d0b4e-0a00-40d6-9883-103db721e31b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/09df463f-8de4-48f8-99a4-493049450551?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A 27-inch monitor set up on a wooden desk with a keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4558133e-56f4-49e3-aabb-6954e458a004?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Dimensional specifications for the 27-inch monitor, including screen size and dimensions."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Experience stunning clarity with the ViewSonic 27\" 4K Ultra HD monitor for detailed visuals.",
+        "Enjoy accurate color performance on this IPS panel monitor, perfect for graphic design work.",
+        "The 60Hz refresh rate delivers smooth visuals for everyday use and enhanced productivity.",
+        "Connect easily with USB-C, HDMI, and DisplayPort options for versatile setup possibilities.",
+        "Customize your setup with ergonomic tilt, swivel, and height adjustments for comfort.",
+        "VESA compatibility allows you to mount your monitor, saving space & optimizing your setup."
+      ],
+      "colors": [
+        {
+          "hex": "#825cab",
+          "percentage": 0.1468
+        },
+        {
+          "hex": "#f25d5b",
+          "percentage": 0.1449
+        },
+        {
+          "hex": "#d6393e",
+          "percentage": 0.1447
+        },
+        {
+          "hex": "#290a26",
+          "percentage": 0.1441
+        },
+        {
+          "hex": "#c87ca8",
+          "percentage": 0.132
+        },
+        {
+          "hex": "#d2b8d7",
+          "percentage": 0.1098
+        },
+        {
+          "hex": "#322f46",
+          "percentage": 0.1092
+        },
+        {
+          "hex": "#80234d",
+          "percentage": 0.0684
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/T8rGzim-T9Fg-8tFxDf?o=01KNMHGKRQ6AZRMC0083HW55PC&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "adorama.com",
+          "price": {
+            "price": 479.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Display port"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "Anti-glare",
+          "Flicker-free"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "FZSMl7u",
+      "title": "ColorPro VP2776T-4K Monitor",
+      "description": "The ViewSonic ColorPro VP2776T-4K is a 27-inch 4K HDR monitor designed for professionals. It features a 16:9 IPS panel with 3840 x 2160 UHD resolution, providing crisp visuals and a wide 178\u00b0 viewing angle. The monitor is Pantone validated and factory calibrated for high color accuracy (Delta <2), covering 98% of the DCI-P3 and 89% of the Adobe RGB color gamuts. It offers versatile connectivity with Thunderbolt 4, dual HDMI 2.1, and DisplayPort 1.4, including an integrated dock with a 2.5GbE Ethernet port and various USB ports. Additional features include VESA HDR400 certification, built-in 3W stereo speakers, and an ergonomic stand that supports height, tilt, swivel, and 90\u00b0 rotation.",
+      "brands": [
+        {
+          "id": "7Ncd",
+          "name": "ViewSonic"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/eddccb9e-3d6f-45b0-8651-355604df5843?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/eddccb9e-3d6f-45b0-8651-355604df5843?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic monitor displaying vibrant abstract colors on a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/14c0e728-d3e9-40cc-ace0-17e98c85d4fd?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/14c0e728-d3e9-40cc-ace0-17e98c85d4fd?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic monitor showing vibrant color display and panel specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/03dce4fb-dbb0-40c6-a717-d24b58bf55b9?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working at a desk with a large monitor and laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e5e52abc-dd1f-4441-b485-92635cf3230f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup showing work with laptop and files."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/acd54da7-3267-4c63-928e-5d793a3a2ea3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/acd54da7-3267-4c63-928e-5d793a3a2ea3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Monitor size and dimension reference diagram."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e14d8bc3-f2f1-42ca-a076-490ebd194e10?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor connection specifications list."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce065aaa-b585-4ac3-a0d5-d15a22f99422?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of included cables and accessories for the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/125798ea-1f3e-4971-bc6d-ec68c7f939f9?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/125798ea-1f3e-4971-bc6d-ec68c7f939f9?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black ViewSonic monitor with stand and branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0a23b540-ae53-462a-ace8-4086a171fdf2?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic monitor displaying vibrant abstract colors on a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/21012e8d-b3e0-4130-b40c-458d814cdbe7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the monitor panel showing input ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/863a87c6-eb1f-4c9e-9b97-42eb2f5e0be0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the ViewSonic monitor and stand with ColorPro branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9e0b748d-427e-4fd0-bffa-89c47a98f904?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the ViewSonic monitor and stand with ColorPro branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ee8e683-1be5-43b8-84bb-3ebe8199d090?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic monitor displaying vibrant abstract colors on a black stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Maximum Resolution 3840 x 2160",
+        "Refresh Rate 75Hz",
+        "Response Time 5 milliseconds",
+        "Screen Size 27 inches",
+        "Panel Type IPS",
+        "Number of HDMI Inputs (Total) 2",
+        "Pantone validated",
+        "Advanced Ergonomics",
+        "Thunderbolt 4 docking station",
+        "100W power delivery"
+      ],
+      "colors": [
+        {
+          "hex": "#e85858",
+          "percentage": 0.2646
+        },
+        {
+          "hex": "#9263b9",
+          "percentage": 0.17
+        },
+        {
+          "hex": "#c72d2f",
+          "percentage": 0.1479
+        },
+        {
+          "hex": "#cb7dab",
+          "percentage": 0.1281
+        },
+        {
+          "hex": "#d2abd5",
+          "percentage": 0.1097
+        },
+        {
+          "hex": "#3e1f5c",
+          "percentage": 0.0992
+        },
+        {
+          "hex": "#7a2550",
+          "percentage": 0.0805
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/FZSMl7u-K6RA-8tFxDf?o=01M3C5CT1T0MVWGFK38EJPJ03F&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "macys.com",
+          "price": {
+            "price": 699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/FZSMl7u-6Uzl-8tFxDf?o=01M63MYYNJ8REXFERQ48VK8QQ9&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 17.7,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/FZSMl7u-T9Fg-8tFxDf?o=01KNMHQZT4W98Z4D7KS776JYHK&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "adorama.com",
+          "price": {
+            "price": 699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/FZSMl7u-oHaU-8tFxDf?o=01M2NDWEBW6WTG0W7JSJPBNENJ&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 22.4,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 16.8,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/FZSMl7u-p1PB-8tFxDf?o=01KY013YK51B3C2ZFNAGEBQGH8&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED"
+        ],
+        "pattern": [
+          "Solid",
+          "Abstract"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "4096 x 2160"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "Anti-glare",
+          "Flicker-free",
+          "Adjustable viewing angle",
+          "HDR support",
+          "Suitable for gaming",
+          "Blue light filter",
+          "Frameless",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Thunderbolt",
+          "3.5 mm",
+          "Ethernet",
+          "Micro USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Pantone",
+          "sRGB",
+          "Adobe RGB",
+          "EBU",
+          "NTSC",
+          "Rec. 709",
+          "SMPTE-C"
+        ],
+        "contrast-ratio-typical": [
+          "2000:1",
+          "100000000:1"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "kWjLsBg",
+      "title": "Samsung ViewFinity S8 S80UH LED Monitor",
+      "description": "The Samsung ViewFinity S8 S80UH is a 27-inch 4K UHD LED monitor designed for detailed visuals and multitasking. It features a 3840 x 2160 resolution IPS panel with 350 cd/m\u00b2 brightness, a 1000:1 static contrast ratio, and HDR10 support for enhanced color and contrast. The monitor includes versatile connectivity with USB-C (providing 90W charging and data transfer), LAN, HDMI, and DisplayPort. It is equipped with a built-in KVM switch and supports Picture-in-Picture/Picture-by-Picture. For user comfort, it features an ergonomic stand supporting tilt, swivel, and height adjustment, along with Eye Saver Mode and Flicker Free technology.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dc372054-2365-425c-843b-b5e73eb3f61a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc372054-2365-425c-843b-b5e73eb3f61a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung 27-inch 4K UHD LED monitor displaying abstract light patterns."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD (3840 x 2160) resolution",
+        "27-inch IPS panel",
+        "USB-C connectivity with 90W charging",
+        "Ergonomic stand (tilt, swivel, height adjustment)",
+        "Built-in KVM switch",
+        "Picture-in-Picture / Picture-by-Picture support",
+        "HDR10",
+        "Eye Saver Mode and Flicker Free technology",
+        "LAN, HDMI, and DisplayPort connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#cbd4f7",
+          "percentage": 0.2185
+        },
+        {
+          "hex": "#1d1d30",
+          "percentage": 0.1411
+        },
+        {
+          "hex": "#706da9",
+          "percentage": 0.1352
+        },
+        {
+          "hex": "#afadd7",
+          "percentage": 0.1345
+        },
+        {
+          "hex": "#d07367",
+          "percentage": 0.1343
+        },
+        {
+          "hex": "#e0e0f1",
+          "percentage": 0.0974
+        },
+        {
+          "hex": "#523752",
+          "percentage": 0.0876
+        },
+        {
+          "hex": "#e2b39e",
+          "percentage": 0.0515
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kWjLsBg-TgS4-8tFxDf?o=01M3YX8FTSYAJZM8EH875AC7AC&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "cdw.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": 799.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-specialized-features": [
+          "Flicker-free",
+          "HDR support"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "12cLuxA",
+      "title": "PD2705UA",
+      "description": "The BenQ DesignVue PD2705UA is a 27-inch 4K UHD LED LCD monitor designed specifically for creative professionals. It features an In-Plane Switching (IPS) panel for wide viewing angles and accurate color reproduction, supporting 1.07 billion colors and 99% sRGB coverage. This monitor is equipped with an Ergo Arm for maximum flexibility in height, tilt, swivel, and pivot adjustments. Connectivity is robust, featuring USB-C with 65W power delivery, HDMI, DisplayPort, and a built-in KVM switch. It also includes specialized modes such as Darkroom, Animation, and CAD/CAM, alongside eye-care technology like Low Blue Light and Flicker-free settings to reduce fatigue during long work sessions.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a6e9826a-98e2-4ab6-a068-1bffdb198ef0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing monitor size and monitor arm movement angles."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5aee7cd1-3b85-4bd9-acc1-da7c8aa604b3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with an adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/06ed83b7-fb41-48f2-9a13-5b95dbc3eb13?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/753fdd2b-3982-4c33-8212-67ce0000ff1f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with an adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a12db7a4-2eea-424c-a91c-f99dbe321053?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with an adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/700226c1-7932-44f3-9ade-d68d950893d5?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/700226c1-7932-44f3-9ade-d68d950893d5?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor mounted on an adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/71ada21d-903b-431e-8f48-2f40cfdf7964?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/71ada21d-903b-431e-8f48-2f40cfdf7964?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor mounted on an adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dd9c63a5-dbde-4424-b56d-0af0062b4bf7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dd9c63a5-dbde-4424-b56d-0af0062b4bf7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor arm stand on a black desk surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fd427cf4-f657-4a48-a372-13831be72094?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/e5fbacd3-770a-4670-98f7-e800d472dff3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with an adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4e59720f-7dfc-4979-8313-4bd14969abe2?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/162c2feb-0657-427f-8fbf-c7328e907f37?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with an adjustable arm and cables on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/00e84de6-f252-405c-abc1-eedc69e2946a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/00e84de6-f252-405c-abc1-eedc69e2946a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the monitor arm base with USB ports and connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/03f49f28-0b48-4261-828d-c410e90328b7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specification diagram of the monitor arm dimensions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3a74e99e-d786-4f4e-b754-2a142212fc93?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Measurement diagram showing dimensions of the monitor arm."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch 3840x2160 UHD 16:9 HDR IPS 4K Monitor",
+        "Integrated Ergo Arm for flexible placement and comfort",
+        "99% sRGB and Rec.709 color spaces",
+        "USB-C connectivity with 65W power delivery",
+        "Includes Hotkey Puck G2",
+        "KVM Switch for managing multiple systems",
+        "HDR10 support",
+        "Eye-care technologies (Low Blue Light, Flicker-free)",
+        "Specialized modes: Darkroom, Animation, and CAD/CAM"
+      ],
+      "colors": [
+        {
+          "hex": "#2a2a2a",
+          "percentage": 0.4861
+        },
+        {
+          "hex": "#525252",
+          "percentage": 0.4569
+        },
+        {
+          "hex": "#737373",
+          "percentage": 0.057
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/12cLuxA-S5BM-8tFxDf?o=01M2BXHQ8Y06MS1NB3BHQ9BP64&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "benq.eu",
+          "price": {
+            "price": 383.16,
+            "compare_at_price": 452.75,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "Thunderbolt"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free"
+        ],
+        "color-accuracy-standards": [
+          "Rec. 709",
+          "sRGB",
+          "DCI-P3"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "gJY8xbf",
+      "title": "Samsung ViewFinity S80PB 27\" 4K UHD DCI-P3 98% IPS Monitor w/ 90W USB-C",
+      "description": "The Samsung ViewFinity S80PB is a 27\u2011inch, 4K UHD monitor featuring an IPS panel with 98\u202f% DCI\u2011P3 coverage, Pantone validation, HDR10 support and a 90\u202fW USB\u2011C power delivery. It offers a 60\u202fHz refresh rate, 5\u202fms response time, 350\u202fcd/m\u00b2 brightness, 16:9 aspect ratio, and ergonomic adjustments (tilt, swivel, height). Connectivity includes one DisplayPort, one HDMI and a USB\u2011C port that delivers video, audio, data and power. Designed for professional and creative work, it delivers precise colour accuracy, a matte glare\u2011free surface, and advanced eye\u2011care technologies for all\u2011day comfort.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/123f1d30-4793-4340-b41a-38c2fc6e28e1?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/123f1d30-4793-4340-b41a-38c2fc6e28e1?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 LED monitor displaying vibrant abstract colors."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "plastic",
+        "metal",
+        "glass",
+        "polycarbonate"
+      ],
+      "key_features": [
+        "4K UHD resolution",
+        "IPS panel",
+        "98\u202f% DCI\u2011P3 colour"
+      ],
+      "colors": [
+        {
+          "hex": "#2f282b",
+          "percentage": 0.1755
+        },
+        {
+          "hex": "#6f88ba",
+          "percentage": 0.1577
+        },
+        {
+          "hex": "#4e70aa",
+          "percentage": 0.1517
+        },
+        {
+          "hex": "#907186",
+          "percentage": 0.1321
+        },
+        {
+          "hex": "#524154",
+          "percentage": 0.1273
+        },
+        {
+          "hex": "#804951",
+          "percentage": 0.0884
+        },
+        {
+          "hex": "#b4b9cd",
+          "percentage": 0.0852
+        },
+        {
+          "hex": "#394051",
+          "percentage": 0.0822
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gJY8xbf-TgS4-8tFxDf?o=01M38WQX3GHAJ4X6QAT9VA9M9N&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "cdw.com",
+          "price": {
+            "price": 569.99,
+            "compare_at_price": 1139.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.77,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight",
+          "Matte finish"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Pantone",
+          "sRGB"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "9B5KDwl",
+      "title": "Dell 27 Plus 4k USB-C Monitor",
+      "description": "The Dell 27 Plus 4K USB-C Monitor (S2725QC) is a 27-inch LED monitor featuring a 4K UHD resolution (3840 x 2160) and a refresh rate of up to 120Hz. It utilizes In-Plane Switching (IPS) technology to deliver vivid colors with 99% sRGB coverage and a 1500:1 contrast ratio. Designed for both productivity and entertainment, it includes dual 5W speakers, AMD FreeSync Premium for tear-free gaming, and a 4-star T\u00dcV Rheinland eye comfort certification with ComfortView Plus to reduce blue light emissions. Connectivity is streamlined via a USB-C port that supports up to 65W power delivery, alongside HDMI 2.1 ports and USB-A downstream ports. The monitor is highly adjustable, offering height, pivot, swivel, and tilt options, and is constructed with sustainable materials, including recycled plastic, aluminium, and steel.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/88363d38-dcfa-4d5b-aba3-eb6c47d9daa0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88363d38-dcfa-4d5b-aba3-eb6c47d9daa0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell 27-inch monitor displaying vibrant abstract liquid art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3ff25bd8-1b0f-421c-9669-fb559911b7eb?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3ff25bd8-1b0f-421c-9669-fb559911b7eb?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 27-inch monitor displaying vibrant abstract liquid art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/474bf523-bd3d-4b42-9373-41f88583d51f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/474bf523-bd3d-4b42-9373-41f88583d51f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White Dell 27 Plus 4K USB-C monitor from the front."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "recycled plastic",
+        "recycled aluminium",
+        "recycled steel",
+        "recycled glass"
+      ],
+      "key_features": [
+        "4K UHD resolution (3840 x 2160)",
+        "Up to 120Hz refresh rate",
+        "USB-C connectivity with up to 65W power delivery",
+        "AMD FreeSync Premium",
+        "In-Plane Switching (IPS) technology",
+        "99% sRGB color coverage",
+        "T\u00dcV Rheinland 4-star eye comfort certification",
+        "Dual 5W integrated speakers",
+        "Height, pivot, swivel, and tilt adjustable stand",
+        "Sustainable design with recycled materials"
+      ],
+      "colors": [
+        {
+          "hex": "#050e41",
+          "percentage": 0.2577
+        },
+        {
+          "hex": "#c1316e",
+          "percentage": 0.1933
+        },
+        {
+          "hex": "#103261",
+          "percentage": 0.1828
+        },
+        {
+          "hex": "#481048",
+          "percentage": 0.1622
+        },
+        {
+          "hex": "#b20e50",
+          "percentage": 0.0991
+        },
+        {
+          "hex": "#456179",
+          "percentage": 0.0744
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/9B5KDwl-Bteb-8tFxDf?o=01M5YGHGFDY39GR44ZAC5RANJF&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "dell.com",
+          "price": {
+            "price": 329.99,
+            "compare_at_price": 349.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 611.54,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 200.4,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 518.63,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 6.71,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Size",
+            "label": "27-inch"
+          },
+          {
+            "name": "Usb Hub",
+            "label": "Integrated USB Hub chocol}}<tool_call|> { "
+          }
+        ]
+      },
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync Premium"
+        ],
+        "energy-efficiency-class-hdr": [
+          "G"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 526,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "DBIFt9J",
+      "title": "27\" 16:9 4K UHD IPS LCD Monitor with USB-C Dock, Built-In Speakers",
+      "description": "This is a used Philips 272P7VUBNB/27 27-inch professional monitor being sold in 'Flawed' condition. Despite cosmetic damage to the casing and a malfunctioning stand latch, this high-resolution display offers UltraClear 4K UHD (3840x2160) clarity suitable for graphic design and detailed work. It features an integrated USB-C docking station for streamlined one-cable connectivity, IPS technology for excellent color and wide viewing angles, and ergonomic adjustments via the SmartErgoBase. Additionally, it includes eye-comfort features like LowBlue Mode and Flicker-free technology, plus an energy-saving PowerSensor and built-in RJ-45 Ethernet.",
+      "brands": [
+        {
+          "id": "7ju5",
+          "name": "Philips"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dfcd3fed-3cec-43b8-af98-16fa180922e3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dfcd3fed-3cec-43b8-af98-16fa180922e3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch Phillips monitor displaying a colorful abstract texture."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "UltraClear 4K UHD (3840x2160) resolution",
+        "Built-in USB-C docking station",
+        "SmartErgoBase for ergonomic adjustments",
+        "LowBlue Mode and Flicker-free technology",
+        "PowerSensor for energy savings",
+        "G-Sync (NVIDIA Adaptive Sync) compatible",
+        "10-bit Color at 60 Hz"
+      ],
+      "colors": [
+        {
+          "hex": "#2f323a",
+          "percentage": 0.2398
+        },
+        {
+          "hex": "#4b4a56",
+          "percentage": 0.1873
+        },
+        {
+          "hex": "#9faebb",
+          "percentage": 0.1371
+        },
+        {
+          "hex": "#354645",
+          "percentage": 0.1205
+        },
+        {
+          "hex": "#666382",
+          "percentage": 0.113
+        },
+        {
+          "hex": "#75858f",
+          "percentage": 0.1105
+        },
+        {
+          "hex": "#405d53",
+          "percentage": 0.0919
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/DBIFt9J-T9Fg-8tFxDf?o=01KCAPN3T173G7SWA8XE9EZ4WM&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "adorama.com",
+          "price": {
+            "price": 48.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/DBIFt9J-n0yg-8tFxDf?o=01M38DTMY4YP5B7YEW8HAHM0EM&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 407.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 10.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.6,
+              "unit": "in"
+            },
+            "height": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 16.9,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Matte finish",
+          "Built-in speakers",
+          "Suitable for gaming"
+        ],
+        "adaptive-sync-technology": [
+          "NVIDIA G-Sync"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "10000000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 3.12,
+        "count": 13,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "dQYq2QZ",
+      "title": "E27k G5 Monitor",
+      "description": "The HP E27k G5 is a sleek 27-inch 4K Ultra HD monitor designed for productivity and precision. Featuring an IPS panel with a 3840 x 2160 resolution and 99% sRGB color gamut, it delivers vibrant and accurate visuals. The monitor simplifies workspace connectivity with a single USB-C cable that provides data transfer and 65W laptop charging. It also includes an RJ-45 port for stable internet, integrated 3W dual speakers, and a 4-way adjustable stand for ergonomic comfort. Additional eye-care features include an ambient light sensor and HP Eye Ease low-blue light filtering.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1e0f5af2-46a0-45ef-a9c1-f9abed4c8239?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of the ports on the back of the HP E27k G5 4K USB-C Monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/387d3975-2c88-40f4-9e0e-25bc2e76eb0f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP E27k G5 4K USB-C Monitor connected to a laptop via USB-C cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc4cfefe-5b18-44fa-8ce4-823fa005b754?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "HP E27k G5 4K USB-C Monitor showing ambient light sensor functionality."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd45a407-0b7d-4262-bbd3-aa5f8dafee2c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/e25f2ebb-4c60-4e1d-a308-ccb17d2c48a9?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the HP E27k G5 4K USB-C Monitor displaying a forest scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/333ddb02-bcf2-4656-8ee6-f84edd6334f7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/f1eb37da-dfd0-4818-904f-19f8669a4443?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP E27k G5 4K USB-C Monitor displaying a glacier landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/03f2d8e5-ce0d-46ec-b9af-bc5654408f5b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two HP E27k G5 4K USB-C Monitors connected to a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/46349972-1122-4b37-aa69-efd6034782da?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "HP E27k G5 4K USB-C Monitor and laptop showing single cable connectivity."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c889e87-e3d7-4515-a431-4c8600ecabc7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5eec7101-d253-4550-ae8a-08ba3e907b4f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Side profile view of the HP E27k G5 4K USB-C Monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd304050-6671-4b80-9797-9310829337ba?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5fc51562-3110-497f-a16d-7179be5decc4?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the HP E27k G5 4K USB-C Monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c732c1ac-7e62-4cd5-9a46-a6c310a1b7da?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/fd9e78e4-3407-45de-a841-61b40d021d60?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP E27k G5 4K USB-C Monitor in a professional office environment."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b613b3fa-e74b-4ba4-adb5-bf1ab4148a62?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2d763515-f694-4cf8-8376-eab26addad8a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the HP E27k G5 4K USB-C Monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/33b2d297-0953-428b-9b48-4113e20d27bb?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/991ea135-9f40-4910-94cb-8106d0089649?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP E27k G5 4K USB-C Monitor displaying a landscape image."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cfa943cc-775c-4d68-892e-9cbc4c431f2b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two HP E27k G5 4K USB-C Monitors daisy-chained to a laptop."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "repurposed plastics",
+        "metals"
+      ],
+      "key_features": [
+        "27\" IPS 4K UHD (3840 x 2160) at 60 Hz",
+        "16:9 Aspect Ratio",
+        "Contrast ratio 1000:1",
+        "Brightness 350 nits",
+        "5ms GtG (with overdrive)",
+        "Viewing angle 178\u00b0 / 178\u00b0",
+        "Connectivity: DisplayPort, HDMI, RJ-45, USB Type A, USB Type C",
+        "Adjustable: Height Adjust/Tilt/Swivel/Pivot",
+        "65\u202fW USB\u2011C power delivery",
+        "Single\u2011Power\u2011On"
+      ],
+      "colors": [
+        {
+          "hex": "#222416",
+          "percentage": 0.2612
+        },
+        {
+          "hex": "#426624",
+          "percentage": 0.1335
+        },
+        {
+          "hex": "#68703a",
+          "percentage": 0.1304
+        },
+        {
+          "hex": "#2b4115",
+          "percentage": 0.1212
+        },
+        {
+          "hex": "#b1bd97",
+          "percentage": 0.12
+        },
+        {
+          "hex": "#494727",
+          "percentage": 0.1174
+        },
+        {
+          "hex": "#7d9254",
+          "percentage": 0.1163
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dQYq2QZ-KRXv-8tFxDf?o=01KF2R0D2SR67J9QNFJWMRC6EV&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "hp.com",
+          "price": {
+            "price": 403.2,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.052,
+          "dimensions": {
+            "length": {
+              "number": 68.6,
+              "unit": "cm"
+            },
+            "width": {
+              "number": 24.15,
+              "unit": "cm"
+            },
+            "height": {
+              "number": 14.35,
+              "unit": "cm"
+            },
+            "weight": {
+              "number": 22.0,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/dQYq2QZ-K6RA-8tFxDf?o=01M369CMWGMFHT3XBKZC6ZTFXB&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "macys.com",
+          "price": {
+            "price": 439.99,
+            "compare_at_price": 499.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-shape": [
+          "Curved",
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "1920 x 1080",
+          "4096 x 2160"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "Micro USB",
+          "SATA",
+          "Thunderbolt",
+          "XLR"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "monitor-specialized-features": [
+          "Ambient light sensor",
+          "Blue light filter",
+          "Built-in speakers",
+          "LED backlight",
+          "Frameless",
+          "Flicker-free"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "10000:1",
+          "1000:1"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 143,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "4aRBMk4",
+      "title": "U27P4K 4K Monitor",
+      "description": "The Z-EDGE U27P4K is a 27-inch 4K Ultra HD monitor featuring a resolution of 3840 x 2160. It utilizes an IPS panel to provide consistent colors and wide viewing angles, covering 99% of the sRGB color gamut. With a 75Hz refresh rate and a 5ms response time, it is suitable for both productivity and general media consumption. The monitor includes HDMI and DisplayPort connectivity, FreeSync support, and an anti-glare LED-backlit screen, and it is compatible with wall mounts.",
+      "brands": [
+        {
+          "id": "ImFg",
+          "name": "Z-EDGE"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6d27bd5f-2b9b-4bbb-998b-1a3448c38313?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/b73bbb24-0023-44ac-a9af-c480acd1a04c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch 4K IPS monitor displaying abstract colorful graphics."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K Ultra HD Resolution (3840x2160)",
+        "IPS Panel",
+        "99% sRGB color gamut",
+        "75Hz refresh rate",
+        "5ms response time",
+        "HDMI x2 and DP x2 ports",
+        "FreeSync compatible",
+        "LED Backlit with Anti-Glare",
+        "Wall mount support"
+      ],
+      "colors": [
+        {
+          "hex": "#eb8c2f",
+          "percentage": 0.1714
+        },
+        {
+          "hex": "#d2551b",
+          "percentage": 0.1347
+        },
+        {
+          "hex": "#2e5475",
+          "percentage": 0.1297
+        },
+        {
+          "hex": "#322d48",
+          "percentage": 0.1283
+        },
+        {
+          "hex": "#468aa9",
+          "percentage": 0.1179
+        },
+        {
+          "hex": "#bd2212",
+          "percentage": 0.1122
+        },
+        {
+          "hex": "#68c7cd",
+          "percentage": 0.109
+        },
+        {
+          "hex": "#f8d172",
+          "percentage": 0.0968
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/4aRBMk4-K6RA-8tFxDf?o=01M1D14115X946NMA402SR79B7&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "macys.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "LED backlight"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "yEI8Hdt",
+      "title": "Lenovo ThinkVision P27u-20",
+      "description": "The Lenovo ThinkVision P27u-20 is a professional 27-inch 4K UHD monitor designed specifically for content creators, photographers, and graphic designers. It features a high-resolution 3840 x 2160 IPS display with factory-calibrated color accuracy, supporting 99.1% DCI-P3 and 99.5% Adobe RGB color gamuts. Certified with DisplayHDR 400, it ensures realistic brightness and contrast. The monitor is highly connected via Thunderbolt 4, offering a 'one cable' solution for 40 Gbps data speeds, 1 Gbps Ethernet, and up to 100W power delivery. It also includes built-in 3W speakers and an ergonomic stand with lift, tilt, swivel, and pivot adjustments.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fd96db9a-2116-4a2c-a8ef-88a056c06ff3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Slim black monitor on adjustable arm viewed from side"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e3740b5c-992c-46dd-9be8-63599491bb23?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of black monitor on adjustable arm"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e28b242d-d83e-41a7-8a1a-face02ab1b12?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e28b242d-d83e-41a7-8a1a-face02ab1b12?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of Lenovo ThinkVision monitor on stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/32a2621c-ec37-49bf-9ed3-5aae20c14dd4?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear-left view of Lenovo ThinkVision monitor on stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3e332eb7-9a8c-480c-ba06-a73d139f9b9b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear of monitor on stand, full width"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1644df65-c18b-4d6e-9d0e-7612ef7888fa?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of monitor I/O panel and stand label"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/60791933-7068-4e92-9369-1c8543e9dc49?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear ports on monitor seen from side"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a4c8fafc-790a-41d9-ba27-1276c2a950a2?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/281d0102-4b7a-4334-8a88-8b6b61bd8c54?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "flat_lay",
+          "alt_text": "Side profile of monitor with arm"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/721d7a56-7e72-4546-bb99-fce4469d7065?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side cutaway showing ports along side of monitor"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 4K UHD (3840 x 2160) IPS display",
+        "99.1% DCI-P3 and 99.5% Adobe RGB color gamut",
+        "VESA DisplayHDR 400 certified",
+        "Thunderbolt 4 input and output (up to 40 Gbps)",
+        "Factory calibrated color accuracy (Avg. Delta E<1)",
+        "Integrated 2 x 3W speakers",
+        "Up to 100W power delivery via Thunderbolt 4",
+        "KVM switch and USB Hub functionality",
+        "Ergonomic stand with lift, tilt, swivel, and pivot",
+        "1 Gbps Ethernet support"
+      ],
+      "colors": [
+        {
+          "hex": "#242424",
+          "percentage": 0.9082
+        },
+        {
+          "hex": "#7b7b7b",
+          "percentage": 0.0918
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/yEI8Hdt-RnUy-8tFxDf?o=01KZNSZDWR8SW1VAP3G6T21GCS&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 899.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": {
+              "number": 613.8,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 219.9,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 421.4,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 8.0,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "sRGB",
+          "Rec. 709",
+          "Rec. 2020"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "3.5 mm",
+          "USB",
+          "Ethernet"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Built-in speakers",
+          "HDR support"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "AAtK9oV",
+      "title": "Viewfinity S8 Monitor",
+      "description": "This Samsung ViewFinity S8 monitor boasts a 27-inch IPS display with a 4K UHD resolution, offering crisp visuals and vibrant colors with 1.07 billion color support and 99% sRGB color gamut. The anti-glare, flicker-free screen ensures comfortable viewing, even during extended use. With a 60Hz refresh rate and 5ms response time, it's suitable for various tasks, from professional work to casual entertainment. The monitor features a versatile stand with tilt, swivel, and pivot adjustments, and a VESA mount for flexible placement. Connectivity options include HDMI, DisplayPort, and multiple USB ports, along with an RJ45 Ethernet port.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/963b38bd-bf97-4a03-a68a-9964b2191b4c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/963b38bd-bf97-4a03-a68a-9964b2191b4c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 monitor showing vibrant blue and orange abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cea8e89e-9fcc-40bb-b611-fe53e215ef68?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cea8e89e-9fcc-40bb-b611-fe53e215ef68?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 monitor showing vibrant blue and orange abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/99db2593-b610-4aea-8980-3f787b6ee146?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor dimensions and screen size specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f2ea052-df89-4f14-a01f-de98bc3475d0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "32 inch monitor displaying a website and charts in a home office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/326f0288-28d1-489e-8fcb-191e6b2cd2c9?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/326f0288-28d1-489e-8fcb-191e6b2cd2c9?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor display showing UHD resolution and picture quality."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ebf15b72-52ee-4f09-a31e-7cf4ae78de47?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "37 inch monitor on a desk with a laptop, keyboard, and mouse."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9b51b17f-20e7-41d3-a2df-bfcbfb3225ff?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor's connectivity ports and features diagram."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b4354701-9109-4c3e-971f-9a6f3a485440?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4354701-9109-4c3e-971f-9a6f3a485440?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 UHD monitor on a stand with vivid display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2df56f6a-d4bb-41e4-b655-98d23dcda8b3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2df56f6a-d4bb-41e4-b655-98d23dcda8b3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Samsung Viewfinity S8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51450b86-f9ef-4650-b227-b1bcb3ad648f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/51450b86-f9ef-4650-b227-b1bcb3ad648f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 monitor showing vibrant blue and orange abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2475e852-b5bc-4732-8b75-e40e052f44e4?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Features icons indicating UHD, USB-C, stand, ergonomics, and eye care."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LED",
+        "VA panel",
+        "HDMI",
+        "DisplayPort",
+        "USB-C",
+        "LAN"
+      ],
+      "key_features": [
+        "4K UHD",
+        "IPS Panel",
+        "Anti Glare",
+        "Flicker Free",
+        "VESA Mount Compatible",
+        "1.07 Billion Colors",
+        "9% sRGB Color Gamut",
+        "178 degree Vertical and Horizontal viewing angle",
+        "60Hz Refresh Rate",
+        "5ms GTG Response Time"
+      ],
+      "colors": [
+        {
+          "hex": "#4b8ded",
+          "percentage": 0.1878
+        },
+        {
+          "hex": "#c6ece8",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#8b90e3",
+          "percentage": 0.1387
+        },
+        {
+          "hex": "#4ceffd",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#1c37a0",
+          "percentage": 0.117
+        },
+        {
+          "hex": "#67c0f5",
+          "percentage": 0.1033
+        },
+        {
+          "hex": "#bcbfd0",
+          "percentage": 0.0965
+        },
+        {
+          "hex": "#4c4fb2",
+          "percentage": 0.0735
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/AAtK9oV-ckmS-8tFxDf?o=01KRE4DFANCDZA5RNTVFXGYDJF&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "samsung.com",
+          "price": {
+            "price": 449.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.016,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              {
+                "label": "27\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/963b38bd-bf97-4a03-a68a-9964b2191b4c",
+                "product_id": "AAtK9oV"
+              },
+              {
+                "label": "32\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/69e1bcf4-c761-4e62-b0c7-3c62496d2b88",
+                "product_id": "pnr3mek"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Speakers",
+            "label": "With Speakers"
+          },
+          {
+            "name": "Size",
+            "label": "27\""
+          }
+        ]
+      },
+      "structured_attributes": {
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Flicker-free",
+          "LED backlight",
+          "HDR support"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "pattern": [
+          "Abstract"
+        ]
+      },
+      "ratings": {
+        "value": 4.75,
+        "count": 144,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "T1hF6Xk",
+      "title": "Redragon 27\" 4K Flat Gaming Monitor",
+      "description": "The Redragon 27\" 4K Flat Gaming Monitor is a high-performance display featuring a Fast IPS panel with Mini-LED technology and 2304 local dimming zones for stunning 4K UHD clarity and vibrant colors. Designed for gamers, it boasts a 160Hz refresh rate and 1ms response time to ensure smooth, blur-free gameplay. To eliminate screen tearing, it is compatible with AMD FreeSync Premium and NVIDIA G-Sync. The monitor offers enhanced color accuracy with Quantum Dot technology covering 105% of the NTSC color gamut. Connectivity is comprehensive, including HDMI 2.1, DP 1.4, and a Type-C port with 90W Power Delivery, along with USB 3.0 Type-A and Type-B ports and an earphone jack.",
+      "brands": [
+        {
+          "id": "r76g",
+          "name": "Redragon"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6319b202-c27b-4fea-b07e-9203d7670a13?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6319b202-c27b-4fea-b07e-9203d7670a13?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Redragon 27-inch 4K gaming monitor with a red car background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15b3956a-e763-4da4-985c-7653d3ed87ca?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch monitor displaying vibrant pink and blue mountain scenery."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8889511a-4b65-4edf-96b4-890ba55416bd?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "A gamer wearing a helmet riding a futuristic race car."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04e20d68-051d-43da-8702-8866f0454276?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "A yellow sports car driving on a road during high speed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e9246377-78d0-469d-b2b9-1c04db7dfbcf?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "merchant_information",
+          "alt_text": "Graphic showing FreeSync Premium and G-Sync compatibility modes."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3132e18a-a738-43d7-bcbe-fef7bc6e0b29?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor's USB-C charging hub."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b3fc494-bbbc-49c5-8054-9c15ee35004c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=CgP5",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Redragon GM27FMU 4K gaming monitor displaying a neon city skyline."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD clarity on a 27-inch Fast IPS display",
+        "Mini-LED technology with 2304 zones",
+        "160Hz refresh rate",
+        "1ms response time",
+        "AMD FreeSync Premium and G-Sync compatibility",
+        "Quantum Dot tech covering 105% NTSC color gamut",
+        "HDMI 2.1, DP 1.4, and Type-C (PD 90W) connectivity",
+        "Tilt adjustable",
+        "Connectivity: 2x HDMI 2.1 TMDS, 2x DP 1.4, 1x Type-C (PD 90W), 2x USB 3.0 Type-A, 1x USB 3.0 Type-B, and earphone jack",
+        "VESA Wall Mount compatible"
+      ],
+      "colors": [
+        {
+          "hex": "#446369",
+          "percentage": 0.166
+        },
+        {
+          "hex": "#130b0b",
+          "percentage": 0.1425
+        },
+        {
+          "hex": "#b3cdd1",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#899ba2",
+          "percentage": 0.1221
+        },
+        {
+          "hex": "#442d31",
+          "percentage": 0.1219
+        },
+        {
+          "hex": "#a66a75",
+          "percentage": 0.1114
+        },
+        {
+          "hex": "#232728",
+          "percentage": 0.1068
+        },
+        {
+          "hex": "#982732",
+          "percentage": 0.0984
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/T1hF6Xk-CgP5-8tFxDf?o=01M4177QB8R89RAGJCKNXNTVTA&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "computers.woot.com",
+          "price": {
+            "price": 459.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.091,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/T1hF6Xk-LPzf-8tFxDf?o=01M5C1M8QN3PYDG5CHA65CJ6CK&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "newegg.com",
+          "price": {
+            "price": 549.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "AMD FreeSync Premium",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "3.5 mm"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "NTSC"
+        ],
+        "display-technology": [
+          "IPS",
+          "Mini-LED"
+        ],
+        "monitor-specialized-features": [
+          "Quantum dot technology",
+          "Suitable for gaming"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "bpFHFAf",
+      "title": "ThinkVision P27u-20 27\" 4K UHD IPS WLED LCD DisplayHDR 400 Monitor",
+      "description": "The Lenovo ThinkVision P27u-20 is a 27-inch monitor with a 4K UHD IPS display, offering stunning clarity and vibrant colors. It features a 4ms response time for smooth visuals, anti-glare screen, and a 16:9 aspect ratio, making it ideal for both professional work and entertainment. With a brightness of 450 nits and HDR400 support, it delivers excellent image quality. Connectivity options include multiple HDMI and DisplayPort inputs, as well as Thunderbolt 4 for versatile use. The monitor also boasts VESA mount compatibility for flexible setup.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d9defd30-0e5a-411b-ac61-d8e281a0b181?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of a black ThinkVision monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c10c9ff-2dce-45e4-ade0-e12e9f8e545b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8c10c9ff-2dce-45e4-ade0-e12e9f8e545b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black ThinkVision monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b809d833-50f2-446f-a633-ec1d2ed40664?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Side view of a black monitor showing the rear ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c5d860e7-f7a5-498f-becc-2a75bf3693de?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Side view of a black computer monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2143e62f-109d-4b9e-80dc-2bc7c440e68f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2143e62f-109d-4b9e-80dc-2bc7c440e68f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of a black Lenovo ThinkVision monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/35720e65-1454-4541-ab41-613d1e56ad1b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/35720e65-1454-4541-ab41-613d1e56ad1b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of a black Lenovo ThinkVision monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9a38d773-f862-491c-807a-1ce8661bb017?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9a38d773-f862-491c-807a-1ce8661bb017?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black ThinkVision monitor displaying a starry night sky."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae60c713-bb18-417d-bbb4-601e1b7ce58e?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ae60c713-bb18-417d-bbb4-601e1b7ce58e?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black ThinkVision monitor displaying a starry night sky."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3f9261b4-1e00-41da-bc39-b63f82a3192e?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3f9261b4-1e00-41da-bc39-b63f82a3192e?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black ThinkVision monitor displaying a landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bc53dd6d-9d16-4e66-ad9a-639771719e13?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/df7cb9dd-8e95-4606-a8ed-e7c3ecb84092?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black ThinkVision monitor displaying a starry night sky."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a6fd3ba0-1415-452f-9da3-2bb62067ae0a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a6fd3ba0-1415-452f-9da3-2bb62067ae0a?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of a black ThinkVision monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c63b6943-5263-4441-9788-96be5977100c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c63b6943-5263-4441-9788-96be5977100c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of a black Lenovo ThinkVision monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fce1497b-91b4-4630-8866-ffc8b64817c7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fce1497b-91b4-4630-8866-ffc8b64817c7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of a black Lenovo ThinkVision monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 3840 x 2160 IPS display",
+        "4 ms Extreme Mode response time",
+        "16:9 widescreen resolution",
+        "450 Nit brightness",
+        "HDMI (High Definition Multimedia Interface)",
+        "DisplayPort interface",
+        "VESA mount compatibility"
+      ],
+      "colors": [
+        {
+          "hex": "#3f495c",
+          "percentage": 0.4344
+        },
+        {
+          "hex": "#213040",
+          "percentage": 0.1815
+        },
+        {
+          "hex": "#0a0c13",
+          "percentage": 0.141
+        },
+        {
+          "hex": "#766d72",
+          "percentage": 0.127
+        },
+        {
+          "hex": "#b1a296",
+          "percentage": 0.1162
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/bpFHFAf-LPzf-8tFxDf?o=01KBPB15P981FFTE7TT8NR0PBG&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "newegg.com",
+          "price": {
+            "price": 829.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "Thunderbolt",
+          "Ethernet",
+          "TOSLINK",
+          "3.5 mm",
+          "Micro USB"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED",
+          "LCD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "sRGB",
+          "Rec. 2020"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Frameless",
+          "HDR support",
+          "Built-in speakers"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "4K ultra HD",
+          "Full HD",
+          "2560\u2009x\u20091440"
+        ],
+        "contrast-ratio-typical": [
+          "10000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "wT92lP5",
+      "title": "HP E27k G5 27\" 16:9 4K Ultra HD USB-C IPS LCD Monitor",
+      "description": "The HP E27k G5 is a 27-inch Class 4K UHD LCD monitor featuring a 16:9 aspect ratio and a sleek black finish. It is designed for precision and flexibility, offering a high-resolution 3840 x 2160 display with an IPS panel for vibrant colors and 99% sRGB color space. The monitor simplifies connectivity with a single USB-C cable that provides display connectivity and up to 65W power delivery to charge laptops, alongside an RJ-45 port for stable internet. For user comfort, it includes 4-way adjustability, an ambient light sensor for automatic brightness, and HP Eye Ease technology to reduce blue light emission.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/293113fa-28bf-45b8-b8b0-9dc1badb1fad?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/9fd5b2d5-0612-49aa-925f-1df4732e4328?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "A 27-inch 4K UHD IPS business monitor with a black bezel and silver stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LCD"
+      ],
+      "key_features": [
+        "4K UHD Experience breathtaking level of details when you open your eyes to the clarity of 4K UHD screen",
+        "LCD Display Enjoy stunning, luminescent visual images with LCD display",
+        "Viewing Angle This stylish LCD Monitor offers 178/178 degree viewing angles for some great viewing experience no matter where and how you look at it",
+        "VESA Compatible VESA mount compatibility allows you to mount the display on a wall or with a stand depending on your specific needs",
+        "Brightness View your content easily in well-lit areas with 350 Nit brightness",
+        "27\" 16:9 IPS Panel",
+        "USB-C connectivity with 65W power delivery",
+        "HDMI 2.0 and DisplayPort 1.4 inputs",
+        "Integrated stereo speakers",
+        "RJ45 Gigabit Ethernet port"
+      ],
+      "colors": [
+        {
+          "hex": "#77a185",
+          "percentage": 0.1789
+        },
+        {
+          "hex": "#c6deef",
+          "percentage": 0.1431
+        },
+        {
+          "hex": "#7ab6a8",
+          "percentage": 0.1355
+        },
+        {
+          "hex": "#2c2c2c",
+          "percentage": 0.1283
+        },
+        {
+          "hex": "#c65865",
+          "percentage": 0.1213
+        },
+        {
+          "hex": "#b8b8b9",
+          "percentage": 0.1139
+        },
+        {
+          "hex": "#9cd5e1",
+          "percentage": 0.109
+        },
+        {
+          "hex": "#b1978e",
+          "percentage": 0.0702
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/wT92lP5-oHaU-8tFxDf?o=01M3BADP5EWTQCAZHVZPDQ0H25&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 429.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 1.9,
+              "unit": "in"
+            },
+            "height": {
+              "number": 14.4,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 22.0,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/wT92lP5-T9Fg-8tFxDf?o=01KNM8ZM7Q749WV0S6JQ0N3K3H&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "adorama.com",
+          "price": {
+            "price": 439.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/wT92lP5-p1PB-8tFxDf?o=01KY2NNYKSRK2S56WMXRQ1BC6E&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 439.99,
+            "compare_at_price": 489.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/wT92lP5-TgS4-8tFxDf?o=01M38WNV90BGWHZS4AJ6H8353K&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "cdw.com",
+          "price": {
+            "price": 519.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 1.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.15,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.54,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 22.05,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "LCD",
+          "VA",
+          "IPS",
+          "LED"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight",
+          "Frameless",
+          "Built-in speakers",
+          "Ambient light sensor"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "4K ultra HD",
+          "4096 x 2160",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet",
+          "Micro USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": {
+        "value": 4.69,
+        "count": 60,
+        "source_count": 4
+      }
+    },
+    {
+      "id": "IIzjvIF",
+      "title": "ViewSonic VP275-4K 27 Inch IPS 4K UHD Computer Monitor",
+      "description": "The ViewSonic VP275-4K is a 27-inch IPS 4K UHD computer monitor specifically designed for Microsoft Surface devices. It features a resolution of 3840x2160p, a 60Hz refresh rate, and Pantone Validation with 100% sRGB coverage and Delta E <2 accuracy for high color precision. The monitor simplifies connectivity with a 60W USB-C single-cable solution for power, audio, and video, while also offering HDMI and DisplayPort inputs. For user comfort, it includes an advanced ergonomic stand with tilt, swivel, pivot, and height adjustments, alongside Flicker-Free and Blue Light technology to reduce eye strain.",
+      "brands": [
+        {
+          "id": "7Ncd",
+          "name": "ViewSonic"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/51a27eff-9a59-4afe-9985-3c6154662d2f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/bbd44d8a-1c18-42e8-a9b5-b278c10766c4?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic ColorPro 27-inch 4K Ultra HD LED monitor on a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ab9970e4-3905-45a0-9f5d-e2809bc7c5b6?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/7ce155b4-d66e-494d-baa7-cf67f171f440?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "ViewSonic monitor setup with a laptop on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/886d5bff-79d4-4ad8-b890-9d919588892b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "ViewSonic monitor displaying media content with connected devices."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d10e45a7-0822-4d55-925d-1b03d9eaf6f4?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/7f97038c-7868-47c4-bf2b-2b3d4874c286?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic monitor displaying vibrant color spectrum."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b33e2c2-1975-4c2c-94f0-5c96419f1138?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/5d63264a-a864-4106-8c52-56e280572210?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "ViewSonic monitor on a wooden desk with keyboard and mouse."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c113e8a-3469-44f4-986c-56474e2aa858?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Dimensional specifications diagram for the 27-inch monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/623ce7b4-ecf5-46ff-aa13-8c4d3cf069c5?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "ViewSonic monitor rear panel ports and connectivity options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e98e96b8-bf55-45af-a78e-7f8ffcb10be0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "ViewSonic monitor box contents and included cables."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "VERSATILE MONITOR: 27 Inch HD (3840x2160p) 4K UHD IPS Designed for Microsoft Surface devices with thin bezels and 60Hz refresh rate",
+        "LESS CABLE CLUTTER: In addition to fast data, audio and video transfer, USB-C also provides quick 60W charging over a single cable",
+        "EXCEPTIONAL COLOR ACCURACY: 100% sRGB, EBU, SMPTE-C, Rec. 709, and Delta E 2 accuracy",
+        "ERGONOMIC STAND: Advanced ergonomics (tilt, swivel, rotate and height) for all-day comfort",
+        "OPTIMIZED VIEW SETTINGS: Offers \u201cGame,\u201d \u201cMovie,\u201d \u201cWeb,\u201d \u201cText,\u201d and \u201cMono\u201d presets",
+        "FLEXIBLE CONNECTIVITY: The VP275-4K supports PC, laptops and more with USB-C, HDMI, and DisplayPort inputs",
+        "Pantone Validated with 100% sRGB, EBU, SMPTE-C, and Rec. 709 coverage",
+        "Flicker-Free and Blue Light technology for eye care",
+        "VESA compatible mount (100 x 100mm)",
+        "Connectivity: 2x HDMI 2.0, 1x DisplayPort, 1x USB-C, 2x USB-A, 1x USB-B"
+      ],
+      "colors": [
+        {
+          "hex": "#f35c56",
+          "percentage": 0.1544
+        },
+        {
+          "hex": "#815aa9",
+          "percentage": 0.1482
+        },
+        {
+          "hex": "#230923",
+          "percentage": 0.1428
+        },
+        {
+          "hex": "#d03338",
+          "percentage": 0.1333
+        },
+        {
+          "hex": "#cb7ca9",
+          "percentage": 0.1226
+        },
+        {
+          "hex": "#d9bfe3",
+          "percentage": 0.1112
+        },
+        {
+          "hex": "#2f2d45",
+          "percentage": 0.1109
+        },
+        {
+          "hex": "#771d4b",
+          "percentage": 0.0766
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/IIzjvIF-oHaU-8tFxDf?o=01M3CAYX6VDM1B8384354KWEYM&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 429.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 22.005,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/IIzjvIF-LFnL-8tFxDf?o=01KMS0WM6K511TBY11MN08HBGP&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "staples.com",
+          "price": {
+            "price": 439.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/IIzjvIF-LPzf-8tFxDf?o=01M60CYNP4P63D251VTJARFKC7&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "newegg.com",
+          "price": {
+            "price": 439.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": {
+              "number": 61.2,
+              "unit": "cm"
+            },
+            "height": {
+              "number": 21.5,
+              "unit": "cm"
+            },
+            "weight": null
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/IIzjvIF-TgS4-8tFxDf?o=01M4W3YQRW9XC5PSXN9F3JM8S3&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "cdw.com",
+          "price": {
+            "price": 439.99,
+            "compare_at_price": 569.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/IIzjvIF-p1PB-8tFxDf?o=01KY1KVQFD7VDR5J44NM9HXN7N&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 498.16,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Built-in speakers",
+          "HDR support",
+          "Blue light filter",
+          "Flicker-free",
+          "Adjustable viewing angle"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "Micro USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "1920 x 1080",
+          "4096 x 2160",
+          "2160p"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "DICOM",
+          "EBU",
+          "Rec. 709",
+          "SMPTE-C",
+          "sRGB",
+          "Pantone"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED"
+        ],
+        "pattern": [
+          "Abstract",
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "Ayi0xXM",
+      "title": "VP2756-4K",
+      "description": "This is a high-performance 27-inch monitor from ViewSonic's ColorPro series, featuring 4K UHD resolution and an IPS panel for superior color accuracy and wide viewing angles. It is designed for creative professionals and multimedia enthusiasts, offering sharp visuals and built-in speakers for a complete desktop solution. The image suggests it supports USB-C connectivity.",
+      "brands": [
+        {
+          "id": "7Ncd",
+          "name": "ViewSonic"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7wpcLeH?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=T9Fg",
+          "cleaned_url": "https://www.adorama.com/images/Large/VSVP27564K.jpg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch ViewSonic ColorPro monitor with 4K IPS display"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [],
+      "colors": [
+        {
+          "hex": "#f35e5a",
+          "percentage": 0.1518
+        },
+        {
+          "hex": "#2f0c27",
+          "percentage": 0.1505
+        },
+        {
+          "hex": "#da3b3b",
+          "percentage": 0.1459
+        },
+        {
+          "hex": "#865daa",
+          "percentage": 0.1421
+        },
+        {
+          "hex": "#cb7ca6",
+          "percentage": 0.1235
+        },
+        {
+          "hex": "#d4b5d7",
+          "percentage": 0.1093
+        },
+        {
+          "hex": "#36304d",
+          "percentage": 0.108
+        },
+        {
+          "hex": "#8e2344",
+          "percentage": 0.069
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Ayi0xXM-T9Fg-8tFxDf?o=01KCAJVGP4W698PHXA3QRADHTJ&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "adorama.com",
+          "price": {
+            "price": 459.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "Frameless"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "Pantone",
+          "sRGB"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ]
+      },
+      "ratings": {
+        "value": 4.62,
+        "count": 7,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "TTqvyRe",
+      "title": "HP IPS Monitors",
+      "description": "Create awe-inspiring work with true-to-life clarity. This HP 27-inch 4K Thunderbolt 4 Monitor helps illuminate your ideas in a fully calibrated array of stunning colors. Power through your heftiest multitasking thanks to this high-performance display. Get the power to take on any task, unhindered. This superfast Thunderbolt 4 display delivers high-resolution video, high-speed data, and up to 100W charging. Ditch the extra cables, and enjoy the freedom and performance of this single-cable solution. See your work at its most bold and beautiful. Trust what you see right out of the box with factory-calibrated color accuracy on a DreamColor-class display. Jump into a wide array of vivid, lifelike hues and rich contrast thanks to IPS Black 4K monitor, HDR400, 98% Display P3, and more.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a4e0c965-c5e8-4338-b2fc-d1e7e484332f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/c8fc547b-4a38-4838-b709-7b438e4a132f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "A 27-inch 4K Thunderbolt 4 monitor with a sleek stand displaying a 3D graphic design interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5eb935b2-96e7-4ac8-be36-bbcc7f72a8c4?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Marketing infographic highlighting the features of the HP Series 7 Pro monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/554d76f2-bcba-4537-a7db-8934c27349be?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A person working at a desk with multiple monitors, including the HP monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5df02ea0-bd88-4c11-a620-a0830ff03321?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2c5ebaac-49a7-4f52-bd96-26bc7e2080a7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "A 27-inch 4K Thunderbolt 4 monitor displaying abstract colorful light patterns."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/54d4aad2-0b56-47d4-84b9-ca2871d2fbc5?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/61d37b18-013a-4a2f-967d-3a7bafaed7b1?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "A 27-inch 4K Thunderbolt 4 monitor showing vibrant abstract light effects."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/287e04e0-f650-4f33-93e8-1f1c4cee1fd2?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Dimensional specifications for the 27-inch 4K Thunderbolt 4 Monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/56345ccc-74b6-4cc2-969f-0cc369de69bc?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing connectivity ports and cable management for the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bf010f52-a34b-4f79-90c4-045416ee22a0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1a14a289-a15b-491b-b5bc-7a684d64837c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of the HP Series 7 Pro monitor mounted on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15a06317-e48a-48cb-a934-eb04ef74fae0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2e6661a2-0421-426b-80ef-64061b3e801f?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Monitor stand adjustment options showing tilt, swivel, and pivot."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "10% recycled plastic",
+        "90% recycled aluminum"
+      ],
+      "key_features": [
+        "4K UHD (3840 x 2160) resolution",
+        "IPS Black panel",
+        "HDR400",
+        "98% Display P3 color gamut",
+        "100W Power Delivery via single Thunderbolt 4 cable",
+        "Thunderbolt 4 (up to 40Gbps) for data, video, charging",
+        "Daisy\u2011chain support for a second HP Series 7 Pro monitor",
+        "Smart KVM 7 (multi\u2011computer switch) and PBP",
+        "5x USB\u2011A & 1x USB\u2011C hub ports (including 15W charging)",
+        "RJ\u201145 Ethernet"
+      ],
+      "colors": [
+        {
+          "hex": "#121111",
+          "percentage": 0.2725
+        },
+        {
+          "hex": "#6d6d6d",
+          "percentage": 0.2354
+        },
+        {
+          "hex": "#bdbdbd",
+          "percentage": 0.1812
+        },
+        {
+          "hex": "#993b25",
+          "percentage": 0.0988
+        },
+        {
+          "hex": "#302222",
+          "percentage": 0.096
+        },
+        {
+          "hex": "#bb9f75",
+          "percentage": 0.0604
+        },
+        {
+          "hex": "#a87a56",
+          "percentage": 0.0556
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/TTqvyRe-KRXv-8tFxDf?o=01KF2TV0D4TKV6YG2Q9GTAM7X5&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "hp.com",
+          "price": {
+            "price": 759.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.052,
+          "dimensions": {
+            "length": {
+              "number": 24.15,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.08,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.26,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.3,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/TTqvyRe-LPzf-8tFxDf?o=01KRQPA14WZZDQ9AA8WKPDQC24&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "newegg.com",
+          "price": {
+            "price": 783.81,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": {
+              "number": 24.15,
+              "unit": "in"
+            },
+            "height": {
+              "number": 13.94,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.3,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/TTqvyRe-p1PB-8tFxDf?o=01KYGZE8YV3XW3BB93X6D8QXWM&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 802.96,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              {
+                "label": "23.8 inch",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f0b90be6-8f68-4442-9c54-a7b8aec5571c",
+                "product_id": "PivbsQM"
+              },
+              {
+                "label": "27 inch",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/a4e0c965-c5e8-4338-b2fc-d1e7e484332f",
+                "product_id": "TTqvyRe"
+              }
+            ]
+          },
+          {
+            "name": "Resolution",
+            "values": [
+              {
+                "label": "FHD",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f0b90be6-8f68-4442-9c54-a7b8aec5571c",
+                "product_id": "PivbsQM"
+              },
+              {
+                "label": "4K UHD",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/a4e0c965-c5e8-4338-b2fc-d1e7e484332f",
+                "product_id": "TTqvyRe"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Size",
+            "label": "27 inch"
+          },
+          {
+            "name": "Resolution",
+            "label": "4K UHD"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "2000:1",
+          "200000:1"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Pantone",
+          "sRGB"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "2560\u2009x\u20091440",
+          "1920 x 1080"
+        ],
+        "monitor-specialized-features": [
+          "Ambient light sensor",
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Adjustable viewing angle",
+          "Matte finish",
+          "LED backlight",
+          "Built-in speakers"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED",
+          "Mini-LED"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "None",
+          "VESA Adaptive Sync"
+        ]
+      },
+      "ratings": {
+        "value": 3.22,
+        "count": 2174,
+        "source_count": 4
+      }
+    },
+    {
+      "id": "PpawoVb",
+      "title": "MSI 27 inch UHD 4K 60Hz IPS Adaptive Sync Computer Monitor PRO MP273U",
+      "description": "The MSI Pro MP273U is a 27-inch UHD business monitor designed for professionals. It features a 4K resolution (3840 x 2160) on an IPS LED panel, providing wide viewing angles and vivid, detailed visuals. The monitor is equipped with EyesErgo technology, which is TUV certified and includes Anti-Flicker, Less Blue Light, and an Anti-Glare panel to reduce eye strain during extended use. Additionally, it offers productivity tools like Picture-in-Picture (PIP) and Picture-by-Picture (PBP) modes, VESA mount compatibility, and built-in speakers. It is energy-efficient with Energy Star 8.0 certification and finished in matte black.",
+      "brands": [
+        {
+          "id": "yJK9",
+          "name": "MSI"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/390d7ce7-ab4d-47ce-9326-5e48402fbbc7?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor displaying 4K UHD, IPS panel, 60Hz specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/52fed485-2ebf-43a1-b4f3-47fea8cf078c?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with stand viewed from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f2253bd-cc59-47c7-86fb-8641e2e81d73?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor screen showing two girls making funny faces."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a0d39eb9-47b3-4d73-be81-677d9cb4f3f3?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/262adb93-a735-424b-8b8d-b8ff0fec3b71?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor screen showing two girls making funny faces."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0266cc41-213c-4354-97a3-3c51ca53ad61?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor screen showing two girls making funny faces."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cb0bb31e-cfe9-4f82-8ac7-52633247b70b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/672b0167-e49c-4356-91a9-7aff2f2a8a86?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor screen showing two girls making funny faces."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/37ecb919-4dc5-48bb-857e-5328791c9b96?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor screen showing two girls making funny faces."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/530f66c9-fdf3-435a-82fb-553f912d5d94?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with stand on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7812f8cb-207e-41d9-9a62-d8ae82d7b223?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with stand viewed from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e547ddf5-e25c-4af6-9e75-d5162b5fe32b?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with stand on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3a0a1168-6785-475a-96ea-46c5f9454c73?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with stand viewed from the front."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" UHD (2160p) resolution ideal for programming and video editing",
+        "T\u00dcV certified display and MSI EyesErgo technology to reduce eye strain",
+        "MSI Eye-Q Check for self-checking eye health and break reminders",
+        "Multiple input sources including HDMI and DP ports",
+        "Removable cable management design",
+        "Standard VESA mountable and Accessory slot design",
+        "Two built-in speakers",
+        "MSI Power Link supported by HDMI CEC",
+        "IPS panel with 178-degree viewing angle",
+        "Energy Star 8.0 certification"
+      ],
+      "colors": [
+        {
+          "hex": "#928e90",
+          "percentage": 0.218
+        },
+        {
+          "hex": "#6887a2",
+          "percentage": 0.2097
+        },
+        {
+          "hex": "#2f2c2e",
+          "percentage": 0.1479
+        },
+        {
+          "hex": "#d0bfb5",
+          "percentage": 0.1206
+        },
+        {
+          "hex": "#16191d",
+          "percentage": 0.1116
+        },
+        {
+          "hex": "#4e5864",
+          "percentage": 0.1006
+        },
+        {
+          "hex": "#7f6e67",
+          "percentage": 0.0915
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/PpawoVb-LPzf-8tFxDf?o=01M4Q04RBNG3PW17DQHSEEB5E7&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "newegg.com",
+          "price": {
+            "price": 143.99,
+            "compare_at_price": 199.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 24.15,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.13,
+              "unit": "in"
+            },
+            "height": {
+              "number": 18.21,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 8.71,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/PpawoVb-TgS4-8tFxDf?o=01M3YX0EP0SWN3KX3ZQSJZR8JY&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "cdw.com",
+          "price": {
+            "price": 215.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 1.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 18.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 8.8,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/PpawoVb-K6RA-8tFxDf?o=01M4H38NBYP2BANPDFVYF5Q4Z5&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "macys.com",
+          "price": {
+            "price": 219.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "2160p"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "vesa-mounting-pattern": [
+          "75 x 75 mm",
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "Matte finish",
+          "LED backlight"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "sRGB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "oUOSY5u",
+      "title": "Philips 27B1U3900 27\" Class 4K UHD LED Monitor",
+      "description": "The Philips 27B1U3900 is a 27-inch 4K UHD LED monitor designed for productivity and business use. It features an IPS panel for wide viewing angles and a high-fidelity color gamut of 1.074 billion colors. The monitor includes a versatile USB-C connection, an integrated USB hub, and RJ-45 connectivity for seamless peripheral integration. Its ergonomic SmartErgoBase allows for height, pivot, swivel, and tilt adjustments. Eye comfort is prioritized through TUV Eye Comfort certification, Flicker-free technology, and LowBlue Mode. The device also comes equipped with built-in stereo speakers and multiple connectivity options including HDMI and DisplayPort.",
+      "brands": [
+        {
+          "id": "7ju5",
+          "name": "Philips"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/05246a82-bcf1-4594-bf84-56e4e1bf11f0?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch Philips 4K UHD monitor on a stand displaying an abstract nature scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/58dcacb3-3b61-466c-b2e4-a14563bdfa12?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch Philips 4K UHD monitor on a stand displaying an abstract nature scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ca56d871-dadd-46ec-b912-f67a96a3c295?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch Philips 4K UHD monitor on a stand displaying an abstract nature scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ed204e80-42a2-4c72-a552-9a2e59d93759?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the back panel and ports of a black Philips monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0aa93bc0-aebd-49ac-8e3d-9fb70c299c56?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0aa93bc0-aebd-49ac-8e3d-9fb70c299c56?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the back panel and ports of a black Philips monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2afc81ce-b247-4677-98c8-158dc4515e64?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2afc81ce-b247-4677-98c8-158dc4515e64?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Philips monitor mounted on an adjustable black arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17e34ec3-db8d-4580-a3e2-3623ede0bc34?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/17e34ec3-db8d-4580-a3e2-3623ede0bc34?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the back panel and connectivity ports on the rear of a black monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD (3840x2160) resolution",
+        "IPS technology for wide viewing angles",
+        "USB-C connectivity and USB hub",
+        "SmartErgoBase for ergonomic adjustments",
+        "TUV Eye Comfort certified with Flicker-free and LowBlue Mode",
+        "Built-in stereo speakers",
+        "MultiView 4K for up to 4 systems on one screen"
+      ],
+      "colors": [
+        {
+          "hex": "#79772e",
+          "percentage": 0.1506
+        },
+        {
+          "hex": "#7c862b",
+          "percentage": 0.1478
+        },
+        {
+          "hex": "#55772e",
+          "percentage": 0.1316
+        },
+        {
+          "hex": "#7c9928",
+          "percentage": 0.1288
+        },
+        {
+          "hex": "#49882e",
+          "percentage": 0.1159
+        },
+        {
+          "hex": "#439b2e",
+          "percentage": 0.1115
+        },
+        {
+          "hex": "#61632e",
+          "percentage": 0.111
+        },
+        {
+          "hex": "#473c27",
+          "percentage": 0.1028
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/oUOSY5u-TgS4-8tFxDf?o=01M3YX22NZAFNSCCHA4SXAAE2T&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "cdw.com",
+          "price": {
+            "price": 234.99,
+            "compare_at_price": 289.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 2.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 14.4,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 10.47,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Texture"
+        ],
+        "color-accuracy-standards": [
+          "NTSC",
+          "sRGB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED",
+          "LCD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "jm81lNS",
+      "title": "Dell UltraSharp 27\" 4K HDR 120 Hz Monitor & Monitor Arm Kit",
+      "description": "The Dell UltraSharp 27\" 4K HDR 120 Hz Monitor & Monitor Arm Kit is a professional workstation bundle featuring the U2725QE monitor and the MSA20 Single Monitor Arm. The 27-inch IPS Black panel delivers 4K UHD resolution (3840 x 2160) with a smooth 120 Hz refresh rate, 600 nits of brightness, and a 3000:1 contrast ratio. It offers extensive connectivity, including Thunderbolt 4 with up to 140W power delivery, HDMI 2.1, DisplayPort 1.4, and a 2.5GbE RJ45 port. The included MSA20 monitor arm provides fluid adjustment for height, rotation, tilt, and swivel, utilizing a desk clamp or grommet for a clutter-free workspace.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a601ef18-c949-4697-8d75-c0a6495b8244?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch 4K monitor on a stand with a black monitor arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c937a52-fa65-4379-a6e8-7efaaae8b26e?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c937a52-fa65-4379-a6e8-7efaaae8b26e?aid=01M66D9MR50VD82P0SDR9GQW7M&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch 4K monitor on a stand with a black monitor arm."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Black Panel",
+        "4K UHD 3840 x 2160 resolution at 120 Hz",
+        "Thunderbolt 4 connectivity with up to 140W power delivery",
+        "3000:1 static contrast ratio and 600 nits brightness",
+        "99% DCI-P3 and 100% sRGB color coverage",
+        "Integrated 2.5GbE RJ45 port and USB hub",
+        "Includes Dell MSA20 Single Monitor Arm for fluid ergonomic adjustment",
+        "ComfortView Plus for reduced blue light emissions"
+      ],
+      "colors": [
+        {
+          "hex": "#21213f",
+          "percentage": 0.2593
+        },
+        {
+          "hex": "#e8c5da",
+          "percentage": 0.1317
+        },
+        {
+          "hex": "#333a7e",
+          "percentage": 0.1314
+        },
+        {
+          "hex": "#d2acd9",
+          "percentage": 0.1297
+        },
+        {
+          "hex": "#6e6cb2",
+          "percentage": 0.1204
+        },
+        {
+          "hex": "#b490ca",
+          "percentage": 0.119
+        },
+        {
+          "hex": "#4d467f",
+          "percentage": 0.1084
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/jm81lNS-oHaU-8tFxDf?o=01M3JHGMDSHAWN4G60X00F9BQN&aid=01M66D9MR50VD82P0SDR9GQW7M",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 848.99,
+            "compare_at_price": 968.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 22.55,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Ambient light sensor",
+          "Anti-glare",
+          "Blue light filter",
+          "HDR support"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 28,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmNiMDQ0ODI5YTljMDljNmUiLCAib2Zmc2V0IjogMjB9"
+}

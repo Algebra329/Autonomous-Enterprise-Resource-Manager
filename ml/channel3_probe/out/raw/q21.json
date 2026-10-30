@@ -1,0 +1,3318 @@
+{
+  "products": [
+    {
+      "id": "cLBKPs6",
+      "title": "Thunderbolt Dock WD22TB4",
+      "description": "The Dell Thunderbolt Dock WD22TB4 is a modular docking station designed for compatible Dell laptops. It features Thunderbolt 4 connectivity for fast data transfer and high-resolution display output, providing single-cable power delivery up to 130 W. This bundle streamlines workspace organization by consolidating power, network, and display connections into one unit. The package includes the WD22TB4 dock, an AC power adapter and cord, ZoomSpeed HDMI cable with Ethernet, ZoomSpeed DisplayPort cable, a 5-ft Ethernet cable, and an AOM microfiber cleaning cloth.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "A9yq",
+          "name": "JCPenney"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cacfe3af-d276-4946-9d7b-28ebc9590830?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Thunderbolt Dock WD22TB4 with various cables and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d8e2333d-6c07-4c0a-9b2b-87ac87071096?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/245f7aa9-a6a4-4dca-8e53-15b92a104f77?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the Dell Thunderbolt Dock WD22TB4."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/317bec20-cebd-4a62-86b1-725c33bf2655?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Angled side view of the Dell Thunderbolt Dock WD22TB4."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Modular Thunderbolt 4 dock engineered for Dell laptops",
+        "Thunderbolt 4 support for fast data transfer and high-resolution display output",
+        "Single-cable power delivery up to 130 W",
+        "Consolidates display, network, and power connections to simplify workspace",
+        "Includes ZoomSpeed HDMI, DisplayPort, and 5 ft Ethernet cables"
+      ],
+      "colors": [
+        {
+          "hex": "#444546",
+          "percentage": 0.383
+        },
+        {
+          "hex": "#63686d",
+          "percentage": 0.2437
+        },
+        {
+          "hex": "#8c959d",
+          "percentage": 0.1271
+        },
+        {
+          "hex": "#bcc0c3",
+          "percentage": 0.1238
+        },
+        {
+          "hex": "#242424",
+          "percentage": 0.1224
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cLBKPs6-Qoqa-8tFxDf?o=01M1ETFPRSGRNCM7QF8KDZ1KVK&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 319.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/cLBKPs6-p1PB-8tFxDf?o=01M4KM566VRJ3HDG6WHY3E62SK&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 319.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "material": [
+          "Plastic"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Ethernet",
+          "USB",
+          "Display port"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "1SYYl5O",
+      "title": "Dell Thunderbolt Dock WD22TB4 with Cables Bundle Black (Black) WD22TB4",
+      "description": "Dell Thunderbolt Dock WD22TB4 bundle featuring Thunderbolt 4 connectivity and single-cable power delivery up to 130W. This modular dock is designed for compatible Dell laptops to streamline workspace by consolidating display, network, and power connections. The bundle includes the WD22TB4 dock, AC power adapter, power cord, HDMI cable with Ethernet, DisplayPort cable, 5-ft Ethernet cable, and a microfiber cleaning cloth.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4b5b9ad2-7285-4f84-928b-dfc0e1559ec6?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell Thunderbolt Dock WD22TB4 bundle including docking station, power adapter, and various cables."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Modular Thunderbolt 4 dock engineered for Dell laptops",
+        "Thunderbolt 4 support for fast data transfer and high-resolution display output",
+        "Single-cable power delivery up to 130 W",
+        "Consolidates display, network, and power connections into one dock",
+        "Includes HDMI cable, DisplayPort cable, and Ethernet cable",
+        "Maximum of 2 displays supported with 4K (2160p) resolution"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1SYYl5O-p1PB-8tFxDf?o=01KZTFPHNSFMBJC1GAS4W0GY2A&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 319.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "2160p"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Laqz0wF",
+      "title": "WD22TB4 Thunderbolt Dock Workstation 130W Quad 4K Support Bundled with Bluetooth Mini Speaker",
+      "description": "This Dell WD22TB4 Thunderbolt Dock is a versatile docking station designed to streamline your workspace. It offers robust connectivity, supporting up to four 4K displays at 60Hz or a single 5K display, and features a 130W power delivery for Dell systems (90W for non-Dell). The dock includes multiple ports such as Thunderbolt 4, HDMI, DisplayPort, USB-A, USB-C, and Gigabit Ethernet. It also comes bundled with a compact Bluetooth mini speaker for enhanced audio. This bundle is ideal for professionals and remote workers seeking efficient and organized workstation setup.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a78ce0b7-d345-4729-bd58-1d0d748beeef?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt Dock Workstation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/98fc11cd-b771-40c2-a96c-bbc650d212d0?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black, round, speaker-like accessory with a mesh grille."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae834c7f-b0f3-4036-a491-002782d15c03?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black, round, speaker-like accessory with a mesh grille."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to four 4K displays at 60Hz or a single 5K display",
+        "130W Power Delivery for Dell systems, 90W for non-Dell systems",
+        "Includes Thunderbolt 4, HDMI, DisplayPort, USB-A, USB-C, and Gigabit Ethernet ports",
+        "Bundled with a compact Bluetooth mini speaker",
+        "Compatible with Latitude (3000,5000,7000,9000) Series, Precision (3000,5000,7000) Series, and XPS 13, 15, 17"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Laqz0wF-LPzf-8tFxDf?o=01KBPB2PENCT1FDY2FVX7CGY0M&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 429.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Texture"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet",
+          "Bluetooth"
+        ],
+        "material": [
+          "Mesh"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "4OlDFgY",
+      "title": "Thunderbolt Dock Workstation 130W Quad 4K Support, HDMI, USB-C, DisplayPort and USB Hub Bundled with Bluetooth Boost U Speaker with Built-in Mic, 5 Hour Playback",
+      "description": "This Dell WD22TB4 Thunderbolt Dock is a versatile workstation hub designed to streamline productivity. It offers robust connectivity, supporting up to four 4K displays or a single 5K display, and includes multiple Thunderbolt 4, USB-C, USB-A, HDMI, DisplayPort, and Ethernet ports. The dock provides 130W of power delivery to Dell systems and 90W to non-Dell systems, with mounting provisions for space-saving. It also features security enhancements like MAC Address pass-through and remote port-disablement. The bundle includes a Boost U Speaker with Bluetooth connectivity for hands-free audio control and wireless selfie-taking, featuring a built-in microphone and a 600 mAh battery for up to 5 hours of playback.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/035815aa-d1a0-49f2-aded-77d039527571?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/3d382260-2f5a-48e2-8412-aee671eb833e?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black round speaker and power adapter for Dell Thunderbolt Dock Workstation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ec3940ea-54ee-49b3-986d-043e9d56e948?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/5e0a328f-7d9b-4b5b-8254-150f5fc31148?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black round speaker with a textured silver top."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6d5023fc-0307-4201-9a15-eb7140f6b8f7?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6d5023fc-0307-4201-9a15-eb7140f6b8f7?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt Dock Workstation."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to four 4K displays at 60Hz or a single 5K display",
+        "130W Power Delivery for Dell systems and 90W for non-Dell systems",
+        "Includes Thunderbolt 4, USB-C, USB-A, HDMI, DisplayPort, and Gigabit Ethernet ports",
+        "Bundled with a Boost U Speaker with Bluetooth and built-in microphone",
+        "Speaker offers up to 5 hours of playback and is water-resistant"
+      ],
+      "colors": [
+        {
+          "hex": "#272727",
+          "percentage": 0.3658
+        },
+        {
+          "hex": "#424242",
+          "percentage": 0.2846
+        },
+        {
+          "hex": "#d2d2d2",
+          "percentage": 0.1345
+        },
+        {
+          "hex": "#b3b3b3",
+          "percentage": 0.1152
+        },
+        {
+          "hex": "#636363",
+          "percentage": 0.0999
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/4OlDFgY-LPzf-8tFxDf?o=01KBPBKGK7D25CT3E76NQARABG&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 439.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Thunderbolt",
+          "Ethernet",
+          "Bluetooth"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A",
+          "USB Micro-B"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "FacFTDz",
+      "title": "Thunderbolt WD22TB4 4 Dock 130W",
+      "description": "The Dell Thunderbolt WD22TB4 is a modular docking station designed for high productivity and seamless connectivity. It features a swappable module for easy future upgrades and supports power delivery of up to 130W on Dell devices via ExpressCharge technology. With a data transfer rate of 40 GB/s, it allows users to connect multiple 4K displays and a variety of Thunderbolt and USB peripherals through a single cable connection. It is compatible with Dell Commercial laptops and other industry-standard Thunderbolt notebooks running Windows 10 or 11.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/041616bc-f5e3-4b08-a33b-96830063be85?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/041616bc-f5e3-4b08-a33b-96830063be85?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black Dell Thunderbolt dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/361ab3b7-4977-4af9-b32a-c7a9d0ba2fac?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/361ab3b7-4977-4af9-b32a-c7a9d0ba2fac?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front angle of a black Dell Thunderbolt dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b0dab86c-a0c9-4bf9-9442-53f9c0844959?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Ports and slots diagram for a Dell Thunderbolt dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Modular Thunderbolt 4 Dock with swappable module capability",
+        "Power delivery up to 130W on Dell devices with ExpressCharge",
+        "Data transfer rate of 40 GB/s",
+        "Support for multiple 4K displays",
+        "MAC Address pass-thru and remote port-disablement for secure management",
+        "PXE Boot and Wake-on-LAN support"
+      ],
+      "colors": [
+        {
+          "hex": "#313132",
+          "percentage": 0.3592
+        },
+        {
+          "hex": "#595a5c",
+          "percentage": 0.2743
+        },
+        {
+          "hex": "#959697",
+          "percentage": 0.1565
+        },
+        {
+          "hex": "#b6b7b8",
+          "percentage": 0.1092
+        },
+        {
+          "hex": "#7a7b7d",
+          "percentage": 0.1008
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/FacFTDz-LPzf-8tFxDf?o=01M62961Y9JMVCS2YR6QQTCKQZ&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 250.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ew5pPOa",
+      "title": "Thunderbolt WD22TB4 Laptop Dock",
+      "description": "The Dell Thunderbolt WD22TB4 Laptop Dock is a high-performance docking station designed to enhance productivity by streamlining connectivity for notebooks. It features a Thunderbolt 4 host interface for high-speed data transmission and supports charging capabilities to provide a reliable power source for your device. The dock includes a variety of ports, including HDMI for seamless audio and video transmission, RJ-45 for gigabit ethernet connectivity, and multiple USB Type-A and Type-C ports for versatile peripheral support. It is capable of supporting up to two 4K or 5K displays and ensures a hassle-free workspace with its wired connectivity technology.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/04effe97-78ca-4d49-9486-a8240e1b33ec?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/04effe97-78ca-4d49-9486-a8240e1b33ec?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt WD22tb4 Laptop Dock lying on a surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17384c84-a3d5-4133-8312-2036c32928df?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/17384c84-a3d5-4133-8312-2036c32928df?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of black Dell Thunderbolt WD22tb4 Laptop Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b28d206c-96d5-4a70-83d5-5ce5f1d8fe36?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b28d206c-96d5-4a70-83d5-5ce5f1d8fe36?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of the black Dell Thunderbolt WD22tb4 Laptop Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/85cc0509-bd1c-4f05-bbe0-a71c0e1d4f22?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear view of the Dell Thunderbolt dock showing all ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20fdb3e2-1f14-4c79-9166-06e198a08256?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/20fdb3e2-1f14-4c79-9166-06e198a08256?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the black Dell Thunderbolt WD22tb4 Laptop Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f1ca46b9-a9f2-4f3b-929a-24336f969206?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop setup with Dell dock connected to a monitor and peripherals."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 4 host interface for high-speed data transmission",
+        "Supports dual displays with 4K and 5K resolution options",
+        "Equipped with Gigabit Ethernet for stable wired connectivity",
+        "Includes 3 USB 3.2 Gen 1 Type-A ports and 3 USB Type-C ports",
+        "Features HDMI 2.0 and DisplayPort 1.4 outputs",
+        "Integrated charging capability for notebooks via power adapter",
+        "Kensington security slot for physical theft prevention",
+        "Modular design for easier upgrades and field replacement",
+        "Firmware updates can be completed without rebooting the system",
+        "Secure manageability with MAC Address pass-thru and remote port disablement"
+      ],
+      "colors": [
+        {
+          "hex": "#2a2a2a",
+          "percentage": 0.4257
+        },
+        {
+          "hex": "#525252",
+          "percentage": 0.2295
+        },
+        {
+          "hex": "#767676",
+          "percentage": 0.1563
+        },
+        {
+          "hex": "#121212",
+          "percentage": 0.0943
+        },
+        {
+          "hex": "#a9a9a9",
+          "percentage": 0.0942
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ew5pPOa-LPzf-8tFxDf?o=01M5XP9KQ0CK9PKJSC81DCWYNJ&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.5,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 0.99,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/ew5pPOa-p1PB-8tFxDf?o=01KYC9CJES3SN8961VV2V28GHH&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 209.99,
+            "compare_at_price": 349.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/ew5pPOa-6Uzl-8tFxDf?o=01M2QRT0KER4ARNSVTF3PAC5E9&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "odpbusiness.com",
+          "price": {
+            "price": 449.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.5,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.1,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "Display port"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Tablet",
+          "Smartphone"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "1080p",
+          "1440p",
+          "2160p",
+          "Full HD",
+          "HD"
+        ],
+        "material": [
+          "Metal"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ]
+      },
+      "ratings": {
+        "value": 4.52,
+        "count": 38,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "Q6SadnX",
+      "title": "Dell WD22TB4 Docking Station",
+      "description": "The Dell WD22TB4 is a high-performance Thunderbolt 4 docking station designed to expand connectivity for laptops. It supports multiple 4K displays (up to four monitors at 5120 x 2880 pixels at 60 Hz) and provides up to 130W of power delivery to compatible systems. Featuring a modular design for easy field replacement of the power cable or connectivity module, it includes a wide array of ports including Thunderbolt 4, DisplayPort 1.4, HDMI 2.0, and USB 3.2 Gen 1 and Gen 2 ports, as well as Gigabit Ethernet.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2f006f35-d89a-4c6c-bc47-3e12dd24a66a?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2f006f35-d89a-4c6c-bc47-3e12dd24a66a?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt Dock shown from the top angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7110c7b7-8519-4656-abb4-c9b75c8eebe2?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of the Thunderbolt Dock ports and slots."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "130 W Power Delivery pass\u2011through",
+        "Dual Thunderbolt 4 ports",
+        "Two USB\u2011C ports",
+        "Three USB 3.0 ports",
+        "HDMI output",
+        "Two DisplayPort outputs",
+        "Gigabit Ethernet",
+        "Refurbished with 1\u2011year warranty",
+        "Compact 8.1 \u00d7 3.5 \u00d7 1.1 inches (21 \u00d7 9 \u00d7 3 cm)",
+        "Weight: 1.29 lbs (\u224840 oz)"
+      ],
+      "colors": [
+        {
+          "hex": "#292929",
+          "percentage": 0.4292
+        },
+        {
+          "hex": "#525252",
+          "percentage": 0.2284
+        },
+        {
+          "hex": "#767676",
+          "percentage": 0.1539
+        },
+        {
+          "hex": "#a9a9a9",
+          "percentage": 0.0948
+        },
+        {
+          "hex": "#121212",
+          "percentage": 0.0937
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Q6SadnX-n0yg-8tFxDf?o=01M37CN4N312XWARRT7GT4ZW1H&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 163.0,
+            "compare_at_price": 224.56,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.5,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.29,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Q6SadnX-LPzf-8tFxDf?o=01M5XF32VDH3Z8PXCTWEZ0E24Q&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 180.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 8.07,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.54,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.14,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 650.0,
+              "unit": "g"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "compatible-device": [
+          "Tablet"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ]
+      },
+      "ratings": {
+        "value": 4.64,
+        "count": 9,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "7H11Xb5",
+      "title": "Dell Pro Thunderbolt 4 Dock WD25TB4 Docking Station",
+      "description": "The Dell Pro Thunderbolt 4 Dock is a powerful docking station designed to enhance your workspace connectivity. It supports up to 130W of power delivery, ensuring your devices are charged and ready to go. The dock offers a range of ports, including Thunderbolt 4, USB-A, and USB-C, for versatile connections to displays, peripherals, and your host computer. With its sleek, matte black finish and compact rectangular design, it seamlessly integrates into any professional environment.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1608005b-8419-4ce5-b2dc-edd4a3c984e6?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell Pro Thunderbolt 4 Dock setup with monitor and peripherals."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/594d0678-a08f-4483-b406-96bb6d9efc11?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 4 Dock device viewed from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b5377d0d-91d5-4fab-83ce-afbd4d523a60?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 4 Dock device viewed from the front/side."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Up to 130W power delivery",
+        "Thunderbolt 4 connectivity",
+        "Multiple USB-A and USB-C ports",
+        "Supports high resolution displays (up to 8K)",
+        "2.5 Gigabit Ethernet",
+        "3-Year Limited Hardware Warranty with Advanced Exchange",
+        "Type-C Cable/Connector Type"
+      ],
+      "colors": [
+        {
+          "hex": "#48484a",
+          "percentage": 0.3937
+        },
+        {
+          "hex": "#757677",
+          "percentage": 0.2635
+        },
+        {
+          "hex": "#2b2b2c",
+          "percentage": 0.2365
+        },
+        {
+          "hex": "#a4a5a8",
+          "percentage": 0.1063
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/7H11Xb5-Qoqa-8tFxDf?o=01M1HQYAF8K3BH66QKGBM7WQ5B&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 299.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/7H11Xb5-Bteb-8tFxDf?o=01KNX4KGGX3ESKSHME6Q512JDN&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "dell.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 1.39,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.54,
+              "unit": "in"
+            },
+            "height": {
+              "number": 8.07,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.25,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/7H11Xb5-LPzf-8tFxDf?o=01M5XEXW3F9K32DESYK471DEE4&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 310.82,
+            "compare_at_price": 312.82,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "Quad HD",
+          "Full HD",
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "pattern": [
+          "Logo",
+          "Solid"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "Thunderbolt",
+          "USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 64,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "VUp2trP",
+      "title": "Docking Station",
+      "description": "This Dell Pro Dock Thunderbolt 4 docking station is a high-performance solution designed to expand connectivity and power delivery for Dell laptops and notebooks. It features a compact and sleek form factor, making it suitable for any desk. The docking station includes multiple ports for versatile connectivity, including Thunderbolt 4, DisplayPort, HDMI, USB-A, and USB-C, along with 2.5 Gigabit Ethernet for networking. It comes with an AC power adapter and necessary cables for easy setup. This product is backed by a 1-year limited warranty.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/655abbd5-f8b3-4a51-93ff-02755821104d?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/655abbd5-f8b3-4a51-93ff-02755821104d?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 4 dock on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Durable chassis"
+      ],
+      "key_features": [
+        "Thunderbolt 4 docking station compatible with Dell laptops and notebooks, designed to expand connectivity and power delivery",
+        "Compact and sleek form factor that fits easily on any desk, measuring approximately 5.3 x 2.8 x 1.5 inches (L\u00d7W\u00d7H)",
+        "Includes 2 Thunderbolt 4 ports, 2 DisplayPorts, 1 HDMI port, 4 USB-A ports, 2 USB-C ports, and 2.5 Gigabit Ethernet (RJ-45) for versatile",
+        "Dell Pro Dock WD25TB4 unit with AC power adapter and required cables for immediate setup",
+        "1 Year Limited Warranty",
+        "Sleek, black, low-profile design",
+        "Front panel includes USB-A and USB-C ports",
+        "Single-cable Thunderbolt 4 docking",
+        "Thunderbolt 5 docking station compatible with Dell laptops and desktops for enhanced connectivity and high-speed power delivery",
+        "Includes 2 Thunderbolt 5 ports, 2 DisplayPorts, 1 HDMI port, 4 USB-A ports, 2 USB-C ports, and wired 2.5 Gigabit Ethernet (RJ-45) for versatile connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#48494a",
+          "percentage": 0.3915
+        },
+        {
+          "hex": "#757677",
+          "percentage": 0.2646
+        },
+        {
+          "hex": "#2b2b2c",
+          "percentage": 0.2383
+        },
+        {
+          "hex": "#a5a5a8",
+          "percentage": 0.1056
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VUp2trP-p1PB-8tFxDf?o=01KXPZ1Q0AKMWEM16SM7HY698D&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 295.0,
+            "compare_at_price": 299.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/VUp2trP-LFnL-8tFxDf?o=01KR3H5MQVKWRSJV2RC7K6S3RV&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "staples.com",
+          "price": {
+            "price": 328.22,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": {
+            "length": {
+              "number": 5.3,
+              "unit": "in"
+            },
+            "width": {
+              "number": 2.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.5,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "Display port"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Tablet"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "2160p",
+          "720p",
+          "1080p"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB",
+          "Rechargeable"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "connector-gender": [
+          "Female to male"
+        ]
+      },
+      "ratings": {
+        "value": 4.59,
+        "count": 17,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "4KB3a6d",
+      "title": "Dell Pro Thunderbolt 4 Dock - WD25TB4",
+      "description": "The Dell Pro Thunderbolt 4 Dock (WD25TB4) is a high-performance docking station designed to maximize workspace productivity. It features Thunderbolt 4 connectivity, providing power delivery of up to 130W for Dell systems and 96W for non-Dell systems. This dock supports expansive multi-monitor setups, including up to four 4K displays at 60Hz, and offers a wide array of ports including HDMI 2.1, DisplayPort 1.4, USB-A 3.2 Gen 2, and 2.5 Gigabit Ethernet for seamless peripheral integration.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2dcf2f7b-66e7-4a4b-bb11-d77c8b0ca80d?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2dcf2f7b-66e7-4a4b-bb11-d77c8b0ca80d?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 4 Dock on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/126fd16e-9a75-4770-a911-83edc03b1aac?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/126fd16e-9a75-4770-a911-83edc03b1aac?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 4 Dock from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ee4bb1a-765e-42f8-b24d-99293b4bdb36?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1ee4bb1a-765e-42f8-b24d-99293b4bdb36?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 4 Dock from the front view."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "post-recycled (PCR) plastic"
+      ],
+      "key_features": [
+        "Thunderbolt 4 interface",
+        "Up to 130W power delivery for Dell systems",
+        "Support for up to four 4K 60Hz displays",
+        "2.5 Gigabit Ethernet (RJ45)",
+        "Ambidextrous USB-C cable",
+        "Kensington and Noble Wedge security slots",
+        "MAC Address Pass-Through and Power Button Sync"
+      ],
+      "colors": [
+        {
+          "hex": "#48494a",
+          "percentage": 0.3915
+        },
+        {
+          "hex": "#757677",
+          "percentage": 0.2634
+        },
+        {
+          "hex": "#2b2c2c",
+          "percentage": 0.2376
+        },
+        {
+          "hex": "#a4a5a7",
+          "percentage": 0.1075
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/4KB3a6d-Bteb-8tFxDf?o=01M5YX5DVGXSPTTPBY780Q1DHD&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "dell.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 8.07,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.54,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.39,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.25,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "material": [
+          "Plastic"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 122,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "DcHdWO5",
+      "title": "Dell Pro Thunderbolt 4 Smart Dock SD25TB4",
+      "description": "The Dell Pro Thunderbolt 4 Smart Dock SD25TB4 is a versatile docking station designed for professional setups, providing 130W power delivery to keep your devices charged. This bundle includes essential connectivity accessories: a Zoomspeed DisplayPort cable, a Zoomspeed HDMI cable, and an Ethernet cable, along with a cleaning cloth. It supports high-performance multitasking by allowing connection to up to four 4K 60Hz displays and multiple USB-C/Thunderbolt 4 devices.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/91c30285-b3da-4837-b756-4717976b5262?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 4 Smart Dock shown from the side on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/214c7e45-271d-4ebd-b137-bebaf274a111?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Dell Pro Thunderbolt 4 Smart Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/21951457-edec-4841-ab39-538156db44ea?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro Thunderbolt 4 Smart Dock with cables and power adapter laid out on a surface."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "130W Power Delivery",
+        "Supports up to four 4K 60Hz displays",
+        "Thunderbolt 4 compatibility",
+        "Universal tech compatibility",
+        "Includes Zoomspeed DisplayPort cable, HDMI cable, and Ethernet cable"
+      ],
+      "colors": [
+        {
+          "hex": "#48494a",
+          "percentage": 0.3872
+        },
+        {
+          "hex": "#757679",
+          "percentage": 0.2705
+        },
+        {
+          "hex": "#2b2b2c",
+          "percentage": 0.2389
+        },
+        {
+          "hex": "#a8a9ab",
+          "percentage": 0.1034
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/DcHdWO5-Qoqa-8tFxDf?o=01M61ZXRRH66V0C3T50JZK9A8Y&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 299.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "material": [
+          "Plastic"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "gsDFMun",
+      "title": "Thunderbolt Dock TB16",
+      "description": "The Dell Business Thunderbolt 3 (USB-C) Dock TB16 is a comprehensive docking solution designed for power users and workstation clients. It allows connectivity for data, network, video, and audio via a single Thunderbolt 3 connection. The dock supports up to three FHD displays, two 4K displays, or one 5K display at 60Hz, and offers data transfer speeds up to 40Gbps. It comes with a 180W power adapter that powers the dock and provides up to 60W of power to charge compatible laptops.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cdba1553-d465-4870-ad12-abaaa011985c?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cdba1553-d465-4870-ad12-abaaa011985c?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the Dell Thunderbolt 3 USB-C Dock TB16 ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9be58bb0-7f67-474e-b6f8-ae0917ca91bf?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9be58bb0-7f67-474e-b6f8-ae0917ca91bf?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the Dell Thunderbolt 3 USB-C Dock TB16 ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b77cf0c3-5bff-4075-9ff2-3862582872bc?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b77cf0c3-5bff-4075-9ff2-3862582872bc?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Dell Thunderbolt 3 USB-C Dock TB16 ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dabbf938-0c84-49fb-a256-1607d15326ad?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dabbf938-0c84-49fb-a256-1607d15326ad?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black USB-C to USB-C cable with a USB-A connector end."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/936e942b-013f-4232-8bd2-03c21b2bc69f?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop/device base in dark gray color."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e12960e0-7689-44ab-8525-0f37a399e9f5?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 3 USB-C Dock TB16 side view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/118c3ede-3401-48bd-bba7-f83d46c5db45?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 3 USB-C Dock TB16 from front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae873da1-709c-4c36-816f-daf5caddadf1?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 3 USB-C Dock TB16."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to 3 Displays: 1x HDMI, 1x DisplayPort, 1x Mini DisplayPort, 1x VGA",
+        "3x SuperSpeed USB 3.0 Ports, 2x USB 2.0 Ports, 1x Thunderbolt 3 (USB-C) Port",
+        "1x Speaker Output (Rear), 1x Combo Audio (Front), 1x Gigabit Ethernet Port",
+        "180W Power Supply including 60W power delivery to laptop via Thunderbolt 3",
+        "Data transfer speeds up to 40Gbps"
+      ],
+      "colors": [
+        {
+          "hex": "#4a4948",
+          "percentage": 0.547
+        },
+        {
+          "hex": "#6b6b6c",
+          "percentage": 0.2998
+        },
+        {
+          "hex": "#a7a7a7",
+          "percentage": 0.0804
+        },
+        {
+          "hex": "#262524",
+          "percentage": 0.0727
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gsDFMun-LPzf-8tFxDf?o=01M1TSB8JG8EETFWP0G2MJDKSX&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 99.99,
+            "compare_at_price": 109.9,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 2.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 25.39,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "Full HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "compatible-device": [
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "VGA"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "oVFgDB7",
+      "title": "Business Thunderbolt 3 (USB-C) Dock - TB16 with 180W Adapter",
+      "description": "This Dell Business Thunderbolt 3 Dock (TB16) with a 180W adapter is a versatile docking solution designed for power users and workstation clients. It offers comprehensive connectivity, allowing you to connect up to three Full HD displays, two 4K displays, or one 5K display at 60Hz. With data transfer speeds of up to 40 Gbps, it ensures rapid file transfers for demanding tasks like video editing. The compact design (5.7 x 5.7 x 2 inches) minimizes desk space while maximizing productivity by providing access to a wide array of ports through a single Thunderbolt 3 connection. The included 180W adapter powers the dock and can deliver up to 60W of power to compatible Dell Latitude and XPS notebooks and 2-in-1s, making it an ideal choice for enhancing your workstation setup.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ae96844b-ca8b-464d-b829-9c3ce3befefb?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt Dock TB16 with multiple ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cb8ddbfc-5b51-4d5f-9fb1-ec0a1c47e2a8?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cb8ddbfc-5b51-4d5f-9fb1-ec0a1c47e2a8?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the black Dell Thunderbolt Dock TB16."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/28f8b466-b2f2-4ef1-aedb-6fff65fb1bfb?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28f8b466-b2f2-4ef1-aedb-6fff65fb1bfb?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the front panel ports on the Dell Thunderbolt Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a3de90f4-c95b-481e-9060-c60317452cb7?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a3de90f4-c95b-481e-9060-c60317452cb7?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black USB-C to USB-A adapter cable with lightning bolt logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4c1b9746-7231-4bc4-99f7-1af85425329d?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/0423de74-f86d-45fe-a5d4-b55d7af87681?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell laptop base or power adapter."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4691c1b6-b6bb-40eb-8f6a-02d78305c2cf?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/da4d9037-fab2-4153-a7a5-2e1bf7cc9521?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell docking station setup with monitors, keyboard, and mouse."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 3 connectivity for single-cable data and power",
+        "Supports up to three FHD displays, two 4K displays, or one 5K display at 60Hz",
+        "Data transfer speeds up to 40 Gbps",
+        "Provides power to the connected laptop (19.5V) and up to 60W to Thunderbolt 3 peripherals",
+        "Includes 3x USB 3.0 ports, 2x USB 2.0 ports, 1x HDMI output, and 1x VGA output",
+        "Includes 180W Adapter",
+        "Comprehensive port selection: HDMI, VGA, Mini DisplayPort, DisplayPort, and Gigabit Ethernet",
+        "Compact design (5.7 x 5.7 x 2 inches)"
+      ],
+      "colors": [
+        {
+          "hex": "#636363",
+          "percentage": 0.4616
+        },
+        {
+          "hex": "#454442",
+          "percentage": 0.4136
+        },
+        {
+          "hex": "#232322",
+          "percentage": 0.0794
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/oVFgDB7-n0yg-8tFxDf?o=01M38074DHAPED82FTV7D7BRCX&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 86.0,
+            "compare_at_price": 410.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 2.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 96.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/oVFgDB7-LPzf-8tFxDf?o=01M1TR8H4AYDSQCF15VXB1GEFZ&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 87.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 2.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "1080p",
+          "Full HD",
+          "HD",
+          "SD"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB",
+          "Hardwire"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "2.5 mm",
+          "6.35 mm",
+          "HDMI",
+          "Micro USB",
+          "USB",
+          "VGA",
+          "XLR",
+          "Thunderbolt",
+          "Ethernet",
+          "3.5 mm",
+          "HD-SDI",
+          "RCA"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "0T1aluy",
+      "title": "Pro Thunderbolt 4 Smart Dock",
+      "description": "The Dell Pro Thunderbolt 4 Smart Dock SD25TB4 is a comprehensive docking solution designed for high-performance multi-monitor workstations. It features Thunderbolt 4 connectivity for high-speed data transfer and reliable performance, supporting up to four 4K 60Hz displays. The dock provides up to 130W power delivery to ensure fast laptop charging. This bundle includes the SD25TB4 dock, a power adapter, ZoomSpeed DisplayPort, HDMI, and Ethernet cables, along with an AOM microfiber cleaning cloth for complete setup and maintenance.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/de821f2f-ba63-466c-a1a5-bb7c4c0fdaa6?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/f8d07161-a27a-4d21-9100-3bd86f9b2800?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Smart Dock with power supply and cables shown."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b200f792-ee29-4925-8333-9b3ab67dd164?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/4d1fc5bd-7d1c-40d7-acdb-6df60de6c842?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Dell Smart Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/89c3c315-ac89-442f-953a-de8a4a0e008d?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/66f7c209-c9d7-4899-830c-2f4373e27813?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of the black Dell Smart Dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Thunderbolt 4 connectivity for high-speed data transfer",
+        "Up to 130W power delivery for fast laptop charging",
+        "Support for up to four 4K 60Hz displays",
+        "Universal compatibility with most USB-C laptops running Windows",
+        "Includes ZoomSpeed DisplayPort, HDMI, and Ethernet cables",
+        "Includes AOM microfiber cleaning cloth"
+      ],
+      "colors": [
+        {
+          "hex": "#55585b",
+          "percentage": 0.2757
+        },
+        {
+          "hex": "#3f4041",
+          "percentage": 0.2754
+        },
+        {
+          "hex": "#272727",
+          "percentage": 0.219
+        },
+        {
+          "hex": "#677682",
+          "percentage": 0.1196
+        },
+        {
+          "hex": "#aab9c2",
+          "percentage": 0.1102
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/0T1aluy-Qoqa-8tFxDf?o=01M1HJW1R44HAFC7PM1QA6RW16&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 319.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/0T1aluy-p1PB-8tFxDf?o=01M4KKC0TD0PDCTX6DZRA8JY52&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 319.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "rLlGVRZ",
+      "title": "Dell Pro Thunderbolt 4 Smart Dock SD25TB4",
+      "description": "Maximize your workspace efficiency with the Dell SD25TB4 Pro Thunderbolt 4 Smart Dock station. This dock is designed for professionals who demand high performance with ultra-fast connectivity, security, and flexibility. It features dual Thunderbolt 4, dual DisplayPort 1.4, HDMI 2.1, USB-C multi-mode, and a 2.5 GbE RJ45 port, supporting up to 4 external displays (one 8K, two 6K, or four WQHD). It delivers fast data transfer and full 130 W power delivery to your laptop. Its ambidextrous USB-C cable ensures easy routing in any desk setup. Four USB-A and one USB-C port deliver 10 Gb/s speeds for rapid backups, peripherals, and charging, making it a hub for intensive tasks. Built for enterprise deployment, it features hardware-based encryption, WPA-3 Wi-Fi, and remote management via Dell\u2019s Device Management Console. A Kensington lock slot adds physical security for shared or open spaces. Compatible with Windows, macOS, Linux, ChromeOS, Ubuntu, and RHEL, it fits virtually any ecosystem. Built with 65% recycled materials and eco-conscious packaging, this dock is an all-in-one workstation solution for power users, professionals, and IT teams who need security, performance, and flexibility in a single device. Bundle includes the Dell SD25TB4 Pro Thunderbolt 4 Smart Dock, two DisplayPort to DisplayPort cables, two USB-A to USB-C cables, two USB-C to USB-C cables, one Ethernet patch cable, adjustable cord straps, one HDMI cable, a cleaning kit, a USB Type C to HDMI 3.1 cable, and the MK540 Advanced Wireless Keyboard and Mouse Combo.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/edf8d102-ae44-4c06-a05b-ec800b09769c?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Smart Dock, keyboard, and cables on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b88759c-68e7-47b0-96b5-4dbc9ac17e02?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1b88759c-68e7-47b0-96b5-4dbc9ac17e02?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the Dell Smart Dock with a detachable cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/23888eb0-6013-4fa1-9a6b-2a1b39905513?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/23888eb0-6013-4fa1-9a6b-2a1b39905513?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Smart Dock with a long, flexible cable, shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2e1ef5d2-be31-4c1c-8a59-ce9f75a15360?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2e1ef5d2-be31-4c1c-8a59-ce9f75a15360?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Smart Dock unit with a cable, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5bb15623-725b-4108-83f1-65952ce098ab?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5bb15623-725b-4108-83f1-65952ce098ab?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Smart Dock unit with a cable, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7ca998e3-2276-4d39-acc0-f73e05edeb21?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ca998e3-2276-4d39-acc0-f73e05edeb21?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Dell Smart Dock with ports and power cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aca6b5d9-4f37-4360-80b6-149e2460fd79?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aca6b5d9-4f37-4360-80b6-149e2460fd79?aid=01M66D9WP46HVXJN9158N0WBQG&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of the Dell Smart Dock with the Dell logo."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "recycled materials"
+      ],
+      "key_features": [
+        "Bundle Includes: Dell SD25TB4 Pro Thunderbolt 4 Smart Dock \u2013 USB-C Docking Station + 2x Gold Plated Premium DisplayPort to DisplayPort Male to Male Cable with Latches + 2x USB-A To USB-C Cable + 2x USBC to USBC Cable + 1x Ethernet Patch Cable + Adjustable Cord Straps + 1x HDMI Cable + Diginerds Cleaning kit + USB Type C to HDMI 3.1 Cable + MK540 Advanced Wireless Keyboard And Mouse Combo + High Speed USB Printer Cable",
+        "Ultimate Connectivity & Next-Gen Display Power Support: Plug in your entire setup with SD25TB4 Pro Thunderbolt 4 Smart Dock Station, dual Thunderbolt 4 ports, dual DisplayPort 1.4, HDMI 2.1, plus USB-C multi\u2011mode all at once. Support up to 4 display (one 8K Monitor, two 6K Monitors, or four WQHD) simultaneously with zero compromise. Ideal for power users, creative professionals, and hybrid teams who demand seamless multi\u2011monitor",
+        "130 W Power Delivery + 10 Gb/s USB Speeds: Delivers up to 130W charging to compatible laptop at full power while transferring data at blazing USB-C/USB-A 3.2 Gen 2 (10 Gb/s) speeds. 4 x USB-A 3.2 Gen 2 Ports and 1 x USB-C 3.2 Gen port offer rapid file syncing, external storage backups, and high-speed peripheral connections\u2014perfect for content creators and IT professionals on tight deadlines.",
+        "Secure Wired Networking & Physical Theft Protection: Built\u2011in 2.5 GbE RJ45 ensures low\u2011latency, reliable network performance ideal for streaming, video conferencing, or large data transfers. Integrated Kensington lock slot allows secure workstation setups in shared offices or open\u2011workspace environments, addressing enterprise security requirements. Built using 65% post-consumer recycled materials and packaged with 100% recycled or",
+        "Management & Enterprise\u2011Grade Encryption: Supported by Dell Device Management Console, ly configure, update firmware, and deploy Wi\u2011Fi settings across fleets no user interaction required. Hardware\u2011based encryption and WPA\u20113 Wi\u2011Fi security keep business data protected, making this dock ideal for IT teams and corporate deployment at scale. Works seamlessly with Windows, macOS, Linux, ChromeOS, Ubuntu, and Red Hat. Ambidextrous USB\u2011C"
+      ],
+      "colors": [
+        {
+          "hex": "#3f3f3f",
+          "percentage": 0.544
+        },
+        {
+          "hex": "#090909",
+          "percentage": 0.204
+        },
+        {
+          "hex": "#262626",
+          "percentage": 0.1591
+        },
+        {
+          "hex": "#696969",
+          "percentage": 0.0929
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/rLlGVRZ-p1PB-8tFxDf?o=01KXZJA3EHCRD6XWDTA87THB60&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 514.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Black"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "compatible-device": [
+          "Smartphone",
+          "Tablet",
+          "Digital camera",
+          "Keyboard",
+          "Mouse"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "USB",
+          "Thunderbolt"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "pattern": [
+          "Solid",
+          "Logo"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "2160p",
+          "1440p",
+          "1080p"
+        ]
+      },
+      "ratings": {
+        "value": 3.0,
+        "count": 6,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "koT0Eft",
+      "title": "Dell TB16 Thunderbolt 3 (USB-C) Docking Station with 180W Adapter, Black, Model:452-BCNP",
+      "description": "The Dell TB16 is a Business Thunderbolt Docking Station designed for mobile workstations and notebooks. It allows users to connect to multiple displays and peripherals using a single USB Type-C Thunderbolt Cable, providing both data transfer and power to the notebook. This specific model comes with a 180W power adapter and supports various video outputs and USB connectivity options to streamline the workspace.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cf4df9d1-e329-495b-be9a-08ba85061e20?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cf4df9d1-e329-495b-be9a-08ba85061e20?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell TB16 Thunderbolt 3 docking station unit on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b7f49d03-0ce1-4428-8c24-c5bb4f40dbe9?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b7f49d03-0ce1-4428-8c24-c5bb4f40dbe9?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Dell TB16 Thunderbolt 3 docking station showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/09062dff-173a-46db-b5c1-f24c2276b277?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell docking station setup with a monitor, keyboard, and mouse."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6037eede-fba0-47ef-934b-19e6a21f03c8?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the ports and connectivity options on the back of the docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/168a0152-a9a1-4a71-a497-f2153edd22ed?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/168a0152-a9a1-4a71-a497-f2153edd22ed?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the power input and USB ports on the bottom of the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/da439c16-4b99-4398-b4ea-7458b1f7afcb?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell docking station base with Dell logo on a dark surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cae3e4e2-b5be-4e07-bd15-7ef41b344730?aid=01M66D9WP46HVXJN9158N0WBQG&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop connected to Dell docking station via cable for docking."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to 3 displays (1x HDMI, 1x DisplayPort, 1x Mini DisplayPort)",
+        "Includes 1x VGA (15 pin D-Sub) video port",
+        "3x SuperSpeed USB 3.0 Ports",
+        "2x USB 2.0 Ports",
+        "1x Thunderbolt 3 (USB-C) port",
+        "1x speaker output (rear), 1x combo Audio (front), and 1x Gigabit Ethernet port",
+        "180W Power supply with 7.4 mm DC-in power input",
+        "Kensington lock slot",
+        "Professional restored with 12 month warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#68686a",
+          "percentage": 0.4506
+        },
+        {
+          "hex": "#4d4e51",
+          "percentage": 0.4105
+        },
+        {
+          "hex": "#373738",
+          "percentage": 0.0743
+        },
+        {
+          "hex": "#9e9ea0",
+          "percentage": 0.0646
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/koT0Eft-n0yg-8tFxDf?o=01M38QW9QGC0644KDKKAJYG02Q&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 82.0,
+            "compare_at_price": 659.98,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/koT0Eft-LPzf-8tFxDf?o=01M61YXV8ZFTPWCG6DXWJ2HXXK&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 99.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 5.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 2.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 25.39,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "HDMI",
+          "Display port",
+          "VGA",
+          "Ethernet"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "QIk7Hmk",
+      "title": "Pro Thunderbolt 5 Dock",
+      "description": "The Dell Pro Universal Thunderbolt 5 Docking Station (WD25TB5) is a high-performance docking solution designed for modern computing. Featuring a robust Thunderbolt 5 interface, it supports high-speed data transfer and advanced video output, capable of reaching resolutions up to 8K for a single display or supporting triple and quad display configurations. The dock is highly versatile, offering a wide array of connectivity options including HDMI, two DisplayPorts 2.1, USB-C 3.2 Gen 2, and a 2.5G Gigabit Ethernet port. It provides substantial power delivery, up to 300W for Dell systems and 240W for non-Dell systems, ensuring compatibility across various platforms. Additional professional features include Wake on LAN, MAC address pass-through, and Kernel DMA protection for enhanced security and network management.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0cb6a530-8a32-419c-bf3a-ac16fe639593?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 5 docking station shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ba8e5124-38af-4b9f-9599-6912f6ff18db?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 5 docking station viewed from the front."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "Up to 300W power delivery",
+        "Thunderbolt 5 connectivity",
+        "Multiple USB-A and USB-C ports",
+        "Sleek, matte black design",
+        "Supports up to 4 displays",
+        "Supports resolutions up to 8K @ 60Hz and 4K @ 120Hz",
+        "12 total ports",
+        "6 x USB ports (4 x USB Type-A, 2 x USB Type-C)",
+        "1 x HDMI port",
+        "2 x DisplayPorts"
+      ],
+      "colors": [
+        {
+          "hex": "#48494a",
+          "percentage": 0.3954
+        },
+        {
+          "hex": "#767879",
+          "percentage": 0.2697
+        },
+        {
+          "hex": "#2b2b2b",
+          "percentage": 0.2325
+        },
+        {
+          "hex": "#ababad",
+          "percentage": 0.1025
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/QIk7Hmk-LPzf-8tFxDf?o=01M5XF1MNSDP6GFKHF53MGHB17&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 449.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/QIk7Hmk-p1PB-8tFxDf?o=01KZ7RF3MRGFQ7N2C445BQE84K&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 489.0,
+            "compare_at_price": 499.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/QIk7Hmk-Bteb-8tFxDf?o=01KP1ZQFQC59W7TYX3HJQ7GTF0&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "dell.com",
+          "price": {
+            "price": 534.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 3.54,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.07,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.39,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.37,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/QIk7Hmk-TgS4-8tFxDf?o=01M4VY180TC77KQH59NEE1B78Z&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "cdw.com",
+          "price": {
+            "price": 534.99,
+            "compare_at_price": 668.74,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 3.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.4,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 21.9,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "Display port"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "1080p",
+          "4320p"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ]
+      },
+      "ratings": {
+        "value": 3.56,
+        "count": 24,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "MFEuhJM",
+      "title": "Thunderbolt Dock with Thunderbolt 4 Cable",
+      "description": "Expand your connectivity with the OWC 11-Port Thunderbolt Dock. This versatile dock offers a wide range of ports, including three Thunderbolt 4 ports and four USB ports, allowing you to connect to various devices, from high-performance storage to everyday accessories. Enjoy the flexibility of supporting up to a single 8K display or dual 5K displays, with Thunderbolt 4 providing up to 96W of power delivery to your host computer. The dock also features Gigabit Ethernet, a 3.5mm audio combo jack, and an SD card reader for streamlined workflow and reduced cable clutter. Compatible with Thunderbolt 3 or later Macs, Thunderbolt 4 PCs, and even non-Thunderbolt USB-C devices like Chromebooks and iPads.",
+      "brands": [
+        {
+          "id": "XtyK",
+          "name": "OWC"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/33c416b6-6778-4ece-8f5a-6bee58a60f36?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black and silver Thunderbolt Dock device shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc162f46-6224-4c4b-858f-2f201442e0a9?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc162f46-6224-4c4b-858f-2f201442e0a9?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the Thunderbolt Dock ports and connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e6af9f13-4a33-4159-8217-7655b85c7e07?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop connected to a Thunderbolt dock with charging cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/33ec6566-0d09-457a-91ef-8383c5c5ef79?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/33ec6566-0d09-457a-91ef-8383c5c5ef79?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Thunderbolt Dock device showing various port connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/41932c78-4a6d-409c-971a-f7c2c506bcba?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop connected to a dock supporting dual monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7db34c74-339e-4209-98b8-f0d5aee9fc98?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Thunderbolt Dock showing 96W power delivery status."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0dfd2a51-feba-40be-a455-24fca6f8b2ba?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0dfd2a51-feba-40be-a455-24fca6f8b2ba?aid=01M66D9WP46HVXJN9158N0WBQG&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Thunderbolt Dock showing a view of its 11 ports."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum",
+        "Plastic"
+      ],
+      "key_features": [
+        "Host Port: Thunderbolt 4 up to 40 Gb/s (5000 MB/s)",
+        "3 Thunderbolt 4 Ports",
+        "3 USB 3.2 Gen 2 Type-A Ports up to 10Gb/s (1250MB/s) - USB 2.0/3.0 backwards compatible",
+        "1 USB 2.0 Port",
+        "1 Gigabit Ethernet (GbE) RJ-45 Port",
+        "1 3.5mm Stereo Audio Input/Output Combo Port",
+        "1 Secure Digital (SD) SD 4.0 UHS-II",
+        "Supports up to one 8K display @ 60Hz, or two 4K displays @ 60Hz",
+        "96W Power Delivery to host computer",
+        "15W power to Thunderbolt 4 device ports"
+      ],
+      "colors": [
+        {
+          "hex": "#a4a7ac",
+          "percentage": 0.547
+        },
+        {
+          "hex": "#23262e",
+          "percentage": 0.42
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/MFEuhJM-LFnL-8tFxDf?o=01M3JM0R4YY1GT1J4WH4M7Q8R6&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "staples.com",
+          "price": {
+            "price": 205.94,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/MFEuhJM-oHaU-8tFxDf?o=01M33W6TBV4ZKB9SNPH05K27D3&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 229.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/MFEuhJM-TgS4-8tFxDf?o=01M49ZYRRN0DWYWVYRV88QS9BH&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "cdw.com",
+          "price": {
+            "price": 251.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 2.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.02,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.11,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/MFEuhJM-p1PB-8tFxDf?o=01KXS7B6A09X8WR76QBCASPD29&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 258.49,
+            "compare_at_price": 269.46,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/MFEuhJM-LPzf-8tFxDf?o=01M5ED8CRM3T7YE40YRWT54F9V&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "newegg.com",
+          "price": {
+            "price": 456.53,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "Ethernet",
+          "3.5 mm",
+          "SD card",
+          "AUX",
+          "HDMI",
+          "Micro USB",
+          "RCA"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet",
+          "Digital camera",
+          "Keyboard",
+          "Mouse"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "720p",
+          "1080p",
+          "2160p",
+          "Full HD",
+          "HD",
+          "Quad HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered",
+          "DC-powered",
+          "Rechargeable",
+          "USB"
+        ],
+        "material": [
+          "Metal",
+          "Aluminum",
+          "Plastic"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ]
+      },
+      "ratings": {
+        "value": 4.3,
+        "count": 67,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "Dl6o2vU",
+      "title": "Dell Pro Thunderbolt 5 Dock WD25TB5",
+      "description": "The Dell Pro Thunderbolt 5 Dock WD25TB5 is a professional-grade docking station featuring a sleek, black matte finish. Designed for high-performance connectivity, it supports Thunderbolt 5 to provide fast data transfer and multiple port expansions for a streamlined workspace.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dd62dbb5-9193-4b95-b982-3030214aa563?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dd62dbb5-9193-4b95-b982-3030214aa563?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 5 Dock lying horizontally on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c37f51f4-9552-4637-9378-7e1fc938c19f?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c37f51f4-9552-4637-9378-7e1fc938c19f?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 5 Dock lying horizontally on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d45916b-caf5-4d3d-ab1d-1350abd40c40?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7d45916b-caf5-4d3d-ab1d-1350abd40c40?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro Thunderbolt 5 Dock lying horizontally on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Thunderbolt 5 support",
+        "Docking station",
+        "Sleek design",
+        "Cable/Connector Type: Adapters"
+      ],
+      "colors": [
+        {
+          "hex": "#47484a",
+          "percentage": 0.3981
+        },
+        {
+          "hex": "#757677",
+          "percentage": 0.2666
+        },
+        {
+          "hex": "#2a2c2b",
+          "percentage": 0.2316
+        },
+        {
+          "hex": "#a5a6a8",
+          "percentage": 0.1037
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Dl6o2vU-Qoqa-8tFxDf?o=01M65XDZWXH8673DJ4SX6DC1AQ&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 509.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/Dl6o2vU-Bteb-8tFxDf?o=01M5YGW34WD93ZMJ1XZ96P54X7&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "dell.com",
+          "price": {
+            "price": 534.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 8.07,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.54,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.39,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.37,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "Ethernet",
+          "HDMI",
+          "Display port"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "material": [
+          "Plastic"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 43,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "HDioNLi",
+      "title": "Dell Pro Thunderbolt 5 Smart Dock - SD25TB5",
+      "description": "The Dell Pro Thunderbolt 5 Smart Dock (SD25TB5) is a high-performance docking station designed for professional multitasking and AI-powered PCs. It features cutting-edge Thunderbolt 5 technology, supporting up to four 4K displays at 120Hz and delivering significant power\u2014up to 300W for Dell systems and 240W for non-Dell systems\u2014via a single USB-C cable. The dock includes a wide array of ports: two Thunderbolt 5 ports, multiple USB-A 3.2 Gen 2 ports, USB-C ports, HDMI 2.1, DisplayPort 2.1, and a 2.5 Gigabit Ethernet port. It is built for IT efficiency with remote management capabilities via the Dell Device Management Console and incorporates sustainable design using post-consumer recycled materials.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3d8628c4-d800-4e3f-b85e-539ae0a31ae8?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3d8628c4-d800-4e3f-b85e-539ae0a31ae8?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 5 docking station on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/437804b1-9eef-49f4-a0ce-d46e2c00494f?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/437804b1-9eef-49f4-a0ce-d46e2c00494f?aid=01M66D9WP46HVXJN9158N0WBQG&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Thunderbolt 5 docking station on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "post-consumer recycled materials"
+      ],
+      "key_features": [
+        "Thunderbolt 5 connectivity",
+        "Supports up to four 4K 120Hz displays",
+        "Up to 300W power delivery for Dell systems",
+        "2.5 Gigabit Ethernet (RJ45)",
+        "Remote management via Dell Device Management Console",
+        "Enterprise-grade WPA-3 192-bit encryption",
+        "Built with post-consumer recycled materials"
+      ],
+      "colors": [
+        {
+          "hex": "#48494b",
+          "percentage": 0.3967
+        },
+        {
+          "hex": "#767779",
+          "percentage": 0.2647
+        },
+        {
+          "hex": "#2b2c2b",
+          "percentage": 0.2354
+        },
+        {
+          "hex": "#a8a9aa",
+          "percentage": 0.1032
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/HDioNLi-Bteb-8tFxDf?o=01M64N2WRSNC8PZ4MFZKHG0ZRC&aid=01M66D9WP46HVXJN9158N0WBQG",
+          "domain": "dell.com",
+          "price": {
+            "price": 624.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 89.9,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 205.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 35.3,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 621.4,
+              "unit": "g"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "Wi-Fi"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": {
+        "value": 4.4,
+        "count": 143,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjMxNWJhNzUxYzM4MjdkYmMiLCAib2Zmc2V0IjogMjB9"
+}

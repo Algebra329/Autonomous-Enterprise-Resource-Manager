@@ -1,0 +1,4183 @@
+{
+  "products": [
+    {
+      "id": "dX0U7H1",
+      "title": "HP Elitebook 840 G11 14 Business AI Laptop",
+      "description": "The HP Elitebook 840 G11 is a 14-inch business AI laptop designed for high performance and portability. It features an Intel Core Ultra 7 165U 10-core processor, 16GB of DDR4 memory, and a massive 2TB PCIe SSD for fast storage. The laptop boasts a 14\" FHD+ (1920x1200) non-touch screen, Intel integrated graphics, and runs on Windows 11 Home. Connectivity options include Wi-Fi 6E, Bluetooth, and multiple ports such as Thunderbolt 4 and HDMI. Additional security and convenience features include a fingerprint reader and a webcam.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/118a89f4-32ba-48fb-859c-fed7403ca2da?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/118a89f4-32ba-48fb-859c-fed7403ca2da?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop with Windows 11 displayed on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/016ed5d5-1389-4599-8505-ef5b3bd09579?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop open showing Windows 11 desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4f69900-a12d-48b7-b3b1-0f774baea6fe?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the Intel Core Ultra 7 processor chip."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc32a6ba-8eee-4d0e-97ad-5d9ae6f787c9?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop screen with abstract wallpaper and display specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fcffc04e-b38c-40cb-9b72-43a26387a7c1?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing collaboration features like camera and fingerprint reader."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e2699dc2-de54-42d7-9f13-6a2e644ba83a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing the ports and slots on the laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" FHD+ (1920x1200) Display",
+        "Intel Core Ultra 7 165U 10 cores Processor",
+        "16GB DDR4 Memory",
+        "2TB PCIe SSD",
+        "Wi-Fi 6E + Bluetooth",
+        "Fingerprint Reader",
+        "Thunderbolt 4 ports",
+        "Windows 11 Home"
+      ],
+      "colors": [
+        {
+          "hex": "#171929",
+          "percentage": 0.1588
+        },
+        {
+          "hex": "#bb9f9a",
+          "percentage": 0.1576
+        },
+        {
+          "hex": "#88beeb",
+          "percentage": 0.1515
+        },
+        {
+          "hex": "#473a4a",
+          "percentage": 0.1385
+        },
+        {
+          "hex": "#cecac7",
+          "percentage": 0.1171
+        },
+        {
+          "hex": "#6999c2",
+          "percentage": 0.1083
+        },
+        {
+          "hex": "#71617f",
+          "percentage": 0.0925
+        },
+        {
+          "hex": "#234675",
+          "percentage": 0.0757
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dX0U7H1-LPzf-8tFxDf?o=01M518ZMT114YFM4M355JF335E&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2109.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-cores": [
+          "Deca"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Jmg0bJJ",
+      "title": "HP Elitebook 840 G11 14 Business AI Laptop",
+      "description": "The HP Elitebook 840 G11 is a 14-inch Business AI Laptop designed for professional performance. It is powered by an Intel Core Ultra 7 165U processor with 10 cores, 16GB of DDR4 RAM, and a 1TB PCIe SSD. The device features a 14\" FHD+ (1920x1200) anti-glare display with low blue light technology. Connectivity is robust with Wi-Fi 6E, Bluetooth, and a variety of ports including two Thunderbolt 4 (USB Type-C) and two USB Type-A ports. For security and convenience, it includes a fingerprint reader and runs on Windows 11 Home.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b4264938-b32a-4f2a-800a-f2b85c6fb47e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4264938-b32a-4f2a-800a-f2b85c6fb47e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop displaying Windows 11 and specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f2d681ce-df68-4967-974b-968269e5d5df?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop showing Windows 11 desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2d3f0820-8ce1-437e-86de-68783d8c20d7?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Intel Core Ultra 7 processor specification graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/036730c1-c9d9-4719-bdda-efe8d4e26a48?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop display and design features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/63fb2366-4653-4bb0-9b5b-ab3a6f464e7b?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing collaboration and security features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/44c21d5b-df4f-485e-82b0-deb61ef78b6e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of laptop ports and slots."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" FHD+ (1920x1200) anti-glare display",
+        "Intel Core Ultra 7 165U Processor (10 cores, up to 4.9GHz)",
+        "16GB DDR4 Memory",
+        "1TB PCIe SSD",
+        "Intel Graphics",
+        "Wi-Fi 6E and Bluetooth",
+        "Fingerprint Reader",
+        "Thunderbolt 4 ports",
+        "Windows 11 Home"
+      ],
+      "colors": [
+        {
+          "hex": "#171929",
+          "percentage": 0.1586
+        },
+        {
+          "hex": "#7fb8e8",
+          "percentage": 0.158
+        },
+        {
+          "hex": "#c5a59b",
+          "percentage": 0.156
+        },
+        {
+          "hex": "#473a4a",
+          "percentage": 0.139
+        },
+        {
+          "hex": "#c9cfd4",
+          "percentage": 0.1143
+        },
+        {
+          "hex": "#7095b5",
+          "percentage": 0.1037
+        },
+        {
+          "hex": "#716280",
+          "percentage": 0.0913
+        },
+        {
+          "hex": "#234675",
+          "percentage": 0.079
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Jmg0bJJ-LPzf-8tFxDf?o=01M519979CMJW7PKY99VCVD0XH&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1949.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "zylz2hX",
+      "title": "HP Elitebook 840 G11 14 Business AI Laptop",
+      "description": "The HP Elitebook 840 G11 is a professional business AI laptop designed for high performance and portability. It features a 14-inch FHD+ (1920x1200) non-touch display and is powered by the Intel Core Ultra 7 165U processor with 10 cores and 14 threads, reaching turbo frequencies up to 4.9GHz. This model comes equipped with 16GB of DDR4 memory and a fast 1TB PCIe SSD for ample storage. Connectivity is robust with Wi-Fi 6E, Bluetooth, and a versatile port selection including two Thunderbolt 4 (USB-C) ports and HDMI. For security and convenience, it includes a fingerprint reader and runs on Windows 11 Pro. The laptop is finished in a sleek silver color and weighs approximately 3.13 lbs.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/91a5320f-fb6a-4c2b-bac9-44fb170ee254?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/91a5320f-fb6a-4c2b-bac9-44fb170ee254?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver HP Elitebook laptop with a person wearing it."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/102c9acf-a388-472b-94ad-fa54ee4ae891?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing Windows desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8fcd9493-da40-4db7-a398-837169691e2b?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the Intel Core Ultra 7 processor chip."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dd637299-4f1c-41ef-af43-13d551ef56de?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop displaying a colorful abstract landscape on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/824f2d27-848d-44dc-9931-950d529061c1?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop interface showing collaboration features and fingerprint sensor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/646232ae-4555-4039-a6c1-701551827064?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of ports and slots on the laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" FHD+ (1920x1200) Display",
+        "Intel Core Ultra 7 165U Processor (10 cores, 14 threads)",
+        "16GB DDR4 RAM",
+        "1TB PCIe SSD",
+        "Windows 11 Pro",
+        "Wi-Fi 6E + Bluetooth",
+        "Fingerprint Reader",
+        "2 x Thunderbolt 4 with USB Type-C",
+        "2 x USB Type-A",
+        "1 x HDMI"
+      ],
+      "colors": [
+        {
+          "hex": "#161727",
+          "percentage": 0.1616
+        },
+        {
+          "hex": "#bb9e9a",
+          "percentage": 0.1544
+        },
+        {
+          "hex": "#89bee9",
+          "percentage": 0.1495
+        },
+        {
+          "hex": "#493b4d",
+          "percentage": 0.1214
+        },
+        {
+          "hex": "#cec8c4",
+          "percentage": 0.1204
+        },
+        {
+          "hex": "#6a9ac3",
+          "percentage": 0.1043
+        },
+        {
+          "hex": "#6c6186",
+          "percentage": 0.1011
+        },
+        {
+          "hex": "#25395b",
+          "percentage": 0.0873
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/zylz2hX-LPzf-8tFxDf?o=01M518HHPMNGVPM9QVNAMPCY12&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1949.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "mCyeSun",
+      "title": "HP Elitebook 840 G11 14 Business AI Laptop",
+      "description": "The HP Elitebook 840 G11 is a 14-inch Business AI Laptop designed for professional performance. It features an Intel Core Ultra 7 165U processor with 10 cores, 16GB of DDR4 RAM, and a substantial 2TB PCIe SSD. The device boasts a 14\" FHD+ (1920x1200) non-touch screen and runs on Windows 11 Pro. Key connectivity options include Wi-Fi 6E, Bluetooth, and Thunderbolt 4 ports. It also includes a fingerprint reader for enhanced security and comes in a sleek silver finish.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9e2b759f-2a7b-4865-9642-59fca030cd51?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9e2b759f-2a7b-4865-9642-59fca030cd51?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook 840 G11 laptop displaying specs and Windows 11."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d9c2815b-1554-42b8-9827-060d9049007e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop showing the Windows 11 desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ce1347a-c518-423f-885d-b2298c330e24?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up graphic of the Intel Core Ultra 7 processor specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3294929a-2d12-433f-9f08-4ccf087a7a14?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a colorful abstract wallpaper, highlighting screen quality."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/35216e67-9ba9-473a-b1c8-bd7e59bcb806?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing collaboration features like camera and fingerprint reader."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/09fb675e-cf87-4c00-ae58-e986b82606a9?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of laptop ports and slots showing various connectivity options."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "14-inch LED screen with 1920 x 1200 resolution",
+        "Intel Core Ultra 7 165U processor (1.7 GHz)",
+        "32 GB RAM",
+        "512 GB SSD storage",
+        "Integrated graphics",
+        "Backlit keyboard",
+        "Windows 11 OS",
+        "Includes HDMI, USB-A, and USB-C ports",
+        "Built-in webcam and microphone",
+        "16GB DDR4 RAM"
+      ],
+      "colors": [
+        {
+          "hex": "#171727",
+          "percentage": 0.1597
+        },
+        {
+          "hex": "#ba9e9b",
+          "percentage": 0.1558
+        },
+        {
+          "hex": "#87bdea",
+          "percentage": 0.1534
+        },
+        {
+          "hex": "#483a4b",
+          "percentage": 0.1222
+        },
+        {
+          "hex": "#cdc8c4",
+          "percentage": 0.1158
+        },
+        {
+          "hex": "#6d6186",
+          "percentage": 0.1023
+        },
+        {
+          "hex": "#6a98c0",
+          "percentage": 0.1021
+        },
+        {
+          "hex": "#253a5b",
+          "percentage": 0.0886
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/mCyeSun-n0yg-8tFxDf?o=01M5TVYQNNQ4DVKZQ719YM6GC8&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 1046.0,
+            "compare_at_price": 1100.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 49.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/mCyeSun-LPzf-8tFxDf?o=01M5195828GTJSWHEQTT4YDZS9&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2109.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "ram": [
+          "32 GB",
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "512 GB",
+          "2 TB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-technology": [
+          "LED"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "processor-cores": [
+          "Deca"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "yxSqmDN",
+      "title": "HP Elitebook 840 G11 14 Business AI Laptop",
+      "description": "The HP Elitebook 840 G11 is a high-performance 14-inch business AI laptop designed for professional productivity. It features an Intel Core Ultra 7 165U 10-core processor, 16GB of DDR4 memory, and a 512GB PCIe SSD for fast storage and responsiveness. The device is equipped with a 14\" FHD+ (1920x1200) non-touch screen, Intel Graphics, and modern connectivity options including Wi-Fi 6E, Bluetooth, and Thunderbolt 4 ports. For security and convenience, it includes a fingerprint reader and comes pre-installed with Windows 11 Home. The laptop is finished in a sleek silver chassis, weighing approximately 3.13 lbs.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/bc23ccfa-c5ec-44d3-9a6a-27efe955a1a5?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bc23ccfa-c5ec-44d3-9a6a-27efe955a1a5?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop showing Windows 11 desktop background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4dbab5a0-9a14-44e5-b440-8ab9afbb4ef1?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook laptop with blue wallpaper and Windows desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b6da9237-73ce-421d-b378-01064822a94c?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the Intel Core Ultra 7 processor chip."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f5f83821-31e0-4550-8739-e8bf7ec83bd1?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP laptop screen showing vibrant abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9d5808f-61c1-4be2-a00b-d2ea8b451c45?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop interface showing collaboration features like camera and fingerprint."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/68b6803b-10ef-4454-91e5-9a64c0f42d1b?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing ports and slots on the laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 165U 10-core Processor",
+        "14\" FHD+ (1920x1200) Display",
+        "16GB DDR4 Memory",
+        "512GB PCIe SSD",
+        "Wi-Fi 6E + Bluetooth",
+        "Fingerprint Reader",
+        "Thunderbolt 4 Support",
+        "Windows 11 Home Operating System"
+      ],
+      "colors": [
+        {
+          "hex": "#171929",
+          "percentage": 0.16
+        },
+        {
+          "hex": "#bb9f9b",
+          "percentage": 0.1571
+        },
+        {
+          "hex": "#88beeb",
+          "percentage": 0.1511
+        },
+        {
+          "hex": "#473a4a",
+          "percentage": 0.1395
+        },
+        {
+          "hex": "#cecac7",
+          "percentage": 0.117
+        },
+        {
+          "hex": "#6a99c2",
+          "percentage": 0.1073
+        },
+        {
+          "hex": "#71617f",
+          "percentage": 0.0924
+        },
+        {
+          "hex": "#234675",
+          "percentage": 0.0756
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/yxSqmDN-LPzf-8tFxDf?o=01M519J77XXWJVJBZ69G0X27SQ&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1789.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Kue9Xzw",
+      "title": "HP EliteBook 840 G11 14\" WUXGA 5G LTE Laptop",
+      "description": "The HP EliteBook 840 G11 is a professional 14-inch laptop designed for the modern hybrid workforce, blending high performance with robust security. It is powered by the Intel Core Ultra 7 155U processor with an integrated Neural Processing Unit (NPU) for AI-enhanced tasks, 16GB of DDR5 RAM, and a 512GB SSD for efficient multitasking and storage. The device features a 14\" WUXGA (1920x1200) anti-glare display, 5G LTE connectivity for mobile productivity, and a 5MP IR camera for high-quality virtual meetings. Built for security, it includes HP Wolf Security for Business and runs on Windows 11 Pro. Additionally, the laptop is designed with sustainability in mind, incorporating at least 75% post-consumer recycled plastic in its bezel.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cff4052d-e9c1-4a9c-a630-0f8fceb4066e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cff4052d-e9c1-4a9c-a630-0f8fceb4066e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 G11 laptop with blue screen on a silver background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal",
+        "post-consumer recycled plastic"
+      ],
+      "key_features": [
+        "Intel Core Ultra 7 155U 1.7GHz processor with NPU for AI-enhanced performance",
+        "14\" WUXGA (1920x1200) bright anti-glare display",
+        "16GB DDR5 RAM for enhanced multitasking",
+        "512GB SSD for fast boot times and storage",
+        "5G LTE connectivity for on-the-go internet access",
+        "Windows 11 Pro operating system",
+        "5MP IR camera for elevated conferencing",
+        "HP Wolf Security for Business for hardware-enforced defense",
+        "Lightweight design weighing 3.13 lbs",
+        "Eco-conscious build with 75% post-consumer recycled plastic in the bezel"
+      ],
+      "colors": [
+        {
+          "hex": "#2d2f30",
+          "percentage": 0.3061
+        },
+        {
+          "hex": "#148d91",
+          "percentage": 0.1589
+        },
+        {
+          "hex": "#bec9cb",
+          "percentage": 0.1439
+        },
+        {
+          "hex": "#41c5c7",
+          "percentage": 0.1103
+        },
+        {
+          "hex": "#86979a",
+          "percentage": 0.1027
+        },
+        {
+          "hex": "#0b0c0d",
+          "percentage": 0.0948
+        },
+        {
+          "hex": "#375359",
+          "percentage": 0.0833
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Kue9Xzw-TgS4-8tFxDf?o=01M5BESV3XFN2X8834MMTNKAEV&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "cdw.com",
+          "price": {
+            "price": 1419.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.4,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.11,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Kue9Xzw-T9Fg-8tFxDf?o=01M3DP4HR5KM3J402AEXF96TVD&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "adorama.com",
+          "price": {
+            "price": 1799.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "BIOS security"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "USB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ]
+      },
+      "ratings": {
+        "value": 1.25,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "bvk0YGx",
+      "title": "EliteBook 840 G11",
+      "description": "The HP EliteBook 840 G11 is a top-of-the-line business notebook designed for high-demand professional environments. It features a 14-inch WUXGA touchscreen display with IPS technology, powered by an Intel Core Ultra 7 165U processor with vPro technology. Equipped with 16 GB of memory and a 512 GB SSD, it runs Windows 11 Pro and includes an English keyboard, front-facing webcam, and IEEE 802.11ax wireless connectivity for reliable high-speed networking.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/807df749-6e28-4706-b8c5-2046b7a63015?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "People working together around a conference table."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15a8e843-f279-4e53-ae6a-d0d943531922?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Man using a laptop on a train."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b679750e-7975-4ef1-ae0d-72f419404177?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Thin silver laptop profile view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ec00a228-d5a8-4cf8-a3f6-213e0beebb3d?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ec00a228-d5a8-4cf8-a3f6-213e0beebb3d?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White laptop on a car hood."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/35497728-7c53-47d6-8270-6c9f0e69b33b?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop top view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b70e5c00-febe-4f30-ae90-5e071ca75f5f?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP laptop with blue screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c8ddfb7d-e299-45a9-860e-09aa3349685f?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person working on a laptop by a pool."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/24c6990a-d85a-4853-a798-07ffe90e73fe?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP laptop open, showing keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14.0 inch WUXGA Touchscreen",
+        "Intel Core Ultra 7 165U Processor",
+        "vPro Technology",
+        "16 GB RAM",
+        "512 GB SSD",
+        "Windows 11 Pro",
+        "IPS Technology",
+        "IEEE 802.11ax Wireless LAN Standard"
+      ],
+      "colors": [
+        {
+          "hex": "#c7c7c7",
+          "percentage": 0.4072
+        },
+        {
+          "hex": "#7c7c7c",
+          "percentage": 0.2823
+        },
+        {
+          "hex": "#ececec",
+          "percentage": 0.111
+        },
+        {
+          "hex": "#a6a6a6",
+          "percentage": 0.101
+        },
+        {
+          "hex": "#414141",
+          "percentage": 0.0984
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/bvk0YGx-p1PB-8tFxDf?o=01M1WV6SQRMFVSD6J22THAAJHZ&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 2350.21,
+            "compare_at_price": 2674.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eZAydat",
+      "title": "HP EliteBook 840 G11",
+      "description": "The HP EliteBook 840 G11 is a high-performance 14-inch business laptop featuring an Intel Core Ultra 5 135U processor with vPro Technology. It comes equipped with 16GB of RAM and a 512GB SSD for efficient multitasking and storage. The device boasts a WUXGA (1920 x 1200) IPS display with Sure View for enhanced privacy and is powered by Windows 11 Pro. Designed for professional use, it includes a front-facing webcam and supports IEEE 802.11 ax wireless standards, all housed in a slim silver chassis.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a4455a0b-72a7-4e5b-8a79-6e1a9d2c3b75?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a4455a0b-72a7-4e5b-8a79-6e1a9d2c3b75?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver HP EliteBook laptop against a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/493beb76-e7d1-4639-b782-98badcb6e05a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/493beb76-e7d1-4639-b782-98badcb6e05a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of a silver HP EliteBook laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/09f907e9-406d-4f58-a084-6ab5821eed9e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A closed silver laptop on the hood of a taxi next to a coffee cup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/434dcbb6-5ac3-4768-9df6-8c81ba5b1b3e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A group of people having a meeting around a wooden table with laptops."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f2590c1f-c3de-49a9-8cd4-4eb091e60196?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "A man using a silver laptop while sitting in an airport terminal."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f1c474cb-56c3-475e-8575-8c2195873624?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f1c474cb-56c3-475e-8575-8c2195873624?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver HP EliteBook laptop against a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/72962899-4da3-4d5d-96d3-0ea79f2b8f05?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/72962899-4da3-4d5d-96d3-0ea79f2b8f05?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver HP EliteBook laptop against a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 5 135U processor",
+        "VPro Technology",
+        "14\" WUXGA (1920 x 1200) IPS Display",
+        "Sure View privacy screen",
+        "16 GB RAM",
+        "512 GB SSD",
+        "Windows 11 Pro",
+        "IEEE 802.11 ax Wireless LAN",
+        "Front-facing webcam"
+      ],
+      "colors": [
+        {
+          "hex": "#28292a",
+          "percentage": 0.2331
+        },
+        {
+          "hex": "#158f92",
+          "percentage": 0.1652
+        },
+        {
+          "hex": "#c1cacb",
+          "percentage": 0.1438
+        },
+        {
+          "hex": "#44c7c9",
+          "percentage": 0.1095
+        },
+        {
+          "hex": "#454646",
+          "percentage": 0.1072
+        },
+        {
+          "hex": "#86989c",
+          "percentage": 0.1004
+        },
+        {
+          "hex": "#0c0d0d",
+          "percentage": 0.0964
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eZAydat-LPzf-8tFxDf?o=01M60FV93DTXCDVR3C4M85Q57C&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1729.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "j2oB3G5",
+      "title": "EliteBook 840 G11 Intel Core Ultra 7 165H 14\" Laptop",
+      "description": "The HP EliteBook 840 G11 is a high-performance 14-inch business laptop designed for intensive multitasking. It features an Intel Core Ultra 7 165H processor, 16GB of DDR5 RAM, and a 512GB PCIe M.2 SSD. The device is equipped with a 14-inch FHD+ (1920x1200) touchscreen display and a backlit keyboard. For security, it includes HP Wolf Security for Business. Its connectivity options include Thunderbolt 4 Type-C, USB-A, HDMI 2.1, and a microSD slot. The laptop runs on Windows 11 Pro and is designed with a durable, lightweight silver frame.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2d01bb75-f6fa-4b12-8aad-c0718078ca67?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2d01bb75-f6fa-4b12-8aad-c0718078ca67?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 G11 laptop screen view with nature background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" FHD+ (1920x1200) 60Hz touchscreen display",
+        "Intel Core Ultra 7 165H (up to 5.0GHz, 24MB cache, 16-cores, 22-threads)",
+        "16GB DDR5 SODIMM",
+        "512GB PCIe M.2 SSD",
+        "Up to 15 hours and 15 minutes battery life, with 50% charge in 30 minutes",
+        "Intel Graphics integrated",
+        "Windows 11 Pro",
+        "Thunderbolt 4 Type-C, USB-A, HDMI 2.1, microSD",
+        "HP Wolf Security for Business provides multilayer protection",
+        "Backlit keyboard"
+      ],
+      "colors": [
+        {
+          "hex": "#12201f",
+          "percentage": 0.2522
+        },
+        {
+          "hex": "#393f3a",
+          "percentage": 0.158
+        },
+        {
+          "hex": "#9ca8a0",
+          "percentage": 0.1403
+        },
+        {
+          "hex": "#113d39",
+          "percentage": 0.1318
+        },
+        {
+          "hex": "#d1d5d1",
+          "percentage": 0.1178
+        },
+        {
+          "hex": "#6e7568",
+          "percentage": 0.1073
+        },
+        {
+          "hex": "#30615f",
+          "percentage": 0.0926
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/j2oB3G5-K6RA-8tFxDf?o=01M366WF984WYXY5WX3EPNA0M2&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "macys.com",
+          "price": {
+            "price": 1699.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "3Ki6XSE",
+      "title": "EliteBook 840 G11 14\" Notebook",
+      "description": "The HP EliteBook 840 G11 is a refurbished 14-inch professional notebook designed for high-productivity teams. It is powered by an Intel Core Ultra 7 165U 12-core processor with an integrated NPU for AI-enhanced performance. The laptop features a 1920 x 1200 WUXGA anti-glare IPS display with 1000 nits of brightness, 100% sRGB coverage, and an integrated HP Sure View privacy panel. It comes equipped with 32GB of DDR5 RAM (expandable to 64GB), a 512GB PCIe NVMe SSD, and runs on Windows 11 Pro. Connectivity options include two Thunderbolt 4 ports, two USB-A 3.2 Gen 1 ports, HDMI 2.1, Wi-Fi 6E, and Bluetooth 5.3. Additional features include a 5MP IR webcam for facial authentication, a fingerprint reader, and a backlit keyboard.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fa16077f-eb61-440b-80eb-59ec6a403ad9?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fa16077f-eb61-440b-80eb-59ec6a403ad9?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with a blue background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a334f29b-883b-4d3a-b0b8-724a7409e5be?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a334f29b-883b-4d3a-b0b8-724a7409e5be?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with a glowing blue screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a3f5a8d4-8fcb-4d9e-959f-b296b4ad4434?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a3f5a8d4-8fcb-4d9e-959f-b296b4ad4434?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with a black screen and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ee419c3-7f03-41ac-9ab5-fdd0f3ec6373?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5ee419c3-7f03-41ac-9ab5-fdd0f3ec6373?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop open with blue screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d7c882ee-cb99-4414-b5d4-ba44179fe4f6?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d7c882ee-cb99-4414-b5d4-ba44179fe4f6?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop ports and body profile."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/34292e8b-de7b-4066-8110-eeaf318400c3?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/34292e8b-de7b-4066-8110-eeaf318400c3?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop hinge and screen area."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "14-inch (1920 x 1200) IPS LED Display",
+        "Intel Core Ultra 7 165U Processor (12-Core, 1.7GHz)",
+        "32GB DDR5 System Memory",
+        "512GB PCIe NVMe Solid State Drive (SSD)",
+        "Windows 11 Pro Operating System",
+        "Integrated HP Sure View privacy panel",
+        "Two Thunderbolt 4 ports",
+        "5MP IR webcam for facial authentication"
+      ],
+      "colors": [
+        {
+          "hex": "#2d2f30",
+          "percentage": 0.3018
+        },
+        {
+          "hex": "#1d8e92",
+          "percentage": 0.1575
+        },
+        {
+          "hex": "#c1c9cb",
+          "percentage": 0.1424
+        },
+        {
+          "hex": "#49c8cb",
+          "percentage": 0.1118
+        },
+        {
+          "hex": "#879a9e",
+          "percentage": 0.0965
+        },
+        {
+          "hex": "#0c0c0d",
+          "percentage": 0.0958
+        },
+        {
+          "hex": "#3a535a",
+          "percentage": 0.0943
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3Ki6XSE-LPzf-8tFxDf?o=01M5E9YXKGB889D0X98207QVJV&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 978.97,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": null,
+            "height": {
+              "number": 0.64,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/3Ki6XSE-p1PB-8tFxDf?o=01KZSS59K83GNPW21AHV9XTZV7&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1766.59,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-type": [
+          "Standard",
+          "Backlit"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "display-resolution": [
+          "Full HD",
+          "2560\u2009x\u20091440",
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "memory-technology": [
+          "DDR4",
+          "DDR5"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5",
+          "Intel Core Ultra 7"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "ram": [
+          "32 GB"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 2,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "lIMfDaE",
+      "title": "Hp Elitebook Notebook Pc",
+      "description": "HP EliteBook 840 14-inch G11 Notebook PC is a business laptop designed for hybrid work, with an Intel Core processor and HP Wolf Security features. It includes a 5MP camera for more personal conferencing, supports HP Wolf Pro Security Edition for an enterprise-level security layer, and helps reduce shared environmental impact with post-consumer recycled plastic in the bezel. The slim, clamshell design and modern connectivity options make it suitable for everyday productivity.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9daf210c-8930-44b8-acec-8728b7f8ad2e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/39d6e720-d80d-4dc9-a598-2ca65a71a82e?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "White Hp Elitebook 840 14 Inch G11 Notebook PC with silver accents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9f698e8c-0bf5-4ca1-b36e-467bb680a7bf?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "White wireless keyboard and mouse on a wooden surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/56f8777b-a0ee-4aaf-b845-ad8e4cc6ed08?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "White Hp Elitebook 840 14 Inch G11 Notebook PC open with a blue wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/90f777e4-f204-4d56-9539-c67a289e6c90?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8cd7a3e7-5d51-4d7c-b401-206135eee3cc?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White Hp Elitebook 840 14 Inch G11 Notebook PC viewed from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0d0aa045-2177-4855-9b17-ea78ebb1caeb?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2078b972-f3c7-4d7d-b85b-e5e31de2843b?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view of the Hp Elitebook 840 14 Inch G11 Notebook PC showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0af890e0-af43-4487-8aaf-054614435cf3?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "White Hp Elitebook 840 14 Inch G11 Notebook PC open with a blue wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5746afe7-046d-4168-9ceb-39a67a61021a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "White Hp Elitebook 840 14 Inch G11 Notebook PC open with a blue wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c1b9b0c8-a76b-44b4-874a-13ff937428f7?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5be06f21-cbf4-4ff3-9a7b-9efaee38afed?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "View of the bottom edge and ports of the Hp Elitebook laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "14-inch business notebook design for hybrid work",
+        "HP Wolf Pro Security Edition with Sure Click Pro and Sure Sense Pro (3-year license)",
+        "5MP IR camera with dual array microphones for conferencing",
+        "HP Smart Sense battery management with AI/adaptive power modes",
+        "Dynamic Color Tuning and AI noise reduction for collaboration",
+        "HP Power Manager for battery performance and charging customization",
+        "Ports include Thunderbolt 4 (USB Type-C), USB-A, HDMI 2.1, and smart card reader (optional)",
+        "At least 75% post-consumer recycled plastic in the bezel",
+        "Intel Core Ultra 5 Processor 125U (up to 4.30 GHz)",
+        "16 GB DDR5 Memory"
+      ],
+      "colors": [
+        {
+          "hex": "#131314",
+          "percentage": 0.2444
+        },
+        {
+          "hex": "#2b2c2c",
+          "percentage": 0.17
+        },
+        {
+          "hex": "#118b91",
+          "percentage": 0.1657
+        },
+        {
+          "hex": "#cccfcf",
+          "percentage": 0.1444
+        },
+        {
+          "hex": "#81959a",
+          "percentage": 0.1034
+        },
+        {
+          "hex": "#49c8ce",
+          "percentage": 0.1021
+        },
+        {
+          "hex": "#314a50",
+          "percentage": 0.07
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/lIMfDaE-LPzf-8tFxDf?o=01M58Y8QDZVZWMPANF3M2XW25M&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 790.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/lIMfDaE-KRXv-8tFxDf?o=01KKYH3YAYQCE02GBF1PAP474T&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "hp.com",
+          "price": {
+            "price": 3959.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.052,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.13,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Graphics",
+            "label": "Intel\u00ae Graphics"
+          },
+          {
+            "name": "Size",
+            "label": "256 GB PCIe\u00ae NVMe\u2122 SSD"
+          },
+          {
+            "name": "Processor",
+            "label": "Intel\u00ae Core\u2122 Ultra 5 125H"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5",
+          "Intel Core Ultra 7"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "pattern": [
+          "Solid",
+          "Abstract"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-excellent"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ]
+      },
+      "ratings": {
+        "value": 2.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "P0j3QtF",
+      "title": "EliteBook 840 G11 Laptop",
+      "description": "The HP EliteBook 840 G11 is a professional 14-inch notebook designed for high-producing teams and hybrid work settings. It features an Intel Core Ultra 5 135U processor with an integrated NPU for AI enhancement, 32GB of DDR5 RAM, and a substantial 4TB NVMe SSD. The device is equipped with a WUXGA (1920 x 1200) anti-glare IPS display with 1000 nits of brightness and 100% sRGB coverage. For connectivity, it offers Thunderbolt 4, HDMI 2.1, and Wi-Fi 6E. Security and convenience features include a fingerprint reader and a backlit keyboard, all running on Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/373e685f-6ce3-424c-b229-4ef07a330db3?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop screen showing blue abstract wave design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a1b200a6-3433-42a0-9577-a55ebf35abf9?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop screen showing blue abstract wave design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b7be88ee-4952-4d0d-b150-52bbe5d2ab4c?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop screen showing blue abstract wave design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/336b6edd-3b13-4d8c-83f2-7669afe81594?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop exterior showing silver casing and logo."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum/Magnesium Alloy (Inferred from business notebook design)"
+      ],
+      "key_features": [
+        "14\" WUXGA 1920x120 IPS LCD Touchscreen",
+        "Intel Core Ultra 7 15U Dodeca-core (12 Core) 4.80GHz",
+        "16GB DDR5 SDRAM",
+        "512GB SSD",
+        "Windows 1 Pro",
+        "HP Wolf Pro Security Edition",
+        "5MP IR Camera",
+        "Wi-Fi 6E",
+        "Intel Core Ultra 5 135U processor with NPU",
+        "32GB DDR5 RAM"
+      ],
+      "colors": [
+        {
+          "hex": "#2d2f30",
+          "percentage": 0.3052
+        },
+        {
+          "hex": "#158d92",
+          "percentage": 0.159
+        },
+        {
+          "hex": "#bcc9cb",
+          "percentage": 0.1402
+        },
+        {
+          "hex": "#40c5c8",
+          "percentage": 0.111
+        },
+        {
+          "hex": "#86969a",
+          "percentage": 0.1032
+        },
+        {
+          "hex": "#0d0d0e",
+          "percentage": 0.0958
+        },
+        {
+          "hex": "#39545b",
+          "percentage": 0.0856
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/P0j3QtF-LPzf-8tFxDf?o=01M1XBMG9VFFWBJM7JK864F8Z8&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1479.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.64,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.12,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Ultrabook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-cores": [
+          "Dodeca"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen",
+          "BIOS security",
+          "TPM (trusted platform module)"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ],
+        "storage-capacity": [
+          "4 TB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "1bm5n6R",
+      "title": "EliteBook 840 14 inch G11 Notebook PC",
+      "description": "Compact 14-inch business notebook featuring Windows 11 Pro, Intel Core Ultra 5/7, HP Wolf Pro Security Edition, 16 GB RAM, 256 GB SSD, and a 14-inch WUXGA display. Includes HP Wolf Pro Security Edition license (3 years) for enterprise-grade security, Energy Star certified, and recycled plastic bezel content. Out of stock.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/64b4729b-1957-4ecc-b65b-11b6ca47b172?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/8d13564e-0aac-4de4-be13-7065c6331c03?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook open view on dark background."
+        },
+        {
+          "url": "https://hp.widen.net/content/ctvxseqng7/jpeg/ctvxseqng7.jpg?w=2000&dpi=300",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2ebc8997-616b-4d11-85fb-eeaf54211b51?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook with Windows 11 on a blue background."
+        },
+        {
+          "url": "https://hp.widen.net/content/fnpnlm4zf1/png/fnpnlm4zf1.png?w=2000&h=240&dpi=72&color=ffffff00",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/95d6e1ea-c6fa-4370-b01f-fc2f8e451b65?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook small angled view with blue Windows wallpaper."
+        },
+        {
+          "url": "https://hp.widen.net/content/chlouzd1vn/jpeg/chlouzd1vn.jpg?w=2000&dpi=300",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4beae00-f713-42f3-a0be-db0d2fde4b23?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook angled view with Windows 11 blue wallpaper."
+        },
+        {
+          "url": "https://hp.widen.net/content/xzcnweas9r/jpeg/xzcnweas9r.jpg?w=2000&dpi=300",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fadafc3e-3520-4518-ae85-a4b83aee9e4a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook open with blue wave wallpaper."
+        },
+        {
+          "url": "https://hp.widen.net/content/tljn7watjp/jpeg/tljn7watjp.jpg?w=2000&dpi=300",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/64b70926-18da-4116-bec2-37e790f66ecf?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook front view with blue wave wallpaper."
+        },
+        {
+          "url": "https://hp.widen.net/content/mmggwtndoj/jpeg/mmggwtndoj.jpg?w=2000&dpi=300",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b7245d58-70cf-484c-980f-0ad8626477a9?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook open with Windows 11 and blue swirl."
+        },
+        {
+          "url": "https://hp.widen.net/content/fnpnlm4zf1/jpeg/fnpnlm4zf1.jpg?w=2000&dpi=300",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a47588b9-2175-48f9-b221-11a1a49c941f?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook 840 14-inch G11 notebook angled view with Windows 11 blue background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "Windows 11 Pro",
+        "Intel Core Ultra 5 / Ultra 7 processor",
+        "HP Wolf Pro Security Edition with 3-year license",
+        "14-inch WUXGA display",
+        "2x Thunderbolt 4, USB-A, HDMI 2.1",
+        "3-year hardware warranty options",
+        "HP Sure Click Pro and HP Sure Sense Pro security features",
+        "Energy Star certified",
+        "Recycled plastic bezel content"
+      ],
+      "colors": [
+        {
+          "hex": "#107d85",
+          "percentage": 0.165
+        },
+        {
+          "hex": "#edf0f0",
+          "percentage": 0.165
+        },
+        {
+          "hex": "#2f3a3d",
+          "percentage": 0.1437
+        },
+        {
+          "hex": "#cfd0d0",
+          "percentage": 0.1352
+        },
+        {
+          "hex": "#1c1f20",
+          "percentage": 0.1164
+        },
+        {
+          "hex": "#748285",
+          "percentage": 0.1049
+        },
+        {
+          "hex": "#59d2d4",
+          "percentage": 0.0932
+        },
+        {
+          "hex": "#59acaf",
+          "percentage": 0.0766
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1bm5n6R-KRXv-8tFxDf?o=01KKYHWEPNM3Z0PBADSWAXN6HQ&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "hp.com",
+          "price": {
+            "price": 1349.0,
+            "compare_at_price": 3480.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.052,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "TPM (trusted platform module)"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "memory-technology": [
+          "DDR3"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "keyboard-type": [
+          "Scissor switch"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-cores": [
+          "Multi"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 3,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "cMh2BFe",
+      "title": "HP Elitebook 840 14\" Laptop",
+      "description": "The HP EliteBook 840 G11 is a professional-grade 14-inch business laptop designed for hybrid work environments. It features an Intel Core Ultra 7 165H processor with integrated Intel Arc graphics and a dedicated AI Boost NPU, optimizing it for AI-enhanced productivity. The device is equipped with a 14-inch FHD+ (1920 x 1200) IPS anti-glare touchscreen with 100% sRGB color gamut and HP Sure View integrated privacy screen. With 32GB of DDR5 RAM and a 2TB PCIe NVMe M.2 SSD, it provides substantial multitasking capabilities and storage. Additional business-centric features include a 5MP IR camera, fingerprint reader, spill-resistant keyboard, and a dedicated Microsoft Copilot key. This specific configuration is a professional upgrade provided by PCOnline.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/438d146b-f1b7-448e-b8df-9d5b0204e8b7?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/438d146b-f1b7-448e-b8df-9d5b0204e8b7?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Elitebook 840 14 laptop with a scenic outdoor background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/71408e4c-df9e-409e-98bf-1d823722e26f?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Elitebook 840 G11 laptop on a wooden desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d028217-8c96-4a5c-bea2-845b12f1a507?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Intel Core Ultra 7 processor specifications graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/310859f9-ad09-455f-a4a8-e68ce5347e07?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop in use on a wooden desk during a video conference setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b1581f0-b081-4d72-8042-2e1373898417?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Business professionals collaborating around a conference table."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fcd2898c-eaa8-40d4-9599-29a013df4613?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop display showing collaboration and camera features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e604b2d-d75e-4fe2-bcb8-e3eabdb40265?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of laptop side ports and slots."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14-inch FHD+ (1920 x 1200) IPS anti-glare touchscreen",
+        "Intel Core Ultra 7 165H processor (16-Core, 22-Thread)",
+        "32GB DDR5 RAM and 2TB PCIe NVMe M.2 SSD",
+        "Intel AI Boost NPU and Copilot+ PC Ready",
+        "5MP IR Camera with AI Noise Reduction",
+        "HP Sure View integrated privacy screen",
+        "Includes 7-in-1 USB-C Hub",
+        "Windows 11 Pro pre-installed"
+      ],
+      "colors": [
+        {
+          "hex": "#d5ddd0",
+          "percentage": 0.1658
+        },
+        {
+          "hex": "#82caf0",
+          "percentage": 0.1507
+        },
+        {
+          "hex": "#9c7a32",
+          "percentage": 0.1488
+        },
+        {
+          "hex": "#303129",
+          "percentage": 0.1364
+        },
+        {
+          "hex": "#0f171b",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#7da0b0",
+          "percentage": 0.1123
+        },
+        {
+          "hex": "#536052",
+          "percentage": 0.0972
+        },
+        {
+          "hex": "#cbb064",
+          "percentage": 0.0597
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cMh2BFe-p1PB-8tFxDf?o=01M1ECTGC8MM408G0S8EB1VA5K&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1859.0,
+            "compare_at_price": 2519.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Processor",
+            "values": [
+              {
+                "label": "Intel Core Ultra 7 165H",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/438d146b-f1b7-448e-b8df-9d5b0204e8b7",
+                "product_id": "cMh2BFe"
+              },
+              {
+                "label": "Intel Core Ultra 7 165U",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f8302891-0d29-4676-b6f2-9ddb31f4fefa",
+                "product_id": "ISf3wL1"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Processor",
+            "label": "Intel Core Ultra 7 165H"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "48bDDvq",
+      "title": "EliteBook 840 G10",
+      "description": "The HP EliteBook 840 G10 is a professional-grade 14-inch WUXGA laptop engineered for commercial use. This upgraded model features an Intel Core i7-1355U processor with 10 cores, 16GB of DDR5 RAM, and a 512GB PCIe NVMe M.2 SSD for high-speed performance and multitasking. Designed for professionals and students, it includes a backlit keyboard, integrated Intel Iris Xe graphics, and various connectivity options including Thunderbolt 4, HDMI 2.1, and Wi-Fi 6E. It runs on Windows 11 Professional and features a 5MP IR webcam with a privacy shutter.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3b43cabd-e011-488c-8138-6e9b4c5c2e92?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver EliteBook 840 14 laptop with vibrant screen graphic."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum",
+        "Plastic"
+      ],
+      "key_features": [
+        "Intel Core i7-1355U processor with 10 cores",
+        "16GB DDR5 RAM",
+        "512GB PCIe NVMe M.2 SSD",
+        "14\" WUXGA (1920 x 1200) IPS Anti-Glare display",
+        "5MP IR webcam with privacy shutter",
+        "Backlit keyboard",
+        "Up to 13 hours of battery life",
+        "Wi-Fi 6E and Bluetooth 5.3",
+        "2 x Thunderbolt 4 ports, 2 x USB 3.2 Gen 1 ports, and HDMI 2.1"
+      ],
+      "colors": [
+        {
+          "hex": "#0b252b",
+          "percentage": 0.3716
+        },
+        {
+          "hex": "#599da0",
+          "percentage": 0.1404
+        },
+        {
+          "hex": "#2a6a6a",
+          "percentage": 0.1385
+        },
+        {
+          "hex": "#3f4040",
+          "percentage": 0.1248
+        },
+        {
+          "hex": "#bec6c5",
+          "percentage": 0.1204
+        },
+        {
+          "hex": "#5b797b",
+          "percentage": 0.1043
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/48bDDvq-p1PB-8tFxDf?o=01KYY4R0BKVE5QEMFZRBJC4SZY&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 949.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-cores": [
+          "Deca"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Remote management"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "I3Qd36V",
+      "title": "Hp Elitebook 8 G1i 13 Inch Ai",
+      "description": "The HP EliteBook 8 G1i is a customizable 13.3-inch business laptop designed for professional performance. It features an Intel\u00ae Core\u2122 Ultra processor, 16 GB of memory, and 256 GB SSD storage, paired with a WUXGA display and Intel\u00ae Graphics. This slim, silver laptop is built for efficiency and integrates AI capabilities to enhance productivity.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/69854d82-446f-4166-9a1b-fda9107bc90c?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/69854d82-446f-4166-9a1b-fda9107bc90c?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": true,
+          "shot_type": "on_model",
+          "alt_text": "Laptop opened showing keyboard and hinge area."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/509da87d-ee84-41af-9b10-7bf9755ec06c?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open showing a vibrant blue desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8ab9df77-8535-42b1-bf3d-2aab45a1ba93?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8ab9df77-8535-42b1-bf3d-2aab45a1ba93?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver HP EliteBook laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/892a95ec-5e3a-485a-b812-12d061281171?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open showing a vibrant blue desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d2cfa069-da92-4c55-b57c-576439e2981f?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open showing a vibrant blue desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/36e18307-dce1-4211-bbf5-6d93b07704f3?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/36e18307-dce1-4211-bbf5-6d93b07704f3?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a silver HP EliteBook laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/936edf9a-aebb-46d3-92f8-411cddfd1286?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/936edf9a-aebb-46d3-92f8-411cddfd1286?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver HP EliteBook laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5c804bc0-6bf8-4d0d-b896-5531afd7c9a4?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open showing a vibrant blue desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c3eb0f0-a22b-4b43-95de-938d819c6601?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1c3eb0f0-a22b-4b43-95de-938d819c6601?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Laptop opened showing keyboard and hinge area."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5204160b-ae3c-45fc-a67a-28a913656d17?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5204160b-ae3c-45fc-a67a-28a913656d17?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop opened showing the keyboard and hinge."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/71fb6b03-ccc4-4051-96c1-aa15e1d0923a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=KRXv",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open showing a vibrant blue desktop interface."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel\u00ae Core\u2122 Ultra processor",
+        "16 GB memory",
+        "256 GB SSD storage",
+        "13.3\" diagonal WUXGA display",
+        "Intel\u00ae Graphics",
+        "Windows 11 Pro"
+      ],
+      "colors": [
+        {
+          "hex": "#f9fafa",
+          "percentage": 0.6579
+        },
+        {
+          "hex": "#d1d3d3",
+          "percentage": 0.2918
+        },
+        {
+          "hex": "#a8a9aa",
+          "percentage": 0.0503
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/I3Qd36V-KRXv-8tFxDf?o=01M3RHVYJZCDV80V7X0SJXAFDS&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "hp.com",
+          "price": {
+            "price": 2559.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.052,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Broadband Wireless",
+            "values": [
+              {
+                "label": "No Broadband Wireless",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "HP R15 4G LTE-Advanced Pro WWAN Broadband Wireless",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "HP R15 5G Solution WWAN Broadband Wireless",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Internal Storage",
+            "values": [
+              {
+                "label": "256 GB PCIe NVMe SSD",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "512 GB PCIe NVMe SSD",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "1 TB PCIe NVMe SSD",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Wireless Lan",
+            "values": [
+              {
+                "label": "Intel AX211 Wi-Fi 6E +Bluetooth\u00ae 5.3, non-vPro",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Intel AX211 Wi-Fi 6E 160 MHz +Bluetooth\u00ae 5.3, vPro",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Keyboard",
+            "values": [
+              {
+                "label": "Clickpad spill-resistant Premium Keyboard",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Clickpad Backlit spill-resistant Premium Privacy Keyboard",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Power Cord",
+            "values": [
+              {
+                "label": "1.0m Conventional Power Cord with C5 connector",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "C5 1.0m Sticker Premium Power Cord",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Amt Vpro\u2122 Technology",
+            "values": [
+              {
+                "label": "No AMT vPro\u2122 Technology Supported",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "AMT vPro\u2122 Technology Enabled",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Service Provider",
+            "values": [
+              {
+                "label": "None",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "AT&T",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Verizon",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Display",
+            "values": [
+              {
+                "label": "13.3\" diagonal WUXGA LED UWVA Anti-Glare for 5MP IR Webcam 60Hz (1920x1200)(300 Nits)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "13.3\" diagonal WUXGA LED UWVA Anti-Glare for WWAN for 5MP IR Webcam 60Hz (1920x1200)(300 Nits)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "13.3\" diagonal WUXGA LED UWVA Anti-Glare for 5MP IR Webcam 60Hz Touchscreen (1920x1200)(300 Nits)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "13.3\" diagonal WUXGA LED UWVA Anti-Glare for WWAN for 5MP IR Webcam 60Hz Touchscreen (1920x1200)(300 Nits)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "13.3\"diagonal WUXGA Low Blue Light UWVA Anti-Glare for 5MP IR Webcam HP Sure View 5 Privacy (1920x1200)(800 Nits)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "13.3\"diagonal WUXGA Low Blue Light UWVA Anti-Glare for WWAN for 5MP IR Webcam HP Sure View 5 Privacy (1920x1200)(800 Nits)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Touchscreen",
+            "values": [
+              {
+                "label": "No",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Yes",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {},
+      "ratings": null
+    },
+    {
+      "id": "awicqvD",
+      "title": "EliteBook 845 G11 Laptop",
+      "description": "The HP EliteBook 845 G11 is a professional-grade 14-inch business laptop designed for high performance and security. It features a WUXGA touch display, an AMD Ryzen 7 PRO 8840U processor reaching up to 5GHz, 32GB of DDR5 RAM, and a 1TB NVMe SSD. Built for hybrid work and demanding business tasks, it includes Windows 11 Pro, a backlit keyboard, a fingerprint reader for secure access, and various connectivity options including HDMI and USB Type-C.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3f26a23b-07cf-4d93-9bad-ebcf022bea0c?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "HP EliteBook laptop open showing a bright blue desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c255a4c0-ffe8-4ea9-989d-244d3ee24e79?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop open with a blue abstract wallpaper on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae37edae-36b4-4766-9e0f-6723f8e5dd77?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop open showing a blue abstract screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/023267b0-5ecb-4feb-8c70-33e254c3090d?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop shown open with the lid open."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e08253b-061a-4e8f-bdc5-989c1afb60d6?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop closed, viewed from the top angle."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "14\" WUXGA Touch Display",
+        "AMD Ryzen 7 PRO 8840U Processor (Up to 5GHz)",
+        "32GB DDR5 RAM",
+        "1TB NVMe SSD",
+        "Windows 11 Pro",
+        "Backlit keyboard",
+        "Fingerprint Reader",
+        "Wi-Fi 6E and Bluetooth 5.3",
+        "512 GB SSD",
+        "14-inch WUXGA (1920 x 1200) IPS display"
+      ],
+      "colors": [
+        {
+          "hex": "#626262",
+          "percentage": 0.5382
+        },
+        {
+          "hex": "#aeaeae",
+          "percentage": 0.2715
+        },
+        {
+          "hex": "#363636",
+          "percentage": 0.1158
+        },
+        {
+          "hex": "#7e7e7e",
+          "percentage": 0.0745
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/awicqvD-LPzf-8tFxDf?o=01M1X781JRMCP66NN7DJW94TQK&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1499.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.64,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.12,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/awicqvD-p1PB-8tFxDf?o=01KYBHJBSWM86YNWA8MTQFHB9P&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1499.99,
+            "compare_at_price": 1724.31,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit",
+          "Standard"
+        ],
+        "memory-technology": [
+          "DDR5",
+          "DDR4"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "AC-powered"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "processor-family": [
+          "AMD Ryzen 7",
+          "AMD Ryzen 5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "Touchscreen"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "fziSeAD",
+      "title": "HP EliteBook Laptop Computer 14\" WUXGA Touch Screen AMD Ryzen AI 7 24 GB",
+      "description": "The HP 14\" EliteBook 6 G1a is a high-performance AI-enhanced notebook designed for demanding IT environments. It features a 3.5 GHz AMD Ryzen AI 7 PRO 350 8-Core processor with a built-in NPU delivering up to 50 TOPS for innovative AI experiences. The laptop is equipped with 64GB of DDR5 RAM and a 1TB PCIe 4.0 SSD for rapid performance. It boasts a 14\" 1920 x 1200 IPS multi-touch display with a 60 Hz refresh rate and integrated AMD Radeon 860M graphics. Security is a priority with HP Wolf Security for Business, a 5MP IR webcam for Windows Hello login, and a fingerprint reader. Connectivity options include Thunderbolt 4 ports, HDMI 2.1, Wi-Fi 7, and Bluetooth 5.4, all running on Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f489d39b-5234-4335-9858-070182e18a13?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f489d39b-5234-4335-9858-070182e18a13?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Closed HP EliteBook laptop displaying blue abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0cd004d6-b715-4036-a52b-c19ba8bec560?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0cd004d6-b715-4036-a52b-c19ba8bec560?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop open showing the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/25faf380-0555-4c64-9880-27be0ef1c6ab?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/25faf380-0555-4c64-9880-27be0ef1c6ab?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up detail of the hinges and body of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/911a5291-4f94-4ee0-ae7e-2a434ab73029?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/911a5291-4f94-4ee0-ae7e-2a434ab73029?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop shown from the front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e5fc415-3bb7-4966-82c7-daa0f13716b4?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "HP EliteBook laptop specifications and features overview."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "AMD Ryzen AI 7 350 processor (up to 5.0 GHz max boost clock)",
+        "14\" WUXGA (1920 x 1200) touch screen, IPS, anti-glare",
+        "24 GB DDR5-5600 MT/s memory",
+        "Integrated AMD Radeon 860M Graphics",
+        "HP Wolf Security for Business hardware-enforced defense",
+        "Microsoft Copilot integration",
+        "Constructed with 50% recycled aluminum in external covers",
+        "MediaTek Wi-Fi 7 MT7925 and Bluetooth 5.4",
+        "64GB DDR5 RAM and 1TB PCIe 4.0 x4 SSD",
+        "5MP IR webcam with AI Noise Reduction and Poly Studio tuned speakers"
+      ],
+      "colors": [
+        {
+          "hex": "#202126",
+          "percentage": 0.6174
+        },
+        {
+          "hex": "#6483a8",
+          "percentage": 0.1473
+        },
+        {
+          "hex": "#7bbce5",
+          "percentage": 0.1298
+        },
+        {
+          "hex": "#34528a",
+          "percentage": 0.1054
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/fziSeAD-LPzf-8tFxDf?o=01M54B2NW3CBGPZWQ1PARB0EJH&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1799.0,
+            "compare_at_price": 3370.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.09,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "AMD Ryzen AI 7"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "ram": [
+          "24 GB",
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "AC-powered"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "Touchscreen",
+          "TPM (trusted platform module)",
+          "BIOS security",
+          "Remote management"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "OauOVCO",
+      "title": "HP EliteBook 840 G6 Refurbished Laptop",
+      "description": "This refurbished HP EliteBook 840 G6 14\" laptop is perfect for work or play. It features an Intel Core i7-8665U 1.9GHz processor, 32GB of memory, and Windows 11 Professional preinstalled. Store all your files on the spacious 1TB SSD. The 1920 x 1080 resolution display offers Full HD detail for an enhanced viewing experience. Enjoy wireless connectivity with 802.11a/b/g/n/ac 2 x2 and Bluetooth 5.0, and connect your peripherals using the various ports including Thunderbolt via USB Type-C, USB 3.1 Gen 1, HDMI 1.4b, docking connector, RJ45, and audio combo jack. The Intel UHD Graphics 620 ensures a smooth visual experience, while the three-cell lithium-ion battery provides portable power.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3c1bffdf-066f-45d8-b399-f9e5dd70beac?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": null,
+          "alt_text": "Laptop screen showing a blue Windows desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/43d29074-6f24-4b55-bad5-18c3ffe52533?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/43d29074-6f24-4b55-bad5-18c3ffe52533?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with abstract gold screen texture."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d12a9459-6ecd-4f1b-b3ed-db05ed91ae53?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d12a9459-6ecd-4f1b-b3ed-db05ed91ae53?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with abstract gold screen texture."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2fe551db-8d68-4df8-8205-421cc5a7f593?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Laptop screen showing a blue Windows desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/96b0fad0-e3c9-451d-9ee4-d6bf55eda8a4?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/96b0fad0-e3c9-451d-9ee4-d6bf55eda8a4?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with abstract gold screen texture."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a1c703a3-50bc-4939-9547-5c45582df217?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a1c703a3-50bc-4939-9547-5c45582df217?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop with abstract gold screen texture."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "1.9GHz (up to 4.6GHz) Intel Core i7-8565U quad-core processor with 8MB cache memory",
+        "2TB M.2-NVMe SSD",
+        "Windows 11 Professional operating system",
+        "32GB memory",
+        "DDR4 SDRAM memory technology",
+        "1920 x 1080 display",
+        "14\" screen",
+        "802.11a/b/g/n/ac 2 x 2 and Bluetooth 5.0 wireless connectivity",
+        "1 x Thunderbolt via USB Type-C, 2 x USB 3.1 Gen 1, 1 x HDMI 1.4b, 1 x docking connector, 1 x RJ45, and 1 x audio combo jack ports",
+        "Intel UHD Graphics 620 graphics card"
+      ],
+      "colors": [
+        {
+          "hex": "#856e4f",
+          "percentage": 0.27
+        },
+        {
+          "hex": "#e2e0db",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#292420",
+          "percentage": 0.1386
+        },
+        {
+          "hex": "#a58c61",
+          "percentage": 0.1261
+        },
+        {
+          "hex": "#0e0c0b",
+          "percentage": 0.1178
+        },
+        {
+          "hex": "#4e4944",
+          "percentage": 0.1043
+        },
+        {
+          "hex": "#cab887",
+          "percentage": 0.0892
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/OauOVCO-LPzf-8tFxDf?o=01M58Z67XS2WQEMGFMKYVDJZYV&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "newegg.com",
+          "price": {
+            "price": 554.69,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/OauOVCO-6Uzl-8tFxDf?o=01KBP9DHBVG4VSQMQVBY1YX83F&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 811.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/OauOVCO-LFnL-8tFxDf?o=01KPDNDHES5DDVD38SYJ16Y6NQ&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "staples.com",
+          "price": {
+            "price": 819.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Standard"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "memory-technology": [
+          "DDR",
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable",
+          "Battery-powered"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified"
+        ],
+        "optical-drive-type": [
+          "Super multi"
+        ],
+        "display-technology": [
+          "LED",
+          "LCD",
+          "IPS"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "ram": [
+          "16 GB"
+        ]
+      },
+      "ratings": {
+        "value": 1.75,
+        "count": 4,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "9QFKljA",
+      "title": "HP EliteBook 840 G8 14\" Laptop",
+      "description": "The HP EliteBook 840 G8 is a professional 14-inch laptop featuring an 11th Generation Intel Core i7-1185G7 processor, 16 GB of DDR4 RAM, and a 256 GB PCIe NVMe SSD. It is designed for productivity with a full HD anti-glare display, Intel Iris Xe Graphics, and Windows 11 Pro. The laptop boasts a sleek silver aluminum build and includes a backlit keyboard, fingerprint reader, and facial recognition for enhanced security.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b14f68b4-47df-4535-84d1-4701ffe10ea8?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP laptop open showing blue abstract design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/253ee6d1-2914-481a-9c0f-c36af04f068a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/253ee6d1-2914-481a-9c0f-c36af04f068a?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop screen displaying blue abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3461c918-5483-4a83-bef6-1439443839f4?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3461c918-5483-4a83-bef6-1439443839f4?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop screen showing blue abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cf5a8358-1cae-4c2b-b9d4-46933e8924e6?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear ports and vents on the bottom of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/93378505-3b6f-4f31-a11e-15b2678e8c51?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/93378505-3b6f-4f31-a11e-15b2678e8c51?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop shown open, viewing the keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e307a18-8882-4dbb-844f-8c0608292e7d?aid=01M66D8K0DVZ37GCMZAQP5TJ0C&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver HP EliteBook laptop lid with logo."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "11th Generation Intel Core i7-1185G7 processor",
+        "16 GB DDR4-3200 SDRAM",
+        "256 GB PCIe NVMe Value M.2 SSD",
+        "14\" diagonal FHD anti-glare display (1920 x 1080)",
+        "Intel Iris Xe Graphics",
+        "Windows 11 Pro",
+        "Backlit keyboard",
+        "Intel Wi-Fi 6 AX201 and Bluetooth 5",
+        "Fingerprint reader and facial recognition",
+        "16GB DDR4 SDRAM (Max 64GB)"
+      ],
+      "colors": [
+        {
+          "hex": "#090329",
+          "percentage": 0.3672
+        },
+        {
+          "hex": "#414858",
+          "percentage": 0.1472
+        },
+        {
+          "hex": "#cecfcf",
+          "percentage": 0.1402
+        },
+        {
+          "hex": "#506484",
+          "percentage": 0.1256
+        },
+        {
+          "hex": "#28304a",
+          "percentage": 0.1229
+        },
+        {
+          "hex": "#7b90ae",
+          "percentage": 0.097
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/9QFKljA-n0yg-8tFxDf?o=01M4RHAFQSAXC9NFDA0VHT77R0&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 462.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 46.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/9QFKljA-LFnL-8tFxDf?o=01KMV9Z4XKRZXT66BQ8YW2KYVM&aid=01M66D8K0DVZ37GCMZAQP5TJ0C",
+          "domain": "staples.com",
+          "price": {
+            "price": 501.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "computer-specialized-features": [
+          "TPM (trusted platform module)"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR4",
+          "DDR"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Island-style"
+        ],
+        "processor-family": [
+          "Intel core i5",
+          "Intel core i7"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ]
+      },
+      "ratings": {
+        "value": 4.09,
+        "count": 40,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjMxMjlkM2JmMDVlYzQzNGMiLCAib2Zmc2V0IjogMjB9"
+}

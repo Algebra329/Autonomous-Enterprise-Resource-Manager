@@ -1,0 +1,286 @@
+{
+  "POST /score/price": {
+    "request": {
+      "offers": [
+        {
+          "merchant": "shop-a.example",
+          "price": 1449.0,
+          "in_stock": true
+        },
+        {
+          "merchant": "shop-b.example",
+          "price": 1462.5
+        },
+        {
+          "merchant": "shop-c.example",
+          "price": 1455.0
+        },
+        {
+          "merchant": "bait.example",
+          "price": 880.0
+        }
+      ],
+      "candidate_price": 1595.0,
+      "threshold_pct": 10
+    },
+    "response": {
+      "advisory": true,
+      "method": "robust_median_mad",
+      "is_fallback": false,
+      "n_offers": 4,
+      "n_used": 4,
+      "n_excluded": 0,
+      "fair_price": 1455.0,
+      "price_low": 1449.0,
+      "price_high": 1462.5,
+      "confidence": "medium",
+      "outliers": [
+        {
+          "index": 3,
+          "merchant": "bait.example",
+          "price": 880.0,
+          "direction": "low",
+          "ratio_to_fair": 0.605
+        }
+      ],
+      "threshold_pct": 10.0,
+      "candidate": {
+        "price": 1595.0,
+        "pct_over_fair": 9.6,
+        "hint": "ok"
+      }
+    }
+  },
+  "POST /score/seat-idle": {
+    "request": {
+      "seats": [
+        {
+          "last_active_at": "2026-09-12T04:00:00Z",
+          "weekly_sessions_13w": [
+            2,
+            2,
+            2,
+            2,
+            0,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "seat_id": "18ad6a2f-8bb2-5676-bfe5-e9012c4dada8"
+        },
+        {
+          "last_active_at": "2026-09-10T12:00:00Z",
+          "weekly_sessions_13w": [
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "seat_id": "978017fe-bdbd-5d87-9a1d-e4e3b6021c7f"
+        }
+      ],
+      "as_of": "2026-10-28T12:00:00+00:00",
+      "threshold_days": 30
+    },
+    "response": {
+      "advisory": true,
+      "method": "gradient_boosting",
+      "is_fallback": false,
+      "model_version": "seat-gbm-v1",
+      "threshold": 0.75,
+      "results": [
+        {
+          "seat_id": "18ad6a2f-8bb2-5676-bfe5-e9012c4dada8",
+          "idle_score": 1.0,
+          "suggest_prune": true,
+          "reason": "no activity for 46 days, usage was already declining before that"
+        },
+        {
+          "seat_id": "978017fe-bdbd-5d87-9a1d-e4e3b6021c7f",
+          "idle_score": 0.0,
+          "suggest_prune": false,
+          "reason": "periodic usage (about every 6 weeks), probably still needed"
+        }
+      ]
+    }
+  },
+  "POST /score/anomaly": {
+    "request": {
+      "purchases": "[... 29 purchase objects, see seed/history-90d.json shape ...]",
+      "approved_vendors": [
+        "vendor_a",
+        "vendor_b"
+      ]
+    },
+    "response": {
+      "advisory": true,
+      "method": "isolation_forest",
+      "is_fallback": false,
+      "model_version": "anomaly-iforest-v1",
+      "threshold": 0.83,
+      "results": [
+        {
+          "id": "28339602-677a-55e2-a4ac-d5f1d3384ed7",
+          "anomaly_score": 0.909,
+          "is_anomaly": true,
+          "reasons": [
+            "same vendor, item and quantity ordered within the previous 24 hours"
+          ]
+        },
+        {
+          "id": "2618b61f-c44b-5ad8-998a-61229b33669e",
+          "anomaly_score": 0.837,
+          "is_anomaly": true,
+          "reasons": [
+            "same vendor, item and quantity ordered within the previous 24 hours"
+          ]
+        },
+        {
+          "id": "7f78df57-f4ed-5595-b6a4-78a35d31c54c",
+          "anomaly_score": 0.842,
+          "is_anomaly": true,
+          "reasons": [
+            "same vendor, item and quantity ordered within the previous 24 hours"
+          ]
+        },
+        {
+          "id": "b7183cf1-8871-5583-97a3-a8239021358d",
+          "anomaly_score": 0.865,
+          "is_anomaly": true,
+          "reasons": [
+            "price is 32% above benchmark"
+          ]
+        }
+      ]
+    }
+  },
+  "POST /forecast/replacement": {
+    "request": {
+      "assets": "[... asset objects as in seed/assets.json ...]",
+      "as_of": "2026-10-28T12:00:00+00:00",
+      "unit_prices": {
+        "LAP-14": 1450,
+        "LAP-13": 1250,
+        "LAP-16": 1950,
+        "MON-24": 230,
+        "MON-27": 420
+      }
+    },
+    "response": {
+      "advisory": true,
+      "method": "calendar_rule",
+      "is_fallback": false,
+      "as_of": "2026-10-28",
+      "buckets": {
+        "overdue": {
+          "count": 0,
+          "est_cost": 0.0,
+          "n_unpriced": 0
+        },
+        "d1_30": {
+          "count": 0,
+          "est_cost": 0.0,
+          "n_unpriced": 0
+        },
+        "d31_60": {
+          "count": 0,
+          "est_cost": 0.0,
+          "n_unpriced": 0
+        },
+        "d61_90": {
+          "count": 1,
+          "est_cost": 1250.0,
+          "n_unpriced": 0
+        }
+      },
+      "cumulative_90d_incl_overdue": {
+        "count": 1,
+        "est_cost": 1250.0
+      },
+      "items": [
+        {
+          "id": "b3d71a47-3716-59e9-b71b-9a2ce5ef2d86",
+          "due_date": "2027-01-06",
+          "days_until_due": 70,
+          "bucket": "d61_90"
+        },
+        {
+          "id": "25814549-1d66-5a8e-abf7-bb62320472dd",
+          "due_date": "2028-05-30",
+          "days_until_due": 580,
+          "bucket": "later"
+        },
+        {
+          "id": "487a4b69-4be9-5956-a373-e30505734990",
+          "due_date": "2028-10-01",
+          "days_until_due": 704,
+          "bucket": "later"
+        }
+      ]
+    }
+  },
+  "GET /health": {
+    "response": {
+      "status": "ok",
+      "service_version": "0.1.0",
+      "models": {
+        "seat_idle": "seat-gbm-v1",
+        "anomaly": "anomaly-iforest-v1"
+      },
+      "fallbacks_active": []
+    }
+  },
+  "POST /score/price (forced fallback)": {
+    "request": {
+      "offers": [
+        {
+          "merchant": "shop-a.example",
+          "price": 1449.0,
+          "in_stock": true
+        },
+        {
+          "merchant": "shop-b.example",
+          "price": 1462.5
+        },
+        {
+          "merchant": "shop-c.example",
+          "price": 1455.0
+        },
+        {
+          "merchant": "bait.example",
+          "price": 880.0
+        }
+      ],
+      "force_fallback": true
+    },
+    "response": {
+      "advisory": true,
+      "method": "baseline_median",
+      "is_fallback": true,
+      "n_offers": 4,
+      "n_used": 4,
+      "n_excluded": 0,
+      "fair_price": 1452.0,
+      "price_low": 880.0,
+      "price_high": 1462.5,
+      "confidence": "medium",
+      "outliers": [],
+      "threshold_pct": 10.0,
+      "candidate": null
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-10-30",
+  "n_queries": 30,
+  "usable": 14,
+  "categories": {
+    "laptops": {
+      "n": 13,
+      "usable": 4,
+      "plausible": 9,
+      "judged": 12,
+      "usable_rate": 0.3076923076923077,
+      "demo_safe": false
+    },
+    "monitors": {
+      "n": 11,
+      "usable": 6,
+      "plausible": 7,
+      "judged": 9,
+      "usable_rate": 0.5454545454545454,
+      "demo_safe": false
+    },
+    "accessories": {
+      "n": 6,
+      "usable": 4,
+      "plausible": 6,
+      "judged": 6,
+      "usable_rate": 0.6666666666666666,
+      "demo_safe": true
+    }
+  },
+  "skus": {
+    "DOCK-TB": {
+      "catalog_market_price": 240.0,
+      "channel3_median_of_medians": 322.67,
+      "n_usable_queries": 4
+    },
+    "LAP-13": {
+      "catalog_market_price": 1250.0,
+      "channel3_median_of_medians": 1249.99,
+      "n_usable_queries": 1
+    },
+    "LAP-14": {
+      "catalog_market_price": 1450.0,
+      "channel3_median_of_medians": 1199.99,
+      "n_usable_queries": 2
+    },
+    "LAP-16": {
+      "catalog_market_price": 1950.0,
+      "channel3_median_of_medians": 2979.49,
+      "n_usable_queries": 1
+    },
+    "MON-24": {
+      "catalog_market_price": 230.0,
+      "channel3_median_of_medians": 521.49,
+      "n_usable_queries": 2
+    },
+    "MON-27": {
+      "catalog_market_price": 420.0,
+      "channel3_median_of_medians": 584.99,
+      "n_usable_queries": 4
+    }
+  },
+  "latency": {
+    "p50_s": 2.24,
+    "p95_s": 3.12
+  },
+  "rule": "usable = a matched product with >= 3 priced, in-stock, USD offers; category demo-safe if >= 60% usable"
+}

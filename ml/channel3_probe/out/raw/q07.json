@@ -1,0 +1,3754 @@
+{
+  "products": [
+    {
+      "id": "kUool4Z",
+      "title": "ExpertBook B1 14\u201d Business Laptop",
+      "description": "The ASUS ExpertBook B1 (B1403CVA-XS54) is a professional 14-inch business laptop designed for productivity and durability. It features an Intel Core i5-1335U processor, 16GB of DDR5 RAM, and a 512GB PCIe 4.0 SSD for fast performance. The device is equipped with a 14-inch FHD anti-glare display, a backlit chiclet keyboard, and a wide array of I/O ports including USB-C with power delivery. Built to withstand rigorous use, it meets the US MIL-STD 810H military-grade standard and comes in a professional Gentle Grey finish.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/47599af4-6884-4c80-9e87-0a683226184e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LWYJ",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/47599af4-6884-4c80-9e87-0a683226184e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LWYJ",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS ExpertBook laptop in grey and black, viewed from above and slightly angled."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "PCR recycled plastic"
+      ],
+      "key_features": [
+        "Intel\u00ae Core\u2122 i5-1335U 10-Core Processor",
+        "16GB DDR5 RAM (Expandable up to 64GB)",
+        "512GB M.2 NVMe\u2122 PCIe\u00ae 4.0 SSD",
+        "14-inch FHD (1920x1080) anti-glare LED backlit display",
+        "US MIL-STD 810H military-grade standard",
+        "Windows 11 Pro Operating System",
+        "Backlit Chiclet Keyboard with 1.35mm key-travel",
+        "Integrated camera with privacy shutter",
+        "Wi-Fi 6E and Bluetooth 5.4 connectivity",
+        "TPM 2.0 Security Support"
+      ],
+      "colors": [
+        {
+          "hex": "#0e131d",
+          "percentage": 0.354
+        },
+        {
+          "hex": "#6a7281",
+          "percentage": 0.2476
+        },
+        {
+          "hex": "#253744",
+          "percentage": 0.1496
+        },
+        {
+          "hex": "#26272a",
+          "percentage": 0.1358
+        },
+        {
+          "hex": "#7a8da8",
+          "percentage": 0.0849
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kUool4Z-LWYJ-8tFxDf?o=01M2VQ1D4HRK7ANDE7J53QE98J&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "eshop.asus.com",
+          "price": {
+            "price": 1029.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 21.44,
+              "unit": "cm"
+            },
+            "width": {
+              "number": 32.45,
+              "unit": "cm"
+            },
+            "height": {
+              "number": 1.97,
+              "unit": "cm"
+            },
+            "weight": {
+              "number": 1.4,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "memory-technology": [
+          "DDR4",
+          "DDR5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "processor-family": [
+          "Intel core i5",
+          "Intel core i7"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "TPM (trusted platform module)"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "display-technology": [
+          "LED"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "MtboPdW",
+      "title": "HP ProBook 440 G11 Business Laptop",
+      "description": "The HP ProBook 440 G11 is a professional-grade business laptop featuring a 14-inch FHD+ (1920x1200) display and the Intel Core Ultra 5 125U processor with dedicated NPU AI acceleration for enhanced productivity. It comes equipped with 16GB of DDR5 RAM and a 512GB PCIe M.2 SSD for fast performance and secure storage. Designed for security and collaboration, it includes a fingerprint reader, HP Wolf Security, a backlit keyboard, and a built-in webcam. The slim silver chassis houses a long-lasting lithium-ion battery and a wide range of connectivity options, including Wi-Fi 6, dual USB Type-C, and HDMI ports. It runs on Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9df8fcdc-0018-477d-b4ba-e28e56e1cc92?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9df8fcdc-0018-477d-b4ba-e28e56e1cc92?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP ProBook 440 G11 laptop shown with box and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/edb619cd-e896-4051-90e6-52930037f626?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specifications of the HP ProBook 440 G11 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2b946a84-6957-4d34-b882-8be0116b59bf?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "HP ProBook 440 G11 laptop displayed in a modern office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c065fe89-8ca3-4113-8a53-7151df8569a9?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "HP ProBook 14-inch laptop showing Microsoft Copilot features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51ac3b2c-87da-430d-8f43-797e3ec8a7be?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "HP Wolf Security features on the HP ProBook laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f1d54a02-280f-48c6-8703-9b8eb9b4f442?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Hands typing on an HP ProBook laptop using an editing application."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eebb7a02-3c50-48cf-bee7-805243dd3d3e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of ports and slots on the side of the HP ProBook laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 5 125U processor with NPU AI acceleration",
+        "14-inch FHD+ 1920x1200 display",
+        "16GB DDR5 SODIMM RAM",
+        "512GB PCIe M.2 SSD",
+        "Windows 11 Pro operating system",
+        "Backlit keyboard",
+        "Fingerprint reader",
+        "Wi-Fi 6 and Bluetooth connectivity",
+        "Integrated webcam and speakers",
+        "Comprehensive port selection (USB Type-A, Type-C, HDMI, RJ45 Ethernet)"
+      ],
+      "colors": [
+        {
+          "hex": "#dce5ee",
+          "percentage": 0.4058
+        },
+        {
+          "hex": "#4d5a6e",
+          "percentage": 0.1459
+        },
+        {
+          "hex": "#929292",
+          "percentage": 0.1343
+        },
+        {
+          "hex": "#1b2234",
+          "percentage": 0.1274
+        },
+        {
+          "hex": "#9fc6e5",
+          "percentage": 0.096
+        },
+        {
+          "hex": "#5486b3",
+          "percentage": 0.0905
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/MtboPdW-LPzf-8tFxDf?o=01M5KCW96R5T4SK17W7R1AJ08Y&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1059.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 19.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 2.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "memory-technology": [
+          "DDR5"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "BIOS security",
+          "Kensington lock"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "btbRonT",
+      "title": "Dell Pro 5 Series 14\" Business Laptop",
+      "description": "The Dell Pro 5 Series 14\" Business Laptop is a professional-grade computer featuring an Intel Core Ultra 5 335 vPro processor with 8 cores and a built-in NPU for AI tasks. It is equipped with 16GB of DDR5 RAM and a 512GB SSD for fast storage and performance. The device boasts a 14-inch WUXGA (1920 x 1200) non-touch display with 400 nits brightness, anti-glare coating, and low power consumption. Additional features include an FHD RGB + IR camera with presence detection and a shutter for security, a Mini-LED backlit keyboard, and Windows 11 Pro, making it a Copilot+ PC.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2dfe9b91-833f-4424-a894-15311f45bdfc?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2dfe9b91-833f-4424-a894-15311f45bdfc?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro 5 Series 14 laptop with blue wave display on white background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 5 335 vPro (8 cores, up to 4.6 GHz, 47 TOPS NPU)",
+        "14\" WUXGA (1920 x 1200) non-touch display, 400 nits, anti-glare",
+        "16 GB DDR5 RAM",
+        "512 GB SSD",
+        "Integrated Intel Graphics (4Xe)",
+        "Windows 11 Pro (Copilot+ PC)",
+        "FHD RGB + IR Camera with presence detection and shutter",
+        "English (US) Mini-LED backlit keyboard"
+      ],
+      "colors": [
+        {
+          "hex": "#2b313b",
+          "percentage": 0.3697
+        },
+        {
+          "hex": "#10131b",
+          "percentage": 0.2575
+        },
+        {
+          "hex": "#7f99b0",
+          "percentage": 0.1315
+        },
+        {
+          "hex": "#a0cde4",
+          "percentage": 0.1314
+        },
+        {
+          "hex": "#516786",
+          "percentage": 0.1099
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/btbRonT-LPzf-8tFxDf?o=01M517TXYQ5TNJEE95DZB6P0JG&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2129.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "display-technology": [
+          "LED"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "iW6RHAr",
+      "title": "EliteBook 640 G11 14\" FHD+ Business Laptop",
+      "description": "This HP EliteBook 640 G11 business laptop offers premium commercial use with AI-enhanced features for secure and easy management. It is powered by an Intel Core Ultra 7 155U processor, 16GB DDR5 RAM, and a 512GB PCIe NVMe M.2 SSD for efficient multitasking and fast storage. The 14\" WUXGA (1920 x 1200) UWVA IPS display with anti-glare and 300 nits brightness provides sharp visuals. Connectivity includes 2x USB-A 3.2 Gen 1, 2x Thunderbolt 4, HDMI 2.1, Ethernet, and a headphone/microphone combo jack. It also features Intel Wi-Fi 6E, Bluetooth 5.3, and a backlit keyboard. Security features include TPM technology and HP Wolf Security, along with an FHD camera with a privacy shutter. Running on Windows 11 Professional 64-bit with AI-powered Copilot, it is ideal for professionals, small businesses, designers, programmers, and more.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/64eae096-b2e3-4a52-8861-9f1fddf8321a?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop with dark screen displaying Windows interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d3b8ece1-675e-4e24-aeb9-a301bb033c41?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d3b8ece1-675e-4e24-aeb9-a301bb033c41?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop with teal wallpaper, viewed from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9d077665-bff1-4c49-99a8-5f7a0b0ce9d9?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9d077665-bff1-4c49-99a8-5f7a0b0ce9d9?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop with blue wallpaper and OS interface shown."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/496f5689-3089-473e-a817-882d46227a77?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/496f5689-3089-473e-a817-882d46227a77?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP EliteBook laptop open, showing the screen and HP logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d659e7c7-12f7-44d9-9c6c-970c0157d422?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d659e7c7-12f7-44d9-9c6c-970c0157d422?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Comparison of laptop bottom ports/connectors between two models."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" WUXGA (1920 x 1200p) IPS Display",
+        "Intel Core Ultra 7 165U Processor (up to 4.9GHz)",
+        "32GB DDR5 5600MHz RAM",
+        "2TB NVMe SSD Storage",
+        "Fingerprint Reader for enhanced security",
+        "Wi-Fi 6E and Bluetooth 5.3",
+        "Thunderbolt 4, HDMI, and Gigabit Ethernet ports",
+        "Windows 11 Pro Operating System",
+        "1 Year Seller Warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#4a5860",
+          "percentage": 0.2757
+        },
+        {
+          "hex": "#707278",
+          "percentage": 0.1857
+        },
+        {
+          "hex": "#9ec8d0",
+          "percentage": 0.1314
+        },
+        {
+          "hex": "#d6dee0",
+          "percentage": 0.1283
+        },
+        {
+          "hex": "#999b9d",
+          "percentage": 0.1118
+        },
+        {
+          "hex": "#272d30",
+          "percentage": 0.0896
+        },
+        {
+          "hex": "#609198",
+          "percentage": 0.0775
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/iW6RHAr-LPzf-8tFxDf?o=01M1X6MX40TQXBRW3JRPA3K9GT&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.54,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.83,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.66,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.08,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "TPM (trusted platform module)",
+          "Touchscreen"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Deca",
+          "Multi"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5",
+          "DDR4"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "AC-powered"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-type": [
+          "Standard",
+          "Backlit"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "JBOqLUv",
+      "title": "Dell Pro 3 Series 14\" Business Laptop",
+      "description": "The Dell Pro 3 Series is a 14-inch business laptop designed for productivity and professional use. It is powered by an Intel Core 7 350 processor, 32GB of RAM, and a 512GB SSD. The device features a WUXGA display and runs on Windows 11 Pro. It is characterized by a sleek black design with a brushed metal finish and is built for endurance with a battery life of over 19 hours and fast charging capabilities.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/8567542d-6d94-489b-857f-b17076057ebb?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8567542d-6d94-489b-857f-b17076057ebb?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Pro 3 Series 14 laptop shown from the front."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "Intel Core 7 350 processor",
+        "32GB RAM",
+        "512GB SSD",
+        "WUXGA display",
+        "Windows 11 Pro",
+        "19+ hours battery life",
+        "Fast charging"
+      ],
+      "colors": [
+        {
+          "hex": "#2e323c",
+          "percentage": 0.659
+        },
+        {
+          "hex": "#595d65",
+          "percentage": 0.1263
+        },
+        {
+          "hex": "#97989c",
+          "percentage": 0.1151
+        },
+        {
+          "hex": "#121317",
+          "percentage": 0.0996
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/JBOqLUv-LPzf-8tFxDf?o=01M517YP9SVHTT824XHJ14ZYA0&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1749.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "Battery-powered"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel xeon"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "cacM5ge",
+      "title": "Lenovo V14 Business Laptop",
+      "description": "The Lenovo V14 Business Laptop is a professional-grade device featuring a 14-inch Full HD (1920x1080) non-touch display. It is powered by an AMD Ryzen 7 7730U processor with 8 cores and turbo speeds up to 4.5GHz, paired with 16GB of DDR4 RAM and a 1TB PCIe M.2 SSD for high-speed performance and storage. This business laptop includes Wi-Fi 6 and Bluetooth connectivity, a variety of ports including USB Type-C and HDMI, and runs on Windows 11 Pro. It is designed for productivity and mobility with a weight of 3.15 lbs and a sleek black finish.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/869b79a8-d70d-4bc2-a1f5-dd7d49016951?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/869b79a8-d70d-4bc2-a1f5-dd7d49016951?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo V14 Business Laptop with screen and keyboard on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/efcbbe38-3a3a-4909-9b25-8bc12d89ca53?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop specifications highlighting CPU, RAM, and storage details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6a4a04f0-43bb-4c24-9700-6ac0436be2b9?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the AMD Ryzen 7 7730U processor on the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0501a673-fc1b-4306-b0e8-6605c38239ef?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop display showing a scenic landscape with high resolution and brightness."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b3830902-d937-4c7b-8807-96eda2872427?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a laptop at a desk in a bright office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0b5171fb-6c16-43db-831c-b57186192034?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Diagram illustrating the ports and slots on the laptop body."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f96c6a29-cc44-49b4-b386-d2f3ba7c84ae?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Man using a laptop while working in an office environment."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "AMD Ryzen 7 7730U Processor (8 Cores, 16 Threads, up to 4.5GHz)",
+        "14\" FHD (1920 x 1080) non-touch 60Hz display",
+        "16GB DDR4 SODIMM RAM",
+        "1TB PCIe M.2 SSD",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 6 & Bluetooth connectivity",
+        "Integrated AMD Radeon Graphics",
+        "Webcam and Internal Speakers included"
+      ],
+      "colors": [
+        {
+          "hex": "#0b0a12",
+          "percentage": 0.3552
+        },
+        {
+          "hex": "#2b2b34",
+          "percentage": 0.2617
+        },
+        {
+          "hex": "#454346",
+          "percentage": 0.1476
+        },
+        {
+          "hex": "#575c6b",
+          "percentage": 0.1341
+        },
+        {
+          "hex": "#adb3ba",
+          "percentage": 0.1014
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cacM5ge-LPzf-8tFxDf?o=01M4Q675EH24FK9MHSN1SFZ9VW&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 709.0,
+            "compare_at_price": 1069.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.15,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "processor-family": [
+          "AMD Ryzen"
+        ],
+        "ram": [
+          "24 GB",
+          "16 GB"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "pUAFsuk",
+      "title": "ThinkBook 14 Gen 9 Business Laptop",
+      "description": "The Lenovo ThinkBook 14 Gen 9 is a high-performance business laptop designed for professional productivity. It is powered by an AMD Ryzen 7 250 processor with 8 cores and 16 threads, offering dedicated hardware acceleration for AI workloads. The laptop features a 14-inch FHD+ (1920x1200) display, 16GB of DDR5 RAM, and a fast 1TB PCIe M.2 SSD. Connectivity is robust with Wi-Fi 6, Bluetooth 5.2, and a variety of ports including USB4, HDMI 2.1, and RJ45 Ethernet. It runs on Windows 11 Pro and includes a backlit keyboard and a lightweight design starting at 2.99 lbs.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/adace3ad-99ef-4be5-abed-5523f6519eb4?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/adace3ad-99ef-4be5-abed-5523f6519eb4?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the silver Lenovo ThinkBook 14 G9 Business Laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04e033e4-cf15-437e-8117-856b4824b85f?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specifications and features of the Lenovo ThinkBook 14 G9 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f9b14655-f93b-4767-829f-6f2ae3d42dcb?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Ports and slots layout on the side of a grey Lenovo ThinkBook laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5568db11-a0dd-43e5-9b4c-759439c1d32c?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a scenic landscape and multiple application windows."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/78a90ba6-4fcd-4b92-9362-1e4d3478a461?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A woman working at a desk with a laptop, showing AI and keyboard features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3c0c6600-5636-421d-a222-89e32d1f5396?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the AMD Ryzen 7 250 processor chip details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/438ea0eb-3460-4e15-84e7-7db5df767c81?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man using the ThinkBook laptop at a professional conference."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "AMD Ryzen 7 250 Processor (8 Cores, 16 Threads, up to 5.1GHz)",
+        "14\" FHD+ (1920x1200) Display",
+        "16GB DDR5 SODIMM RAM",
+        "1TB PCIe M.2 SSD",
+        "Windows 11 Pro",
+        "Wi-Fi 6 and Bluetooth 5.2",
+        "Backlit Keypad",
+        "USB4 40Gbps, HDMI 2.1, and RJ45 Ethernet ports",
+        "MIL-STD-810H rugged reliability"
+      ],
+      "colors": [
+        {
+          "hex": "#78757c",
+          "percentage": 0.3019
+        },
+        {
+          "hex": "#1a203b",
+          "percentage": 0.2513
+        },
+        {
+          "hex": "#0f1220",
+          "percentage": 0.1302
+        },
+        {
+          "hex": "#413b50",
+          "percentage": 0.1201
+        },
+        {
+          "hex": "#515a7d",
+          "percentage": 0.0997
+        },
+        {
+          "hex": "#b7b5b9",
+          "percentage": 0.0968
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/pUAFsuk-LPzf-8tFxDf?o=01M58WJZ2F3M4PCWNTA5HRNTE3&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 979.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 2.99,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-cores": [
+          "Octa"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "ram": [
+          "32 GB",
+          "16 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "AMD Ryzen"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "gdKhSxu",
+      "title": "Lenovo Flex 5 Premium 2 in 1 Business Laptop",
+      "description": "A versatile 2-in-1 business laptop featuring a 14-inch Full HD IPS touchscreen, powered by an AMD Hexa-Core Ryzen 5 4500U processor. It comes equipped with 16GB DDR4 RAM and a generous 2TB PCIe SSD for high-speed storage. Key features include a backlit keyboard, fingerprint reader, and an included pen, all running on Windows 10 Home.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/65a5262a-7d11-4bd0-b47c-90026b9e7d00?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/65a5262a-7d11-4bd0-b47c-90026b9e7d00?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Flex 5 laptop open showing Windows desktop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/72193d7e-52d9-4c9f-addf-1e7ef1034d79?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/72193d7e-52d9-4c9f-addf-1e7ef1034d79?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Flex 5 laptop with colorful abstract screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a035afc5-71c7-4c6b-a8ca-7e8f3ffc3974?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo Flex 5 laptop displaying design software with a stylus."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/53d95be2-3868-4c17-9ec1-e9bee0e8ce89?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/53d95be2-3868-4c17-9ec1-e9bee0e8ce89?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Flex 5 laptop from an angle showing vibrant screen art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e337cf11-77b6-48c0-8a1b-155a7f465216?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e337cf11-77b6-48c0-8a1b-155a7f465216?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Flex 5 laptop from an angle showing teal and blue screen art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c3220a9c-5f70-4be3-8e3d-c2b8c7c85c91?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c3220a9c-5f70-4be3-8e3d-c2b8c7c85c91?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo Flex 5 laptop shown open and closed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f4ec001a-e01b-4004-90e8-84e3a4d455da?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f4ec001a-e01b-4004-90e8-84e3a4d455da?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Flex 5 laptop profile view from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14 inch Full HD (1920 x 1080) IPS Touchscreen",
+        "AMD Hexa-Core Ryzen 5 4500U Processor",
+        "16GB DDR4 RAM",
+        "2TB PCIe SSD",
+        "Backlit Keyboard",
+        "Fingerprint Reader",
+        "Stylus Pen included",
+        "Windows 10 Home (64-bit)",
+        "Integrated AMD Radeon Graphics"
+      ],
+      "colors": [
+        {
+          "hex": "#20a6f1",
+          "percentage": 0.2454
+        },
+        {
+          "hex": "#0364d6",
+          "percentage": 0.1739
+        },
+        {
+          "hex": "#048eee",
+          "percentage": 0.1372
+        },
+        {
+          "hex": "#171b1e",
+          "percentage": 0.1361
+        },
+        {
+          "hex": "#c0dbe9",
+          "percentage": 0.1325
+        },
+        {
+          "hex": "#293a5e",
+          "percentage": 0.0953
+        },
+        {
+          "hex": "#215fb5",
+          "percentage": 0.0796
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gdKhSxu-LPzf-8tFxDf?o=01M6278E3HVNB4BG2ZD1V3DM3B&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 999.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-family": [
+          "AMD Ryzen 5"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "computer-form": [
+          "Convertible"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-cores": [
+          "Hexa"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "kJr1l31",
+      "title": "Lenovo ThinkPad L16 Gen 2 Business Laptop",
+      "description": "The Lenovo ThinkPad L16 Gen 2 is a professional business laptop designed for high performance and versatility. It is powered by an Intel Core Ultra 7 255U processor with 12 cores and 14 threads, supported by 16GB of DDR5 RAM and a 512GB PCIe NVMe M.2 SSD for fast data access and multitasking. The device features a 16-inch FHD+ (1920 x 1200) IPS anti-glare display with a 16:10 aspect ratio and 400 nits brightness, making it suitable for long working hours. Connectivity is robust with Thunderbolt 4 USB-C ports, HDMI, and Wi-Fi 6E. For security and convenience, it includes a fingerprint reader and a backlit keyboard, and it runs on Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d44e3778-c0eb-4e0d-b9b3-aa44a05fa48d?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d44e3778-c0eb-4e0d-b9b3-aa44a05fa48d?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad laptop with Intel Core Ultra 7 and Windows 11 Pro box."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/12841a61-3829-4171-9dcb-3fe07eee96fc?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Lenovo ThinkPad L16 Gen 2 specs sheet showing CPU, RAM, and storage details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0816cd10-4957-4f09-bbe4-e39624850883?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the Intel Core Ultra 7 processor chip with performance specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3e466ca7-b982-4a26-8c1d-bea0860ad922?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Two Lenovo ThinkPad laptops displayed together, one open."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3f4cec95-680f-47e2-bf10-a45a590a4203?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the laptop screen showing a vibrant blue graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/00ae1a1a-2a94-4259-8e0d-339cf7a022de?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad L16 Gen 2 connecting and showing Wi-Fi 6E connectivity."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3a9de4ba-c28d-42a2-878e-40318908a40e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop screen showing fingerprint and backlit keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 255U Processor (12 Cores, 14 Threads, up to 5.2 GHz)",
+        "16\" FHD+ (1920 x 1200) IPS Anti-Glare display, 400nits",
+        "16GB DDR5 High-Bandwidth RAM",
+        "512GB PCIe NVMe M.2 Solid State Drive",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 6E + Bluetooth connectivity",
+        "Backlit Keyboard and Fingerprint Reader",
+        "2 x USB-C Thunderbolt 4, 3 x USB-A, 1 x HDMI, 1 x RJ-45 Ethernet"
+      ],
+      "colors": [
+        {
+          "hex": "#181a1e",
+          "percentage": 0.6291
+        },
+        {
+          "hex": "#656b75",
+          "percentage": 0.1314
+        },
+        {
+          "hex": "#34353b",
+          "percentage": 0.1208
+        },
+        {
+          "hex": "#dee0e3",
+          "percentage": 0.1187
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kJr1l31-LPzf-8tFxDf?o=01M566R719RT64WRB1TT0QQFFC&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1149.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.94,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "6272U3B",
+      "title": "Dell Pro 16 PC16250 Business Laptop",
+      "description": "The Dell Pro 16 PC16250 is a business-oriented laptop designed for productivity and professional multitasking. It features a 16-inch FHD+ (1920x1200) touchscreen display and is powered by an Intel Core 7 150U processor. This model comes equipped with 16GB of DDR5 RAM and a 512GB PCIe M.2 SSD for efficient performance and secure storage. Connectivity options include Wi-Fi 6, Bluetooth, and a variety of ports such as USB Type-C, USB Type-A, HDMI, and RJ45 Ethernet. It runs on Windows 11 Pro and includes a backlit keyboard with a numeric keypad for enhanced workflow. The laptop is finished in black and is designed for long-lasting battery life, making it suitable for on-the-go business operations.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/432dba8f-1453-4f72-8734-544c49b327c3?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/432dba8f-1453-4f72-8734-544c49b327c3?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro 16 laptop screen showing Windows 11 and Intel Core 7."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b220f463-d5df-4d03-b4a2-cbef53c11b75?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Dell Pro 16 Laptop specifications and features laid out."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/73044e0e-43d6-4c85-a3fe-aead107e20e7?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing display specs, designed for creativity."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/278b61a6-9f77-44d9-8749-dcbc6fd1043c?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the Intel Core 7 processor on the laptop's motherboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eae9dae4-4375-480a-8445-6a6f77e3c341?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "View of ports and slots on the Dell Pro 16 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/73e7adad-c880-419f-8275-f4aa1ed5202a?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using the laptop for crystal clear video communication."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b2f43e91-6f1e-47eb-bd22-86fe8c25ed06?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Detail of the laptop's backlighting, camera, and keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16\" FHD+ (1920x1200) Touchscreen display",
+        "Intel Core 7 150U Processor",
+        "16GB DDR5 SODIMM RAM",
+        "512GB PCIe M.2 SSD",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 6 and Bluetooth connectivity",
+        "Backlit keyboard with Numeric Keypad",
+        "Integrated webcam and speakers for collaboration",
+        "Diverse port selection: 2x USB 3.2 Type-A, 2x USB Type-C, 1x HDMI, 1x RJ45 Ethernet"
+      ],
+      "colors": [
+        {
+          "hex": "#010101",
+          "percentage": 0.2932
+        },
+        {
+          "hex": "#565352",
+          "percentage": 0.1611
+        },
+        {
+          "hex": "#232223",
+          "percentage": 0.1525
+        },
+        {
+          "hex": "#62758c",
+          "percentage": 0.1444
+        },
+        {
+          "hex": "#c2c1bc",
+          "percentage": 0.1074
+        },
+        {
+          "hex": "#2f4462",
+          "percentage": 0.0723
+        },
+        {
+          "hex": "#0a1222",
+          "percentage": 0.0691
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/6272U3B-LPzf-8tFxDf?o=01M5E35AAHT9RX0D5ER8SWY1F7&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 6.2,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Intel xeon"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "16 GB",
+          "64 GB",
+          "32 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "storage-capacity": [
+          "1 TB",
+          "512 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eM1lP7U",
+      "title": "Lenovo ThinkPad T16 Business Laptop",
+      "description": "The Lenovo ThinkPad T16 is a professional business laptop featuring a 16.0-inch WUXGA IPS display and powered by the 15th Gen Intel Ultra 5-225U processor. It comes equipped with 16GB of DDR5 memory, a 512GB PCIe SSD, and integrated graphics. This black-colored laptop is designed for productivity, featuring a backlit keyboard, fingerprint reader, and comes pre-installed with Windows 11 Pro and an Office 2021 license.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9160e776-f44d-44f8-bcb7-b1ed8d90f139?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo laptop screen showing Windows 11 and a cat."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4fe6fb43-593c-4b48-acbe-d33f3f1b3847?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4fe6fb43-593c-4b48-acbe-d33f3f1b3847?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of Lenovo ThinkPad T16 laptop with branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f7abd1a-84be-4c32-8ace-67b56761191d?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad T16 laptop keyboard and palm rest view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e783c0e3-0c6c-45d7-8090-ace5714a5c68?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e783c0e3-0c6c-45d7-8090-ace5714a5c68?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad T16 laptop showing the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a54f645-2616-44f7-a914-c6094e22b605?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1a54f645-2616-44f7-a914-c6094e22b605?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad T16 laptop open, showing screen and keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16.0\" IPS WUXGA (1920x1200) 60Hz Display",
+        "15th Gen Ultra 5-225U 1.50GHz Processor (upto 4.8 GHz, 12-Cores)",
+        "16GB DDR5 Memory",
+        "512GB PCIe SSD",
+        "Fingerprint Reader",
+        "Backlit Keyboard",
+        "Windows 11 Pro",
+        "Office 2021 License"
+      ],
+      "colors": [
+        {
+          "hex": "#111026",
+          "percentage": 0.761
+        },
+        {
+          "hex": "#262a39",
+          "percentage": 0.1196
+        },
+        {
+          "hex": "#94959d",
+          "percentage": 0.1194
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eM1lP7U-LPzf-8tFxDf?o=01M5695ASPC7Y6GQC7WMP1RFY3&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2059.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.5,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "w4ghq5n",
+      "title": "Lenovo V14 14\" FHD Business Laptop",
+      "description": "The Lenovo V14 is a 14-inch FHD business laptop designed for productivity and multitasking. It is powered by an Intel Core i7-13620H 10-core processor, 24GB of DDR4 RAM, and a massive 2.16TB of total storage (combining a 2TB SSD and a 160GB docking station set). It features an anti-glare display, Intel UHD Graphics, Wi-Fi 6, and runs on Windows 11 Pro. The package includes a bonus 7-in-1 docking station with a 128GB M2 NVMe SSD and other accessories.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7e1d08dd-a559-4d5b-bd0c-8f46b6f96e2e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7e1d08dd-a559-4d5b-bd0c-8f46b6f96e2e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo V14 14 inch laptop displaying specs on a dark background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c3da7829-0bef-4df0-833d-cc1012dbb786?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specification list highlighting the technical details of the Lenovo laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/278d3e37-df3b-4ce4-970f-610cc801de15?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo laptop screen displaying high resolution display details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e4439fe1-9fda-4552-b480-1ec65584cfba?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop shown with the screen rotated 180 degrees for viewing."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a0abe409-44e6-40e0-a7bb-7f1f7e0e4604?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop showing the integrated 720p HD webcam and connectivity features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/345dd65f-d0cf-453e-bc4c-7b080374fd21?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop's connection ports and external connectivity options."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" FHD Anti-glare Display",
+        "Intel Core i7-13620H 10-core Processor",
+        "24GB DDR4 RAM",
+        "2.16TB Total Storage (2TB SSD + 160GB via Docking Station Set)",
+        "Intel UHD Graphics",
+        "Windows 11 Pro",
+        "Wi-Fi 6 and Bluetooth 5.2",
+        "Bonus 7-in-1 Docking Station included"
+      ],
+      "colors": [
+        {
+          "hex": "#41b4ee",
+          "percentage": 0.2089
+        },
+        {
+          "hex": "#12517f",
+          "percentage": 0.1469
+        },
+        {
+          "hex": "#0c2666",
+          "percentage": 0.1418
+        },
+        {
+          "hex": "#2f8abb",
+          "percentage": 0.1303
+        },
+        {
+          "hex": "#601d45",
+          "percentage": 0.121
+        },
+        {
+          "hex": "#8390a8",
+          "percentage": 0.1047
+        },
+        {
+          "hex": "#99c2c6",
+          "percentage": 0.086
+        },
+        {
+          "hex": "#635c94",
+          "percentage": 0.0603
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/w4ghq5n-LPzf-8tFxDf?o=01M4HSKJA7D3RSA021G8MKRB04&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 999.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 12.76,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.47,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.78,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.15,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "ram": [
+          "24 GB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "KFOLRt9",
+      "title": "Lenovo ThinkPad T14 Business Laptop",
+      "description": "A professional 14-inch business laptop featuring an Intel Core Ultra 7-255U processor, 64GB of DDR5 RAM, and a 1TB PCIe NVMe SSD. It is equipped with a WUXGA IPS display, a backlit keyboard, a fingerprint reader, and runs on Windows 11 Pro. This specific model has been professionally upgraded by Velztorm.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9df66d7e-c9ae-4d66-ba08-7419ee52e9e3?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9df66d7e-c9ae-4d66-ba08-7419ee52e9e3?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14 laptop shown with screen and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c2508cc5-1152-43bb-8693-bc921c83cce6?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c2508cc5-1152-43bb-8693-bc921c83cce6?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14 laptop open view showing keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17b80f2e-d2c2-4d01-ba2a-296724a1c978?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/17b80f2e-d2c2-4d01-ba2a-296724a1c978?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14 laptop folded shut."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bb1723a9-56b4-44df-8921-d295e128f9f6?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bb1723a9-56b4-44df-8921-d295e128f9f6?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14 laptop angled view showing screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4e775181-f0f3-4270-979a-e65896989c94?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4e775181-f0f3-4270-979a-e65896989c94?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14 laptop closed showing application interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cc72e8b0-5eee-40d5-b4c1-86637f7b03a6?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cc72e8b0-5eee-40d5-b4c1-86637f7b03a6?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14 laptop open displaying blue wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15th Gen Intel Core Ultra 7-255U processor (up to 5.2 GHz, 12-Cores)",
+        "14.0\" WUXGA (1920x1200) IPS display at 60Hz",
+        "64GB DDR5 SODIMM memory",
+        "1TB PCIe NVMe SSD storage",
+        "Intel Graphics (Integrated)",
+        "Windows 11 Pro operating system",
+        "Backlit keyboard and fingerprint reader",
+        "Connectivity: WiFi 802.11ax, Bluetooth 5.4, RJ-45, 2x Thunderbolt 4, HDMI",
+        "4-Cell 57 WHr battery with 65W Type-C power input"
+      ],
+      "colors": [
+        {
+          "hex": "#141720",
+          "percentage": 0.4964
+        },
+        {
+          "hex": "#819aa3",
+          "percentage": 0.145
+        },
+        {
+          "hex": "#676a6d",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#3e4e56",
+          "percentage": 0.1183
+        },
+        {
+          "hex": "#cfd4d5",
+          "percentage": 0.1113
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/KFOLRt9-LPzf-8tFxDf?o=01M61J0SW6A1K0MK9WGQJ56H3H&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "OyvuDX2",
+      "title": "Lenovo ThinkPad T14s Gen 5 Business Laptop",
+      "description": "The Lenovo ThinkPad T14s Gen 5 is a high-performance business laptop featuring an Intel Core Ultra 7 165U processor with 12 cores and dedicated NPU hardware acceleration for AI workloads. It boasts a 14-inch FHD+ (1920x1200) touchscreen display, 32GB of RAM, and a massive 4TB PCIe M.2 SSD for extensive storage and smooth multitasking. Designed for professional productivity, it includes Wi-Fi 6 connectivity, a backlit keyboard, and runs on Windows 11 Pro. This specific bundle also includes an ADATA UC310 64GB flash drive.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fdc4fa85-d41e-43b5-b3df-a496d336caff?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fdc4fa85-d41e-43b5-b3df-a496d336caff?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad T14s G5 laptop with black keyboard and screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c6b0fbda-994b-492c-b463-5471ac2d53c3?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop features and specifications summary."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c21950f6-6a5c-445c-a895-20cad7a72d78?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Intel Core Ultra 7 165U processor details on a circuit board."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8b3cb01-b53c-49d0-b98c-040fea6dbe86?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Woman working on a Lenovo ThinkPad laptop in an office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f60d56db-10ec-4282-9e83-56b660630ef1?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying vibrant visuals and display specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6c5c64d1-e684-4a94-ba9c-d7f3864d3d3d?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop ports and connection slots diagram."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88204bd8-8d17-4f2a-8616-393acd2f7d89?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open showing screen and security features."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 165U Processor (12 Cores, up to 4.90GHz)",
+        "14\" FHD+ (1920x1200) Touchscreen display",
+        "32GB RAM",
+        "4TB PCIe M.2 SSD",
+        "Windows 11 Pro",
+        "Wi-Fi 6 and Bluetooth connectivity",
+        "Backlit keyboard",
+        "Includes ADATA UC310 64GB USB Flash Drive"
+      ],
+      "colors": [
+        {
+          "hex": "#24262f",
+          "percentage": 0.2739
+        },
+        {
+          "hex": "#dccbc8",
+          "percentage": 0.1329
+        },
+        {
+          "hex": "#847b97",
+          "percentage": 0.13
+        },
+        {
+          "hex": "#0f0f13",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#556a97",
+          "percentage": 0.1168
+        },
+        {
+          "hex": "#a5a7c1",
+          "percentage": 0.1146
+        },
+        {
+          "hex": "#5d404b",
+          "percentage": 0.1028
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/OyvuDX2-LPzf-8tFxDf?o=01M4CR4GY5JFYG15HBD54JRHXF&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1589.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 6.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "4 TB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "txy3vdy",
+      "title": "Lenovo V15 Business Laptop",
+      "description": "The Lenovo V15 G4 is a professional business laptop designed for productivity. It features a 15.6-inch Full HD anti-glare display and is powered by a 13th Gen Intel Core i5-13420H 8-core processor with speeds up to 4.60GHz. This model comes equipped with 16GB of DDR4 RAM and a 512GB SSD for fast storage. It runs on Windows 11 Pro and includes Intel UHD Graphics, Wi-Fi 6, Bluetooth 5.2, and a variety of ports including USB-C, HDMI, and Ethernet. The laptop also features a 720p HD webcam with a privacy shutter and dual stereo speakers with Dolby Audio.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/da2a4dfe-62aa-4446-aa27-36e8a839fa19?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/da2a4dfe-62aa-4446-aa27-36e8a839fa19?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo V15 laptop displaying Windows 11 Pro and Intel Core i5 specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/efd6c630-3c47-40a9-a2d1-4588eb330a04?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing I/O ports on the side of the Lenovo laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/caa3f4f1-7251-4a7d-bfb8-2225e067ec48?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo V15 laptop displaying a colorful collaboration scene on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e0a1b4f-e5d5-4128-8be5-15a4a3c994c4?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5e0a1b4f-e5d5-4128-8be5-15a4a3c994c4?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo V15 laptop open showing blue abstract wallpaper and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7b2f3b94-5440-44b3-b6f6-8e531a75aaec?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo V15 laptop displaying blue abstract wallpaper on a dark background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" Full HD (1920x1080) Anti-Glare Display",
+        "13th Gen Intel Core i5-13420H 8-Core Processor",
+        "16GB DDR4 Memory",
+        "512GB SSD Storage",
+        "Intel UHD Graphics",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 6 and Bluetooth 5.2 connectivity",
+        "720p HD Webcam with privacy shutter",
+        "Integrated Numeric Keypad",
+        "Dolby Audio Stereo Speakers"
+      ],
+      "colors": [
+        {
+          "hex": "#686476",
+          "percentage": 0.1913
+        },
+        {
+          "hex": "#8b8295",
+          "percentage": 0.1378
+        },
+        {
+          "hex": "#2b3467",
+          "percentage": 0.1287
+        },
+        {
+          "hex": "#cad0db",
+          "percentage": 0.1277
+        },
+        {
+          "hex": "#1f1835",
+          "percentage": 0.1259
+        },
+        {
+          "hex": "#5cb2d6",
+          "percentage": 0.117
+        },
+        {
+          "hex": "#52466f",
+          "percentage": 0.0899
+        },
+        {
+          "hex": "#4c78a4",
+          "percentage": 0.0816
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/txy3vdy-LPzf-8tFxDf?o=01M4HRFF7JFS0ZR0FZYMPPA5QH&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 679.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.14,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.28,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.78,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.65,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "s0lGisq",
+      "title": "Lenovo ThinkPad T14s Gen 5 Business Laptop",
+      "description": "The Lenovo ThinkPad T14s Gen 5 is a high-performance business laptop featuring an Intel Core Ultra 7 165U processor with dedicated hardware acceleration for AI workloads. It comes equipped with a 14-inch FHD+ (1920x1200) touchscreen, 32GB of RAM, and a 2TB PCIe M.2 SSD for efficient multitasking and fast storage. Designed for professionals, it includes a backlit keyboard, Wi-Fi 6 connectivity, and runs on Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/440630ae-7d53-4dba-9c74-9c78e2e61e0f?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/440630ae-7d53-4dba-9c74-9c78e2e61e0f?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad T14s Gen 5 laptop with Windows 11 Pro branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/22eafef8-f1ee-40a5-bb8e-76baae7d9bd8?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop features: 180\u00b0 hinge, fingerprint reader, touchscreen, 4TB SSD."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/67f890b0-9b8b-4642-84ab-8ee93338ee82?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the Intel Core Ultra 7 165U processor chip."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4e73211e-3aef-4d88-a13e-1452fc060388?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Woman using a Lenovo laptop while working in an office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f208d152-cd0a-419d-9a6d-1394e25029f8?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing vibrant display quality and resolution."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f991f836-e620-472e-9d3f-d004ad566984?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "View of laptop ports and slots including USB and HDMI connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51936688-607b-4805-bf44-3e2f76ed7d7c?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop shown open with privacy shutter and fingerprint reader features."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 165U Processor",
+        "14\" FHD+ (1920x1200) Touchscreen",
+        "32GB RAM",
+        "2TB PCIe M.2 SSD",
+        "Windows 11 Pro",
+        "Wi-Fi 6 & Bluetooth",
+        "Backlit Keyboard",
+        "Integrated Intel Graphics"
+      ],
+      "colors": [
+        {
+          "hex": "#23232d",
+          "percentage": 0.2459
+        },
+        {
+          "hex": "#0e0c10",
+          "percentage": 0.1418
+        },
+        {
+          "hex": "#dfcecb",
+          "percentage": 0.1377
+        },
+        {
+          "hex": "#546997",
+          "percentage": 0.1228
+        },
+        {
+          "hex": "#483e45",
+          "percentage": 0.1226
+        },
+        {
+          "hex": "#847d98",
+          "percentage": 0.116
+        },
+        {
+          "hex": "#aaabc4",
+          "percentage": 0.1132
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/s0lGisq-LPzf-8tFxDf?o=01M4CMVK4ZFTK2KHZXW4X352BQ&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1689.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 17.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 3.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.8,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-capacity": [
+          "2 TB",
+          "4 TB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xMp1rDC",
+      "title": "Latitude 5440 14\" FHD Business Laptop",
+      "description": "Dell Latitude 5440 upgraded configuration featuring an Intel Core i7-1355U, 32GB RAM, 1TB SSD, Thunderbolt, RGB webcam, Windows 11 Pro, and a 14\" FHD display in a gray chassis. Designed for portable business productivity with MIL-STD-810H durability and ExpressCharge for extended use.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d99c992d-1349-432e-abf1-75ad1e72cb9b?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d99c992d-1349-432e-abf1-75ad1e72cb9b?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 5440 screen showing specs: i7, 16GB RAM, 512GB SSD."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f557a0c-cbec-4450-909b-ca5ffc91078d?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop screen displaying wireless connection details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/865852d2-8cc4-4e3f-b3cc-029cd6e882bf?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing built-in 1080p RGB webcam feature."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0ec3d2a-6180-43b1-a69f-636c2fbed1fd?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop side view emphasizing layered security."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af536d34-1e00-4dce-8202-0007649ae148?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Woman using Dell Latitude laptop for productivity."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ce9f176-b37f-4e4a-9f40-346850767a8c?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of I/O ports on the Dell Latitude laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bdd7a10c-a012-44b3-84e3-afedd1529a6f?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "People collaborating using Dell Latitude laptops in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d95e4990-75ec-47f6-934a-c9c6091b0622?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d95e4990-75ec-47f6-934a-c9c6091b0622?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop profile view."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Professional upgrade with brand-new components",
+        "PORTABLE POWER FOR PROFESSIONALS Dell Latitude 5440 designed for business use",
+        "POWERFUL PERFORMANCE Intel Core i7-1355U with Intel Graphics",
+        "CRISP DISPLAY 14\" FHD IPS Anti\u2011Glare",
+        "1 Year Seller Warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#111d39",
+          "percentage": 0.2545
+        },
+        {
+          "hex": "#1a315d",
+          "percentage": 0.1729
+        },
+        {
+          "hex": "#2d4e86",
+          "percentage": 0.1507
+        },
+        {
+          "hex": "#4c5057",
+          "percentage": 0.1283
+        },
+        {
+          "hex": "#687588",
+          "percentage": 0.1236
+        },
+        {
+          "hex": "#b9c3cd",
+          "percentage": 0.1039
+        },
+        {
+          "hex": "#2b364d",
+          "percentage": 0.0662
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xMp1rDC-p1PB-8tFxDf?o=01KXPJ5ZE0SMCN7PEK83M14N5R&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1049.99,
+            "compare_at_price": 1099.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-cores": [
+          "Multi"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "dGa6MGD",
+      "title": "16 Plus AI Ready Business Laptop",
+      "description": "A powerful 16-inch business laptop from Dell, featuring an FHD+ IPS touchscreen display with 300 nits brightness. It is powered by the Intel Core Ultra 9 288V processor with AI Boost NPU, 32GB of LPDDR5X RAM, and a 1TB PCIe NVMe SSD. This productivity-focused machine includes a backlit keyboard, Wi-Fi 7, Bluetooth 5.3, and runs on Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/16a3b7cd-abeb-44d8-a051-a01c5860560a?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/16a3b7cd-abeb-44d8-a051-a01c5860560a?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 inch laptop displaying Windows 11 Pro and Intel Core Ultra 7 specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/711ba485-fa7b-48ba-8375-576ee288f971?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Two Dell laptops open, displaying colorful abstract wallpapers."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/42688217-402c-4bae-b6ff-34d93b1d7fd4?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen displaying a dynamic action scene with a basketball player and a color palette graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/55bc56b7-e44d-4489-8cc0-cca56ceb0a11?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the keyboard and touchpad of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3663fe40-a94b-4cd1-ad92-d22caa303c69?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen displaying a dynamic action scene with a basketball player and a color palette graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8b5c5e8f-82e5-45ef-9199-d92f1e2b9727?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Ports and connectivity options on the side and back of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ac331dfb-804c-4710-9abb-7a9b2ffe2b8a?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 Plus AI Ready Business Laptop shown with dimensions and weight diagram."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16\" WUXGA (1920 x 1200) IPS Touchscreen",
+        "Intel Core Ultra 9 288V Processor with AI Boost NPU",
+        "32GB LPDDR5X RAM",
+        "1TB M.2 PCIe NVMe SSD",
+        "Intel Arc Graphics",
+        "Windows 11 Pro",
+        "Wi-Fi 7 and Bluetooth 5.3",
+        "Backlit Keyboard",
+        "1080p FHD camera"
+      ],
+      "colors": [
+        {
+          "hex": "#6e6f79",
+          "percentage": 0.1487
+        },
+        {
+          "hex": "#e6eef3",
+          "percentage": 0.1385
+        },
+        {
+          "hex": "#266289",
+          "percentage": 0.1326
+        },
+        {
+          "hex": "#b7bfc6",
+          "percentage": 0.1296
+        },
+        {
+          "hex": "#403432",
+          "percentage": 0.1242
+        },
+        {
+          "hex": "#182639",
+          "percentage": 0.1211
+        },
+        {
+          "hex": "#51b0ce",
+          "percentage": 0.106
+        },
+        {
+          "hex": "#608da4",
+          "percentage": 0.0993
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dGa6MGD-LPzf-8tFxDf?o=01M1TWRB96A6213RCHF5XYJVEQ&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.05,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.87,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.67,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.61,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "55m8f61",
+      "title": "Lenovo ThinkPad T14 Laptop",
+      "description": "The Lenovo ThinkPad T14 Gen 6 is a high-performance business laptop engineered for enterprise-grade productivity. It is powered by the Intel Core Ultra 7 255U processor and features built-in AI acceleration to enhance efficiency. This upgraded model comes with 32GB of DDR5 memory and a 1TB PCIe NVMe SSD for seamless multitasking. Its 14-inch WUXGA anti-glare display provides clear visuals, while the chassis is tested against MIL-STD-810H military-grade standards for extreme durability. Connectivity is extensive, including dual Thunderbolt 4 ports, HDMI 2.1, and Wi-Fi 6E. Designed for professionals, it also includes a 5MP IR webcam, fingerprint reader, and a backlit keyboard.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e90c019a-5e73-4b95-b252-b0f72954b43e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e90c019a-5e73-4b95-b252-b0f72954b43e?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T14 Gen 6 laptop displaying AI PC specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ee87d4ca-ed05-43b8-b0da-8ed36379ae0f?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop specs and configuration details on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/85248825-37e9-4d9e-a4f6-cd75878ab8f5?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/85248825-37e9-4d9e-a4f6-cd75878ab8f5?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying an aurora borealis background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8e24d763-d7fc-4d3e-8b3b-969577d7299a?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop features highlighting security and AI collaboration."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8accd1b4-1080-46c7-ac29-0d460ef7a6eb?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8accd1b4-1080-46c7-ac29-0d460ef7a6eb?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop display showing stereo audio and keyboard layout."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/75a85728-4653-4415-abe7-b47a779715d1?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/75a85728-4653-4415-abe7-b47a779715d1?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop showing battery and rapid charging capability."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5420b3c6-9495-465f-81a7-e2368ca98124?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop ports and connectivity options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f805d9ed-5865-43ab-8618-fadbbf20654d?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two construction workers collaborating over a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aded4484-7fa2-4f64-82fc-2aaaab2aa9e1?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aded4484-7fa2-4f64-82fc-2aaaab2aa9e1?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad T14 Gen 6 laptop viewed from the back."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 255U processor (up to 5.2GHz)",
+        "32GB DDR5 memory and 1TB PCIe NVMe SSD",
+        "14\" WUXGA (1920x1200) IPS Anti-glare display",
+        "MIL-STD-810H military-grade durability",
+        "Dual Thunderbolt 4 and HDMI 2.1 ports",
+        "5MP IR webcam with Windows Hello facial login",
+        "Built-in fingerprint reader and backlit keyboard",
+        "AI-powered Copilot integration"
+      ],
+      "colors": [
+        {
+          "hex": "#092554",
+          "percentage": 0.422
+        },
+        {
+          "hex": "#1c1c25",
+          "percentage": 0.2239
+        },
+        {
+          "hex": "#636d7e",
+          "percentage": 0.1373
+        },
+        {
+          "hex": "#b6c4c7",
+          "percentage": 0.1146
+        },
+        {
+          "hex": "#314362",
+          "percentage": 0.1021
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/55m8f61-p1PB-8tFxDf?o=01M1N3JW0CRQCFZ275X4YG8VS7&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1749.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Total Storage Capacity",
+            "values": [
+              {
+                "label": "1024GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/e90c019a-5e73-4b95-b252-b0f72954b43e",
+                "product_id": "55m8f61"
+              },
+              {
+                "label": "2048GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/7a9eb30b-3b10-4f3c-aa4b-cfaeead05613",
+                "product_id": "E8vnaAN"
+              }
+            ]
+          },
+          {
+            "name": "System Memory (RAM)",
+            "values": [
+              {
+                "label": "16GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/acb9e65a-da44-4f38-aafe-0322777a80ac",
+                "product_id": "ByPZm4V"
+              },
+              {
+                "label": "32GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/e90c019a-5e73-4b95-b252-b0f72954b43e",
+                "product_id": "55m8f61"
+              },
+              {
+                "label": "64GB",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/0a6bd615-7f14-4607-a812-aad1d3e5c94f",
+                "product_id": "nyOfXZp"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Total Storage Capacity",
+            "label": "1024GB"
+          },
+          {
+            "name": "System Memory (RAM)",
+            "label": "32GB"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "storage-drive-type-installed": [
+          "RAID",
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "Full HD"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "TPM (trusted platform module)"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "B8DnJxa",
+      "title": "HP 17 Business Laptop",
+      "description": "This HP 17 Business Laptop features a 17.3-inch HD+ anti-glare display and is powered by an Intel 8-core i3-N305 processor with a max boost clock of up to 3.8GHz. It comes equipped with 16GB of DDR4 RAM and a 512GB SSD for efficient multitasking and storage. Connectivity options include USB-C, USB-A, and HDMI 1.4b ports, along with Wi-Fi 6. The laptop runs on Microsoft Windows 11 Home and includes a 720p HD privacy camera.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f5299ac6-931a-42b0-9aec-7ff552722043?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f5299ac6-931a-42b0-9aec-7ff552722043?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP laptop with sunset landscape on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/da7416e8-0f1a-4d03-92e8-874b414b54da?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a polar bear in a sunset."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2650f9d2-a43f-4c9e-bd7a-3a3270421095?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a polar bear landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5bf20b5-21eb-47aa-8160-0c2ad78265f7?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop port details and connectivity specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4c1611b3-8050-4e06-99cd-d0745c928476?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4c1611b3-8050-4e06-99cd-d0745c928476?aid=01M66D8P6HTC1TS7RQXHAX6KH8&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP laptop viewed from the top angle."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel 8-core i3-N305 Processor (Max Boost Clock up to 3.8GHz, 6MB SmartCache, 8 Threads)",
+        "17.3\" HD+ (1600 x 900) Anti-Glare Display",
+        "16GB DDR4 RAM",
+        "512GB SSD",
+        "Integrated Intel UHD Graphics",
+        "2 x SuperSpeed USB-A, 1 x SuperSpeed USB-C, 1 x HDMI 1.4b",
+        "Microsoft Windows 11 Home",
+        "Wi-Fi 6",
+        "720p HD Privacy Camera",
+        "Fast Charging and Long-Lasting Battery"
+      ],
+      "colors": [
+        {
+          "hex": "#68696a",
+          "percentage": 0.192
+        },
+        {
+          "hex": "#e6ca8e",
+          "percentage": 0.1397
+        },
+        {
+          "hex": "#aba098",
+          "percentage": 0.1348
+        },
+        {
+          "hex": "#162528",
+          "percentage": 0.1333
+        },
+        {
+          "hex": "#203c3e",
+          "percentage": 0.1307
+        },
+        {
+          "hex": "#9eb7bf",
+          "percentage": 0.1108
+        },
+        {
+          "hex": "#5b8aa0",
+          "percentage": 0.0907
+        },
+        {
+          "hex": "#385f6a",
+          "percentage": 0.068
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/B8DnJxa-LPzf-8tFxDf?o=01M5KMMEVAPVNTQ9YZY7SB6Z9R&aid=01M66D8P6HTC1TS7RQXHAX6KH8",
+          "domain": "newegg.com",
+          "price": {
+            "price": 769.79,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "display-resolution": [
+          "1440 x 900"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel core i3"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjk1Y2FkYjQ0ZGZjMzU4OGYiLCAib2Zmc2V0IjogMjB9"
+}

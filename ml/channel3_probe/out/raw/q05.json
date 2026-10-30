@@ -1,0 +1,3787 @@
+{
+  "products": [
+    {
+      "id": "Ywu0iR6",
+      "title": "Dell Latitude 7450 14\" FHD+ AI Laptop \u2013 Ultra 5 135U vPro, 16 GB RAM, 512 GB SSD, Windows 11 Pro",
+      "description": "Buy Dell Latitude 7450 14\" FHD+ AI Laptop \u2013 Ultra 5 135U vPro, 16\u202fGB RAM, 512\u202fGB SSD, Windows\u00a011\u202fPro online with fast shipping and top-rated customer service. Mwave.com.au",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/63ede29e-6154-44ce-b573-596ef0f8e0aa?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop showing detailed specs on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/300fa048-4010-4a2b-98dd-02e0f138d52b?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop screen showing specs and AI graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e7af74e-3f87-44b9-b039-161b354f03c4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Comparison infographic of Dell Latitude laptop series features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b771e8d-b882-48da-a9da-cf4451ffadb5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1b771e8d-b882-48da-a9da-cf4451ffadb5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop viewed from the top showing keyboard and features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1fffab61-bbec-4b25-bb87-3124273ceec4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Ports layout diagram of the Dell Latitude laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2593f378-cdbd-48f7-afd5-effc3d130a8d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2593f378-cdbd-48f7-afd5-effc3d130a8d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Dimensions and weight of the Dell Latitude laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "Intel Core Ultra 5 135U vPro processor",
+        "16\u202fGB RAM",
+        "512\u202fGB PCIe Gen\u00a04 SSD",
+        "14\u2033 FHD+ (1920\u00d71200) IPS display",
+        "1080p FHD IR camera",
+        "Wi\u2011Fi\u00a07 BE200 2\u00d72 antenna",
+        "Dual Thunderbolt\u00a04 (DisplayPort) ports",
+        "Windows\u00a011\u202fPro",
+        "3\u2011year on\u2011site limited warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#020517",
+          "percentage": 0.3714
+        },
+        {
+          "hex": "#12213e",
+          "percentage": 0.2961
+        },
+        {
+          "hex": "#99a5af",
+          "percentage": 0.1261
+        },
+        {
+          "hex": "#4e596b",
+          "percentage": 0.114
+        },
+        {
+          "hex": "#2c3341",
+          "percentage": 0.0923
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Ywu0iR6-p1PB-8tFxDf?o=01KZSVMN1PY5WTECCP1G71XJNV&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1399.99,
+            "compare_at_price": 1799.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "RGB lighting",
+          "Touchscreen"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "processor-cores": [
+          "Hexadeca"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "rGxWVE7",
+      "title": "Dell Latitude 7450 14\" Touchscreen Laptop",
+      "description": "The Dell Latitude 7450 is a premium 14-inch commercial touchscreen laptop designed for professionals. It is powered by an Intel Core Ultra 7 165U processor and features 16GB of LPDDR5 RAM and a 512GB NVMe SSD for high-performance multitasking and fast data access. The device boasts a Full HD (1920 x 1080) resolution touchscreen, a backlit keyboard, and runs on Windows 11 Pro. Its lightweight design is complemented by a 57Wh lithium-ion battery and Wi-Fi 6E connectivity for reliable mobile productivity.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/335c2eb8-7985-4673-859f-7e3331d3b625?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver Dell Latitude laptop open and displaying a video conference on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9b4a973c-14f8-47ab-9a9b-da887708b0fb?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9b4a973c-14f8-47ab-9a9b-da887708b0fb?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of a silver Dell Latitude laptop open with a video conference on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04e3c3c7-eedf-400a-b1d1-da853e0bfa7f?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of a silver Dell Latitude laptop in tent mode displaying a video conference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2049f14c-ab30-4c0c-a117-f6eeb550489c?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "High-angle view of a silver Dell Latitude laptop folded flat, showing a video conference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/df6f9f04-23a0-461a-be47-7623ddc25b2d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LFnL",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lifestyle shot of a silver Dell Latitude laptop in tent mode with a black mouse next to it."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Intel Core Ultra 7 165U processor (1.7GHz base, 4.9GHz turbo)",
+        "14-inch FHD (1920 x 1080) touchscreen display",
+        "16GB LPDDR5 RAM",
+        "512GB NVMe SSD",
+        "Windows 11 Pro operating system",
+        "Backlit keyboard",
+        "Wi-Fi 6E connectivity",
+        "57Wh lithium-ion battery"
+      ],
+      "colors": [
+        {
+          "hex": "#031b13",
+          "percentage": 0.1375
+        },
+        {
+          "hex": "#b3afaf",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#31423b",
+          "percentage": 0.1289
+        },
+        {
+          "hex": "#637c74",
+          "percentage": 0.1272
+        },
+        {
+          "hex": "#e1e2e2",
+          "percentage": 0.1257
+        },
+        {
+          "hex": "#574f4b",
+          "percentage": 0.1208
+        },
+        {
+          "hex": "#998a84",
+          "percentage": 0.1174
+        },
+        {
+          "hex": "#262824",
+          "percentage": 0.1096
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/rGxWVE7-LFnL-8tFxDf?o=01M45PFHYC39RMW1Q633W8Z0DF&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "staples.com",
+          "price": {
+            "price": 1349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "ram": [
+          "16 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "i44YxKm",
+      "title": "Latitude 7450 Laptop",
+      "description": "This Dell Latitude 7450 ultralight laptop, upgraded by IST Computers, is designed for professionals on the go. It features a durable magnesium chassis, MIL-STD 810H military standard compliance, and weighs just 2.33 lbs. Powered by an Intel 12-Core Ultra 7 165U Processor with Intel graphics, it boasts 16GB of 6400 MT/s RAM for seamless multitasking and a 1TB PCIe NVMe M.2 SSD for fast storage. The 14\" QHD+ (2560 x 1600) Touchscreen IPS Anti-Glare display with ComfortView offers crisp visuals. Connectivity includes 2x Thunderbolt 4, 2x USB Type-A ports, HDMI 2.1, and an audio combo jack, plus Wi-Fi 7 and Bluetooth 5.4. Security is enhanced with a Fingerprint Reader, and a backlit keyboard ensures comfortable use in any lighting. Running Windows 11 Professional 64-bit with AI-powered Copilot, it's ideal for a variety of professional and educational tasks.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/eaf7f21a-d461-4834-b59d-9f1262279cac?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Dell Latitude 7450 14-inch laptop in blue with a touchscreen display."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "magnesium"
+      ],
+      "key_features": [
+        "Professionally upgraded with brand-new components",
+        "Intel 12-Core Ultra 7 165U Processor and Intel graphics",
+        "16GB 6400 MT/s RAM",
+        "1TB PCIe NVMe M.2 SSD",
+        "14\" QHD+ (2560 x 1600) Touchscreen IPS Anti-Glare display",
+        "HDR IR camera with Privacy Shutter",
+        "2x Thunderbolt 4, 2x USB Type-A ports, HDMI 2.1, Audio combo jack",
+        "Wi-Fi 7 and Bluetooth 5.4",
+        "Fingerprint Reader",
+        "Backlit keyboard"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/i44YxKm-p1PB-8tFxDf?o=01KXQ3G96BZQN3TF9BK72EVDF0&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 2.33,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "Quad HD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "a3BJ4Ht",
+      "title": "Dell Latitude 7450 14\" FHD+ 2-in-1 Touchscreen AI PC Laptop",
+      "description": "The Dell Latitude 7450 is a premium 14-inch 2-in-1 business laptop designed for mobility and enterprise-level reliability. This professionally upgraded model from IST Computers features an Intel Core Ultra 7 165U processor with built-in AI acceleration, 16GB of DDR5 memory, and a 512GB SSD. Its versatile 360\u00b0 hinge allows it to operate in Laptop, Yoga, Flip, and Tablet modes. The device is equipped with a 14\" FHD+ (1920 x 1200) touchscreen with an anti-reflection finish and 100% sRGB color coverage. Built to MIL-STD-810H military standards with an aluminum chassis, it includes modern connectivity such as Wi-Fi 7, Bluetooth 5.4, and Thunderbolt 4 ports, running Windows 11 Professional with AI-powered Copilot.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a0b1e3c9-401d-4efa-ad84-c0a63bb4bf79?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a0b1e3c9-401d-4efa-ad84-c0a63bb4bf79?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7450 14 inch laptop screen displaying AI graphics."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "360\u00b0 hinge for Laptop, Yoga, Flip, and Tablet modes",
+        "Intel Core Ultra 7 165U processor with AI acceleration",
+        "14\" FHD+ (1920 x 1200) touchscreen with 300 nits brightness",
+        "MIL-STD-810H military standard durability",
+        "Includes Wi-Fi 7 and Bluetooth 5.4",
+        "FHD HDR IR camera with privacy shutter and facial recognition",
+        "Two Thunderbolt 4 ports and two USB Type-A ports"
+      ],
+      "colors": [
+        {
+          "hex": "#080d1a",
+          "percentage": 0.5397
+        },
+        {
+          "hex": "#31313a",
+          "percentage": 0.1259
+        },
+        {
+          "hex": "#636a78",
+          "percentage": 0.1247
+        },
+        {
+          "hex": "#c3c8cd",
+          "percentage": 0.1202
+        },
+        {
+          "hex": "#11203b",
+          "percentage": 0.0895
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/a3BJ4Ht-p1PB-8tFxDf?o=01M4XHZHBKHYECFY2AJ13677QE&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1199.99,
+            "compare_at_price": 1399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-form": [
+          "Convertible"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "vkuEHc0",
+      "title": "Latitude 7455 Laptop",
+      "description": "The Dell Latitude 7455 is a premium 14-inch ultra-thin laptop designed for high performance and productivity. Featuring a Snapdragon X Elite processor and Copilot+ PC integration, it offers powerful on-device AI capabilities and exceptional battery life. The device is built with a sustainable chassis made from 50% recycled and 50% low carbon aluminum, and it features a vibrant QHD+ touch display, 32GB of LPDDR5X memory, and a 512GB SSD.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/19f32e14-36d4-45f9-bfb2-03848179f1f5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/8b782a29-4e21-4ca3-8157-401a03d554f4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver Latitude 7455 laptop on white background with blue screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b71c9ec5-9bb6-4dcc-bff2-011bf36158e4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop open showing code and 3D blue mountain visualization on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4eb96420-b58b-432a-bf98-7a87b3a3b779?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop open showing code and 3D blue mountain visualization on screen from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/97e68a0e-2a51-4937-b216-fd616cd67f3f?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the keyboard and palm rest area of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4c253e01-1202-4c45-9801-ce812ba13e27?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of silver Latitude laptop displaying blue artwork."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/adef4f3d-175a-4153-981d-320a24c78ee9?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of a silver Dell Latitude laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "Snapdragon X Elite X1E-80-100 Processor",
+        "Copilot+ PC with on-device AI",
+        "14\" Touch QHD+ Anti-Glare Display",
+        "32GB LPDDR5X Memory",
+        "512GB PCIe Gen4 NVMe SSD",
+        "50% Recycled and 50% Low Carbon Aluminum Chassis",
+        "Wi-Fi 7 and Bluetooth 5.4"
+      ],
+      "colors": [
+        {
+          "hex": "#1763ad",
+          "percentage": 0.1725
+        },
+        {
+          "hex": "#cceffd",
+          "percentage": 0.1608
+        },
+        {
+          "hex": "#6c9bb8",
+          "percentage": 0.1447
+        },
+        {
+          "hex": "#c5c8ca",
+          "percentage": 0.1356
+        },
+        {
+          "hex": "#1b3668",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#101f49",
+          "percentage": 0.1131
+        },
+        {
+          "hex": "#7ec0e1",
+          "percentage": 0.0702
+        },
+        {
+          "hex": "#59718b",
+          "percentage": 0.0701
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/vkuEHc0-Bteb-8tFxDf?o=01M1E7F1M13PZC4M6Q2P5W1XEZ&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "dell.com",
+          "price": {
+            "price": 3004.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 223.75,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 314.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 16.9,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 1.44,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Security/Slots",
+            "values": []
+          },
+          {
+            "name": "Wwan Sim",
+            "values": []
+          }
+        ],
+        "selected": [
+          {
+            "name": "Operating System",
+            "label": "Windows 11 Pro"
+          },
+          {
+            "name": "Processor",
+            "label": "Snapdragon X Plus X1P-64-100"
+          },
+          {
+            "name": "Storage",
+            "label": "512 GB M.2 2230 TLC PCIe Gen4 NVMe SSD"
+          },
+          {
+            "name": "Memory",
+            "label": "32 GB LPDDR5X"
+          },
+          {
+            "name": "Display",
+            "label": "14\" Touch QHD+ (2560x1600)"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "processor-family": [
+          "Qualcomm Snapdragon X Elite"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "memory-technology": [
+          "DDR"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "USB"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 171,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "8EhScAy",
+      "title": "Latitude 7490 Refurbished Laptop",
+      "description": "This refurbished Dell Latitude 7490 laptop is designed for managing daily tasks and browsing the internet. It features a 14-inch FHD LED display with a 1920 x 1080 resolution, powered by an 8th Gen Intel Core i7-8650U processor and 16GB of DDR4 SDRAM. Storage is handled by a 512GB Solid State Drive, offering faster and more durable performance than traditional hard drives. Connectivity options include Wireless-AX (802.11ax), Gigabit Ethernet, and three USB 3.1 ports. It also comes with a built-in HD webcam and microphone, and an HDMI port for external displays. The laptop runs on Windows 10 Pro and has a battery life of up to 4 hours. It is backed by a 90-day limited warranty from the refurbisher.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/bddc963a-d5c0-41a4-a404-fc8d0370c62e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell Latitude laptop displaying a cityscape background"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/477ff564-3975-4cf2-b083-dbef7ce85016?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop displaying a vibrant abstract light pattern"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c8de5dc9-8a0b-48a4-ad7a-1343165bf327?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop displaying a colorful abstract light pattern"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/901868d4-a170-4490-bb4a-f4f037d0886c?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7490 laptop open showing screen and keyboard"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/79b2da2d-e2f4-4e9d-a30e-bf056ba8e01d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black Dell Latitude laptop showing logo"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/76f75e59-ad97-49af-adfe-ea0049b1989b?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7490 laptop base and keyboard view"
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum",
+        "Plastic"
+      ],
+      "key_features": [
+        "14\" screen provides full-HD resolution for great image quality.",
+        "Powered by Intel Core i5-8350U processor.",
+        "16GB of memory is available. Expandable up to 32GB (additional memory sold separately).",
+        "256GB Solid State Drive offers space for your files.",
+        "Wireless-N (802.11a/b/g/n) technology provide cable-free Internet connection.",
+        "Gigabit Ethernet connection offers fast wired connectivity.",
+        "Memory card reader helps provide fast data sharing.",
+        "3 USB 3.1 ports and a USB Type-C port to allow connection of peripherals.",
+        "Built-in webcam for simple video chatting.",
+        "HDMI\u2122 and RJ-45 ports to connect a video source (cables sold separately)."
+      ],
+      "colors": [
+        {
+          "hex": "#343434",
+          "percentage": 0.4145
+        },
+        {
+          "hex": "#555555",
+          "percentage": 0.248
+        },
+        {
+          "hex": "#6e6e6e",
+          "percentage": 0.1435
+        },
+        {
+          "hex": "#b3b3b3",
+          "percentage": 0.106
+        },
+        {
+          "hex": "#1d1d1d",
+          "percentage": 0.088
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/8EhScAy-LPzf-8tFxDf?o=01M1QX5KR649CJ720DKQHFXQGY&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 265.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 13.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.5,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/8EhScAy-6Uzl-8tFxDf?o=01KBPDBVD6ZXRDZMD290MW84HY&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 347.59,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "optical-drive-type": [
+          "Super multi",
+          "Blu-ray disc",
+          "Blu-ray disc RE",
+          "CD-ROM",
+          "CD-RW",
+          "Combo",
+          "DVD+RW",
+          "DVD-ROM",
+          "DVD-RW"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-cores": [
+          "Multi",
+          "Quad",
+          "Octa",
+          "Dual"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified",
+          "Refurbished-excellent"
+        ],
+        "memory-technology": [
+          "DDR3",
+          "DDR",
+          "DDR4"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel core i5",
+          "Intel core i7"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "removable-storage-formats-supported": [
+          "SD",
+          "SDHC",
+          "SDXC"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ArXl5be",
+      "title": "Dell Latitude 5450 Laptop",
+      "description": "This Dell Latitude 5450 is an \"AI PC\" featuring a 14-inch FHD touchscreen, Intel Core Ultra 7 processor, 16GB DDR5 RAM, and a 512GB PCIe NVMe M.2 SSD. It is designed for professional mobility with a lightweight, durable chassis and up to 11 hours of battery life. The laptop includes a backlit keyboard, a privacy-focused FHD HDR IR webcam, and supports triple 4K external monitors. It runs Windows 11 Pro with AI-powered Copilot and offers versatile connectivity options including Thunderbolt 4, USB 3.2, Wi-Fi 6E, and Bluetooth 5.3. This is a professionally upgraded unit with a 1-year seller warranty from IST Computers.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/bdb0cfbd-3deb-4aec-a82b-e6e8470f3b9c?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Specifications of a Dell Latitude laptop computer."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f8a15ecf-e2a4-4cb5-88e2-94b699760899?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop showing performance marketing on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b98c06b7-acde-40c1-80bf-f46befba4ef8?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the Dell Latitude keyboard and Copilot Key."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20cc8a78-ca98-4321-8d4e-494d3b219dd5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop emphasizing layered security features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cfec6567-7853-4163-8db4-dcd1732a2b39?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using Dell laptop with built-in FHD HDR-IR webcam."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c4885ad-0610-4dd4-8766-40dec0538bd0?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using Dell laptop emphasizing 54Whr battery and ExpressCharge."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a1ecf7e0-2520-4d6d-ab2a-b7c5aa36d368?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "People collaborating with laptops in a modern office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3f8accb1-8c7a-4d9e-9c2e-6ba0bdc50cfe?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of I/O ports on the Dell Latitude laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "14\" Touchscreen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 11 Pro AI PC",
+        "Intel Core Ultra 7",
+        "MIL-STD 810H military durability standards",
+        "Backlit Keyboard",
+        "1 Year Seller Warranty",
+        "Intel Core Ultra 7 165U vPro Processor",
+        "32GB DDR5 Memory"
+      ],
+      "colors": [
+        {
+          "hex": "#fbfafa",
+          "percentage": 0.1583
+        },
+        {
+          "hex": "#461721",
+          "percentage": 0.1577
+        },
+        {
+          "hex": "#8c8d8f",
+          "percentage": 0.1543
+        },
+        {
+          "hex": "#d48a59",
+          "percentage": 0.1437
+        },
+        {
+          "hex": "#675d58",
+          "percentage": 0.1215
+        },
+        {
+          "hex": "#271a18",
+          "percentage": 0.1121
+        },
+        {
+          "hex": "#42403f",
+          "percentage": 0.1075
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ArXl5be-LPzf-8tFxDf?o=01M51MD7NS1A6X5WBB2CD2QXNM&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 629.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.09,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/ArXl5be-p1PB-8tFxDf?o=01KXW3PFZKJ28WAM3DVAC68BRJ&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1249.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "memory-technology": [
+          "DDR4",
+          "DDR5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable",
+          "Battery-powered"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "ram": [
+          "32 GB"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "fdWrJiE",
+      "title": "Dell 14\" Latitude 5450 Intel Core Ultra 7 155U Laptop - J56T1",
+      "description": "The Dell 14\" Latitude 5450 is a professional-grade laptop powered by the Intel Core Ultra 7 155U processor, designed for supercharged computing and AI-driven productivity. It features 16GB of DDR5 memory, a 256GB PCIe NVMe SSD, and a 14-inch FHD (1920x1080) anti-glare display. Built for the modern workforce, it includes a dedicated Copilot hardware key for quick AI access, advanced security features like Dell SafeID and SafeBIOS, and long-lasting battery life (54Wh). The laptop is equipped with high-speed connectivity including Wi-Fi 6E and a versatile port selection featuring Thunderbolt 4.0 USB-C and HDMI 2.1.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4b821025-22dc-4f9b-8338-80556198e9b7?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4b821025-22dc-4f9b-8338-80556198e9b7?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop with an orange display in a professional setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51bda192-09ae-4815-9194-4ae2189b226e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/51bda192-09ae-4815-9194-4ae2189b226e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop with an orange display from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5506ea5a-ea56-4f78-a093-76b4fdebc065?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5506ea5a-ea56-4f78-a093-76b4fdebc065?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop with an orange display angled view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6e42acd4-5364-4f90-98d6-a0736f994f6d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6e42acd4-5364-4f90-98d6-a0736f994f6d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop showing the keyboard and palm rest."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20494c8d-ba7d-47f0-a567-4fe698378c46?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/20494c8d-ba7d-47f0-a567-4fe698378c46?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop shown from above on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a8333bc3-4807-4e6e-8008-57891fdcfa9d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a8333bc3-4807-4e6e-8008-57891fdcfa9d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop shown open from an angle on a white background."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0504/3555/5511/files/1029360_7.jpg?v=1752734906",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop shown from the side profile."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7b21cae8-a09a-44e6-aa65-6de8c202c258?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7b21cae8-a09a-44e6-aa65-6de8c202c258?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop shown from the front on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e9afab6-5f24-4338-b26a-181fdccce9af?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman smiling while using a Dell laptop in a bright office."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0504/3555/5511/files/1029365_11.jpg?v=1752734906",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person typing on a Dell laptop in a home office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9585e58d-adef-4e6f-b4c7-6ad2c5fe3fcc?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Screenshot of Dell laptop settings and customization options."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 155U processor with dedicated NPU for AI acceleration",
+        "14.0\" FHD (1920x1080) anti-glare non-touch display",
+        "16GB DDR5 memory (upgradeable up to 64GB)",
+        "256GB M.2 PCIe NVMe SSD storage",
+        "Windows 11 Pro operating system",
+        "Dedicated Copilot hardware key for AI workflow integration",
+        "Advanced security with Dell SafeID, SafeBIOS, and TPM chip",
+        "Connectivity: Wi-Fi 6E, Bluetooth 5.3, Thunderbolt 4.0, HDMI 2.1",
+        "FHD HDR RGB Camera with privacy shutter",
+        "3-cell 54Wh battery with ExpressCharge"
+      ],
+      "colors": [
+        {
+          "hex": "#e88e47",
+          "percentage": 0.2323
+        },
+        {
+          "hex": "#461623",
+          "percentage": 0.1751
+        },
+        {
+          "hex": "#fcfbfa",
+          "percentage": 0.1721
+        },
+        {
+          "hex": "#5f534e",
+          "percentage": 0.1165
+        },
+        {
+          "hex": "#393837",
+          "percentage": 0.1133
+        },
+        {
+          "hex": "#301513",
+          "percentage": 0.088
+        },
+        {
+          "hex": "#ab8e7b",
+          "percentage": 0.075
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/fdWrJiE-p1PB-8tFxDf?o=01M4C1YXGT6W633298MCRS0SHJ&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1149.99,
+            "compare_at_price": 1699.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "BIOS security",
+          "TPM (trusted platform module)"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "AC-powered"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-cores": [
+          "Deca"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WniH9Oj",
+      "title": "Latitude 7480 Laptop",
+      "description": "This is a refurbished Dell Latitude 7480 business-class laptop featuring a 14-inch HD display. It is powered by an Intel Core i5 processor and equipped with 16GB of DDR4 SDRAM for multitasking. Storage is provided by a fast 512GB Solid State Drive (SSD). The laptop runs on Windows 10 Pro 64-bit, includes integrated graphics, a webcam, microphone, and supports Wireless A/B/G/N connectivity. It features three USB 3.0 ports and an HDMI port, and comes with a 1-year limited warranty from the refurbisher.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f42d0dde-65b7-4d06-a899-71da8fbcf5a5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f42d0dde-65b7-4d06-a899-71da8fbcf5a5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying desktop interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3e7c1cf3-7b29-482d-b366-3b48e93a59b6?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3e7c1cf3-7b29-482d-b366-3b48e93a59b6?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying multiple application windows."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c586a4ea-e651-4332-a105-84184d989c79?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c586a4ea-e651-4332-a105-84184d989c79?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying multiple application windows."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/69d8e3dd-e1d8-4ab7-b970-8e56b20613f8?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/69d8e3dd-e1d8-4ab7-b970-8e56b20613f8?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Latitude laptop shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/931322cd-5f46-49d1-89bb-4136ccd811eb?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/931322cd-5f46-49d1-89bb-4136ccd811eb?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Box packaging for the Dell Latitude laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/90fe25cb-3d14-4fe5-9b86-8fd2481f1065?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/90fe25cb-3d14-4fe5-9b86-8fd2481f1065?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Box packaging for the Dell Latitude laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e1a4ac74-0671-4672-9603-0dd652b29fbf?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e1a4ac74-0671-4672-9603-0dd652b29fbf?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying a rainbow abstract graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ee10a1c5-8e74-43bd-aadf-ce39cca16fed?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ee10a1c5-8e74-43bd-aadf-ce39cca16fed?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop open showing colorful wallpaper and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9f3d8d7a-5297-4186-a45f-897f3c39e8c6?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9f3d8d7a-5297-4186-a45f-897f3c39e8c6?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying a rainbow abstract graphic."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/608177ca-084a-49d0-91c1-2d53c37e1984?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/608177ca-084a-49d0-91c1-2d53c37e1984?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell laptop viewed from an angle showing hinge."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/25789a06-3617-43a9-b0f9-0541337d607a?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/25789a06-3617-43a9-b0f9-0541337d607a?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell Latitude laptop open showing keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88a2114e-18bd-441c-9a02-9d6a9c828728?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88a2114e-18bd-441c-9a02-9d6a9c828728?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the black Dell laptop chassis."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Magesium Alloy"
+      ],
+      "key_features": [
+        "14\" HD (1366 x 768) screen",
+        "Intel Core i5-7300U processor (2.6 GHz base, up to 3.5 GHz max turbo)",
+        "16GB DDR4 SDRAM memory",
+        "512GB Solid State Drive",
+        "Windows 10 Pro 64-bit operating system",
+        "Integrated webcam and microphone",
+        "Wireless A/B/G/N connectivity",
+        "3 USB 3.0 ports",
+        "HDMI port",
+        "Refurbished with 1-year limited warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#131517",
+          "percentage": 0.2083
+        },
+        {
+          "hex": "#5b8bd6",
+          "percentage": 0.1547
+        },
+        {
+          "hex": "#142244",
+          "percentage": 0.1317
+        },
+        {
+          "hex": "#2c4982",
+          "percentage": 0.1269
+        },
+        {
+          "hex": "#2b2c33",
+          "percentage": 0.1205
+        },
+        {
+          "hex": "#525259",
+          "percentage": 0.1166
+        },
+        {
+          "hex": "#87c8eb",
+          "percentage": 0.0962
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WniH9Oj-LPzf-8tFxDf?o=01M1T4KPGVW1TW8HC6AMSWZJZ5&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 221.67,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 13.03,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.72,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.99,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/WniH9Oj-BsaX-8tFxDf?o=01M383JGY0QHGSQ6SK5M2EN59A&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "walmart.com",
+          "price": {
+            "price": 1990.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "1366 x 768"
+        ],
+        "memory-technology": [
+          "DDR4",
+          "DDR3"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-good",
+          "Refurbished-certified"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "ram": [
+          "16 GB",
+          "8 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "optical-drive-type": [
+          "Super multi"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "HqXn9lJ",
+      "title": "Dell Latitude 7490 14-inch (2017) - Core i7 - Gen 8 (U) - 16 GB - SSD 256 GB",
+      "description": "The Dell Latitude 7490 is a professional-grade business laptop from 2017, designed for portability and reliability. This specific configuration features a 14-inch display, an Intel Core i7 8th Gen processor running at 1.9 GHz, 16 GB of RAM, and a 256 GB SSD. It runs on Windows 11 and is equipped with a full-HD resolution screen (1920 x 1080), making it ideal for productivity tasks such as document editing and video conferencing.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/de774897-0ad9-4f02-bd61-9f43964bdd2f?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7490 laptop on a desk in a modern office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d368738f-68c7-4745-8fb2-07bb5f8a81a2?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d368738f-68c7-4745-8fb2-07bb5f8a81a2?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view of laptop showing dimension markers."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/151c8d13-026e-4716-adf9-b750b5330cc4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/151c8d13-026e-4716-adf9-b750b5330cc4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the Dell Latitude 7490 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a3c3fb13-3e24-4b07-b626-9a86e008c33e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a3c3fb13-3e24-4b07-b626-9a86e008c33e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7490 laptop open displaying a waterfall image."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/00e15142-b53a-4e08-91d3-ff84f42859b8?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/00e15142-b53a-4e08-91d3-ff84f42859b8?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7490 laptop closed view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/848a150a-28f0-4a5d-9d78-7ec7a8069c07?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/848a150a-28f0-4a5d-9d78-7ec7a8069c07?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 7490 laptop displaying a waterfall wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e34c47fa-66da-4d39-bb53-4e1c6896f131?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e34c47fa-66da-4d39-bb53-4e1c6896f131?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Dell Latitude 7490 laptop box with Dell logo and UN 3481 compliance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/87b3d063-24a2-4f14-98b1-de396eb7b749?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/87b3d063-24a2-4f14-98b1-de396eb7b749?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Dell Latitude 7490 laptop box with large Dell logo and UN 3481 compliance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d099aca4-d3bc-4829-99af-ee45e5ea90cb?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d099aca4-d3bc-4829-99af-ee45e5ea90cb?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Dell Latitude 7490 laptop box with Dell logo and UN 3481 compliance."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14-inch LCD screen",
+        "8th generation Intel Core i7 (U series) processor",
+        "16 GB RAM",
+        "256 GB SSD storage",
+        "Windows 11 OS",
+        "Durable business-class chassis",
+        "USB-C and USB-A ports",
+        "HDMI port",
+        "Webcam and microphone included",
+        "Intel Core i7 processor at 1.9 GHz"
+      ],
+      "colors": [
+        {
+          "hex": "#5d5d5d",
+          "percentage": 0.2905
+        },
+        {
+          "hex": "#262626",
+          "percentage": 0.2476
+        },
+        {
+          "hex": "#3c3c3c",
+          "percentage": 0.2427
+        },
+        {
+          "hex": "#c5c5c5",
+          "percentage": 0.1313
+        },
+        {
+          "hex": "#848484",
+          "percentage": 0.0879
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/HqXn9lJ-n0yg-8tFxDf?o=01M37VZ6MZR1YY9S3XG8RDJ1T0&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 272.72,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/HqXn9lJ-LPzf-8tFxDf?o=01M1QYK43ED15WR84JCE1NRE5K&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 325.81,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock",
+          "Touchscreen"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified",
+          "Refurbished-good",
+          "Refurbished-fair"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": {
+        "value": 4.3,
+        "count": 232,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "7AOb8v6",
+      "title": "4-cell 56 Wh Lithium-Ion Replacement Battery",
+      "description": "This Dell 4-cell, 56 WH Lithium-Ion battery is a replacement for select Dell laptops, ensuring you can stay powered up on the go. It offers reliable performance and is designed for seamless integration with compatible Dell systems. The battery utilizes quality components and is a genuine Dell-branded part, meaning it won't void your system's hardware warranty.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/49df2942-2604-47e6-85e4-b04482b76802?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Dell 56Wh lithium battery specification label."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d467d076-81b2-4f29-b37c-178fa1c05dae?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 56Wh lithium battery shown from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptop-batteries",
+        "title": "Laptop Batteries",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "power",
+            "title": "Power"
+          },
+          {
+            "slug": "batteries",
+            "title": "Batteries"
+          },
+          {
+            "slug": "laptop-batteries",
+            "title": "Laptop Batteries"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Lithium-Ion"
+      ],
+      "key_features": [
+        "Provides 56WH capacity",
+        "Offers reliable power for dependable performance",
+        "Genuine Dell-branded parts undergo rigorous testing",
+        "Uses only OEM grade quality components",
+        "Will not void system's hardware warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#5c625c",
+          "percentage": 0.6986
+        },
+        {
+          "hex": "#b9c1be",
+          "percentage": 0.1208
+        },
+        {
+          "hex": "#828983",
+          "percentage": 0.1086
+        },
+        {
+          "hex": "#393c37",
+          "percentage": 0.0719
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/7AOb8v6-Bteb-8tFxDf?o=01KNVX5TP5QPT8GYD6C9QZD0Z2&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "dell.com",
+          "price": {
+            "price": 124.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "battery-size": [
+          "CR2477"
+        ],
+        "battery-features": [
+          "Battery life indicator"
+        ],
+        "battery-technology": [
+          "Lithium"
+        ],
+        "battery-type": [
+          "Rechargeable"
+        ]
+      },
+      "ratings": {
+        "value": 0.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "yX6iZUi",
+      "title": "6-Cell Lithium-Ion Replacement Battery",
+      "description": "Power your Dell laptop on the go with this 6-cell, 97 WHr Lithium-Ion replacement battery. Designed for reliability and long-lasting performance, it ensures seamless operation when you're away from a power source. Genuine Dell parts are rigorously tested for compatibility and quality.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b9ca7e2e-ba61-4c16-9285-829de38a5d11?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "View of a black Dell replacement battery with specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15679b80-48f4-4aa6-aa85-fd84c6157666?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/60238932-b885-42be-91bd-ed142f6adedd?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell replacement laptop battery shown from above."
+        }
+      ],
+      "category": {
+        "slug": "laptop-batteries",
+        "title": "Laptop Batteries",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "power",
+            "title": "Power"
+          },
+          {
+            "slug": "batteries",
+            "title": "Batteries"
+          },
+          {
+            "slug": "laptop-batteries",
+            "title": "Laptop Batteries"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Lithium-Ion"
+      ],
+      "key_features": [
+        "Provides 97WHr capacity",
+        "Offers reliable power for dependable performance",
+        "Genuine Dell-branded parts undergo rigorous testing by qualified engineers to ensure compatibility and reliability in your Dell system.",
+        "Our sustaining qualification process allows for testing and certification of the newest technology on your Dell system.",
+        "Dell uses only OEM grade quality components.",
+        "Genuine Dell-branded parts mean that you will not need to worry about voiding your system\u2019s hardware warranty.",
+        "Non-Dell parts are not covered and may void your system warranty.",
+        "Our experienced technical support staff is available to answer any questions regarding your genuine Dell-branded parts upgrade.",
+        "Parts purchased from other sources will not be supported by Dell.",
+        "Developed alternatives to lithium-ion batteries that rely on different minerals\u2014including less cobalt\u2014while still delivering the longevity, reliability and power density customers expect."
+      ],
+      "colors": [
+        {
+          "hex": "#61625e",
+          "percentage": 0.7941
+        },
+        {
+          "hex": "#353430",
+          "percentage": 0.1062
+        },
+        {
+          "hex": "#a5a9a7",
+          "percentage": 0.0998
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/yX6iZUi-Bteb-8tFxDf?o=01KNW6P0GY5R7BCPS7RMFM3YS0&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "dell.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "battery-size": [
+          "SR616SW"
+        ],
+        "battery-technology": [
+          "Lithium-ion (Li-ion)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xMp1rDC",
+      "title": "Latitude 5440 14\" FHD Business Laptop",
+      "description": "Dell Latitude 5440 upgraded configuration featuring an Intel Core i7-1355U, 32GB RAM, 1TB SSD, Thunderbolt, RGB webcam, Windows 11 Pro, and a 14\" FHD display in a gray chassis. Designed for portable business productivity with MIL-STD-810H durability and ExpressCharge for extended use.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d99c992d-1349-432e-abf1-75ad1e72cb9b?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d99c992d-1349-432e-abf1-75ad1e72cb9b?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude 5440 screen showing specs: i7, 16GB RAM, 512GB SSD."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f557a0c-cbec-4450-909b-ca5ffc91078d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop screen displaying wireless connection details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/865852d2-8cc4-4e3f-b3cc-029cd6e882bf?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing built-in 1080p RGB webcam feature."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0ec3d2a-6180-43b1-a69f-636c2fbed1fd?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop side view emphasizing layered security."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af536d34-1e00-4dce-8202-0007649ae148?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Woman using Dell Latitude laptop for productivity."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ce9f176-b37f-4e4a-9f40-346850767a8c?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of I/O ports on the Dell Latitude laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bdd7a10c-a012-44b3-84e3-afedd1529a6f?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "People collaborating using Dell Latitude laptops in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d95e4990-75ec-47f6-934a-c9c6091b0622?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d95e4990-75ec-47f6-934a-c9c6091b0622?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop profile view."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Professional upgrade with brand-new components",
+        "PORTABLE POWER FOR PROFESSIONALS Dell Latitude 5440 designed for business use",
+        "POWERFUL PERFORMANCE Intel Core i7-1355U with Intel Graphics",
+        "CRISP DISPLAY 14\" FHD IPS Anti\u2011Glare",
+        "1 Year Seller Warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#111d39",
+          "percentage": 0.2545
+        },
+        {
+          "hex": "#1a315d",
+          "percentage": 0.1729
+        },
+        {
+          "hex": "#2d4e86",
+          "percentage": 0.1507
+        },
+        {
+          "hex": "#4c5057",
+          "percentage": 0.1283
+        },
+        {
+          "hex": "#687588",
+          "percentage": 0.1236
+        },
+        {
+          "hex": "#b9c3cd",
+          "percentage": 0.1039
+        },
+        {
+          "hex": "#2b364d",
+          "percentage": 0.0662
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xMp1rDC-p1PB-8tFxDf?o=01KXPJ5ZE0SMCN7PEK83M14N5R&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1049.99,
+            "compare_at_price": 1099.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-cores": [
+          "Multi"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "3JuEURy",
+      "title": "Dell Latitude 3450 14\" Laptop, Intel Core i7-1355U, 16GB Memory, 512GB SSD, Windows 11 Pro",
+      "description": "This Dell Latitude 3450 business laptop is designed for dependable everyday use, combining long battery life with a durable build tested to MIL\u2011STD\u2011810H standards. It features intelligent audio technology to reduce background noise during virtual meetings and calls. Powered by an Intel Core i3-1315U processor with Intel Graphics, 32GB DDR5 memory, and a 1TB SSD, it delivers efficient and responsive performance for seamless multitasking and fast storage access. The 14\" FHD IPS Anti\u2011Glare display offers clear visuals, and it supports expanding the workspace with 2 external monitors up to 4K@60Hz. An FHD RGB IR camera with privacy shutter and facial recognition ensures crisp video calls. Connectivity options include USB-C, three USB-A ports, HDMI, Ethernet, and an audio combo jack. Wi-Fi 6E and Bluetooth 5.3 provide fast wireless performance. A backlit keyboard and built-in fingerprint reader enhance usability and security. The laptop runs on Windows 11 Professional 64\u2011bit with AI\u2011powered Copilot, offering advanced security and productivity features for modern business environments. This practical laptop is ideal for business users, office teams, and administrative staff needing a dependable device for hybrid work, meetings, and daily office tasks.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fac3fa7c-d3b7-4b31-866e-334154e64306?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Dell Latitude 3450 laptop with specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/186c08a6-1263-4e10-9106-999ec05db584?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specs list of Dell Latitude 3450 laptop with display, RAM, SSD, and OS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7b0240a2-7403-42f7-8db7-96d19c583cc0?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the Dell laptop keyboard and feature keys."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0722c230-4ac7-4a5b-a389-c42c36a3cb99?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen showing productivity features interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8519d9ef-5de9-4e6f-b6be-30e1e5e8288c?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a colorful, content-rich interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6d421ff7-3f4a-48c9-955e-5199ebbe2fd5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop profile showing layered security features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ecbdcafc-e03c-4b58-bcd7-c2dfb6dcb35a?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of the I/O ports on the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fd8bb0da-b0c1-4dee-97cd-76b99258d0df?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Woman using a Dell laptop while working."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14\" FHD (1920 x 1080) IPS Anti-Glare display",
+        "Intel Core i3-1315U processor with Intel Graphics",
+        "16GB DDR5 memory",
+        "1TB SSD storage",
+        "Backlit keyboard",
+        "Built-in fingerprint reader",
+        "FHD RGB IR camera with privacy shutter and facial recognition",
+        "MIL-STD-810H durability standards",
+        "Windows 11 Professional 64-bit with AI-powered Copilot",
+        "Connectivity: USB-C, 3x USB-A, HDMI, Ethernet, Wi-Fi 6E, Bluetooth 5.3"
+      ],
+      "colors": [
+        {
+          "hex": "#4e4d4d",
+          "percentage": 0.4599
+        },
+        {
+          "hex": "#736f70",
+          "percentage": 0.2843
+        },
+        {
+          "hex": "#2f2628",
+          "percentage": 0.1167
+        },
+        {
+          "hex": "#aea4a6",
+          "percentage": 0.0917
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3JuEURy-p1PB-8tFxDf?o=01KZSVT2AF9W6M1J62294VEZ16&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 869.99,
+            "compare_at_price": 1199.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel core i3"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "G2wLgGH",
+      "title": "Dell Latitude 5440 14\" FHD Laptop i7-1365U 16GB 256GB W11P - AULT5440712 | Mwave",
+      "description": "Buy Dell Latitude 5440 14\" FHD Laptop i7-1365U 16GB 256GB W11P - AULT5440712 online with fast shipping and top-rated customer service. Mwave.com.au",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c621e9ff-fcc7-477c-b0a8-ea0e9097e319?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop with vibrant purple and pink screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce1b32c6-ca47-4ba9-9a4b-d046fe032160?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ce1b32c6-ca47-4ba9-9a4b-d046fe032160?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop open showing keyboard and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3a120b9e-6acc-46b7-95ac-8ed79a76ed12?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3a120b9e-6acc-46b7-95ac-8ed79a76ed12?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop from a three-quarter angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/73504a47-b235-4626-946d-be6c01e84c08?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/73504a47-b235-4626-946d-be6c01e84c08?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop displaying a vibrant purple screen."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [],
+      "colors": [
+        {
+          "hex": "#753379",
+          "percentage": 0.3455
+        },
+        {
+          "hex": "#cca5cb",
+          "percentage": 0.1343
+        },
+        {
+          "hex": "#46334d",
+          "percentage": 0.1258
+        },
+        {
+          "hex": "#b076a9",
+          "percentage": 0.1095
+        },
+        {
+          "hex": "#a8559e",
+          "percentage": 0.1074
+        },
+        {
+          "hex": "#501f5a",
+          "percentage": 0.0934
+        },
+        {
+          "hex": "#624e6a",
+          "percentage": 0.0841
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/G2wLgGH-p1PB-8tFxDf?o=01M4ECC90Y6F0WP89G6J49EV5Z&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 729.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "fOQVYgn",
+      "title": "Dell 15 B\u00e4rbar Dator",
+      "description": "A sleek and lightweight 15-inch laptop designed for everyday productivity and entertainment. It features a modern design crafted from eco-friendly materials and is powered by Series 3 Intel Core processors. The device includes a 15.3-inch FHD+ anti-glare display, a numeric keypad with a Copilot key, and a variety of ports including HDMI 2.1 and USB 3.2.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1af4c8f1-4a02-472e-ba5e-799c22b772bc?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/fba29cea-6637-4d49-acc8-74cec09308f6?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of a dark blue Dell XPS laptop against a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a427de63-b120-4ccc-986a-4ae1388ceeb0?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/66ab057d-cc6a-42ed-a479-9a6145396b24?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Dell XPS laptop with a blue abstract wallpaper on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bf33c6d7-f359-45e9-85b8-b5296b7b99a4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman in grey hoodie using a Dell XPS laptop in a kitchen setting."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic Resin"
+      ],
+      "key_features": [
+        "15.3\" FHD+ Anti-Glare Non-Touch display",
+        "Series 3 Intel Core processors",
+        "Eco-friendly materials",
+        "Precision touchpad",
+        "HDMI 2.1 port",
+        "numeric keypad with Copilot key"
+      ],
+      "colors": [
+        {
+          "hex": "#1e2026",
+          "percentage": 0.2989
+        },
+        {
+          "hex": "#3484d5",
+          "percentage": 0.1769
+        },
+        {
+          "hex": "#464953",
+          "percentage": 0.158
+        },
+        {
+          "hex": "#cee9f7",
+          "percentage": 0.1536
+        },
+        {
+          "hex": "#99d3f4",
+          "percentage": 0.1192
+        },
+        {
+          "hex": "#7489a6",
+          "percentage": 0.0706
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/fOQVYgn-Bteb-8tFxDf?o=01M18CM8YD6V913PTW0TNKE6G6&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "dell.com",
+          "price": {
+            "price": 649.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 240.7,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 341.17,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 17.7,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 1.54,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Dark Blue"
+          },
+          {
+            "name": "Camera",
+            "label": "HD camera"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5",
+          "Intel Core Ultra 7",
+          "Intel Core Ultra 9",
+          "Intel xeon"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "ram": [
+          "8 GB",
+          "16 GB"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "display-technology": [
+          "LCD"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 104,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "MvI7QVH",
+      "title": "Latitude 5490 Refurbished Laptop",
+      "description": "This is a refurbished Dell Latitude 5490 laptop featuring a 14-inch screen with 1920x1080 resolution. It is powered by an Intel Core i5-8350U processor, comes with 16GB of DDR4 SDRAM, and uses a fast 256GB Solid State Drive for storage. The operating system is Windows 10 Pro 64-bit. Connectivity options include 802.11a/b/g/n wireless and USB 3.1 ports. It also includes a built-in webcam and integrated speakers, and offers up to 4 hours of battery life. The laptop is black and comes with a 1-year limited warranty from the refurbisher.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a9e3d1c8-9674-4357-a4f9-2692cf7781ab?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a9e3d1c8-9674-4357-a4f9-2692cf7781ab?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop displaying abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/90188c9c-1528-4c77-b4f3-9c520d32b90e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black Dell Latitude laptop keyboard and screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4c6a6b4d-675f-4693-9500-7bc47aba9141?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4c6a6b4d-675f-4693-9500-7bc47aba9141?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Cardboard box packaging for a Dell Latitude laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Refurbished",
+        "14\" screen provides beautiful picture quality and LED backlighting.",
+        "Powered by an Intel Core i7-8650U processor.",
+        "16GB of memory is available.",
+        "512GB solid state drive to offer a generous amount of storage space.",
+        "Wireless-N (802.11a/b/g/n) technology for convenient Internet connection.",
+        "Gigabit Ethernet connection offers fast wired connectivity.",
+        "Memory card reader for quick and easy file sharing.",
+        "3 USB 3.1 ports let you connect peripherals.",
+        "Webcam allows easy video chatting."
+      ],
+      "colors": [
+        {
+          "hex": "#45494f",
+          "percentage": 0.2553
+        },
+        {
+          "hex": "#e7c39b",
+          "percentage": 0.1487
+        },
+        {
+          "hex": "#69767d",
+          "percentage": 0.1392
+        },
+        {
+          "hex": "#605e60",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#7dafa5",
+          "percentage": 0.1173
+        },
+        {
+          "hex": "#2c2c2d",
+          "percentage": 0.1166
+        },
+        {
+          "hex": "#968880",
+          "percentage": 0.0919
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/MvI7QVH-LPzf-8tFxDf?o=01M5NPX7DFEK17N6BM7ZDMFSPG&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 342.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/MvI7QVH-6Uzl-8tFxDf?o=01KSS0PWESBRRAQDC3MT6NWXKS&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 557.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 13.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.9,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR3",
+          "DDR",
+          "DDR4"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED"
+        ],
+        "optical-drive-type": [
+          "Super multi"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified",
+          "Refurbished-good"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "pattern": [
+          "Abstract"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "VSTIkzR",
+      "title": "DELL Laptop Latitude 5420 DY0HX",
+      "description": "The DELL Latitude 5420 is a professional 14-inch business laptop designed for productivity and scalability. It is powered by an 11th Gen Intel Core i7-1185G7 processor, 16GB of memory, and a 512GB PCIe SSD. The device features a 14\" FHD (1920 x 1080) non-touch anti-glare display with ComfortView Plus to reduce blue light. Key business-centric features include ExpressSign-in with a proximity sensor and IR camera, a fingerprint reader integrated into the power button, and dual Thunderbolt 4 ports for high-speed connectivity and 4K display support. Built with sustainability in mind, the chassis incorporates 21% bioplastics from trees in the lid.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/267735a2-8266-4ba1-9f33-4601c2977e4d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/267735a2-8266-4ba1-9f33-4601c2977e4d?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop with screen displaying a blue water landscape next to a mirror image."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6428762c-f9cc-4f5d-9874-a29c95e1f22e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6428762c-f9cc-4f5d-9874-a29c95e1f22e?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop displayed with screen showing black and a dimension line marking 14.0 inches."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7b28fe63-4be2-4091-b64f-acc7204e14d4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7b28fe63-4be2-4091-b64f-acc7204e14d4?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop opened showing the keyboard and screen in a three-quarter view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d915d066-e3dc-4f91-b701-90adc0e20099?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d915d066-e3dc-4f91-b701-90adc0e20099?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver Dell Latitude laptop with the Dell logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/76c66286-f783-4033-932b-177acb99bde5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/76c66286-f783-4033-932b-177acb99bde5?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the silver laptop showing the rear panel and vents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/65562d42-2794-4694-aa1d-4de16dc663bd?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear port layout details of the laptop showing various connectivity options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/da4cae96-2d87-42a8-afee-6e332db40760?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Side view of a silver laptop showing USB-C ports and Thunderbolt 4 connections."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "bioplastics"
+      ],
+      "key_features": [
+        "Intel Core i7-1185G7 (11th Gen) processor",
+        "16GB RAM and 512GB PCIe NVMe SSD",
+        "14\" FHD (1920 x 1080) Anti-Glare Display",
+        "Intel Iris Xe Graphics",
+        "Windows 10 Pro 64-bit",
+        "Dual Thunderbolt 4 ports with Power Delivery and DisplayPort",
+        "Fingerprint reader and IR camera for Windows Hello",
+        "ExpressSign-in proximity sensor",
+        "Built with 21% bioplastics from trees in the lid"
+      ],
+      "colors": [
+        {
+          "hex": "#b0bdde",
+          "percentage": 0.2116
+        },
+        {
+          "hex": "#87adf9",
+          "percentage": 0.18
+        },
+        {
+          "hex": "#8f94a4",
+          "percentage": 0.1323
+        },
+        {
+          "hex": "#dbdee7",
+          "percentage": 0.1276
+        },
+        {
+          "hex": "#383a3d",
+          "percentage": 0.1267
+        },
+        {
+          "hex": "#686b73",
+          "percentage": 0.1203
+        },
+        {
+          "hex": "#6d98f0",
+          "percentage": 0.1015
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VSTIkzR-LPzf-8tFxDf?o=01M54B9ZFM3YH1SA4XK1X7JSQS&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1205.5,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 8.35,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.65,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.76,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.03,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "dWrWlpT",
+      "title": "Dell Latitude 5520 15.6\" Refurbished Laptop",
+      "description": "The Dell Latitude 5520 15\" is a refurbished business laptop featuring an Intel Core i5\u20111145G7 processor, 16 GB DDR4 RAM, a 256 GB SSD, a 15.6\u2011inch 1920\u00d71080 IPS display, Windows 11 Professional, and a 1050 Wh battery. It comes professionally inspected, 100 % functional, with a silver\u2011grey finish, and is supported by a 1\u2011year warranty from Back Market.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d569a485-6cc6-456b-962a-6a6320358337?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/0dfb64e4-0cf9-47dc-9f46-ac5c03ec96ff?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Latitude laptop displaying a colorful sunset scene on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a4a4c677-4ef7-4a56-ae48-3a7e1cf5200a?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/977d7317-b808-46f9-be1d-d8f95e9832c1?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell Latitude laptop viewed from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/94884e5c-3a0f-4172-9885-2785b06f59df?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/188db7ca-46d6-425f-bf17-4502e09fb3bd?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "View of the Dell Latitude laptop's thin profile and hinges."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core i5\u20111145G7 (2.6 GHz, 4\u2011core, 8 MB cache)",
+        "16 GB DDR4 memory",
+        "256 GB PCIe NVMe SSD",
+        "15.6\u2011inch 1920 \u00d7 1080 IPS display",
+        "Integrated Intel Iris Xe graphics",
+        "Windows 11 Professional",
+        "5.1 Wi\u2011Fi 6, Bluetooth 5.1",
+        "3\u2011port USB 3.0, 2\u2011port USB\u2011C, HDMI",
+        "Battery up to 8 h runtime",
+        "Refurbished, 100 % functional"
+      ],
+      "colors": [
+        {
+          "hex": "#110c09",
+          "percentage": 0.2513
+        },
+        {
+          "hex": "#636a79",
+          "percentage": 0.188
+        },
+        {
+          "hex": "#e2b8ab",
+          "percentage": 0.1532
+        },
+        {
+          "hex": "#282a29",
+          "percentage": 0.1474
+        },
+        {
+          "hex": "#94707d",
+          "percentage": 0.096
+        },
+        {
+          "hex": "#493f36",
+          "percentage": 0.0892
+        },
+        {
+          "hex": "#b78e91",
+          "percentage": 0.0748
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dWrWlpT-n0yg-8tFxDf?o=01KGAPBE9X2RR6PS3KQ8DCQTQN&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 231.07,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 3.5,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/dWrWlpT-LFnL-8tFxDf?o=01KMW0QZE4G9QYRTTGKMPVEQG1&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "staples.com",
+          "price": {
+            "price": 862.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook",
+          "Ultrabook"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "storage-capacity": [
+          "128 GB",
+          "2 TB",
+          "256 GB",
+          "1 TB",
+          "512 GB",
+          "8 GB"
+        ],
+        "processor-family": [
+          "Intel core i7",
+          "Intel core i5"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "ram": [
+          "8 GB",
+          "32 GB",
+          "64 GB",
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-fair",
+          "Refurbished-good",
+          "Refurbished-excellent",
+          "Refurbished-certified"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ]
+      },
+      "ratings": {
+        "value": 4.42,
+        "count": 80,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "T3khPGD",
+      "title": "Dell Latitude 5520 15.6\" Refurbished laptop",
+      "description": "This certified refurbished Dell Latitude 5520 business laptop features a 15.6-inch Full HD anti-glare display, powered by an 11th Gen Intel vPro Core i7-1185G7 Quad-Core processor and 32GB of DDR4 RAM for seamless multitasking. It includes a 512GB NVMe SSD for fast storage, Intel Iris Xe Graphics, and a full-size backlit keyboard with a numeric keypad. For enhanced connectivity, it offers Wi-Fi 6, Bluetooth 5.1, gigabit ethernet, two Thunderbolt 4 ports, and an HDMI 2.0 port. This silver laptop runs on Windows 11 Pro and comes with a 65W AC adapter. Ideal for professionals seeking a reliable and powerful computing solution.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0f3b3ef2-8355-4d83-98ad-b90750461b1b?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0f3b3ef2-8355-4d83-98ad-b90750461b1b?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying digital light trails."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/08d1d5cf-881a-411c-90d2-e38d794c7a89?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/08d1d5cf-881a-411c-90d2-e38d794c7a89?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing a blue and orange light streak."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3f40e874-39b9-4a9b-ac9e-c6932be5e7b7?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a silver Dell Latitude laptop chassis."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c45c40b0-8967-4213-aeac-b3f17df4e588?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c45c40b0-8967-4213-aeac-b3f17df4e588?aid=01M66D8FWFQEP6HN9T6M481K7P&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell Latitude laptop shown open from an angle."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "11th Gen Intel vPro Core i7-1185G7 Quad-Core processor",
+        "32GB DDR4 3200 MHz RAM",
+        "512GB NVMe Solid State Drive (SSD)",
+        "15.6-inch Full HD (1920 x 1080) anti-glare backlit display",
+        "Intel Iris Xe Graphics",
+        "Stereo speakers",
+        "Dual array microphone",
+        "High-definition audio",
+        "MaxxAudio Pro",
+        "Front HD Camera (1280 x 720) at 30 fps"
+      ],
+      "colors": [
+        {
+          "hex": "#032163",
+          "percentage": 0.2018
+        },
+        {
+          "hex": "#01125e",
+          "percentage": 0.1674
+        },
+        {
+          "hex": "#14497e",
+          "percentage": 0.1569
+        },
+        {
+          "hex": "#29283d",
+          "percentage": 0.1367
+        },
+        {
+          "hex": "#5e7094",
+          "percentage": 0.1165
+        },
+        {
+          "hex": "#584b5b",
+          "percentage": 0.1114
+        },
+        {
+          "hex": "#8cafc7",
+          "percentage": 0.1094
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/T3khPGD-LPzf-8tFxDf?o=01M4PY9CSXB8C38K92W93KQJZX&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "newegg.com",
+          "price": {
+            "price": 555.52,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/T3khPGD-LFnL-8tFxDf?o=01KMV03D2C2KJZW6QA15CA6TZ8&aid=01M66D8FWFQEP6HN9T6M481K7P",
+          "domain": "staples.com",
+          "price": {
+            "price": 609.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD",
+          "microSDHC"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD",
+          "SATA SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR4",
+          "DDR",
+          "DDR3"
+        ],
+        "processor-family": [
+          "Intel core i5",
+          "Intel core i7"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "SATA SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified",
+          "Refurbished-good"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ]
+      },
+      "ratings": {
+        "value": 4.38,
+        "count": 2,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjg0OTQ0ZjVhNDI2MWZhZGYiLCAib2Zmc2V0IjogMjB9"
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Expired intent mandate",
+    "arrange": {
+      "mandate_overrides": {
+        "expires_offset_s": -60
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "EXPIRED"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-001"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Mandate not yet valid",
+    "arrange": {
+      "mandate_overrides": {
+        "not_before_offset_s": 3600
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "NOT_YET_VALID"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-002"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Replay: nonce already used",
+    "arrange": {
+      "state": {
+        "nonce_used": true
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "NONCE_REUSED"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-003"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Revoked mandate",
+    "arrange": {
+      "mandate_overrides": {
+        "status": "revoked"
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "REVOKED"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-004"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Kill switch active",
+    "arrange": {
+      "state": {
+        "kill_switch": true
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "REVOKED",
+        "BREAKER_OPEN"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-005"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Payload edited after signing (cap raised to 5000)",
+    "arrange": {
+      "mandate_tamper": {
+        "constraints.max_unit_price": 5000
+      }
+    },
+    "act": {
+      "proposal": {
+        "unit_price": 3000.0,
+        "quote_price": 3000.0
+      }
+    },
+    "expect": {
+      "outcomes": [
+        "blocked"
+      ],
+      "rules_any": [
+        "SIGNATURE_INVALID"
+      ],
+      "must_not": [
+        "order_without_valid_mandate",
+        "order_over_policy"
+      ]
+    },
+    "id": "exp-006"
+  }
+]

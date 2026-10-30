@@ -1,0 +1,3852 @@
+{
+  "products": [
+    {
+      "id": "kRpasxA",
+      "title": "Lenovo ThinkPad P16 Gen 3 Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16 Gen 3 is a high-performance, ISV-certified mobile workstation designed for demanding professional software like AutoCAD and SolidWorks. It is powered by an Intel Core Ultra 7 255HX processor and an NVIDIA RTX PRO 3000 Blackwell 12GB GDDR7 GPU, making it ideal for AI development, 3D modeling, and GPU-intensive workloads. The 16-inch WQUXGA (3840x2400) IPS display features 800 nits brightness and 100% DCI-P3 color gamut for precise visual work. Built for durability to MIL-STD-810H standards, it includes 64GB DDR5 RAM, a 2TB SSD, and extensive connectivity including Thunderbolt 5 ports.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2a4713bc-9c95-4548-820c-6d550edcc874?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2a4713bc-9c95-4548-820c-6d550edcc874?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop display showing 4K content and professional workstation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bb3f7baf-a62e-4c2b-8435-c5c1ee11d856?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Thinkpad P16 Gen 3 laptop showing specs screen and exterior."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/90c352f4-5388-40d8-9ccf-b520a0243f73?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying vibrant display specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/158909d4-2a42-4a3b-a27e-5078b86fcd5d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/158909d4-2a42-4a3b-a27e-5078b86fcd5d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop showing the dedicated graphics card and professional setup screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a2ce9fde-83d9-433d-920b-cc58e474cce8?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop in a professional environment showing software certification."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8b7c73d-09fe-4683-831b-3d3bcbb938ae?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the I/O ports on the laptop sides."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6202b49c-aacc-4caa-b506-a4afd99a3c2d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6202b49c-aacc-4caa-b506-a4afd99a3c2d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up shot of the ThinkPad keyboard and features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b82d7b66-3af5-47d1-8ab2-fd0e021a2413?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b82d7b66-3af5-47d1-8ab2-fd0e021a2413?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop display showing multi-media and audio features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9a9fe8dc-c6ee-4054-88b9-ce8e61eadf0c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/0b5e9c35-61e7-44e4-9109-1f6e8889051c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop showing military-grade durability standards."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "ISV-certified for professional software (AutoCAD, SolidWorks, Creo, ANSYS, MATLAB)",
+        "Intel Core Ultra 7 255HX (20 cores, up to 5.2GHz)",
+        "NVIDIA RTX PRO 3000 Blackwell 12GB GDDR7",
+        "16\" WQUXGA (3840\u00d72400) IPS display with HDR 400 and 800 nits brightness",
+        "MIL-STD-810H durability certification",
+        "64GB DDR5 RAM and 2TB SSD",
+        "Dual Thunderbolt 5 ports",
+        "5MP RGB+IR camera with Windows Hello facial recognition",
+        "Backlit keyboard with number pad and fingerprint reader",
+        "Windows 11 Pro"
+      ],
+      "colors": [
+        {
+          "hex": "#282d32",
+          "percentage": 0.7603
+        },
+        {
+          "hex": "#565a61",
+          "percentage": 0.1336
+        },
+        {
+          "hex": "#adb6bd",
+          "percentage": 0.106
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kRpasxA-p1PB-8tFxDf?o=01M1N4EAMHB41CWSK43H7QAP06&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 4699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/kRpasxA-LPzf-8tFxDf?o=01M61G1VGGCGHXW8KBG5R3SSPX&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 4839.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "graphics-card-type": [
+          "Professional",
+          "Dedicated"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "JeGybcK",
+      "title": "Lenovo ThinkPad P16 Gen 3 21RQ001NUS 16\" Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16 Gen 3 is a high-performance, ISV-certified mobile workstation designed for professionals in engineering, architecture, and design. It is powered by an Intel Core Ultra 7 255HX processor and an NVIDIA RTX PRO 3000 Blackwell GPU with 12GB GDDR7, making it ideal for AI development, 3D modeling, and complex simulations. The laptop features a stunning 16-inch WQUXGA (3840x2400) IPS display with HDR 400 and 800 nits brightness, ensuring precision for media professionals. With 64GB of DDR5 RAM and a 2TB SSD, it handles heavy multitasking and massive datasets with ease. Connectivity is extensive, featuring Thunderbolt 5 and 4 ports, Wi-Fi 7, and Bluetooth 5.4, while security is reinforced with a fingerprint reader, privacy shutter, and Windows Hello facial recognition.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/12eaf530-a3e2-46d8-b901-a487461762d6?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "in_use",
+          "alt_text": "Laptop screen showing 3D rendering software with digital artwork displayed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5a18ce8a-5f7c-4ad5-a690-5920aa37196f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5a18ce8a-5f7c-4ad5-a690-5920aa37196f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top-down view of the black Lenovo ThinkPad P16 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b953ba60-22f1-4066-8876-cc775493005c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop screen showing 3D modeling software with architectural rendering."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e78725af-26eb-4418-82c6-806bade926a7?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop screen displaying architectural design software and 3D building visualization."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cd8e80a2-5e4e-446a-a396-f597fa555526?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 laptop shown from an angle on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04315755-6ff6-432d-b49d-f63ba7a4661c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/04315755-6ff6-432d-b49d-f63ba7a4661c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop keyboard and screen display showing 3D model."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "ISV-certified for professional software like AutoCAD, SolidWorks, Creo, ANSYS, and MATLAB",
+        "Powered by Intel Core Ultra 7 255HX (20 cores, up to 5.2GHz)",
+        "NVIDIA RTX PRO 3000 Blackwell 12GB GDDR7 graphics",
+        "16\" WQUXGA (3840x2400) IPS display with HDR 400, 100% DCI-P3, and 800 nits brightness",
+        "64GB DDR5 RAM and 2TB SSD storage",
+        "Connectivity: 2 x Thunderbolt 5, Thunderbolt 4, HDMI 2.1, Intel Wi-Fi 7, and Bluetooth 5.4",
+        "Security: 5MP RGB+IR camera with Windows Hello, fingerprint reader, and privacy shutter",
+        "MIL-STD durability for reliable performance in professional environments"
+      ],
+      "colors": [
+        {
+          "hex": "#383838",
+          "percentage": 0.902
+        },
+        {
+          "hex": "#1f1f1f",
+          "percentage": 0.098
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/JeGybcK-LPzf-8tFxDf?o=01M568Q7AWQ19EJB37XGDS1K18&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 4839.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/JeGybcK-p1PB-8tFxDf?o=01M4CR08CJ9445M343J7DWBT6K&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 5999.99,
+            "compare_at_price": 6772.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "graphics-card-type": [
+          "Professional",
+          "Dedicated"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ]
+      },
+      "ratings": {
+        "value": 3.8,
+        "count": 5,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "7HO0Y0J",
+      "title": "Lenovo ThinkPad P16 Gen 3 16\" Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16 Gen 3 is a high-performance 16-inch mobile workstation engineered for professional creators, engineers, developers, and data scientists. Powered by the Intel Core Ultra 7 265HX processor and featuring the NVIDIA RTX PRO 4000 Blackwell GPU with 16GB of video memory, it delivers desktop-level power for demanding AI development, CAD, and BIM workloads. This Gen 3 model features a thinner and lighter design than its predecessors, while maintaining robust connectivity with Wi-Fi 7 and a wide array of professional ports. It comes equipped with 32GB of memory, a 1TB SSD, a high-resolution WQUXGA display, and Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/42528012-c2e6-4061-a662-890ca7793935?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 laptop with blue abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8749c46f-971d-4205-822b-480f12c5b8dd?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8749c46f-971d-4205-822b-480f12c5b8dd?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop's bottom exhaust vent."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2448916a-3260-4477-9c47-08634de5d3dc?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a laptop with an external monitor at a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e5a307fd-7a16-4a89-b817-a92f142f104f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 laptop open with a red car image."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/58d7539d-8601-4a80-a173-e44a0a66d019?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop screen showing 3D design software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/920b8fba-44e9-464d-8331-bd201edce3d8?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/920b8fba-44e9-464d-8331-bd201edce3d8?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 laptop closed, viewed from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7dd37450-8f94-4e3b-bb3e-48d54698dbdf?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a laptop at a desk with an external monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/83b975ed-6b30-44b2-94df-b549926908f3?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/83b975ed-6b30-44b2-94df-b549926908f3?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 laptop with abstract digital art on screen."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 265HX Processor",
+        "NVIDIA RTX PRO 4000 Blackwell (16GB)",
+        "16\" WQUXGA Non-Touch Screen",
+        "32GB RAM",
+        "1TB SSD",
+        "Wi-Fi 7 and Bluetooth connectivity",
+        "Windows 11 Pro Operating System",
+        "ISV-certified for apps like AutoCAD, SOLIDWORKS, and ANSYS"
+      ],
+      "colors": [
+        {
+          "hex": "#252c2d",
+          "percentage": 0.2343
+        },
+        {
+          "hex": "#06101c",
+          "percentage": 0.2317
+        },
+        {
+          "hex": "#1d2a42",
+          "percentage": 0.1886
+        },
+        {
+          "hex": "#384359",
+          "percentage": 0.1431
+        },
+        {
+          "hex": "#506c9d",
+          "percentage": 0.1144
+        },
+        {
+          "hex": "#081737",
+          "percentage": 0.0879
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/7HO0Y0J-LPzf-8tFxDf?o=01M568H5SGZN0Z7R4MRJ993Z0W&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 4041.87,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "graphics-card-type": [
+          "Professional"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "32 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WSvNwGD",
+      "title": "Lenovo ThinkPad P16 Gen 3 16\" Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16 Gen 3 (21RQ0018US) is a high-performance 16-inch mobile workstation designed for professional creators, engineers, and data scientists. It is powered by an Intel Core Ultra 7 255HX processor, 32GB of memory, and a 1TB SSD. For intensive graphical workloads, it features a dedicated NVIDIA RTX PRO 2000 Blackwell GPU with 8GB of VRAM. The device includes a 16-inch WUXGA (1920 x 1200) non-touch display with anti-glare and Low Blue Light technology. Connectivity is future-proofed with Wi-Fi 7 and Bluetooth, while a 5MP webcam and dual array microphones support professional collaboration. Running Windows 11 Pro, it is ISV-certified for critical software like AutoCAD and SOLIDWORKS.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5631181d-3cc0-4d57-b9f0-bf40a9886054?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 with blue abstract wallpaper on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3f19d7b4-2276-4d47-a784-f02c8985e85b?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3f19d7b4-2276-4d47-a784-f02c8985e85b?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the rear panel of a black laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/82398014-2a4e-43b4-b69a-44cb21aca0e8?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop screen showing 3D rendering in video editing software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c3e056b3-d613-42f6-9632-5fc5ed532564?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c3e056b3-d613-42f6-9632-5fc5ed532564?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of the closed black Lenovo ThinkPad laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/59c7e066-1732-484d-abe9-2d15b5780981?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen displaying a car design rendering on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b3b9f324-1b0f-41ad-8065-2a33f2ec7483?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b3b9f324-1b0f-41ad-8065-2a33f2ec7483?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad laptop open showing keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d3f2ddc1-b792-49ba-adf6-69915570c0de?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d3f2ddc1-b792-49ba-adf6-69915570c0de?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop exhaust vents on the bottom chassis."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal chassis"
+      ],
+      "key_features": [
+        "Intel Core Ultra 7 255HX processor",
+        "NVIDIA RTX PRO 2000 Blackwell 8GB GPU",
+        "16-inch WUXGA (1920 x 1200) display",
+        "32GB RAM and 1TB SSD",
+        "Wi-Fi 7 and Bluetooth connectivity",
+        "5MP Webcam",
+        "ISV-certified for CAD, BIM, and creative apps",
+        "Windows 11 Pro"
+      ],
+      "colors": [
+        {
+          "hex": "#212729",
+          "percentage": 0.3227
+        },
+        {
+          "hex": "#2f3b53",
+          "percentage": 0.2233
+        },
+        {
+          "hex": "#091935",
+          "percentage": 0.1946
+        },
+        {
+          "hex": "#030d1a",
+          "percentage": 0.1464
+        },
+        {
+          "hex": "#516d9f",
+          "percentage": 0.113
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WSvNwGD-LPzf-8tFxDf?o=01M569BJ8GSE950WFA83TNXSH7&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 4086.64,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "graphics-card-type": [
+          "Professional"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "FKfByUw",
+      "title": "ThinkPad P16 Gen 3 Mobile Workstation",
+      "description": "This professional 16-inch Lenovo ThinkPad P16 Gen 3 mobile workstation is designed for demanding tasks, featuring a WUXGA display, a powerful Intel Core Ultra 7 255HX processor, 32 GB of RAM, and a 512 GB SSD for fast storage. It comes in a sleek matte black finish and includes a full-size keyboard with a numeric keypad. This model is equipped with an NVIDIA RTX PRO 1000 Blackwell 8 GB graphics card and supports Wi-Fi 7 connectivity, making it ideal for professionals on the go.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5a0e5362-7973-4336-8b11-0bd77f24ce25?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5a0e5362-7973-4336-8b11-0bd77f24ce25?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkpad P16 Gen 3 laptop with blue wallpaper on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/75fe27a7-cc9a-4f3e-b9c6-96832d5b6115?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/75fe27a7-cc9a-4f3e-b9c6-96832d5b6115?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the rear exhaust vents on the bottom of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ee4eb3e-2c1e-4bfc-bf94-41e095b10557?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing a desktop view of a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b1c6e80c-5ebf-4cfe-9ed3-056c14b078b2?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b1c6e80c-5ebf-4cfe-9ed3-056c14b078b2?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkpad laptop closed with keyboard visible."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e2a8da1-43d8-4973-834a-8764f8183b09?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5e2a8da1-43d8-4973-834a-8764f8183b09?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear panel of the laptop showing ventilation grilles."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/66d9f5de-a445-439e-a09f-b3be33e17a1f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Open Lenovo Thinkpad laptop showing keyboard with RGB lighting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/45a60caf-0934-4939-a2eb-bbd639fc9fe5?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/45a60caf-0934-4939-a2eb-bbd639fc9fe5?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkpad laptop open with blue abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f33bcc05-7961-45f1-b5dc-d86e8bbdb87c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f33bcc05-7961-45f1-b5dc-d86e8bbdb87c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop base section."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f2ded031-1e6d-45fb-ab4c-42fdf41a6822?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f2ded031-1e6d-45fb-ab4c-42fdf41a6822?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkpad laptop closed for presentation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e83de46e-42f1-47f7-9197-c0bb7879b9fa?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e83de46e-42f1-47f7-9197-c0bb7879b9fa?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkpad laptop open with blue abstract wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16.0 inches Screen Size",
+        "1920 x 1200 (WUXGA) Screen Resolution",
+        "No Touch Screen",
+        "Intel Processor N150 Processor Model",
+        "SSD Storage Type",
+        "512GB Total Storage Capacity",
+        "Intel Core Ultra 7 265HX Processor with vPro Technology",
+        "32 GB RAM",
+        "1 TB SSD Storage",
+        "Windows 11 Pro"
+      ],
+      "colors": [
+        {
+          "hex": "#08111d",
+          "percentage": 0.238
+        },
+        {
+          "hex": "#272c2e",
+          "percentage": 0.2065
+        },
+        {
+          "hex": "#1d2a43",
+          "percentage": 0.2021
+        },
+        {
+          "hex": "#3a445b",
+          "percentage": 0.1465
+        },
+        {
+          "hex": "#5470a1",
+          "percentage": 0.1101
+        },
+        {
+          "hex": "#081636",
+          "percentage": 0.0969
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/FKfByUw-p1PB-8tFxDf?o=01KY030DGGV4YXE0EV9RZC08AR&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 3796.49,
+            "compare_at_price": 4814.07,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-specialized-features": [
+          "Remote management"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "CJFUqFL",
+      "title": "Lenovo ThinkPad P16 Gen 3 Mobil Workstation",
+      "description": "The Lenovo ThinkPad P16 Gen 3 is a high-performance mobile workstation designed for professional data and design projects. It is powered by an Intel Core Ultra 7-255HX processor with 20 cores (up to 5.2 GHz) and 192 GB of DDR5 RAM, paired with an NVIDIA RTX Pro 2000 GPU with 8GB GDDR7 memory. The laptop features a 16-inch WQUXGA (3840x2400) IPS anti-glare display with 800 nits brightness and 100% DCI-P3 color gamut. Other professional features include a backlit keyboard with number pad, a fingerprint reader, a 5MP RGB+IR camera with privacy shutter, and a high-capacity 99.9Whr battery. This bundle includes a Traix Mousepad.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dc5a104d-f18d-4c30-b51b-a32bf1d905db?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc5a104d-f18d-4c30-b51b-a32bf1d905db?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of Lenovo ThinkPad P16 with mousepad."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a5f63969-9384-48d1-85d6-8fcdbbe482f4?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing Intel Core Ultra 7-255HX processor specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b6e1eda6-9035-4cb1-ae0c-d2ef441e09d7?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b6e1eda6-9035-4cb1-ae0c-d2ef441e09d7?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the open Lenovo ThinkPad P16 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9c963227-b406-4deb-9c73-169b21d67520?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the ports on the side of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ba7185a-1123-4df8-80ab-7d08a9565278?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0ba7185a-1123-4df8-80ab-7d08a9565278?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the open Lenovo ThinkPad P16 laptop display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/57313227-51dd-45e9-8346-3cfa3e66f2e3?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/57313227-51dd-45e9-8346-3cfa3e66f2e3?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the open Lenovo ThinkPad P16 laptop with screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4738f5d-c599-422e-80af-309e3d5ca719?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c4738f5d-c599-422e-80af-309e3d5ca719?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a black Lenovo ThinkPad P16 workstation."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7-255HX processor (20 cores, up to 5.2 GHz)",
+        "NVIDIA RTX Pro 2000 Blackwell GPU with 8GB GDDR7 memory",
+        "16-inch WQUXGA (3840x2400) IPS panel, 800 nits, 100% DCI-P3",
+        "192 GB DDR5 RAM",
+        "2 TB PCIe SSD",
+        "Windows 11 Pro 64",
+        "Backlit keyboard with number pad and fingerprint reader",
+        "5MP RGB and IR camera with privacy shutter",
+        "Intel Wi-Fi 7 and Bluetooth 5.4",
+        "99.9Whr high-capacity battery"
+      ],
+      "colors": [
+        {
+          "hex": "#3e434c",
+          "percentage": 0.2577
+        },
+        {
+          "hex": "#a5b3cb",
+          "percentage": 0.1381
+        },
+        {
+          "hex": "#737c9b",
+          "percentage": 0.1327
+        },
+        {
+          "hex": "#1f2328",
+          "percentage": 0.1317
+        },
+        {
+          "hex": "#ddd6e5",
+          "percentage": 0.1186
+        },
+        {
+          "hex": "#b288ab",
+          "percentage": 0.1162
+        },
+        {
+          "hex": "#6a5973",
+          "percentage": 0.1049
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CJFUqFL-LPzf-8tFxDf?o=01M61DXSA869TRJVH2YAPSEGPM&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 3549.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.25,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.92,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.62,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "graphics-card-type": [
+          "Professional"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "192 GB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5",
+          "GDDR6"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "2fjxMvT",
+      "title": "ThinkPad P16v Gen 2 16\" WUXGA Mobile Workstation",
+      "description": "This is a high-performance mobile workstation designed for demanding professional workflows. It features an Intel Core Ultra 9-185H processor, 32GB of RAM for seamless multitasking, and a speedy 1TB SSD for storage. Graphics capabilities are handled by the NVIDIA RTX 3000 Ada 8GB card, powering visuals on the 16-inch WUXGA display. Built for security and reliability with Windows 11 Pro, this sleek black laptop also boasts an advanced cooling system and features recycled materials in its construction.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2fjxMvT?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=T9Fg",
+          "cleaned_url": "https://www.adorama.com/images/Large/LE21KX002GUS.jpg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black laptop with colorful display and Lenovo logo"
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "magnesium",
+        "aluminum"
+      ],
+      "key_features": [
+        "Experience peak performance with the Intel Core Ultra 9 processor in this Lenovo notebook.",
+        "The NVIDIA RTX 3000 Ada graphics card delivers stunning visuals on the 16\" WUXGA display.",
+        "Enjoy ample storage with the 1TB SSD, perfect for large files and demanding applications.",
+        "Stay productive on the go with the lightweight design and long-lasting battery of this laptop.",
+        "The ThinkPad's robust security features keep your data safe, including a TPM 2.0 chip.",
+        "Multitask seamlessly with 32GB RAM, ensuring smooth performance for all your tasks."
+      ],
+      "colors": [
+        {
+          "hex": "#0d040f",
+          "percentage": 0.2092
+        },
+        {
+          "hex": "#2b2a2e",
+          "percentage": 0.1622
+        },
+        {
+          "hex": "#231926",
+          "percentage": 0.1619
+        },
+        {
+          "hex": "#4e3751",
+          "percentage": 0.1408
+        },
+        {
+          "hex": "#917d9f",
+          "percentage": 0.1243
+        },
+        {
+          "hex": "#5a4c5f",
+          "percentage": 0.1196
+        },
+        {
+          "hex": "#4c0e36",
+          "percentage": 0.0821
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2fjxMvT-T9Fg-8tFxDf?o=01KC9HFV17J1GFYR40591HMHC0&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "adorama.com",
+          "price": {
+            "price": 3599.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "IvuOcEC",
+      "title": "ThinkPad P16s Gen 3 Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16s Gen 3 is a high-performance mobile workstation designed for demanding professionals like architects and engineers. It features an Intel Core Ultra 7-155H processor and 16GB of RAM for smooth multitasking, complemented by an NVIDIA RTX 500 Ada 4GB graphics card for complex visual workloads. Storage is handled by a fast 512GB SSD. This model boasts a 16-inch WUXGA anti-glare touchscreen display with low blue light certification for visual comfort during long hours. Security is robust, including ThinkShield, dTPM, a fingerprint scanner, and facial recognition. Built to MIL-STD-810H durability standards, it runs on Windows 11 Pro and incorporates sustainable design elements like recycled materials and plastic-free packaging.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/IvuOcEC?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": null,
+          "alt_text": null
+        },
+        {
+          "url": "https://www.adorama.com/images/Large/LE21KS0023US.jpg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black laptop with colorful display"
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "16-inch touchscreen",
+        "mobile workstation",
+        "Intel Core Ultra 7 155H",
+        "32 GB RAM",
+        "1 TB SSD",
+        "Windows 11 Pro",
+        "NVIDIA RTX 500 Ada Generation with 4 GB",
+        "WUXGA display (1920 x 1200)",
+        "In-plane Switching (IPS) Technology, Eyesafe",
+        "Front Camera/Webcam"
+      ],
+      "colors": [
+        {
+          "hex": "#0f0a14",
+          "percentage": 0.6076
+        },
+        {
+          "hex": "#786191",
+          "percentage": 0.1198
+        },
+        {
+          "hex": "#422b50",
+          "percentage": 0.113
+        },
+        {
+          "hex": "#2e031e",
+          "percentage": 0.0847
+        },
+        {
+          "hex": "#3c153e",
+          "percentage": 0.0748
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/IvuOcEC-T9Fg-8tFxDf?o=01KC9HXYP52ANDMDHHJP5TQVTN&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "adorama.com",
+          "price": {
+            "price": 1699.99,
+            "compare_at_price": 1749.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "Full HD"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "processor-cores": [
+          "Multi"
+        ]
+      },
+      "ratings": {
+        "value": 4.69,
+        "count": 88,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "VgWeQGB",
+      "title": "Lenovo ThinkPad P16s Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16s is a powerful mobile workstation designed for professional workloads. It features a 16-inch 4K OLED touchscreen display, powered by an AMD Ryzen AI 7 350 processor and AMD Radeon 860M integrated graphics. With 32GB of DDR5 RAM and a 1TB PCIe NVMe SSD, it provides high performance and ample storage. This black chassis laptop includes professional features such as a backlit keyboard, fingerprint reader, Windows 11 Pro, and multiple connectivity options including Thunderbolt 4 and HDMI.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9ead69f6-06fb-4731-9481-6873b8e12d00?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9ead69f6-06fb-4731-9481-6873b8e12d00?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s laptop displaying system specs and a scenic background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c8e6595-d3c2-4b16-bc66-1322ab35dbac?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c8e6595-d3c2-4b16-bc66-1322ab35dbac?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s laptop showing a creative software screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2385bea7-d95c-4aa7-9b70-90a363606643?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2385bea7-d95c-4aa7-9b70-90a363606643?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s open showing colorful design work on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6d5b6a73-1ed7-4fc2-9f4d-07156877cadd?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6d5b6a73-1ed7-4fc2-9f4d-07156877cadd?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s screen showing a flowing abstract digital background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1291f099-4569-4dda-bf75-c1536f949a08?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1291f099-4569-4dda-bf75-c1536f949a08?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s laptop angled showing vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5419b6f0-725b-4c82-93e5-57bdcf19d66e?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of ports and slots on the side of the ThinkPad P16s laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16.0\" OLED 4K (3840x2400) 60Hz Touchscreen Display",
+        "AMD Ryzen AI 7 350 Processor (up to 5 GHz, 16MB Cache, 8-Cores, 16-Threads)",
+        "AMD Radeon 860M shared Integrated Graphics",
+        "32GB DDR5 SODIMM RAM",
+        "1TB PCIe NVMe SSD",
+        "Windows 11 Pro",
+        "Backlit Keyboard",
+        "Fingerprint Reader",
+        "2 Thunderbolt 4 ports, HDMI",
+        "4-Cell 86 WHr Battery"
+      ],
+      "colors": [
+        {
+          "hex": "#16171c",
+          "percentage": 0.4973
+        },
+        {
+          "hex": "#6d5d59",
+          "percentage": 0.1429
+        },
+        {
+          "hex": "#817d7f",
+          "percentage": 0.1408
+        },
+        {
+          "hex": "#414249",
+          "percentage": 0.1203
+        },
+        {
+          "hex": "#c5c4c2",
+          "percentage": 0.0986
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VgWeQGB-LPzf-8tFxDf?o=01M61KPDAB7403E2754308E5MD&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1839.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "OLED"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "AMD Ryzen AI 7"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xNoHLbt",
+      "title": "Lenovo ThinkPad P16s Gen 4 16\" Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16s Gen 4 is a high-performance 16-inch mobile workstation designed for professional use. It is powered by an Intel Core Ultra 7 255H processor and Intel Arc 140T integrated graphics, making it suitable for demanding tasks. The laptop features 16GB of DDR5 memory, a 512GB SSD, and a 16-inch WUXGA (1920 x 1200) IPS non-touch screen. For connectivity, it is equipped with Wi-Fi 7, Bluetooth, Gigabit Ethernet, and a variety of ports including two Thunderbolt 4 ports and two USB 3.2 Gen 1 Type-A ports. Additional features include a 5MP webcam with a privacy shutter, an infrared camera, and Windows 11 Pro operating system.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/28b210aa-6c33-4ecd-8e3e-6e7519c97371?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28b210aa-6c33-4ecd-8e3e-6e7519c97371?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Closed Lenovo ThinkPad laptop with a protective cover."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/76836902-5b7b-4833-8f5f-e125532646a1?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/76836902-5b7b-4833-8f5f-e125532646a1?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing a video conference meeting with multiple participants."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7956f8ef-605e-4db9-8c1e-50a05b479e05?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7956f8ef-605e-4db9-8c1e-50a05b479e05?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing the home screen interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/69bef85a-eec0-4f07-adb6-72fa6ea477e6?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/69bef85a-eec0-4f07-adb6-72fa6ea477e6?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16s Gen 4 laptop shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d4a164c-a988-4e24-9b6a-16d3ccae109b?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8d4a164c-a988-4e24-9b6a-16d3ccae109b?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying an abstract blue design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3302df09-f5e6-4520-a461-df1b5aee5eaa?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person in a white coat working on a laptop at a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/491cb3f5-baaf-4cd2-9881-1587518e3337?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/491cb3f5-baaf-4cd2-9881-1587518e3337?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the black keyboard and laptop body."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c95d5747-f14f-43f3-8429-f5e867e7b9d1?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c95d5747-f14f-43f3-8429-f5e867e7b9d1?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad laptop open showing blue abstract graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/07575460-02dd-476c-a530-39e7fe823b7a?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/07575460-02dd-476c-a530-39e7fe823b7a?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the keyboard and blue cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/add7e39c-064f-4581-b762-d6f4c3010754?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/add7e39c-064f-4581-b762-d6f4c3010754?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying a scenic mountain landscape at sunset."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9ab3b28d-e4e2-42bf-943d-3bb99e24b29c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9ab3b28d-e4e2-42bf-943d-3bb99e24b29c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing design software interface."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 255H processor with dedicated AI cores",
+        "16-inch IPS anti-glare display (1920 x 1200)",
+        "16GB DDR5 RAM (expandable up to 96GB)",
+        "512GB M.2 NVMe SSD",
+        "Windows 11 Pro operating system",
+        "Wi-Fi 7 and Bluetooth 5.4 connectivity",
+        "Thunderbolt 4 (USB-C) ports",
+        "Integrated 5MP webcam",
+        "Security features: Fingerprint reader, Facial Recognition, and TPM chip",
+        "Backlit chiclet-style keyboard"
+      ],
+      "colors": [
+        {
+          "hex": "#a0a0a2",
+          "percentage": 0.5793
+        },
+        {
+          "hex": "#e3e3e5",
+          "percentage": 0.3224
+        },
+        {
+          "hex": "#5f5f61",
+          "percentage": 0.0897
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xNoHLbt-LPzf-8tFxDf?o=01M5691M392R045S5JPM090HXZ&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1379.99,
+            "compare_at_price": 1399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 14.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.01,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/xNoHLbt-oHaU-8tFxDf?o=01M5ZTNG2YE76K0D0D6181XQ1Q&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 2264.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 14.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.72,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.01,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Workstation"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "TPM (trusted platform module)"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "n0u0Aqr",
+      "title": "Upgraded ThinkPad P16s Gen3 16\"FHD+ Mobile Workstation Laptop",
+      "description": "The Lenovo ThinkPad P16s Gen 3 is a high-performance, AI-ready mobile workstation designed for professionals such as software engineers, architects, and data analysts. This upgraded model features an Intel Core Ultra 7 155H processor with 16 cores and NVIDIA RTX 500 Ada graphics, paired with 16GB of DDR5 RAM and a 512GB PCIe SSD for seamless multitasking and fast application loading. It boasts a 16-inch WUXGA (1920x1200) anti-glare IPS display with 300 nits brightness and a 16:10 aspect ratio. Built to MIL-STD 810G standards and ISV certified for professional software like AutoCAD and Adobe, it offers robust connectivity with Thunderbolt 4, HDMI 2.1, and Wi-Fi 6E. The system comes pre-installed with Windows 11 Pro and includes enterprise-grade security features like a fingerprint reader and a 5MP camera with a privacy shutter.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f46c34d3-90af-49eb-acec-40d42ef85751?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f46c34d3-90af-49eb-acec-40d42ef85751?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo laptop with colorful abstract display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1753ab19-3ff0-4c66-a993-84e0679eb993?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1753ab19-3ff0-4c66-a993-84e0679eb993?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo laptop with desktop workspace view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/54f61928-6365-4f70-908d-0e34a77a070d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo laptop with scenic road wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/75566ddb-8f20-4a88-b6e8-1ede99e7911f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/75566ddb-8f20-4a88-b6e8-1ede99e7911f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo laptop with blue abstract design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7e4b47c0-eda2-4683-b525-154f1e7b3498?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7e4b47c0-eda2-4683-b525-154f1e7b3498?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of a black Lenovo laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8356596c-43fa-4dd7-aa2a-dbdd5f82d081?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8356596c-43fa-4dd7-aa2a-dbdd5f82d081?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the side profile of a black laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8ad378ab-010b-46f6-9d8b-1bde778bf242?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8ad378ab-010b-46f6-9d8b-1bde778bf242?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Multiple views of laptop ports and connection points."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9abb9c3a-3752-4fc1-adfd-d90efccef491?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop on a wooden desk in a bright workspace."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ccc71f88-4222-4c51-acd0-fe6dfd5a89b7?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person working on a laptop in a factory."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 155H processor up to 3.80GHz",
+        "16\" 1920 x 1200 NonTouch display",
+        "16GB RAM",
+        "512GB SSD M.2 2280 PCIe Gen4 Performance TLC Opal",
+        "NVIDIA RTX 500 Ada 4GB GPU",
+        "Windows 11 Pro 64",
+        "5MP RGB+IR camera",
+        "3 Cell LiPol 75Wh battery",
+        "Backlit keyboard with Number Pad",
+        "Intel AX211vPro, BT5.1 or BT5.3"
+      ],
+      "colors": [
+        {
+          "hex": "#0b0510",
+          "percentage": 0.5477
+        },
+        {
+          "hex": "#562870",
+          "percentage": 0.1531
+        },
+        {
+          "hex": "#76638c",
+          "percentage": 0.1134
+        },
+        {
+          "hex": "#280219",
+          "percentage": 0.1034
+        },
+        {
+          "hex": "#3c0c38",
+          "percentage": 0.0824
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/n0u0Aqr-p1PB-8tFxDf?o=01M4CJFR4H56CG0ATYGB2NQEMX&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 2049.99,
+            "compare_at_price": 2399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Professional",
+          "Dedicated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "1 TB",
+          "512 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "Rechargeable"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": {
+        "value": 4.38,
+        "count": 2,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "1u2GrpY",
+      "title": "Lenovo ThinkPad P16s Gen 5 21XE0047US 16\" Copilot+ PC Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16s Gen 5 is a professional 16-inch Copilot+ PC designed for high-performance workloads. It is powered by an Intel Core Ultra 7 (Series 3) 16-core processor and an NVIDIA GeForce RTX PRO 500 GPU with 6GB GDDR7 memory. The laptop features a 16\" 1920 x 1200 IPS touchscreen, 32GB of LPDDR5x RAM, and a 1TB M.2 NVMe SSD. It is equipped with a built-in NPU (50 TOPS) for AI tasks, Wi-Fi 7, Bluetooth 5.4, and various connectivity options including Thunderbolt 4 and HDMI 2.1. It runs on Windows 11 Pro and includes a 5.0MP IR webcam with a privacy shutter.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e0c18640-281e-4cbb-8a00-f46a05936b05?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e0c18640-281e-4cbb-8a00-f46a05936b05?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s laptop displaying a video conference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b4cd4d5c-4886-4769-9528-169d601761e0?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4cd4d5c-4886-4769-9528-169d601761e0?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad laptop lid shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2088ee6b-6798-421a-b3b1-9d682bec3138?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2088ee6b-6798-421a-b3b1-9d682bec3138?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad laptop displaying 3D modeling software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/70e4c952-f2f8-4861-8c4e-384411ead99d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/70e4c952-f2f8-4861-8c4e-384411ead99d?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad laptop with colorful abstract screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9b1cde3-bf66-4cb8-8fea-b2a2fb80a0da?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man working on a Lenovo laptop in a cafe."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d3ea5ab-8443-453c-9ae9-37b9cd9eb59c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7d3ea5ab-8443-453c-9ae9-37b9cd9eb59c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad laptop displaying a green nature wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dad1a92d-b5ea-4ad0-a66d-06ad8b283715?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dad1a92d-b5ea-4ad0-a66d-06ad8b283715?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the thin edge profile of a laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 (Series 3) 16-Core processor",
+        "32GB LPDDR5x RAM",
+        "1TB M.2 NVMe SSD",
+        "16\" 1920 x 1200 IPS Touchscreen",
+        "NVIDIA GeForce RTX PRO 500 (6GB GDDR7)",
+        "Built-In NPU (50 TOPS) for AI",
+        "Wi-Fi 7 and Bluetooth 5.4",
+        "Thunderbolt 4 and HDMI 2.1",
+        "5.0MP IR Webcam with Privacy Shutter",
+        "Windows 11 Pro"
+      ],
+      "colors": [
+        {
+          "hex": "#3e403d",
+          "percentage": 0.4233
+        },
+        {
+          "hex": "#040506",
+          "percentage": 0.2143
+        },
+        {
+          "hex": "#767966",
+          "percentage": 0.1883
+        },
+        {
+          "hex": "#939584",
+          "percentage": 0.0951
+        },
+        {
+          "hex": "#575c55",
+          "percentage": 0.0789
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1u2GrpY-oHaU-8tFxDf?o=01M3K2JXDM25422NQ1N3VKTG5D&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 2367.71,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 14.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.71,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.96,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/1u2GrpY-LPzf-8tFxDf?o=01M4CYDRMXG4XETK9Y7YSJ4CEC&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2569.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "1 TB",
+          "512 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "TPM (trusted platform module)"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ohTtgjr",
+      "title": "Thinkpad P16s Gen 4 Amd Mobile Workstation",
+      "description": "The Lenovo ThinkPad P16s Gen 4 is a versatile and portable 16-inch mobile workstation designed for professionals needing AI-enhanced performance. Powered by the AMD Ryzen\u2122 AI PRO 300 Series processors with integrated AMD Radeon\u2122 graphics, this laptop excels at complex tasks like data analysis, CAD workflows, and creative projects. It features a WUXGA anti-glare display, a camera with a privacy shutter, and is built to meet MIL-STD-810H durability standards, ensuring reliability in various environments. Key features include ISV certifications, ThinkShield security, and easy maintenance access, making it a powerful and dependable tool for business, education, and engineering professionals.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5c44730b-ae3f-41cb-9d05-4b3603fdd863?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad P16s laptop with blue liquid wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e3fec220-f67d-402b-a08f-a76cbe8e0440?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the laptop showing its slim design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0cd1297a-d632-4b76-820b-8756ebc27f57?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the laptop showing ports and ventilation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/594e5b1f-7bc9-44b4-94f8-d196b8ef6138?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying abstract colorful liquid wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8d92d76-991c-4deb-8884-4a055c4793a9?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of the laptop lid showing Lenovo and ThinkPad logos."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c94b3713-1622-4205-9636-cd1a0896cc13?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad P16s laptop with blue liquid wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b8f3c17-0212-4eb0-8095-680df92d131b?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop open in use displaying graphic design work."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4b3579b6-0865-4a4a-8127-b50d5cea9fa5?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4b3579b6-0865-4a4a-8127-b50d5cea9fa5?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop angled view showing vibrant abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4390c494-acfb-48da-836c-c4549fd2af99?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4390c494-acfb-48da-836c-c4549fd2af99?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Closed black ThinkPad P16s laptop viewed from the front."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "AMD Ryzen\u2122 AI PRO 300 Series processors with AMD XDNA\u2122 technology",
+        "AMD Radeon\u2122 integrated graphics (RDNA\u2122 3.5 architecture)",
+        "16\" WUXGA (1920 x 1200), IPS, Anti-Glare, 400 nits display",
+        "5MP RGB+IR camera with Microphone and Privacy Shutter",
+        "52.5Wh Battery with extended battery life",
+        "Includes numeric keypad",
+        "ISV-certified for professional applications",
+        "ThinkShield security features including dTPM",
+        "MIL-STD-810H tested durability",
+        "WiFi 7 and Bluetooth\u00ae 5.4"
+      ],
+      "colors": [
+        {
+          "hex": "#222224",
+          "percentage": 0.3694
+        },
+        {
+          "hex": "#020c1b",
+          "percentage": 0.1903
+        },
+        {
+          "hex": "#081330",
+          "percentage": 0.1545
+        },
+        {
+          "hex": "#5076c1",
+          "percentage": 0.1356
+        },
+        {
+          "hex": "#2e4488",
+          "percentage": 0.0955
+        },
+        {
+          "hex": "#13245a",
+          "percentage": 0.0547
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ohTtgjr-p1PB-8tFxDf?o=01M628AW647QDXPVRF0ZB884KV&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1999.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/ohTtgjr-hl1t-8tFxDf?o=01KBPCC49KKBXHSJ65Z2RJJG9P&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 2099.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Processor",
+            "values": [
+              {
+                "label": "Other/Not Specified",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/5c44730b-ae3f-41cb-9d05-4b3603fdd863",
+                "product_id": "ohTtgjr"
+              },
+              {
+                "label": "AMD Ryzen AI 9 HX PRO 370",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/dc8088d5-3762-4698-aa32-313f569363af",
+                "product_id": "qIaPMvT"
+              }
+            ]
+          },
+          {
+            "name": "Memory",
+            "values": [
+              {
+                "label": "Other/Not Specified",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/5c44730b-ae3f-41cb-9d05-4b3603fdd863",
+                "product_id": "ohTtgjr"
+              },
+              {
+                "label": "96 GB",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/dc8088d5-3762-4698-aa32-313f569363af",
+                "product_id": "qIaPMvT"
+              }
+            ]
+          },
+          {
+            "name": "Storage",
+            "values": [
+              {
+                "label": "Other/Not Specified",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/5c44730b-ae3f-41cb-9d05-4b3603fdd863",
+                "product_id": "ohTtgjr"
+              },
+              {
+                "label": "2 TB SSD",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/dc8088d5-3762-4698-aa32-313f569363af",
+                "product_id": "qIaPMvT"
+              }
+            ]
+          },
+          {
+            "name": "Operating System",
+            "values": [
+              {
+                "label": "Other/Not Specified",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/5c44730b-ae3f-41cb-9d05-4b3603fdd863",
+                "product_id": "ohTtgjr"
+              },
+              {
+                "label": "Windows 11 Pro",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/dc8088d5-3762-4698-aa32-313f569363af",
+                "product_id": "qIaPMvT"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Operating System",
+            "label": "Other/Not Specified"
+          },
+          {
+            "name": "Processor",
+            "label": "Other/Not Specified"
+          },
+          {
+            "name": "Storage",
+            "label": "Other/Not Specified"
+          },
+          {
+            "name": "Memory",
+            "label": "Other/Not Specified"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Standard"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "TPM (trusted platform module)"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-family": [
+          "AMD Ryzen AI 7",
+          "AMD Ryzen AI 9",
+          "AMD Ryzen AI"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "Rechargeable"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 298,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "NK8zVE9",
+      "title": "Thinkpad P16v Gen 2 Mobile Workstation",
+      "description": "This professional-grade Lenovo ThinkPad P16v Gen 2 mobile workstation features a 16-inch WQUXGA display with IPS technology and Eyesafe. It is powered by an Intel Core Ultra 7 165H processor with vPro technology and comes with 64GB of RAM and a 2TB SSD for ample storage. The laptop boasts a NVIDIA RTX 2000 Ada Generation GPU with 8GB of dedicated memory, ensuring smooth performance for demanding tasks. It includes an English keyboard with a numeric keypad, a red TrackPoint, and a large touchpad. The device has a sleek matte black finish and runs on Windows 11 Pro. Its connectivity options include IEEE 802.11ax wireless LAN, and it features a front-facing webcam. This is a new, unboxed product.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/hqF4TM9?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": null,
+          "alt_text": null
+        },
+        {
+          "url": "https://p3-ofp.static.pub//fes/cms/2024/04/16/yln4esqex3qhqrmbealmzmohzxrwol501219.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/002ac17b-b37b-4dd2-86f3-741b8d6cae55?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "A black laptop with a keyboard and a screen displaying an image of the Earth from space."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "recycled components"
+      ],
+      "key_features": [
+        "16-inch WQUXGA (3840 x 2400) IPS Anti-Glare Display with HDR 400 and 100% DCI-P3",
+        "Intel Core Ultra 7 165H processor with vPro technology",
+        "64 GB RAM",
+        "2 TB SSD",
+        "NVIDIA RTX 3000 Ada Generation Laptop GPU 8GB GDDR6",
+        "Windows 11 Pro",
+        "English keyboard",
+        "Numeric keypad",
+        "TrackPoint",
+        "5MP RGB+IR camera with Dual Microphone and Privacy Shutter"
+      ],
+      "colors": [
+        {
+          "hex": "#040711",
+          "percentage": 0.2768
+        },
+        {
+          "hex": "#324363",
+          "percentage": 0.2156
+        },
+        {
+          "hex": "#55555f",
+          "percentage": 0.1926
+        },
+        {
+          "hex": "#6c90b9",
+          "percentage": 0.1212
+        },
+        {
+          "hex": "#556782",
+          "percentage": 0.1097
+        },
+        {
+          "hex": "#0b1a35",
+          "percentage": 0.0842
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/NK8zVE9-hl1t-8tFxDf?o=01KBPBTMQNYE48BBBEGKH7JMMD&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 1439.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/NK8zVE9-p1PB-8tFxDf?o=01KYXVVKBNBATBC29MGAY11SJQ&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 7931.73,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Graphics",
+            "values": [
+              {
+                "label": "NVIDIA RTX 3000 Ada Generation Laptop GPU 8GB GDDR6",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/hqF4TM9",
+                "product_id": "NK8zVE9"
+              },
+              {
+                "label": "NVIDIA RTX\u2122 500 Ada Generation Laptop GPU 4GB GDDR6",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/JjsD514",
+                "product_id": "JjsD514"
+              }
+            ]
+          },
+          {
+            "name": "Memory",
+            "values": [
+              {
+                "label": "32 GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/3e3565a4-026f-46de-ab48-e189cb480f94",
+                "product_id": "y8CxDQe"
+              },
+              {
+                "label": "64 GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/hqF4TM9",
+                "product_id": "NK8zVE9"
+              }
+            ]
+          },
+          {
+            "name": "Processor",
+            "values": [
+              {
+                "label": "Intel Core Ultra 9 vPro",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/hqF4TM9",
+                "product_id": "NK8zVE9"
+              },
+              {
+                "label": "Intel Core Ultra 7",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/JjsD514",
+                "product_id": "JjsD514"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Graphics",
+            "label": "NVIDIA RTX 3000 Ada Generation Laptop GPU 8GB GDDR6"
+          },
+          {
+            "name": "Memory",
+            "label": "64 GB"
+          },
+          {
+            "name": "Processor",
+            "label": "Intel Core Ultra 9 vPro"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock",
+          "AI-powered",
+          "BIOS security"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "graphics-card-type": [
+          "Dedicated",
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "keyboard-type": [
+          "Standard",
+          "Backlit"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "optical-drive-type": [
+          "DVD-ROM"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 234,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "2equSYm",
+      "title": "ThinkPad P16 Gen2 Mobile Workstation Laptop",
+      "description": "The Lenovo ThinkPad P16 Gen2 is a high-performance, ISV-certified mobile workstation designed for engineers, architects, and designers. It is powered by an Intel Core i7-14700HX processor and an NVIDIA RTX 3500 Ada GPU, making it ideal for demanding software like AutoCAD, SolidWorks, and AI development. The laptop features a stunning 16-inch WQUXGA (3840x2400) IPS display with 800 nits brightness and 100% DCI-P3 color accuracy. This specific model has been professionally upgraded by IST Computers to include 32GB of DDR5 RAM and a 1TB SSD for efficient multitasking and storage. It comes in Storm Grey and includes professional-grade connectivity options like Thunderbolt 4 and HDMI 2.1.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e00d1f54-9c7e-4348-8fd2-4208d3a064d5?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Lenovo ThinkPad P16 Gen2 mobile workstation laptop in Storm Grey."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "ISV-certified for AutoCAD, SolidWorks, Creo, ANSYS, and MATLAB",
+        "Intel Core i7-14700HX (20 cores, 28 threads, up to 5.5GHz)",
+        "NVIDIA RTX 3500 Ada 12GB GDDR6 GPU",
+        "16\" WQUXGA (3840x2400) IPS display with HDR 400 and 800 nits brightness",
+        "32GB DDR5 RAM and 1TB SSD",
+        "MIL-STD durability",
+        "Supports up to 3 external monitors (up to 8K@60Hz)",
+        "Windows 11 Pro 64-bit"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2equSYm-p1PB-8tFxDf?o=01KY4KDJGPJPA7Q2MNAKSW8N97&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 3399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "4096 x 2160"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "TPM (trusted platform module)",
+          "Kensington lock",
+          "Quiet operation",
+          "Touchscreen"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "removable-storage-formats-supported": [
+          "SD",
+          "SDHC",
+          "SDXC",
+          "microSD",
+          "microSDHC",
+          "microSDXC"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "SS1bvnh",
+      "title": "ThinkPad P16s Gen 5",
+      "description": "This Lenovo ThinkPad P16s Gen 5 is a 16-inch mobile workstation designed for professionals like engineers and designers. It's a Copilot+ PC powered by AMD Ryzen\u2122 AI PRO processors, enabling responsive on-device AI tasks. The workstation offers adaptable performance with scalable memory and graphics options, making it suitable for demanding workflows. The laptop features a 16\" WUXGA screen and comes with Windows, 32 GB of memory, and a 1 TB hard drive. Its sleek black design is professional and functional.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        },
+        {
+          "id": "O3Ew",
+          "name": "amd"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/017e598d-b70d-4dff-833f-e1a856ea840b?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad P16s laptop showing a video and software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1da2cef3-8db8-455f-93d1-d9e88a5f7764?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad laptop lid on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/267d2e18-5a73-438b-a961-e3ad21b4ad23?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Thin profile view of the ThinkPad laptop display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f8bbfcd-9848-41fb-a019-69d564adeb5c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic promoting Copilot+ PC features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f8e07ca2-3ddf-4992-b401-9d0b778e43e2?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad laptop displaying a map visualization."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8cfe1418-c146-4e36-bc53-96b78eea1dfe?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Black ThinkPad laptop displaying architectural visualization."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1dd5cd91-0504-4451-9573-8829e137403f?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Black ThinkPad laptop in use with 3D modeling software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0db43802-d73e-475f-9047-d12113c6d856?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0db43802-d73e-475f-9047-d12113c6d856?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad laptop displaying a river landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/70500f6f-9471-4a19-ac80-3adaf953c217?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Open ThinkPad laptop showing keyboard and forest vista."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "AMD Ryzen\u2122 AI 7 PRO 450 Processor with dedicated NPU",
+        "Copilot+ PC with on-device AI acceleration",
+        "16\" WUXGA (1920 x 1200) IPS Anti-Glare display",
+        "64 GB LPDDR5X-7500MT/s CAMM2 memory",
+        "2 TB SSD M.2 2280 PCIe Gen5 Performance TLC Opal",
+        "Integrated AMD Radeon\u2122 860M graphics",
+        "MIL-STD-810H durability testing",
+        "ThinkShield security with fingerprint reader and dTPM",
+        "Backlit keyboard with iconic TrackPoint",
+        "5MP RGB+IR camera with privacy shutter"
+      ],
+      "colors": [
+        {
+          "hex": "#4b4d4b",
+          "percentage": 0.3796
+        },
+        {
+          "hex": "#0b0e10",
+          "percentage": 0.357
+        },
+        {
+          "hex": "#777a68",
+          "percentage": 0.1746
+        },
+        {
+          "hex": "#989a86",
+          "percentage": 0.0888
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/SS1bvnh-hl1t-8tFxDf?o=01KYF4Z7CYN6HHPMGS9T5BA3GY&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 2409.0,
+            "compare_at_price": 2939.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Processor",
+            "values": [
+              {
+                "label": "AMD",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/017e598d-b70d-4dff-833f-e1a856ea840b",
+                "product_id": "SS1bvnh"
+              },
+              {
+                "label": "Intel",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/7175cd74-0ca3-47c3-8a30-d9213cce9f86",
+                "product_id": "HrKHo0h"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Processor",
+            "label": "AMD"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "BIOS security",
+          "TPM (trusted platform module)",
+          "Remote management"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "processor-family": [
+          "AMD Ryzen AI 7"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Standard"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 24,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "rC1QFzU",
+      "title": "Lenovo ThinkPad P16 Gen 3 - AI Workstation",
+      "description": "The Lenovo ThinkPad P16 Gen 3 is a professional mobile AI workstation designed for demanding workflows. It features a 16-inch 16:10 anti-glare WQUXGA display (3840 x 2400) with X-Rite factory color calibration and Eyesafe technology. Powered by an Intel Core Ultra 7 255HX processor with 20 cores and an Intel AI Boost NPU, it is paired with NVIDIA RTX PRO 2000 Blackwell graphics for high-performance visuals. The system includes 32 GB of DDR5 RAM, a 1 TB NVMe SSD, and Windows 11 Pro. Built for durability and security, it features an aluminum chassis (MIL-STD-810H tested), a discrete TPM 2.0 chip, a fingerprint reader, and a 5MP webcam with a privacy shutter. Connectivity is extensive, featuring Thunderbolt 5 and 4 ports, 2.5 Gigabit Ethernet, and Wi-Fi 7.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/61cd46e5-7327-48cd-86d6-7ea211350a37?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/61cd46e5-7327-48cd-86d6-7ea211350a37?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad P16 Gen 3 laptop with screen display."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "Intel Core Ultra 7 255HX processor with 20 cores",
+        "NVIDIA RTX PRO 2000 Blackwell graphics",
+        "16\" WQUXGA (3840 x 2400) IPS anti-glare display",
+        "Intel AI Boost NPU for AI-accelerated workflows",
+        "32 GB DDR5 RAM and 1 TB NVMe SSD",
+        "Thunderbolt 5 and Thunderbolt 4 connectivity",
+        "MIL-STD-810H tested aluminum chassis",
+        "Wi-Fi 7 and 2.5 Gigabit Ethernet"
+      ],
+      "colors": [
+        {
+          "hex": "#2a2c2a",
+          "percentage": 0.5504
+        },
+        {
+          "hex": "#556c5f",
+          "percentage": 0.1335
+        },
+        {
+          "hex": "#adba92",
+          "percentage": 0.1207
+        },
+        {
+          "hex": "#4c4847",
+          "percentage": 0.1199
+        },
+        {
+          "hex": "#121111",
+          "percentage": 0.0755
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/rC1QFzU-TgS4-8tFxDf?o=01M42HXKGJ0RJZBG66Y5HV2F1V&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "cdw.com",
+          "price": {
+            "price": 4227.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 9.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 14.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "ram": [
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "TPM (trusted platform module)"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "VjsY9Wh",
+      "title": "ThinkPad P1 Gen 7 Mobile Workstation",
+      "description": "The Lenovo ThinkPad P1 Gen 7 is a high-performance mobile workstation designed for demanding professionals. It features a powerful Intel Core Ultra 7-165H processor, 64GB of RAM, and a fast 2TB SSD for excellent multitasking and storage. Visual fidelity is delivered through the 16-inch UHD+ OLED touchscreen display, calibrated by X-Rite for color accuracy, and supported by an NVIDIA RTX 2000 Ada 8GB graphics card, making it suitable for intensive design and rendering tasks. The device emphasizes mobility with a sleek design and robust enterprise-grade security features, including a fingerprint reader and ThinkShield suite. Furthermore, Lenovo incorporates sustainable materials, utilizing recycled magnesium and aluminum in its construction.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/VjsY9Wh?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=T9Fg",
+          "cleaned_url": "https://www.adorama.com/images/Large/LE21KV000AUS.jpg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop with black body and blue screen displaying Windows desktop"
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "magnesium",
+        "aluminum"
+      ],
+      "key_features": [
+        "Experience seamless multitasking with 64GB RAM on this Lenovo ThinkPad P1 Gen 7.",
+        "The Intel Core Ultra 7 processor delivers blazing-fast performance for demanding tasks.",
+        "Enjoy stunning visuals on the 16\" UHD+ OLED display, perfect for creative projects.",
+        "Store all your important files with the ample 2TB SSD storage for quick access.",
+        "NVIDIA RTX 2000 Ada graphics ensure smooth performance for gaming and content creation.",
+        "Stay productive on the go with the lightweight design and long battery life of this laptop."
+      ],
+      "colors": [
+        {
+          "hex": "#0f121b",
+          "percentage": 0.593
+        },
+        {
+          "hex": "#23367b",
+          "percentage": 0.1285
+        },
+        {
+          "hex": "#0d1d72",
+          "percentage": 0.1097
+        },
+        {
+          "hex": "#4c6597",
+          "percentage": 0.0954
+        },
+        {
+          "hex": "#070f50",
+          "percentage": 0.0734
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VjsY9Wh-T9Fg-8tFxDf?o=01KC9HXEPAE8MBX07PWK59WN6Y&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "adorama.com",
+          "price": {
+            "price": 5950.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ]
+      },
+      "ratings": {
+        "value": 4.12,
+        "count": 168,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "oFETPHV",
+      "title": "ThinkPad P16s Gen3 16\" FHD+ Mobile Workstation Laptop",
+      "description": "The Lenovo ThinkPad P16s Gen 3 is a portable, AI-ready mobile workstation designed for professional workloads. This upgraded model features an Intel Core Ultra 7 155H processor with 16 cores, NVIDIA RTX 500 Ada professional graphics, 64GB of DDR5 memory, and a 2TB PCIe SSD. It boasts a 16-inch WUXGA (1920x1200) anti-glare IPS display with 300 nits brightness. Built for reliability, it is compliant with MIL-STD 810G standards and holds ISV certifications for applications like AutoCAD and Adobe. Connectivity includes two Thunderbolt 4 ports, HDMI 2.1, and Wi-Fi 6E, while security is enhanced by a fingerprint reader and a 5MP camera with a privacy shutter.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/30abab3e-f94a-4156-86cb-68023cdd1114?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/30abab3e-f94a-4156-86cb-68023cdd1114?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad P16s laptop shown from the front, displaying specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/432ac359-6ab5-481e-886a-e3df62883e6c?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showcasing high brightness and resolution specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c77f337-ca00-4a89-a935-430b6db84997?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c77f337-ca00-4a89-a935-430b6db84997?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop features including camera and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f60cf742-73c4-4bb3-83d2-b60ab911bbc8?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop's dedicated graphics card."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7b7aad8e-c18f-4b62-bf47-312655fd63d5?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop screen showing battery charge status and endurance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c8065cb5-a7be-434f-aecb-150faf8c24a6?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop displaying multi-media output with Dolby audio."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/df0c9c9f-c913-4feb-8129-a0dffa4458c9?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "View of the I/O ports on the side of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c07e6e4-bbf5-415f-a302-5aa8ba115a2a?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8c07e6e4-bbf5-415f-a302-5aa8ba115a2a?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying abstract blue graphic."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 7 155H Processor (16 cores, up to 4.8 GHz)",
+        "NVIDIA RTX 500 Ada 4GB GDDR6 Graphics",
+        "64GB DDR5 RAM (Upgraded)",
+        "2TB PCIe SSD (Upgraded)",
+        "16-inch WUXGA (1920x1200) Anti-Glare Display",
+        "MIL-STD 810G compliant",
+        "ISV Certifications (Autodesk, Creo, Bentley, Esri, SOLIDWORKS)",
+        "Windows 11 Pro preinstalled",
+        "5MP camera with Privacy Shutter",
+        "Fingerprint Reader and Backlit Keyboard"
+      ],
+      "colors": [
+        {
+          "hex": "#08131d",
+          "percentage": 0.6369
+        },
+        {
+          "hex": "#565f62",
+          "percentage": 0.1306
+        },
+        {
+          "hex": "#3b383e",
+          "percentage": 0.1209
+        },
+        {
+          "hex": "#a2b5b2",
+          "percentage": 0.1115
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/oFETPHV-p1PB-8tFxDf?o=01M3ZM95ZNCBW8AWDVWM7NZX92&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 3199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "ram": [
+          "32 GB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Professional"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Rnd1QbI",
+      "title": "Lenovo ThinkPad P16v Gen 3 - AI Workstation",
+      "description": "The Lenovo ThinkPad P16v Gen 3 is a powerful 16-inch mobile workstation designed for professionals such as engineers, designers, and programmers. It features an Intel Core Ultra 7 255H processor, 16GB of memory, and a 512GB SSD. For high-end visual tasks, it is equipped with an NVIDIA RTX PRO 500 Blackwell graphics card with 6GB of dedicated memory. The device boasts a WUXGA (1920 x 1200) display and comes with Windows 11 Pro. Built for durability and security, it meets MIL-STD-810H standards and includes ThinkShield security features, while offering connectivity via WiFi 7.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/98a525a8-3ff1-45fb-b1fe-9fe31eadd6e2?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/98a525a8-3ff1-45fb-b1fe-9fe31eadd6e2?aid=01M66D8VYJWVMV1F4GGAZY0V83&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo laptop with colorful abstract screen display."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum (top)",
+        "Polycarbonate ABS (bottom)"
+      ],
+      "key_features": [
+        "16-inch anti-glare IPS display (1920 x 1200)",
+        "Intel Core Ultra 7 255H processor (up to 5.1 GHz)",
+        "NVIDIA RTX PRO 500 Blackwell / Intel Arc 140T graphics",
+        "16 GB DDR5 RAM",
+        "512 GB NVMe SSD with TCG Opal Encryption 2",
+        "Wi-Fi 7, Bluetooth 5.4, and NFC connectivity",
+        "Fingerprint reader and discrete TPM 2.0 security chip",
+        "Thunderbolt 4 and HDMI ports",
+        "MIL-STD-810H tested durability",
+        "Windows 11 Pro operating system"
+      ],
+      "colors": [
+        {
+          "hex": "#150d1a",
+          "percentage": 0.2545
+        },
+        {
+          "hex": "#2c2830",
+          "percentage": 0.2412
+        },
+        {
+          "hex": "#46314d",
+          "percentage": 0.2064
+        },
+        {
+          "hex": "#a37eb7",
+          "percentage": 0.1215
+        },
+        {
+          "hex": "#2d0e34",
+          "percentage": 0.0964
+        },
+        {
+          "hex": "#660d4a",
+          "percentage": 0.08
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Rnd1QbI-TgS4-8tFxDf?o=01M42HK4RM1AP5MGSQSRADF5SF&aid=01M66D8VYJWVMV1F4GGAZY0V83",
+          "domain": "cdw.com",
+          "price": {
+            "price": 2743.99,
+            "compare_at_price": 2929.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 14.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.63,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Workstation"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "TPM (trusted platform module)"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjVhMjhlNjkwMDRiYjU5NTYiLCAib2Zmc2V0IjogMjB9"
+}

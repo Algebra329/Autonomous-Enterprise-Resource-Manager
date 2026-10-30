@@ -1,0 +1,4604 @@
+{
+  "products": [
+    {
+      "id": "TkTNEgJ",
+      "title": "Dell Precision 5690 16\" Mobile Workstation Laptop Intel 16-Core Ultra 9 185H vPro 5.10GHz Max 64GB 2TB M.2 SSD Windows 11 Pro",
+      "description": "The Dell Precision 5690 is a high-performance 16-inch mobile workstation designed for professionals. It is powered by an Intel Core Ultra 9 185H vPro Enterprise processor featuring 16 cores and 22 threads with a max clock speed of 5.1 GHz. This configuration includes 64GB of LPDDR5 RAM and a 2TB M.2 PCIe Gen 4 NVMe SSD. The laptop features a stunning 16-inch OLED touch display with a 3840 x 2400 resolution, 400 nits brightness, and 100% DCI-P3 color gamut. It utilizes Intel Arc integrated graphics and comes pre-installed with Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/73e47fc4-0e57-4f55-806c-ff2a551b1a5c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/73e47fc4-0e57-4f55-806c-ff2a551b1a5c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop with a green leaf background on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/858881d1-c4e8-4c7e-8756-1c8a0c55ad6a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/858881d1-c4e8-4c7e-8756-1c8a0c55ad6a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Dell Precision laptop in its original brown packaging box."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1be88ca3-1ea4-4859-be6a-37bfaecf7788?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1be88ca3-1ea4-4859-be6a-37bfaecf7788?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop open, showing keyboard and screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc9e2be2-3b1b-4dea-80fa-65b565db4169?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fc9e2be2-3b1b-4dea-80fa-65b565db4169?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell Precision laptop from a three-quarter angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c5adb190-1860-4912-88d7-4551dcebb966?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c5adb190-1860-4912-88d7-4551dcebb966?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell Precision laptop from a three-quarter angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dfc09c72-a61d-40a8-9a48-4b824ad0d56a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dfc09c72-a61d-40a8-9a48-4b824ad0d56a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a silver Dell Precision laptop showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4187969d-87b4-452c-9d41-b298c824475f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4187969d-87b4-452c-9d41-b298c824475f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a slim silver Dell Precision laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 9 185H vPro Enterprise (16 cores, 22 threads, up to 5.1 GHz)",
+        "64GB LPDDR5 RAM",
+        "2TB M.2 2280 Gen 4 PCIe NVMe SSD",
+        "16\" OLED Touch display (3840 x 2400, 400 nits, 100% DCI-P3)",
+        "Intel Arc graphics",
+        "Windows 11 Pro",
+        "IR Camera & Mic with HDR"
+      ],
+      "colors": [
+        {
+          "hex": "#fdfefc",
+          "percentage": 0.2771
+        },
+        {
+          "hex": "#55910a",
+          "percentage": 0.1888
+        },
+        {
+          "hex": "#98c026",
+          "percentage": 0.1476
+        },
+        {
+          "hex": "#cdd5a6",
+          "percentage": 0.1103
+        },
+        {
+          "hex": "#393b38",
+          "percentage": 0.1064
+        },
+        {
+          "hex": "#8e9b6d",
+          "percentage": 0.1043
+        },
+        {
+          "hex": "#4e6f3d",
+          "percentage": 0.0656
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/TkTNEgJ-LPzf-8tFxDf?o=01M61Z7PS7SJYXMHDEZMW05AAP&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2999.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-technology": [
+          "OLED"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Hexadeca"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "LLICCjt",
+      "title": "Dell Precision 5690 16\" Mobile Workstation Laptop",
+      "description": "The Dell Precision 5690 is a powerful 16-inch mobile workstation designed for professional use. It features an Intel Core Ultra 9 185H vPro processor with up to 16 cores and a 5.10GHz max clock speed, paired with 64GB of LPDDR5x RAM and a 2TB Gen 4 PCIe NVMe SSD for high-speed performance. The laptop boasts a stunning 16-inch 4K OLED touch display (3840 x 2400) with 100% DCI-P3 color gamut and 400 nits brightness, making it ideal for color-critical work. Finished in Titan Gray, it runs on Windows 11 Pro and includes modern connectivity like Thunderbolt 4 ports.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/95029048-bd65-4354-998f-bf2b7e0ce971?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/95029048-bd65-4354-998f-bf2b7e0ce971?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying a bright green leaf."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1d1f5a3c-0801-4bd7-abc0-dba430ae128f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Dell Precision laptop in its original brown packaging box."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d7db0009-7cf3-410f-9fac-de1d287aa52e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d7db0009-7cf3-410f-9fac-de1d287aa52e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop keyboard and palm rest area open."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c72dc33e-31c5-437f-b727-dc070e6f931b?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c72dc33e-31c5-437f-b727-dc070e6f931b?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop opened, shown from a three-quarter angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/14fdeb79-d2ba-4961-baee-a6918ac51de7?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/14fdeb79-d2ba-4961-baee-a6918ac51de7?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop open from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/de9def0f-051d-4a99-9a5c-7faff1e47ada?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/de9def0f-051d-4a99-9a5c-7faff1e47ada?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop base and screen from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Metal"
+      ],
+      "key_features": [
+        "Intel Core Ultra 9 185H vPro processor (16 cores, 22 threads, up to 5.1 GHz)",
+        "16\" OLED Touch screen with 3840 x 2400 resolution",
+        "64GB LPDDR5x 7467 MT/s RAM",
+        "2TB M.2 2280 Gen 4 PCIe NVMe SSD",
+        "Intel Arc graphics",
+        "Windows 11 Pro Operating System",
+        "Titan Gray chassis",
+        "Thunderbolt 4 and HDMI connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#fdfefc",
+          "percentage": 0.2796
+        },
+        {
+          "hex": "#55910b",
+          "percentage": 0.1894
+        },
+        {
+          "hex": "#97c026",
+          "percentage": 0.1475
+        },
+        {
+          "hex": "#cdd5a4",
+          "percentage": 0.1076
+        },
+        {
+          "hex": "#393b38",
+          "percentage": 0.1063
+        },
+        {
+          "hex": "#8e9b6d",
+          "percentage": 0.1028
+        },
+        {
+          "hex": "#4e6f3e",
+          "percentage": 0.0667
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/LLICCjt-LPzf-8tFxDf?o=01M5ZKC9FG5SF67GQ2NYPRPPDY&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2999.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-technology": [
+          "OLED"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Hexadeca"
+        ],
+        "ram": [
+          "64 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "EvVEGEE",
+      "title": "Precision 5 Series 16\" Workstation Laptop",
+      "description": "The Dell Pro Precision 5 Series 16\" Workstation Laptop is a powerful and sleek machine designed for professionals. It features an Intel Core Ultra processor, integrated Intel graphics, and runs on Windows 11 Pro. With 16GB of RAM and a 256GB SSD, it offers efficient performance for demanding tasks. The laptop boasts a 16-inch FHD+/WUXGA display with an anti-glare finish and an 8MP HDR camera with presence detection. It also includes a backlit keyboard with a numeric keypad and advanced security features.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c5e0a14e-894e-4b3e-bf58-db8428a2db83?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/db17cc3d-2490-4cce-82d3-de4b94cb4809?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro Precision 5 Series 16\" Workstation Laptop"
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 5 336H vPro Processor",
+        "Windows 11 Pro, Copilot+ PC",
+        "16 GB LPCAMM2, 8533 MT/s, dual-channel Memory",
+        "256 GB SSD, Gen 4 Storage",
+        "16\" FHD+/WUXGA Non-Touch, 400nit, Anti-Glare, 8MP+IR Cam,Mic, WLAN and WWAN capable Display",
+        "English US backlit Copilot key keyboard with numeric keypad",
+        "Intel BE211 Wireless"
+      ],
+      "colors": [
+        {
+          "hex": "#9ba4aa",
+          "percentage": 0.224
+        },
+        {
+          "hex": "#3c3d43",
+          "percentage": 0.2148
+        },
+        {
+          "hex": "#22232d",
+          "percentage": 0.2072
+        },
+        {
+          "hex": "#cbccd0",
+          "percentage": 0.1279
+        },
+        {
+          "hex": "#110d24",
+          "percentage": 0.1155
+        },
+        {
+          "hex": "#6b6e76",
+          "percentage": 0.1106
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/EvVEGEE-Bteb-8tFxDf?o=01KTQF6478XRQ09SB5M6FEKVKZ&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "dell.com",
+          "price": {
+            "price": 4310.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "HD"
+        ],
+        "computer-specialized-features": [
+          "Remote management"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": {
+        "value": 4.12,
+        "count": 10,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "bQgTKoG",
+      "title": "Dell Pro Precision 5 Series 16 Laptop",
+      "description": "The Dell Pro Precision 5 Series 16 is a professional-grade workstation laptop designed for design and creative applications. It features a slim, modern chassis in dark gray and is powered by an Intel\u00ae Core\u2122 Ultra 7 processor with a built-in NPU for AI tasks. The device is equipped with a 16-inch WUXGA non-touch display, 32GB of high-speed LPCAMM2 memory, and a 512GB Gen4x4 SSD. It includes professional features such as Intel Arc Pro integrated graphics, a fingerprint reader for security, and a backlit keyboard with a dedicated Copilot key and numeric keypad.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/64106b47-dba5-4964-81c4-d0c21b6b2834?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/64106b47-dba5-4964-81c4-d0c21b6b2834?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop showing 3D mechanical rendering software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c997a64-d0fb-4c83-aed8-3f7cfbdac2bf?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8c997a64-d0fb-4c83-aed8-3f7cfbdac2bf?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop showing 3D mechanical rendering software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4f9e047-823d-46fe-b7c3-2e6567f5a118?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c4f9e047-823d-46fe-b7c3-2e6567f5a118?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop showing 3D mechanical rendering software interface."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel\u00ae Core\u2122 Ultra 7 366H vPro\u00ae Enterprise Processor",
+        "16\" WUXGA (1920x1200) Non-touch display",
+        "32GB LPCAMM2 memory",
+        "512 GB SSD Gen4x4 TLC",
+        "Intel\u00ae Arc\u2122 Pro Integrated Graphics",
+        "Windows 11 Pro, Copilot+ PC",
+        "Intel\u00ae Wi-Fi 7 BE211 & Bluetooth\u00ae Core 6.0",
+        "FHD RGB HDR Camera with shutter",
+        "Palmrest with Fingerprint Reader"
+      ],
+      "colors": [
+        {
+          "hex": "#393b41",
+          "percentage": 0.2626
+        },
+        {
+          "hex": "#1b1928",
+          "percentage": 0.2531
+        },
+        {
+          "hex": "#959ca2",
+          "percentage": 0.2503
+        },
+        {
+          "hex": "#c5c7cb",
+          "percentage": 0.1269
+        },
+        {
+          "hex": "#62656c",
+          "percentage": 0.107
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/bQgTKoG-Bteb-8tFxDf?o=01M660YMSVX7ES3PT6C8MTRQ9Z&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "dell.com",
+          "price": {
+            "price": 4211.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 256.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 358.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 18.36,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 2.16,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-cores": [
+          "Hexadeca",
+          "Multi"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ]
+      },
+      "ratings": {
+        "value": 4.25,
+        "count": 11,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "p09Et1z",
+      "title": "Dell Pro Precision 5 Series 16s Laptop",
+      "description": "A thin and light 16-inch Copilot+ PC designed for productivity, combining an Intel Core Ultra 5 processor, Intel Arc Pro Graphics, and a 16-inch WUXGA touchscreen. It features a durable aluminum alloy chassis and is equipped with Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e1527e81-056d-4114-8dd4-99394267f1de?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/b9c6ba26-0649-4127-b0da-6c9a4b8ad32a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro Precision laptop displaying CAD software on a dark background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/861e59fb-6df9-4c70-a272-9366f47aa3d1?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/861e59fb-6df9-4c70-a272-9366f47aa3d1?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro Precision laptop showing CAD software and Copilot+PC branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9012dcb-45ff-4700-b592-633b0bd73bb2?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a9012dcb-45ff-4700-b592-633b0bd73bb2?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro Precision laptop displaying CAD software on a dark background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/64fcb778-8f67-481b-a791-808732430b56?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/64fcb778-8f67-481b-a791-808732430b56?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the black Dell laptop chassis."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/348ce2ad-c8ea-43c1-995c-d26c1283f57d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/348ce2ad-c8ea-43c1-995c-d26c1283f57d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the keyboard and palm rest of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3c6527b2-e0fb-4802-a4c5-2930c105f7c5?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3c6527b2-e0fb-4802-a4c5-2930c105f7c5?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop shown from an angle with the DELL logo visible."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30c44469-eff7-448f-a021-405820cf542e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/30c44469-eff7-448f-a021-405820cf542e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop shown from an angle with the DELL logo on the lid."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum alloy"
+      ],
+      "key_features": [
+        "16\" Touch WUXGA (1920x1200) display",
+        "Intel Core Ultra 5 336H vPro processor",
+        "16 GB LPDDR5X memory",
+        "256 GB PCIe NVMe SSD",
+        "Copilot+ PC with Windows 11 Pro",
+        "Intel Arc Pro Graphics",
+        "Aluminum alloy chassis"
+      ],
+      "colors": [
+        {
+          "hex": "#36373c",
+          "percentage": 0.2743
+        },
+        {
+          "hex": "#191824",
+          "percentage": 0.2379
+        },
+        {
+          "hex": "#9aa5ac",
+          "percentage": 0.1689
+        },
+        {
+          "hex": "#c4c5ca",
+          "percentage": 0.1219
+        },
+        {
+          "hex": "#86888e",
+          "percentage": 0.1047
+        },
+        {
+          "hex": "#595b63",
+          "percentage": 0.0923
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/p09Et1z-Bteb-8tFxDf?o=01KT4HTNVAY6ND8177CJ4TESCS&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "dell.com",
+          "price": {
+            "price": 2604.6,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Keyboard Layout",
+            "values": [
+              {
+                "label": "English-US Mini-LED backlit keyboard with numeric keypad",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/e1527e81-056d-4114-8dd4-99394267f1de",
+                "product_id": "p09Et1z"
+              },
+              {
+                "label": "English (US) Mini-LED Backlit Keyboard With Numeric Keypad",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/ccd5bb39-f2a2-44b2-83ec-b844ef981812",
+                "product_id": "w0U6eNs"
+              }
+            ]
+          },
+          {
+            "name": "Operating System",
+            "values": [
+              {
+                "label": "Ubuntu Linux 24.04 LTS",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 11 Home, Copilot+ PC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 11 Pro, Copilot+ PC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 11 Pro",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "OS Language",
+            "values": [
+              {
+                "label": "English, Arabic, French, Russian, Turkish",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "English, Czech, Hungarian, Polish, Slovak",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "English, Dutch, French, German, Italian",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "English, Greek, Hebrew",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "English, Romanian, Slovenian, Ukrainian",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "English, Spanish, Italian, French, Portuguese",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Ubuntu Linux 24.04 LTS",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 11 Home, Copilot+ PC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Windows 11 Pro, Copilot+ PC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Non-Windows Operating System",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Display",
+            "values": [
+              {
+                "label": "16\", WQXGA (2560x1600), Non-touch, 500nit, Low Blue Light",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "16\", WUXGA (1920x1200), Non-touch, 400nit, 45% NTSC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "16\", WUXGA (1920x1200), Non-touch, 500nit, Low Blue Light, Super Low Power",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "16\", WUXGA (1920x1200), Touch, 400nit, 45% NTSC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Storage",
+            "values": [
+              {
+                "label": "256 GB SSD",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "256GB M.2 2230 SSD Gen4x4 TLC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "256GB PCIe NVMe 2230 SSD (Gen 4x4)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "512 GB SSD Gen4x4 TLC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "512GB M.2 2230 SSD Gen5x4 TLC SED",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "1 TB SSD Gen4x4 TLC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "1TB M.2 2280 SSD with DRAM Gen5x4 TLC SED",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "1TB SED PCIe NVMe 2280 SSD (Gen 5x4)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "2TB M.2 2280 SSD with DRAM Gen5x4 TLC SED",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "2TB SED PCIe NVMe 2280 SSD (Gen 5x4)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Fingerprint Reader",
+            "values": [
+              {
+                "label": "No Fingerprint Reader",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Fingerprint Reader without Control Vault 3+",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Fingerprint reader with CV3+",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Power Supply",
+            "values": [
+              {
+                "label": "65W USB-C AC Adapter $0.00",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C AC Adapter Selected",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C GAN Slim AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C GAN Slim AC Adapter (2-pin, Wall-mount)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "100W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "105W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "No AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Power Cord",
+            "values": [
+              {
+                "label": "No Power Cord",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C GAN Slim AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C GAN Slim AC Adapter (2-pin, Wall-mount)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "100W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "105W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "E4 Power Cord 1M for UK",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "E5 Power Cord for UK",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Memory",
+            "values": [
+              {
+                "label": "16 GB LPDDR5X",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "16GB: 1x16GB, LPCAMM2, up to 8533 MT/s",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "32 GB LPCAMM2, 8533 MT/s, dual-channel",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "32GB: 1x32GB, LPCAMM2, up to 8533 MT/s",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "64 GB LPCAMM2, 8533 MT/s, dual-channel",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "64GB: 1x64GB, LPCAMM2, up to 8533 MT/s",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Mobile Broadband",
+            "values": [
+              {
+                "label": "4G LTE - Qualcomm Snapdragon X12 Global LTE-Advanced (DW5826e-m), eSIM capable",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "5G - Mediatek T700 (DW5933e-m), eSIM capable",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "No Mobile Broadband Card",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Wireless",
+            "values": [
+              {
+                "label": "No Wireless LAN Card",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "None",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Intel\u00ae Wi-Fi 7 BE211, Qualified against Bluetooth\u00ae Core 6.0 wireless Card",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Primary Battery",
+            "values": []
+          },
+          {
+            "name": "Energy Star",
+            "values": []
+          }
+        ],
+        "selected": [
+          {
+            "name": "Keyboard Layout",
+            "label": "English-US Mini-LED backlit keyboard with numeric keypad"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "memory-technology": [
+          "DDR3"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-specialized-features": [
+          "Remote management"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "1920 x 1080"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "wy73qBi",
+      "title": "Dell Pro Precision 5 Series 14s Workstation Laptop",
+      "description": "The Dell Pro Precision 5 Series 14S is a thin and light workstation laptop designed to balance portability and high performance. This 14-inch Copilot+ PC is powered by Intel Core Ultra processors and features a high-quality WUXGA non-touch display, making it an ideal solution for productivity and professional workloads.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        },
+        {
+          "id": "ihkZ",
+          "name": "Windows"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/51972b50-b042-46a4-878c-316d6dca8313?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/51972b50-b042-46a4-878c-316d6dca8313?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop viewed from above with vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6485bf3b-9a8c-47a6-936f-8deba92e2074?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6485bf3b-9a8c-47a6-936f-8deba92e2074?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop viewed from above with vibrant screen display and Copilot+ PC logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/427844e8-8932-47ce-9229-30acfa8b462d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cc61b3f0-6a54-413a-8f65-99536476aba0?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop viewed from above with vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f81c78eb-4bb2-45b2-91dc-465df4a345ee?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop viewed from above with vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20e3d415-9945-415b-a5ab-ab1c861e88ec?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man working on a Dell laptop in a bright office setting."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum alloy"
+      ],
+      "key_features": [
+        "14-inch Copilot+ PC",
+        "Intel Core Ultra Processors",
+        "LPDDR5X Memory",
+        "WUXGA (1920x1200) Non-Touch Display",
+        "Thunderbolt 4 ports",
+        "Includes FHD IR Camera and Mic"
+      ],
+      "colors": [
+        {
+          "hex": "#161229",
+          "percentage": 0.3736
+        },
+        {
+          "hex": "#313234",
+          "percentage": 0.1517
+        },
+        {
+          "hex": "#6a5e6b",
+          "percentage": 0.1298
+        },
+        {
+          "hex": "#523d5e",
+          "percentage": 0.1252
+        },
+        {
+          "hex": "#371b53",
+          "percentage": 0.1103
+        },
+        {
+          "hex": "#9d949a",
+          "percentage": 0.1094
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/wy73qBi-Bteb-8tFxDf?o=01M1EMZRQ37NKTPCPS04T9GVD6&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "dell.com",
+          "price": {
+            "price": 2593.42,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 8.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.42,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.58,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.12,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Epeat 2018",
+            "values": [
+              {
+                "label": "Not Epeat Registered",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/51972b50-b042-46a4-878c-316d6dca8313",
+                "product_id": "wy73qBi"
+              },
+              {
+                "label": "Epeat Gold With Climate+",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/09e17e35-1cd5-4087-91eb-d39f8579d2e5",
+                "product_id": "ePQhSrY"
+              }
+            ]
+          },
+          {
+            "name": "Operating System",
+            "values": [
+              {
+                "label": "Windows 11 Home, Copilot+ PC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/51972b50-b042-46a4-878c-316d6dca8313",
+                "product_id": "wy73qBi"
+              },
+              {
+                "label": "Windows 11 Pro, Copilot+ PC",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/a3775ebd-5168-4813-995c-787061d2ce33",
+                "product_id": "NDdcpXH"
+              }
+            ]
+          },
+          {
+            "name": "Keyboard",
+            "values": [
+              {
+                "label": "English (US) Mini-LED Backlit Keyboard",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "English (US) Non-Backlit Keyboard",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Power Supply",
+            "values": [
+              {
+                "label": "65W USB-C GAN Slim AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "65W USB-C PECOS-Green AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "100W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Systems Management",
+            "values": [
+              {
+                "label": "Intel\u00ae vPro\u00ae Enabled",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Intel\u00ae vPro\u00ae Disabled",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Energy Star",
+            "values": [
+              {
+                "label": "Energy Star Qualified",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "No Energy Star Qualified",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Fingerprint Reader",
+            "label": "No Fingerprint Reader"
+          },
+          {
+            "name": "Operating System",
+            "label": "Windows 11 Home, Copilot+ PC"
+          },
+          {
+            "name": "Epeat 2018",
+            "label": "Not Epeat Registered"
+          },
+          {
+            "name": "Size",
+            "label": "14 In."
+          }
+        ]
+      },
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 5",
+          "Intel Core Ultra 7"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-technology": [
+          "LCD",
+          "OLED"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "memory-technology": [
+          "DDR3"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "1920 x 1080"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "vX2OlIZ",
+      "title": "Dell Precision 5560 15-inch (2021) - Core i7 - Gen 11 (H) - 32 GB - SSD 1 TB",
+      "description": "The Dell Precision 5560 is a high-performance 15.6-inch mobile workstation designed for professionals. It features an Intel Core i7-11800H octa-core processor, 32GB of RAM, and a 512GB SSD. The device is built with a premium Aluminum Titan Gray chassis and boasts a Full HD Plus display (1920 x 1200) with a 92% display-to-body ratio. It is equipped with NVIDIA RTX A2000 graphics (4GB), Windows 10 Pro, and incorporates Dell Optimizer for AI-driven performance and battery management. Connectivity options include Thunderbolt 4.0 and USB 3.2 Gen 2 Type-C ports.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/db2d1b8d-269d-47fc-9550-04bcd5772183?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/db2d1b8d-269d-47fc-9550-04bcd5772183?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop open showing a vibrant nature scene wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6e44f671-0521-44dd-9361-dc2c9500dd10?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6e44f671-0521-44dd-9361-dc2c9500dd10?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop with keyboard and screen displaying a waterfall."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8e7500f-e119-4bf8-a7e3-3c11b76b4104?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of laptop with Dell logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f27c7aba-3f17-4c08-beae-a3015239222e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f27c7aba-3f17-4c08-beae-a3015239222e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop opened showing vibrant abstract screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc2d8ee1-d606-4f93-a222-7d2cdf348f91?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc2d8ee1-d606-4f93-a222-7d2cdf348f91?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop open showing a financial chart on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/742b1718-aa79-4521-9c2c-f7ab253cdfe3?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/742b1718-aa79-4521-9c2c-f7ab253cdfe3?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop open showing a vibrant nature scene wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8de6e172-5a91-4436-9f69-b429cc392ab8?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8de6e172-5a91-4436-9f69-b429cc392ab8?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen open, showing side profile and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bec966ce-26e0-4459-b469-13f1cfec589a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bec966ce-26e0-4459-b469-13f1cfec589a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop base and hinge view. Silver/gray finish."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "15.6\" Full HD Plus display (1920 x 1200)",
+        "Intel Core i7-11800H Octa-core processor (2.40 GHz)",
+        "32 GB RAM",
+        "512 GB SSD",
+        "NVIDIA RTX A2000 with 4 GB memory",
+        "Aluminum Titan Gray chassis",
+        "Windows 10 Pro",
+        "Dell Optimizer for Precision AI platform",
+        "92% display-to-body ratio",
+        "ComfortView Plus low blue-light technology"
+      ],
+      "colors": [
+        {
+          "hex": "#32352f",
+          "percentage": 0.2555
+        },
+        {
+          "hex": "#6a726e",
+          "percentage": 0.2374
+        },
+        {
+          "hex": "#8e989a",
+          "percentage": 0.1563
+        },
+        {
+          "hex": "#505042",
+          "percentage": 0.1265
+        },
+        {
+          "hex": "#151715",
+          "percentage": 0.1165
+        },
+        {
+          "hex": "#b4bfc5",
+          "percentage": 0.1077
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/vX2OlIZ-n0yg-8tFxDf?o=01M37XNVKJY2P28H4XYKA5R9AX&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 1143.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 68.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/vX2OlIZ-LPzf-8tFxDf?o=01M5K9AH420C7KA9S4NY5N2J2M&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2299.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 9.07,
+              "unit": "in"
+            },
+            "width": {
+              "number": 13.56,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.56,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.06,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "processor-cores": [
+          "Octa",
+          "Quad"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "storage-capacity": [
+          "512 GB",
+          "1 TB"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-fair"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "memory-technology": [
+          "GDDR6"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": {
+        "value": 4.21,
+        "count": 19,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "lwKc3hR",
+      "title": "Dell Precision 3561 15.6\" Refurbished Laptop",
+      "description": "A refurbished Dell Precision 3561 laptop featuring an 11th generation Intel Core i5-11500H processor, 16GB of DDR4 RAM, and a 512GB PCIe NVMe M.2 SSD. It is equipped with a 15.6-inch Full HD (1920x1080) display, integrated Intel UHD Graphics, and runs on Windows 11 Pro. The laptop includes connectivity options such as two Thunderbolt 4 Type C ports, two USB 3.2 Gen 1 Type A ports, HDMI 2.0, and an RJ-45 Ethernet port.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2cf2922a-6ce1-4519-969b-e501fb661ca1?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2cf2922a-6ce1-4519-969b-e501fb661ca1?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop displaying a 3D wireframe model on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4c41d830-b76e-41f2-a1e6-723ae1bdce98?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4c41d830-b76e-41f2-a1e6-723ae1bdce98?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop displaying a 3D wireframe model on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/28e4cef7-0bdf-4a1b-bd79-4a21f77b239c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28e4cef7-0bdf-4a1b-bd79-4a21f77b239c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop viewed from above showing the logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/31dabd19-4708-413f-894c-1977d21712ee?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/31dabd19-4708-413f-894c-1977d21712ee?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop shown from the side profile showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/907c18b1-46dd-4293-bca5-eaecba18e827?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/907c18b1-46dd-4293-bca5-eaecba18e827?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop open at an angle showing keyboard and screen."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "Fast and Reliable Intel Core i5-11500H 2.9GHz",
+        "32GB DDR4 RAM",
+        "512GB SSD",
+        "Microsoft Windows 11 Pro (64-bit)",
+        "Intel UHD Graphics (32EU)",
+        "Wi-Fi 6E",
+        "HDMI 2.0",
+        "Thunderbolt 4 USB-C",
+        "1 Year Warranty",
+        "16GB DDR4 RAM"
+      ],
+      "colors": [
+        {
+          "hex": "#d7ecf0",
+          "percentage": 0.3958
+        },
+        {
+          "hex": "#434444",
+          "percentage": 0.1672
+        },
+        {
+          "hex": "#87979f",
+          "percentage": 0.124
+        },
+        {
+          "hex": "#282929",
+          "percentage": 0.1136
+        },
+        {
+          "hex": "#9ecdd8",
+          "percentage": 0.1132
+        },
+        {
+          "hex": "#5e6061",
+          "percentage": 0.0862
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/lwKc3hR-LPzf-8tFxDf?o=01M620MA6TMJZDDP6JVJZ3CPHP&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 458.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/lwKc3hR-LFnL-8tFxDf?o=01KMX35XRJ093REP7010RGKCBB&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "staples.com",
+          "price": {
+            "price": 711.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-cores": [
+          "Hexa"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated",
+          "Professional"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "ram": [
+          "16 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "sHEeMDs",
+      "title": "Dell Precision 3000 3560 15.6\" Mobile Workstation - Full HD - 1920 x 1080 - Intel Core i7 11th Gen i7-1185G7 Quad-core (4 Core) 3 GHz - 16 GB RAM - 512 GB SSD - Titan Gray - Intel Chip - Windows",
+      "description": "This is a certified refurbished Dell Precision 3560 Workstation Laptop designed for high-performance demanding tasks. It features a 15.6-inch Full HD non-touch display, an 11th Gen Intel Core i7-1185G7 processor (clocked from 2.80 GHz to 4.70 GHz), and 32 GB of DDR4 3200 MHz dual-channel memory. Storage is provided by a 512GB PCIe x4 NVMe SSD. For graphics, it is equipped with an NVIDIA Quadro T500 with 2 GB GDDR6 VRAM. It runs on Windows 11 Pro and includes connectivity options such as Wi-Fi 6, Bluetooth 5.1, and a variety of ports including Thunderbolt 4, HDMI 2.0, and a Gigabit Ethernet port.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/da4542ad-d999-4dde-aa2d-72694b7b2e19?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/da4542ad-d999-4dde-aa2d-72694b7b2e19?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen showing 3D wireframe model."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17e96f23-ebbf-4006-89d4-595512aa57ba?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/17e96f23-ebbf-4006-89d4-595512aa57ba?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop open displaying interior design rendering."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8fb2e06a-cd76-4f9c-b8d1-cb3eb71dba77?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8fb2e06a-cd76-4f9c-b8d1-cb3eb71dba77?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen open showing a desktop design interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/baee3341-af81-465b-8d42-24e281f91353?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/baee3341-af81-465b-8d42-24e281f91353?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying 3D room model."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b0572eb5-315e-48dd-899f-04e0705b8283?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b0572eb5-315e-48dd-899f-04e0705b8283?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying room interior design render."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ddaf81d4-5140-4d52-8955-5a935dc06f96?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen showing 3D mesh modeling interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b756f05d-29ce-4bbe-88b6-f968125ade29?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b756f05d-29ce-4bbe-88b6-f968125ade29?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell Precision 3000 laptop shown from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "15.6\" Full HD (1920 x 1080) display",
+        "Intel Core i7 11th Gen i7-1185G7 Quad-core 3 GHz processor",
+        "16 GB RAM",
+        "512 GB SSD",
+        "NVIDIA T500 with 2 GB graphics",
+        "Windows 10 Pro",
+        "Dell Optimizer for Precision AI platform",
+        "ComfortView Plus blue light reduction",
+        "Biometric sign-in with Windows Hello fingerprint reader",
+        "32 GB DDR4 3200 MHz Dual Channel Memory"
+      ],
+      "colors": [
+        {
+          "hex": "#44464a",
+          "percentage": 0.2637
+        },
+        {
+          "hex": "#bdbaba",
+          "percentage": 0.137
+        },
+        {
+          "hex": "#a19a95",
+          "percentage": 0.1323
+        },
+        {
+          "hex": "#374e68",
+          "percentage": 0.1285
+        },
+        {
+          "hex": "#e1dbd7",
+          "percentage": 0.1138
+        },
+        {
+          "hex": "#757c85",
+          "percentage": 0.1131
+        },
+        {
+          "hex": "#2b2b2b",
+          "percentage": 0.1116
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/sHEeMDs-LPzf-8tFxDf?o=01M5XNTEXQR24JWD1DEEQRN16P&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 662.27,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/sHEeMDs-n0yg-8tFxDf?o=01M37MGYAEB0CE0EJ3WMGT0HGW&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 835.0,
+            "compare_at_price": 3735.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Quad",
+          "Hexa"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "16 GB",
+          "32 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "storage-capacity": [
+          "512 GB",
+          "256 GB"
+        ],
+        "computer-form": [
+          "Workstation",
+          "Notebook"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-good",
+          "Refurbished-certified"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Ac5QTaw",
+      "title": "Dell Precision 7680 Mobile Workstation Laptop",
+      "description": "The Dell Precision 7680 is a high-end professional workstation designed for demanding workloads such as CAD design, 3D rendering, and software development. It is powered by an Intel 20-Core i7-13850HX vPro Processor, featuring 32GB of DDR5 CAMM RAM and a 512GB PCIe NVMe M.2 SSD for high-speed performance and multitasking. The device boasts a 16-inch FHD+ (1920 x 1200) anti-glare display and provides extensive connectivity options including dual Thunderbolt 4 ports and native Gigabit Ethernet. Built for durability with MIL-STD-810H testing and ISV certifications, it runs on Windows 11 Pro with AI-powered Copilot to streamline complex professional workflows.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/99bb8c0c-86dc-465e-99ed-523464f57647?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/99bb8c0c-86dc-465e-99ed-523464f57647?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop displaying detailed performance specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/60d974bb-2937-4efa-a3d6-90561207eb25?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Intel Core i7 processor specifications on a motherboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8d26d99-4beb-4907-8c89-7e1585b32e2e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop with NVIDIA RTX 1000 Ada graphics card."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4392bb2d-c4ea-4f14-89d9-55aadb2d2821?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell laptop screen view on a ship deck."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6a410311-c0fd-46c4-9fa2-4733b5fe91a6?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Laptop ports, camera, and keyboard detail view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/adcc49fc-fa82-48d4-9124-0821394d0c95?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop port configuration diagram."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/41b9cef2-446b-4d4d-9a0b-bde7d23a82a0?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell laptop showing large battery capacity."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Intel 20-Core i7-13850HX vPro Processor (up to 5.3GHz)",
+        "32GB DDR5 CAMM RAM",
+        "512GB PCIe NVMe M.2 SSD",
+        "16'' FHD+ (1920 x 1200) anti-glare display",
+        "Dual Thunderbolt 4 ports, USB-C, USB-A, HDMI, and Ethernet",
+        "1080p FHD webcam with privacy shutter",
+        "Backlit keyboard with numeric keypad",
+        "Windows 11 Pro 64-bit with AI-powered Copilot",
+        "MIL-STD-810H tested for durability",
+        "ISV certifications for professional applications"
+      ],
+      "colors": [
+        {
+          "hex": "#2f3436",
+          "percentage": 0.2407
+        },
+        {
+          "hex": "#a9b3a9",
+          "percentage": 0.1458
+        },
+        {
+          "hex": "#656c75",
+          "percentage": 0.1402
+        },
+        {
+          "hex": "#455157",
+          "percentage": 0.1366
+        },
+        {
+          "hex": "#7590a4",
+          "percentage": 0.1337
+        },
+        {
+          "hex": "#d1d3d5",
+          "percentage": 0.1182
+        },
+        {
+          "hex": "#9f999f",
+          "percentage": 0.0849
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Ac5QTaw-p1PB-8tFxDf?o=01M4C0M3TRBDNT33P160EJD80R&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1999.99,
+            "compare_at_price": 2799.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/Ac5QTaw-LPzf-8tFxDf?o=01M5ZKX07DPMTYQSQN5N6T8WHJ&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 3099.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.02,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.18,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.03,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.9,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock",
+          "AI-powered"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "ram": [
+          "64 GB",
+          "32 GB"
+        ],
+        "graphics-card-type": [
+          "Professional",
+          "Integrated"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-capacity": [
+          "2 TB",
+          "512 GB"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Y4ppYx5",
+      "title": "Dell Pro Precision 7 Series 16 Laptop",
+      "description": "The Dell Pro Precision 7 Series 16 Laptop is a powerful workstation designed for professional use. It features an Intel Core Ultra processor, NVIDIA RTX discrete graphics options, and a 16-inch display with a 16:10 aspect ratio. The laptop also includes Windows 11 Pro, 64GB of RAM, and a 512GB SSD for fast performance. Its sleek, modern design and full keyboard make it ideal for demanding tasks.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        },
+        {
+          "id": "ft5T",
+          "name": "NVIDIA"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3bef1236-1da7-46ff-9518-2e95c64f0c66?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cee1aed8-1f39-4116-9eab-e767cc826b8c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing photo editing software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7a53b2d7-6fbe-4679-ae4f-9c7f5cf35d7d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/e76bc0a2-bc23-4979-b3b5-978b1ffae73d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing photo editing software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/100a4900-9d59-4ddb-b3ce-3f0a15b73bd8?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/4ad28bbe-30eb-40d6-8362-d2bb6363da7f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing photo editing software interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1646b525-8059-4de8-ab80-1165e27d4528?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro Precision laptop base viewed from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4be52628-450f-4abf-8a64-764b92373ca7?aid=01M66D8YQPJAC224WJDC6FS76G&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using a laptop while working in a home office."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra processors",
+        "NVIDIA RTX discrete graphic options",
+        "16-inch QHD+, 16:10 display",
+        "Windows 11 Pro",
+        "64GB RAM",
+        "512GB SSD"
+      ],
+      "colors": [
+        {
+          "hex": "#16232e",
+          "percentage": 0.2335
+        },
+        {
+          "hex": "#767b80",
+          "percentage": 0.1913
+        },
+        {
+          "hex": "#090d11",
+          "percentage": 0.1659
+        },
+        {
+          "hex": "#234050",
+          "percentage": 0.1315
+        },
+        {
+          "hex": "#2f2524",
+          "percentage": 0.1126
+        },
+        {
+          "hex": "#a3a7a5",
+          "percentage": 0.0975
+        },
+        {
+          "hex": "#685c56",
+          "percentage": 0.0678
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Y4ppYx5-Bteb-8tFxDf?o=01KSHFJDS2DZ6NN4BZY8CTT6ND&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "dell.com",
+          "price": {
+            "price": 5099.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Power Supply",
+            "values": [
+              {
+                "label": "10W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "105W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "165W USB-C AC Adapter",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Storage Configuration (Raid)",
+            "values": [
+              {
+                "label": "NO RAID",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "RAID 0",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "RAID 1",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Memory",
+            "label": "32GB LPDDR5x 8533 MT/s"
+          },
+          {
+            "name": "Storage",
+            "label": "1TB PCIe NVMe 2230 SSD"
+          },
+          {
+            "name": "Processor",
+            "label": "Series 3 Intel\u00ae Core\u2122 Ultra 7 366H vPro\u00ae Enterprise"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "memory-technology": [
+          "DDR3"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "computer-specialized-features": [
+          "TPM (trusted platform module)",
+          "AI-powered"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xvYRY3F",
+      "title": "Dell Precision 7680 Mobile Workstation Laptop",
+      "description": "The Dell Precision 7680 is a high-performance 16-inch mobile workstation professionally upgraded by IST Computers for demanding professional workloads. It features an Intel Core i5-13600HX vPro processor, 32GB of DDR5 CAMM RAM, and a 2TB PCIe NVMe M.2 SSD. The device is equipped with an NVIDIA RTX 1000 Ada 6GB GPU, making it suitable for CAD design, 3D rendering, and content creation. Its standout feature is a 4K UHD+ (3840 x 2400) OLED touchscreen with 100% DCI-P3 color gamut and 400-nit brightness. Connectivity is extensive, including two Thunderbolt 4 ports, HDMI, and Wi-Fi 6E, while the chassis is MIL-STD-810H tested for durability. It runs Windows 11 Pro with AI-powered Copilot.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/12377639-05fa-4f6d-af7b-d7cc3bb50b29?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Specs banner for Dell Precision 7680 16 workstation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/900fbb6b-3679-4867-a508-5ffd48cca775?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Graphic card specification emphasizing dedicated graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1eda1057-d8f6-4b7e-b64b-81f665947864?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Processor specifications showing Intel Core i5-13600HX performance."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/464957ef-9d0d-4518-8e3f-2b41f32ed913?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Display specifications highlighting OLED and UHD+ resolution."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc651f3c-2a30-4846-8588-8e62a386547e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop features display including webcam and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc344b21-f508-4cba-a1cc-7ef2526dc689?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop port layout and connectivity specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b711363-a030-4a9d-9b78-d5f8b293051a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop battery information showing large capacity."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/69a80e5a-77ff-4a13-8055-006ef2a7b8d8?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/69a80e5a-77ff-4a13-8055-006ef2a7b8d8?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing a brain graphic on a dark background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core i5-13600HX vPro Processor (up to 4.8GHz)",
+        "32GB DDR5 CAMM RAM",
+        "2TB PCIe NVMe M.2 SSD",
+        "NVIDIA RTX 1000 Ada 6GB GPU",
+        "16\" 4K UHD+ (3840 x 2400) OLED touchscreen anti-glare display",
+        "100% DCI-P3 color gamut and 400-nit brightness",
+        "1080p FHD IR webcam with privacy shutter",
+        "Two Thunderbolt 4 ports, USB-C, two USB-A, HDMI, and Ethernet",
+        "Wi-Fi 6E and Bluetooth",
+        "Backlit keyboard"
+      ],
+      "colors": [
+        {
+          "hex": "#303344",
+          "percentage": 0.379
+        },
+        {
+          "hex": "#999cc1",
+          "percentage": 0.3284
+        },
+        {
+          "hex": "#53535e",
+          "percentage": 0.113
+        },
+        {
+          "hex": "#6b7fa9",
+          "percentage": 0.1014
+        },
+        {
+          "hex": "#a6b7d2",
+          "percentage": 0.0783
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xvYRY3F-LPzf-8tFxDf?o=01M5ZVE3HZF2B33C6B7MA96BQY&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 2199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.02,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.18,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.03,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.9,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/xvYRY3F-p1PB-8tFxDf?o=01M3TZ7F556RX2N686TXF3XRQY&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 2449.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "display-technology": [
+          "OLED"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen",
+          "AI-powered"
+        ],
+        "storage-capacity": [
+          "1 TB",
+          "512 GB",
+          "2 TB"
+        ],
+        "graphics-card-type": [
+          "Dedicated",
+          "Professional"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "Rechargeable"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "qVSYxbA",
+      "title": "Dell Precision 3490 14\" Laptop",
+      "description": "The Dell Precision 3490 is a professional-grade 14-inch business laptop designed for performance and efficiency. It is powered by the Intel Core Ultra 5-125U processor and comes equipped with 32GB of DDR5 RAM and a 512GB NVMe SSD. The device features a 1920 x 1080 Full HD anti-glare non-touch screen, a backlit keyboard, and a variety of ports including USB-C Thunderbolt 4 and HDMI. It runs on Windows 11 Pro and is finished in Titan Grey.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9d683951-25fa-4171-8673-72f423e05ca8?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell laptop screen showing a nature landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc8e3ec4-4393-4bcd-a6cf-b8154e86bd81?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop side ports detailing Thunderbolt and USB connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/543bdfc9-0e3c-49c3-bc70-16b042712828?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop side ports showing connectivity options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2a0c18f4-d307-4581-9f1d-2fd31257c669?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop screen showing data interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/32d9f207-0a8c-4f99-b7e2-6ce49d85c579?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a closed gray Dell Precision laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "14 inch FHD (1920 x 1080) Anti-Glare 60Hz Non-Touch Display",
+        "Intel Core Ultra 5 Processor 125U",
+        "32GB DDR5 RAM",
+        "512GB NVMe SSD",
+        "Windows 11 Pro",
+        "Thunderbolt 4 connectivity",
+        "Backlit Keyboard",
+        "Wi-Fi 6E and Bluetooth 5.3"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/qVSYxbA-LPzf-8tFxDf?o=01M1FRASSR2XBTB308VRV2VY7W&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "SATA SSD"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "W4cBgI0",
+      "title": "Dell Precision 3560 15.6\" Refurbished Laptop",
+      "description": "The Dell Precision 3560 is a certified refurbished workstation laptop designed for demanding workloads. It features a 15.6-inch Full HD touchscreen display and is powered by an 11th Gen Intel Core i7-1165G7 processor. For high-speed performance and multitasking, it is equipped with 32GB of DDR4 3200 MHz dual-channel memory and a 1TB PCIe x4 NVMe SSD. The laptop also includes an NVIDIA Quadro T500 GPU with 2GB GDDR6 VRAM, Windows 11 Pro, and versatile connectivity options including Thunderbolt 4, HDMI 2.0, and Wi-Fi 6.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5381c147-dc1c-4471-84a0-e7fe675eebc4?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/454438f9-21c1-454a-b883-6e85bc5cc201?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell Precision laptop displayed in a modern home office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2a778e52-230f-4080-b971-10d5003f4ad2?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/575fea81-47e6-47a0-b706-c4d0fc7c19d6?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a silver Dell Precision laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f61d1529-938a-421a-9723-d6a334c45c14?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f61d1529-938a-421a-9723-d6a334c45c14?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop viewed from an angle, showing the screen and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/00b36fe8-46e8-4b61-8a9a-11dd6a4fce81?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/a9387e51-5aec-496c-8364-7cf50246c028?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Bottom view of the Dell Precision laptop showing ports and vents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b6ff31e3-f114-4fb5-a0a7-7963810dfa1d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/0c4324b8-50ff-4f16-bff5-823d30708c09?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Open laptop showing keyboard and screen."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "11th Gen Intel Core i7-1165G7 processor (2.80 GHz to 4.70 GHz)",
+        "32GB DDR4 3200 MHz dual channel memory",
+        "1TB PCIe x4 NVMe SSD",
+        "15.6-inch Full HD touchscreen display",
+        "NVIDIA Quadro T500 with 2 GB GDDR6 VRAM",
+        "Windows 11 Pro operating system",
+        "Wi-Fi 6 (802.11ax), Dual-Band (2.4 and 5 GHz) and Bluetooth 5.1",
+        "2 x Thunderbolt 4 (Supports DisplayPort and Power Delivery)",
+        "2 x USB-A 3.1/3.2 Gen 2",
+        "HDMI 2.0 and RJ45 (Gigabit Ethernet) port"
+      ],
+      "colors": [
+        {
+          "hex": "#464646",
+          "percentage": 0.2592
+        },
+        {
+          "hex": "#c8c7c6",
+          "percentage": 0.1652
+        },
+        {
+          "hex": "#8a8c8e",
+          "percentage": 0.1334
+        },
+        {
+          "hex": "#282524",
+          "percentage": 0.1229
+        },
+        {
+          "hex": "#6e6863",
+          "percentage": 0.1163
+        },
+        {
+          "hex": "#a8a4a2",
+          "percentage": 0.1029
+        },
+        {
+          "hex": "#e8e9e8",
+          "percentage": 0.1001
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/W4cBgI0-LFnL-8tFxDf?o=01KZ5S07GJ7WGSWNZRVEV63KSY&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "staples.com",
+          "price": {
+            "price": 749.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Professional",
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "Refurbished-certified",
+          "Refurbished-excellent"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "memory-technology": [
+          "DDR3"
+        ],
+        "computer-specialized-features": [
+          "Touchscreen",
+          "Remote management"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "cPeUZvh",
+      "title": "Precision 3490 14\" FHD Mobile Workstation AI PC Laptop",
+      "description": "The Dell Precision 3490 is a high-performance 14-inch FHD mobile workstation AI PC designed for professionals like architects, engineers, and data analysts. Professionally upgraded by IST Computers, this model features an Intel Core Ultra 5 135H processor with 14 cores (up to 4.6GHz), 64GB of DDR5 RAM, and a 2TB SSD for fast storage and seamless multitasking. It is built for portability, weighing just 3.09 lbs, and is tested to MIL-STD 810H military standards. The laptop includes a 1080p FHD HDR RGB webcam with a privacy shutter, a backlit keyboard, and a dedicated Copilot key for AI-powered productivity. Connectivity options are extensive, including two Thunderbolt 4 ports, two USB-A ports, HDMI 2.1, and an Ethernet port, supporting up to three external 4K monitors.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4b39a31f-55f7-4e36-80de-2ed252cf9e0c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4b39a31f-55f7-4e36-80de-2ed252cf9e0c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Dell Precision 3490 laptop screen with specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b0522c89-19cd-404d-bb60-9d2c7af73886?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop specs: Intel Core Ultra 5, 64GB RAM, 2TB SSD, Windows 11 Pro."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b0b50ae1-ac6c-4e05-992e-7a807e30e6ec?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop screen showing webcam and backlighting keyboard features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0f12862e-9bb1-44d6-a0b4-d62d0d8d8ae4?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gray Dell laptop shown open with dimensions and weight information."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2e81e333-764c-4a84-9252-2cd6f802a226?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing software and industry certifications for the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ec53c704-f791-400f-b5bf-b1c8e97934b7?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Diagram showing the various ports and slots on the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b653052-9508-4921-949f-031dbb12e324?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two people looking at a laptop collaboratively in an office."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra 5 135H Processor (14 Cores, up to 4.6GHz)",
+        "64GB DDR5 RAM",
+        "2TB M.2 PCIe NVMe SSD",
+        "14\" FHD (1920x1080) Display",
+        "Windows 11 Pro 64-bit with AI-powered Copilot",
+        "MIL-STD 810H military standards tested",
+        "1080p FHD HDR RGB webcam with privacy shutter",
+        "Backlit keyboard with dedicated Copilot key",
+        "Two Thunderbolt 4 ports, two USB-A ports, HDMI, and Ethernet",
+        "Supports up to 3 external 4K@60Hz monitors"
+      ],
+      "colors": [
+        {
+          "hex": "#07101c",
+          "percentage": 0.4899
+        },
+        {
+          "hex": "#5b5e62",
+          "percentage": 0.1372
+        },
+        {
+          "hex": "#3f4247",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#242d37",
+          "percentage": 0.1307
+        },
+        {
+          "hex": "#9da0a4",
+          "percentage": 0.1092
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cPeUZvh-p1PB-8tFxDf?o=01M3NSJCFJGJZNJ0BJRKF6DFM9&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1999.99,
+            "compare_at_price": 2299.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 8.35,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.65,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.83,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.09,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-form": [
+          "Workstation"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eGeNia9",
+      "title": "Dell Precision 3490 14\" FHD Mobile Workstation AI PC Laptop",
+      "description": "The Dell Precision 3490 is a portable 14-inch mobile workstation designed for professionals such as architects, engineers, and data analysts. It features an Intel Core Ultra 5 135H processor with 14 cores, 16GB of DDR5 RAM, and a 256GB SSD, optimized for demanding tasks like CAD design, 3D rendering, and software development. The laptop includes a Full HD (1920x1080) display, a 1080p FHD HDR RGB webcam with a privacy shutter, and a backlit keyboard. It runs Windows 11 Pro with AI-powered Copilot and is built to MIL-STD 810H military standards for durability, weighing just 3.09 lbs. Connectivity options include Thunderbolt 4, USB-A, HDMI, and Ethernet ports.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e16e2e0f-d834-47c3-9a4e-fb7b785109ae?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e16e2e0f-d834-47c3-9a4e-fb7b785109ae?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying various data charts and graphs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/faa9971e-4a22-43f4-9485-b03a9674eeef?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the laptop keyboard and internal specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/faf6af0d-6404-4d8f-a365-d6833e562d15?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Dell laptop showing its display and features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7075d382-a2d5-4efa-8a00-9db4311e9ab9?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Side view of a gray Dell Precision 3490 laptop showing dimensions and weight."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eb4f9f64-cde3-4cce-b596-6e431217ab97?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen displaying CAD software and software certification logos."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/530ee24d-624b-4e49-8f76-3b3935c9adba?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view details of the laptop ports and slots."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fac00f3c-e7c2-4650-8a4c-a45f6ad64993?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two people working on laptops in an office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/61c30d64-5f1e-42d0-8afa-008a618b3d9e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/61c30d64-5f1e-42d0-8afa-008a618b3d9e?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a gray Dell Precision 3490 laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "Intel Core Ultra 5 135H Processor (14 Cores, up to 4.6GHz)",
+        "16GB DDR5 RAM",
+        "256GB M.2 PCIe NVMe SSD",
+        "14\" FHD (1920x1080) display",
+        "Built-in 1080p FHD HDR RGB webcam with privacy shutter",
+        "Two Thunderbolt 4 ports, two USB-A ports, HDMI, Ethernet, and Audio combo jack",
+        "Backlit keyboard with dedicated Copilot key",
+        "MIL-STD 810H military standard tested",
+        "Windows 11 Pro 64-bit"
+      ],
+      "colors": [
+        {
+          "hex": "#f7fafa",
+          "percentage": 0.3987
+        },
+        {
+          "hex": "#505361",
+          "percentage": 0.1448
+        },
+        {
+          "hex": "#97acd0",
+          "percentage": 0.1256
+        },
+        {
+          "hex": "#313242",
+          "percentage": 0.1181
+        },
+        {
+          "hex": "#cfdeec",
+          "percentage": 0.1153
+        },
+        {
+          "hex": "#747da4",
+          "percentage": 0.0976
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eGeNia9-p1PB-8tFxDf?o=01M4C1VNV4D6PKK13H6TPEYBWV&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 949.99,
+            "compare_at_price": 1399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 8.35,
+              "unit": "in"
+            },
+            "width": {
+              "number": 12.65,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.83,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.09,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "R67yfH5",
+      "title": "Dell Precision 7780 Mobile Workstation 17.3\" FHD Laptop",
+      "description": "The Dell Precision 7780 is a high-performance mobile workstation designed for professional-grade tasks such as CAD, 3D rendering, data analysis, and AI applications. It is powered by an Intel Core i9-13950HX processor and an NVIDIA RTX 3500 Ada Generation GPU with 12GB of GDDR6 VRAM. This workstation features a 17.3-inch FHD non-touch screen, a massive 128GB of DDR5 RAM, and a 2TB NVMe SSD for fast storage and multitasking. Built for connectivity, it includes Thunderbolt 4 ports, HDMI 2.1, and Wi-Fi 6E, running on Windows 11 Pro with AI Copilot for enhanced productivity.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a14475df-1de7-41e1-ae13-7121f592f74b?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen displaying key hardware specifications like CPU and GPU."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/702dfc25-5f5a-4de6-8c5e-bd79bf445563?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Bottom ports and slots layout of a Dell Precision laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04134bd2-2971-4d13-b294-c61a7196cb62?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Ports and connectivity layout on the side of a Dell Precision laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9ba4beff-1f34-44e6-9741-4875f5540d1c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "A woman using a Dell Precision laptop at a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0782ce2e-13a3-4426-9953-db413cfca066?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0782ce2e-13a3-4426-9953-db413cfca066?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Internal storage drive bays of the Dell Precision laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c79bcdcb-a2b2-4fb0-b7d6-8b386c25d418?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c79bcdcb-a2b2-4fb0-b7d6-8b386c25d418?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Dell Precision laptop displaying a medical interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d93743fc-bdf3-4f0e-a7b0-a9c7b325b3fe?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d93743fc-bdf3-4f0e-a7b0-a9c7b325b3fe?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Dell Precision laptop showing the logo."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "Intel Core i9-13950HX processor (24 Cores, up to 5.5 GHz)",
+        "NVIDIA RTX 3500 Ada Generation 12GB GDDR6 GPU",
+        "128GB DDR5 4800MHz RAM",
+        "2TB NVMe SSD",
+        "17.3\" FHD (1920 x 1080) Non-Touch Display",
+        "Windows 11 Pro with AI Copilot",
+        "Connectivity: Thunderbolt 4, HDMI 2.1, RJ-45, Wi-Fi 6E, Bluetooth 5.3",
+        "Dell ProSupport through March 2031"
+      ],
+      "colors": [
+        {
+          "hex": "#47484f",
+          "percentage": 0.2764
+        },
+        {
+          "hex": "#565c7d",
+          "percentage": 0.2742
+        },
+        {
+          "hex": "#686d7a",
+          "percentage": 0.1172
+        },
+        {
+          "hex": "#2f2d30",
+          "percentage": 0.1144
+        },
+        {
+          "hex": "#16181a",
+          "percentage": 0.1133
+        },
+        {
+          "hex": "#a9abb0",
+          "percentage": 0.1045
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/R67yfH5-LPzf-8tFxDf?o=01M5BDQHN6G1ND7FNX4SDKWGCW&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 4299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 15.67,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.44,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.13,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 9.5,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "ram": [
+          "128 GB"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "processor-family": [
+          "Intel core i9"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ZpHO4zL",
+      "title": "Dell Precision 7000 7680 Mobile Workstation Laptop (NVIDIA RTX 2000 Ada 8GB, 16\" FHD+, Intel 24-Core i9-13950HX, 64GB LPCAMM2 DDR5, 2TB SSD)",
+      "description": "The Dell Precision 7680 is a high-performance mobile workstation from the elite 7000 series, specifically engineered for demanding professional workflows in design, architecture, engineering, and content creation. It is powered by an Intel Core i9-13950HX vPro processor with 24 cores, 64GB of advanced DDR5 LPCAMM2 memory, and a 2TB PCIe NVMe SSD for rapid data access. For graphics-intensive tasks, it features a dedicated NVIDIA RTX 2000 Ada Generation GPU with 8GB GDDR6 memory. The laptop boasts a 16-inch FHD+ anti-glare display and extensive connectivity options, including dual Thunderbolt 4 ports. Built for reliability, it is MIL-STD 810H tested and runs Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2c5b708c-f7e7-4ae4-afe0-9226ca20e165?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2c5b708c-f7e7-4ae4-afe0-9226ca20e165?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision 7680 laptop displaying specs like i9 and RTX 2000 Ada."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5053a0b-1afd-49be-b1ac-9a13bb4cfc84?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Intel Core i9 processor specifications on a motherboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5327382-5005-474c-82b2-61af9e0cfa49?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop showing NVIDIA RTX 2000 Ada graphics card."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/234779ad-b699-4b3c-acf9-6e2d2ec9bd9f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying a scenic ocean view and FHD display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fcfd2068-7aa4-4c34-b7eb-0b767741dcd7?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up on laptop features like camera and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f4130365-1e66-4a64-9fd1-96819d6bd865?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing the various ports on the laptop sides."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e45180e6-0513-4bba-bea4-57e2f4c2802c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop highlighting the large capacity battery."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core i9-13950HX vPro (24 Cores, 32 Threads)",
+        "NVIDIA RTX 2000 Ada Generation 8GB GDDR6 GPU",
+        "16\" FHD+ (1920 x 1200) Anti-Glare Display",
+        "64GB LPCAMM2 DDR5 Memory",
+        "2TB PCIe NVMe SSD",
+        "Windows 11 Pro 64-bit",
+        "MIL-STD 810H tested for durability",
+        "Dual Thunderbolt 4 ports",
+        "1080p FHD RGB Camera with shutter"
+      ],
+      "colors": [
+        {
+          "hex": "#2b3238",
+          "percentage": 0.2586
+        },
+        {
+          "hex": "#48535d",
+          "percentage": 0.2457
+        },
+        {
+          "hex": "#9ea8b3",
+          "percentage": 0.1428
+        },
+        {
+          "hex": "#e6dfe3",
+          "percentage": 0.1313
+        },
+        {
+          "hex": "#bbced8",
+          "percentage": 0.1132
+        },
+        {
+          "hex": "#738b8b",
+          "percentage": 0.1084
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ZpHO4zL-LPzf-8tFxDf?o=01M5ZKYDVZJDJASBJ6Q341R71B&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "newegg.com",
+          "price": {
+            "price": 3499.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.02,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.18,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.03,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.9,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "processor-family": [
+          "Intel core i9"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "graphics-card-type": [
+          "Dedicated",
+          "Professional"
+        ],
+        "removable-storage-formats-supported": [
+          "SD"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "processor-cores": [
+          "Hexadeca"
+        ],
+        "ram": [
+          "64 GB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "2z9Pjb0",
+      "title": "Precision 7680 Workstation Laptop",
+      "description": "This Dell Precision 7680 workstation laptop is a powerful machine designed for creative professionals. It features an NVIDIA RTX 2000 Ada 8GB GPU for enhanced graphics performance, an Intel Core i7-13850HX vPro Processor for speed and efficiency, and 32GB of DDR5 CAMM RAM for seamless multitasking. The 2TB PCIe NVMe M.2 SSD provides ample storage and fast access times. Its 16-inch FHD+ (1920 x 1200) IPS Anti-Glare display offers crisp visuals, and it supports up to three external 4K monitors. Connectivity is robust with Thunderbolt 4, USB-C, USB-A, HDMI, and Ethernet ports, along with Wi-Fi 6E and Bluetooth 5.2. The backlit keyboard ensures comfortable use in any lighting. This laptop comes with Windows 11 Pro and is certified by Independent Software Vendors (ISVs), meeting MIL-STD 810G standards for reliability. It is ideal for architects, designers, engineers, programmers, video editors, and other technical experts seeking uncompromising performance.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4890ff10-fed9-47f3-bf55-1bfea01ab7e9?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision 7680 laptop showing its specifications and graphics card."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/77d5bf53-3bbf-423d-afab-88a211ef3719?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop screen showing system specs like 16\" display, 32GB RAM, and RTX 2000 Ada."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/619ce17c-e053-406f-9f67-984c4f69d461?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the Intel Core i7 processor chip on a circuit board."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bed9d71e-41b0-4e26-82e4-338452b8a0a7?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Laptop screen displaying details about the NVIDIA RTX 2000 Ada graphics card."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a06f9ac2-c5b9-4de5-b412-30be8f3217af?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Precision laptop showing off its sharp, anti-glare FHD display screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ece3e9a8-b166-4771-aa73-0ea053832b87?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop showing various features such as camera, keyboard, and backlighting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e8743a9d-af2d-4964-a21f-d6157555bd84?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the laptop ports showing connectivity options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9803ffdc-0b6a-4293-aa37-03cf30cf017a?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop battery icon and text indicating a large capacity battery."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9918f45c-b39d-429d-8d51-a417ea550f94?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man working on a laptop at a desk in a modern office setting."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "16\" Display",
+        "32GB RAM",
+        "2TB SSD",
+        "NVIDIA RTX 2000 Ada",
+        "Intel Core i7",
+        "Windows 11 Pro",
+        "Backlit Keyboard",
+        "1 Year Seller Warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#303344",
+          "percentage": 0.3804
+        },
+        {
+          "hex": "#999cc1",
+          "percentage": 0.3304
+        },
+        {
+          "hex": "#53535d",
+          "percentage": 0.113
+        },
+        {
+          "hex": "#6b7fac",
+          "percentage": 0.0976
+        },
+        {
+          "hex": "#a7b7d3",
+          "percentage": 0.0786
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2z9Pjb0-p1PB-8tFxDf?o=01KXS55185W41ENXB1DE80TJ1S&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 2549.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "LCD",
+          "IPS"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)",
+          "Hard disk drive (HDD)",
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-type": [
+          "Standard",
+          "Backlit"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Touchscreen",
+          "Quiet operation"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)",
+          "PCIe/NVMe SSD",
+          "M.2 SSD"
+        ],
+        "processor-family": [
+          "Intel core i9"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD",
+          "2560\u2009x\u20091440"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "z1UOwvI",
+      "title": "Dell Precision 3470 14\" FHD Mobile Workstation",
+      "description": "The Dell Precision 3470 is a 14-inch FHD mobile workstation professionally upgraded by IST Computers for enhanced performance. It is powered by a 12th Gen Intel Core i7-1260P 12-core processor, 32GB of RAM, and a 1TB M.2 NVMe PCIe SSD. For graphics-intensive tasks like 3D rendering and video editing, it features dedicated NVIDIA T550 graphics. Connectivity options include dual Thunderbolt 4 ports, USB-A 3.2 Gen 2 ports, HDMI, and Wi-Fi 6E. Security features include an integrated fingerprint reader, Windows Hello facial recognition, and a physical webcam blocker. The system comes with Windows 10 Pro and a free upgrade to Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/82da5744-b2e3-4b25-8040-fdd544f82028?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/ebb79918-3dbf-411f-9d45-fdc231624d75?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop with a black chassis displaying data analysis on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/60bf440e-b436-4c1e-9158-445fab54848b?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/67e19dfb-208b-47b5-9d88-b098237b0373?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen showing detailed technical specifications. (Specs graphic)"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0ee32bc-608a-408b-9a87-33918a8265fb?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/2de13360-7c27-4fee-a9fd-01d5abc9386f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop on a desk displaying data visualizations in a three-quarter view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d48fdacf-5b12-45a0-b3b7-8e46d6530e8d?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/de1663e6-5f18-4e61-9e64-eeca95251b1c?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop displaying data graphs and interface on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a75cf8dd-bf90-4935-9db2-497a3c426447?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/06f0cf92-8835-4694-a1b8-794f8c0c6ab4?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop base view showing the Dell logo and vents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aa277183-edb5-4226-909e-f73405b931d1?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/86d1f234-5e21-47c4-a063-096c8697b605?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop side profile view showing slim design and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6addf1dd-8f31-46ef-8e8d-4a25f838a52f?aid=01M66D8YQPJAC224WJDC6FS76G&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell laptop open next to a closed laptop showcasing different configurations."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "12th Gen Intel Core i7-1260P 12-Core processor",
+        "32GB RAM and 1TB M.2 NVMe PCIe SSD",
+        "Dedicated NVIDIA T550 graphics",
+        "14\" Full High Definition (FHD) display (1920 x 1080)",
+        "Dual Thunderbolt 4 interfaces",
+        "Wi-Fi 6E and Bluetooth 5.2 wireless technology",
+        "Hardware security: fingerprint reader, Windows Hello facial recognition, and physical webcam blocker",
+        "Professionally upgraded by IST Computers"
+      ],
+      "colors": [
+        {
+          "hex": "#202024",
+          "percentage": 0.288
+        },
+        {
+          "hex": "#8454c0",
+          "percentage": 0.1481
+        },
+        {
+          "hex": "#48494d",
+          "percentage": 0.1384
+        },
+        {
+          "hex": "#381a35",
+          "percentage": 0.1238
+        },
+        {
+          "hex": "#dedae1",
+          "percentage": 0.1204
+        },
+        {
+          "hex": "#7373af",
+          "percentage": 0.0985
+        },
+        {
+          "hex": "#5b1452",
+          "percentage": 0.0828
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/z1UOwvI-p1PB-8tFxDf?o=01M5E3H6EJYRH9H1GF46YHJ60X&aid=01M66D8YQPJAC224WJDC6FS76G",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1299.99,
+            "compare_at_price": 2399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "computer-form": [
+          "Workstation"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "processor-cores": [
+          "Deca"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjQ2NGViNGFiOTBkYWU3MmUiLCAib2Zmc2V0IjogMjB9"
+}

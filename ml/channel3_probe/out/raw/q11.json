@@ -1,0 +1,3717 @@
+{
+  "products": [
+    {
+      "id": "Og38Yg3",
+      "title": "Dell Pro 24 24\" IPS Monitor",
+      "description": "This Dell Pro 24-inch monitor features a Full HD (1920 x 1080) IPS panel with a 100Hz refresh rate and a 5ms response time for smooth visuals. Designed for productivity and comfort, it includes an anti-glare screen, 250-nit brightness, and adjustable tilt. The monitor is VESA mount compatible and offers versatile connectivity with HDMI 1.4, DisplayPort 1.2, and VGA ports. This specific bundle also includes a Dockztorm USB Hub with data transfer rates up to 5 Gbps and dual mount arms.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "OMUE",
+          "name": "Dockztorm"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1eaa6abb-a4e1-4922-9d59-f83421c7351c?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1eaa6abb-a4e1-4922-9d59-f83421c7351c?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro 24 24 inch monitor with dual mount arms on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1920 x 1080) resolution",
+        "100Hz refresh rate",
+        "5ms response time",
+        "IPS panel technology",
+        "Anti-glare display",
+        "HDMI, DisplayPort, and VGA inputs",
+        "VESA mount compatible",
+        "Includes Dockztorm USB Hub",
+        "Includes Dual Mount Arms"
+      ],
+      "colors": [
+        {
+          "hex": "#641cb0",
+          "percentage": 0.399
+        },
+        {
+          "hex": "#9257c2",
+          "percentage": 0.1999
+        },
+        {
+          "hex": "#43137c",
+          "percentage": 0.1545
+        },
+        {
+          "hex": "#8845c4",
+          "percentage": 0.1442
+        },
+        {
+          "hex": "#b394c8",
+          "percentage": 0.0534
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Og38Yg3-p1PB-8tFxDf?o=01M3ZM13SGQ47E7YDYBQ5PKGCJ&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 304.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": {
+              "number": 16.23,
+              "unit": "in"
+            },
+            "width": {
+              "number": 6.73,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.21,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 7.94,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "NTSC"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "c1H6tFE",
+      "title": "Dell P2424HT - LED monitor - 24\"",
+      "description": "The Dell P2424HT is a 24-inch (23.8\" viewable) LED-backlit LCD touchscreen monitor designed for productivity. It features a Full HD (1920 x 1080) resolution at 60 Hz with an IPS panel for wide viewing angles and 300 cd/m\u00b2 brightness. The monitor includes Dell ComfortView Plus technology to reduce harmful blue light and is equipped with a variety of connectivity options, including USB-C with up to 90W power delivery, HDMI, and DisplayPort. It also features integrated mono speakers and a height-adjustable stand with swivel and tilt capabilities.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b80030eb-32d5-4d6c-bdb8-413c76b96a90?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b80030eb-32d5-4d6c-bdb8-413c76b96a90?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell P2424HT monitor displaying a scenic landscape on a plain stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Touchscreen functionality",
+        "1920 x 1080 Full HD resolution",
+        "IPS panel with 1000:1 contrast ratio",
+        "USB-C connectivity with 90W Power Delivery",
+        "Dell ComfortView Plus for reduced blue light",
+        "3-sided bezeless design",
+        "Height, swivel, and tilt adjustable stand",
+        "Integrated mono speakers (3W)"
+      ],
+      "colors": [
+        {
+          "hex": "#a0a8af",
+          "percentage": 0.3026
+        },
+        {
+          "hex": "#3a4429",
+          "percentage": 0.2644
+        },
+        {
+          "hex": "#566431",
+          "percentage": 0.1204
+        },
+        {
+          "hex": "#23291c",
+          "percentage": 0.1181
+        },
+        {
+          "hex": "#d0d5d8",
+          "percentage": 0.1152
+        },
+        {
+          "hex": "#758c8b",
+          "percentage": 0.0793
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/c1H6tFE-TgS4-8tFxDf?o=01M3YWXM75DGC72W658FHMEKEP&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "cdw.com",
+          "price": {
+            "price": 489.99,
+            "compare_at_price": 562.49,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 12.6,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 17.33,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "1080p",
+          "Full HD"
+        ],
+        "energy-efficiency-class-sdr": [
+          "E"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight",
+          "Touchscreen"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "r3oFUXn",
+      "title": "Dell Pro P 24\" Full HD IPS Monitor & Monitor Arm Kit",
+      "description": "The Dell Pro P 24\" Full HD IPS Monitor & Monitor Arm Kit is a professional workstation bundle designed for productivity and ergonomic comfort. It features a 24-inch IPS panel with a 1920 x 1080 resolution, a 120 Hz refresh rate, and a 99% sRGB color gamut. The monitor is equipped with versatile connectivity, including HDMI, DisplayPort, and USB-C downstream ports with 15W power delivery. The kit includes the Dell MSA20 Single Monitor Arm, which allows for fluid height, tilt, swivel, and rotation adjustments, keeping the desk clutter-free and enabling an optimized viewing angle.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c81a88f9-3d8c-4ea3-b8ac-d7d3bf2cb161?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Full HD monitor with monitor arm on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d8b22d8a-c1f6-4c49-a42d-fc608350ac34?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d8b22d8a-c1f6-4c49-a42d-fc608350ac34?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Full HD monitor and monitor arm on a stand."
+        }
+      ],
+      "category": {
+        "slug": "ham",
+        "title": "Ham",
+        "path": [
+          {
+            "slug": "food-beverages-tobacco",
+            "title": "Food, Beverages & Tobacco"
+          },
+          {
+            "slug": "food-items",
+            "title": "Food Items"
+          },
+          {
+            "slug": "meat-seafood-eggs",
+            "title": "Meat, Seafood & Eggs"
+          },
+          {
+            "slug": "meat",
+            "title": "Meat"
+          },
+          {
+            "slug": "lunch-deli-meats",
+            "title": "Lunch & Deli Meats"
+          },
+          {
+            "slug": "ham",
+            "title": "Ham"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" 16:9 IPS Panel",
+        "FHD 1920 x 1080 resolution at 120 Hz",
+        "HDMI 1.4 and DisplayPort 1.4 connectivity",
+        "Dell MSA20 Single Monitor Arm for flexible adjustment",
+        "99% sRGB color gamut with 16.7 million colors",
+        "4-star certified for eye-comfort (blocks 35% of blue light)",
+        "USB-C 3.2 Gen 1 downstream ports with 15W power delivery",
+        "1500:1 static contrast ratio and 300 nits brightness"
+      ],
+      "colors": [
+        {
+          "hex": "#62cdd0",
+          "percentage": 0.2669
+        },
+        {
+          "hex": "#a2ecef",
+          "percentage": 0.2502
+        },
+        {
+          "hex": "#1c3f42",
+          "percentage": 0.1398
+        },
+        {
+          "hex": "#0c1f22",
+          "percentage": 0.1251
+        },
+        {
+          "hex": "#177379",
+          "percentage": 0.1093
+        },
+        {
+          "hex": "#4b8c8f",
+          "percentage": 0.1087
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/r3oFUXn-oHaU-8tFxDf?o=01M3JBNCCA3YE7NJ7RNES2NREA&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 343.99,
+            "compare_at_price": 393.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.6,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 10.74,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "2LCJCXQ",
+      "title": "Dell P2425H LED monitor",
+      "description": "The Dell P2425H is a 24-inch Full HD LED monitor designed to enhance productivity. It features a 1920 x 1080 resolution, a 100Hz refresh rate, and IPS technology for wide viewing angles. The monitor is T\u00dcV Rheinland\u00ae 4-star eye comfort certified with ComfortView Plus to reduce blue light. It offers versatile connectivity with HDMI, DisplayPort, VGA, and a USB-C port (up to 15W power delivery). For ergonomic comfort, it includes an adjustable stand for height, tilt, swivel, and pivot.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b544b9f0-9586-4352-b7ad-11623c51fc79?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b544b9f0-9586-4352-b7ad-11623c51fc79?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor displaying abstract purple and blue fluid art."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" Full HD (1920 x 1080) LED display",
+        "100Hz refresh rate and 5ms response time",
+        "T\u00dcV Rheinland\u00ae 4-star eye comfort certification",
+        "ComfortView Plus reduces blue light by less than 35%",
+        "IPS technology with 178\u00b0/178\u00b0 viewing angles",
+        "1500:1 contrast ratio",
+        "Connectivity: HDMI, VGA, DisplayPort, and USB-C (15W power delivery)",
+        "Adjustable stand for height, tilt, swivel, and pivot"
+      ],
+      "colors": [
+        {
+          "hex": "#431f68",
+          "percentage": 0.253
+        },
+        {
+          "hex": "#211252",
+          "percentage": 0.2511
+        },
+        {
+          "hex": "#8d599f",
+          "percentage": 0.1421
+        },
+        {
+          "hex": "#4c3783",
+          "percentage": 0.1307
+        },
+        {
+          "hex": "#7a3d84",
+          "percentage": 0.1169
+        },
+        {
+          "hex": "#b58bc3",
+          "percentage": 0.1062
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2LCJCXQ-TgS4-8tFxDf?o=01M3YWZD1KQ74J24D7V3HKX4N2&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "cdw.com",
+          "price": {
+            "price": 455.99,
+            "compare_at_price": 526.32,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 14.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 10.16,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "energy-efficiency-class-sdr": [
+          "C"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "LED backlight"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "UyM7Kk0",
+      "title": "24\" Full HD IPS LED 100Hz Monitor",
+      "description": "The Dell P2425H is a 24-inch Full HD professional monitor featuring a 1920 x 1080 resolution and a smooth 100Hz refresh rate. Utilizing IPS technology, it ensures consistent colors and wide viewing angles, making it ideal for graphic design, data analysis, and general business productivity. This ergonomic display includes a flexible stand for tilt, swivel, pivot, and height adjustments, alongside ComfortView certification to reduce eye fatigue. This bundle includes the monitor, essential cables (HDMI, DisplayPort, USB-C), and an LCD cleaning kit.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a0639fe8-1975-456c-9095-bb12af727664?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor with colorful screen and accessories on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/40530a56-695d-499c-81da-2588aa2a9e0d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor showing abstract purple flowing wallpaper."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0347/0445/7864/files/1713436255_IMG_2234897.jpg?width=2000",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor displaying abstract purple flowing wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a3180dc0-ebb3-4021-8554-481b5a2bfb5f?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Dell P2425H monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/91244fdb-ef7e-4b84-acdf-e900371abf75?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view showing ports and ventilation on the back of the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9c225a0f-3c2e-4522-849a-6acba27dd5f1?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor on a stand, displayed vertically."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0347/0445/7864/files/1713436255_IMG_2234901.jpg?width=2000",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/75f673f7-9a4a-4b07-97d3-29f6b675ad53?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor on a stand, side profile view."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24-inch Full HD (1920 x 1080) IPS display",
+        "100Hz refresh rate for smooth visuals",
+        "99% sRGB color gamut coverage",
+        "Adjustable stand (tilt, swivel, pivot, and height)",
+        "ComfortView certification for reduced blue light emissions",
+        "Includes HDMI, DisplayPort, and VGA connectivity",
+        "Bundle includes LCD cleaning kit and USB-C cable"
+      ],
+      "colors": [
+        {
+          "hex": "#c4c3c8",
+          "percentage": 0.5085
+        },
+        {
+          "hex": "#e1e0e5",
+          "percentage": 0.2725
+        },
+        {
+          "hex": "#7c2c2b",
+          "percentage": 0.1129
+        },
+        {
+          "hex": "#a19a9c",
+          "percentage": 0.106
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/UyM7Kk0-p1PB-8tFxDf?o=01KZ9TVDPSMY95REETDQZ9ABNV&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 214.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/UyM7Kk0-hFQq-8tFxDf?o=01M1RT1E3X8SRJN3TDGS509WGW&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "6ave.com",
+          "price": {
+            "price": 259.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.018,
+          "dimensions": {
+            "length": {
+              "number": 23.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.78,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED",
+          "IPS"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "VGA",
+          "USB"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "HDR support",
+          "LED backlight"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eT5lgBj",
+      "title": "Dell P2425H Monitor",
+      "description": "This professional workspace bundle includes two Dell 24-inch P2425H monitors, each featuring Full HD (1920 x 1080) resolution and a smooth 100Hz refresh rate. The IPS panels ensure vibrant colors and consistent viewing angles, making them ideal for graphic design, photo editing, and data analysis. These monitors are designed for comfort with an adjustable stand (tilt, swivel, pivot, and height) and eye-comfort certification to reduce blue light emissions. The bundle is complete with necessary connectivity cables and an LCD cleaning kit.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4031839b-cba6-4745-9f9c-c7c89c1e8216?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Two black Dell monitors with blue light effects and cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/54609b31-5cfa-4a5b-b75f-3af438f350e6?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor displaying vibrant purple and blue abstract waves."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0b56bd49-19f1-4a56-840f-dcea2aeafc85?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor displaying vibrant purple and blue abstract waves."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f9c07ab6-b4b7-41f4-bee4-5c93cb60a34b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor displaying vibrant purple and blue abstract waves."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/52aeaaa1-8b42-4343-b61e-4bba7a3bb6ae?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a Dell monitor with silver stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e5f5e3bd-0b8e-47ba-8c7b-566a6a5f36c7?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the back panel of a black Dell monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51e58130-a2d8-4d45-b0b2-bc4051d7b482?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor on an adjustable silver H-shaped stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1048ae7e-cef3-4494-ae2e-b0324c17934f?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1048ae7e-cef3-4494-ae2e-b0324c17934f?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor on an adjustable silver H-shaped stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b1888b63-ad8b-4b32-bee7-ef8271b1215b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=hFQq",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Two Dell monitors with blue light effects and accessories."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD 1920 x 1080 resolution",
+        "100Hz refresh rate",
+        "16:9 IPS panel for consistent viewing angles",
+        "99% sRGB color gamut coverage",
+        "Adjustable stand (tilt, swivel, pivot, and height)",
+        "Certified for eye comfort with reduced blue light",
+        "Connectivity: HDMI, DisplayPort, and VGA",
+        "Includes 2 monitors, multiple cables, and an LCD cleaning kit"
+      ],
+      "colors": [
+        {
+          "hex": "#2a1657",
+          "percentage": 0.3805
+        },
+        {
+          "hex": "#905aa1",
+          "percentage": 0.1447
+        },
+        {
+          "hex": "#4f3988",
+          "percentage": 0.1393
+        },
+        {
+          "hex": "#542571",
+          "percentage": 0.1189
+        },
+        {
+          "hex": "#7f3f85",
+          "percentage": 0.1115
+        },
+        {
+          "hex": "#b68dc4",
+          "percentage": 0.105
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eT5lgBj-hFQq-8tFxDf?o=01M25TGTR0ARA3MKHC360E393B&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "6ave.com",
+          "price": {
+            "price": 259.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.018,
+          "dimensions": {
+            "length": {
+              "number": 23.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 15.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eua43KP",
+      "title": "Dell Pro P P2426HEV - LED monitor - Full HD (1080p) - 24\"",
+      "description": "The Dell Pro P P2426HEV is a 24-inch LED-backlit LCD monitor designed for productivity and entertainment. It features a Full HD resolution of 1920 x 1080 with a 120Hz refresh rate and an IPS panel for vivid visuals and wide 178-degree viewing angles. The monitor is highly versatile with comprehensive connectivity, including USB-C with up to 90W power delivery, HDMI, and DisplayPort. For enhanced functionality, it includes a built-in RGB and IR camera compatible with Windows Hello, a KVM switch, and a USB-C hub. Its ergonomic design allows for height, pivot, swivel, and tilt adjustments to ensure optimal user comfort. Additionally, it is ENERGY STAR certified and EPEAT Gold compliant.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b1905e41-9f3a-4ae5-bbe0-6b2d89c8089b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b1905e41-9f3a-4ae5-bbe0-6b2d89c8089b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro P 24 USB-C Hub Monitor with curved display and black stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "1920 x 1080 Full HD (1080p) resolution",
+        "120 Hz refresh rate",
+        "IPS panel with 1500:1 contrast ratio",
+        "USB-C upstream with 90W Power Delivery",
+        "Built-in IR and RGB camera (Windows Hello compatible)",
+        "KVM switch and USB-C hub",
+        "Height, pivot, swivel, and tilt adjustable stand",
+        "ENERGY STAR and EPEAT Gold certified"
+      ],
+      "colors": [
+        {
+          "hex": "#0e2e5f",
+          "percentage": 0.2921
+        },
+        {
+          "hex": "#17091e",
+          "percentage": 0.2607
+        },
+        {
+          "hex": "#060008",
+          "percentage": 0.1531
+        },
+        {
+          "hex": "#7291bc",
+          "percentage": 0.1173
+        },
+        {
+          "hex": "#2f436e",
+          "percentage": 0.0895
+        },
+        {
+          "hex": "#430632",
+          "percentage": 0.0872
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eua43KP-TgS4-8tFxDf?o=01M3YXC02KVEFEV4F5QDWVN6C7&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "cdw.com",
+          "price": {
+            "price": 385.99,
+            "compare_at_price": 399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.3,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 20.8,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.82,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat",
+          "Curved"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "Ethernet"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in camera",
+          "LED backlight",
+          "AI-powered",
+          "HDR support"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "energy-efficiency-class-sdr": [
+          "D"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "I1cds9D",
+      "title": "Dell 24-inch Monitor 1920 x 1200 LED (P2424HEB)",
+      "description": "The Dell P2424HEB is a 23.8-inch Full HD IPS video conferencing monitor designed for effortless professional collaboration. It features a high-quality 2K QHD webcam with a Sony STARVIS sensor, dual echo-cancelling microphones, and dual 5W speakers. The monitor serves as a productivity hub with USB-C connectivity providing up to 90W power delivery, an RJ45 Ethernet port, and an intelligent Auto KVM switch to control two PCs with one set of peripherals. It is certified for Microsoft Teams and Zoom, includes a manual webcam shutter, and offers ergonomic adjustments including tilt, swivel, pivot, and height settings.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/68d7ab65-caaf-4f38-87b1-30c0fcaa0f44?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor displaying a video conference meeting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce11a24d-c49a-483d-b45f-2d4df7ae3d75?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor showing Teams video conference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9945ef05-bf75-405a-b71c-b12769ac0106?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor displaying a video conference meeting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/65e3e47e-2429-4ee7-83d4-e9054b6963b5?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor and stand shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b616567-94e7-4b64-ad01-3e73ff6fda05?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor and stand in its default state."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/edd6c167-026a-4d78-91a0-469e8df93329?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor displaying a video conference meeting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/16915f49-25dd-443b-86d2-d725231beb36?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Dell monitor showing the viewing stand unfolded."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bb88b59f-16ff-4e93-bf9e-cb11fa8d0088?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor with silver stand and black screen on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0855c66b-5fff-4ac4-89e6-f30de1dd55a8?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor with silver stand and black screen on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/071389a1-0944-44ed-acd5-b6678218a7ef?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor showing Zoom video conference."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "2K QHD webcam with Sony STARVIS\u2122 sensor",
+        "AI Auto Framing and Noise Reduction",
+        "Built-in dual 5W speakers and echo cancellation microphones",
+        "Zoom and Microsoft Teams certified",
+        "1920 x 1200 LED display with 100Hz refresh rate",
+        "Adjustable stand (Height, Pivot, Tilt)",
+        "Manual webcam shutter and microphone mute button",
+        "23.8-inch Full HD IPS display",
+        "USB-C with up to 90W power delivery",
+        "Auto KVM switch for multi-PC control"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/I1cds9D-n0yg-8tFxDf?o=01M38JNDY62G8CAV8FBWC9SYW8&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 301.99,
+            "compare_at_price": 389.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 15.81,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 7.75,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/I1cds9D-LPzf-8tFxDf?o=01M1GER9ESHABAGYX9SQMY5KBH&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 505.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "3.5 mm",
+          "Ethernet"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9",
+          "16:10"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in camera",
+          "Built-in speakers",
+          "LED backlight",
+          "Anti-glare",
+          "Matte finish"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1",
+          "1500:1"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "P7X7Yol",
+      "title": "Dell P2425H 23.8\" 16:9 Full HD 100Hz IPS LCD Monitor",
+      "description": "The Dell P2425H is a 24-inch Full HD (1920x1080) LED monitor featuring IPS technology for consistent colors and wide viewing angles. Designed for productivity, it offers a 16:9 aspect ratio, 250 nit brightness, and a 5ms response time. The monitor includes a variety of connectivity options, including HDMI, VGA, DisplayPort, and a USB hub, and comes in a sleek black and silver finish.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3a8fab37-05de-452c-acba-bed354b6c9b2?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3a8fab37-05de-452c-acba-bed354b6c9b2?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor with abstract colorful background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f6d2d35-8039-48b4-b7fe-3e3e7f632d83?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4f6d2d35-8039-48b4-b7fe-3e3e7f632d83?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor with abstract colorful background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1bb3526f-18fd-4f2d-99d7-3e864af65074?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1bb3526f-18fd-4f2d-99d7-3e864af65074?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell P2425H monitor with abstract colorful background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc5354e9-1f07-4577-8afd-ef11d912d08b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor back view with silver stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/55406d2c-01d3-4e2e-88eb-97d708fd8402?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/55406d2c-01d3-4e2e-88eb-97d708fd8402?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor shown in side profile."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30253396-d4e2-46ac-a936-bd4b0e4a6690?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/30253396-d4e2-46ac-a936-bd4b0e4a6690?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor from an angle showing side and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e86a6dd-748d-46f9-84e1-fad140c73f9b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5e86a6dd-748d-46f9-84e1-fad140c73f9b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor rear panel showing ports and ventilation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b7a145b4-3c39-481c-887f-8312af57b2a3?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b7a145b4-3c39-481c-887f-8312af57b2a3?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor with multi-fan cooling system on the back."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/205c7cae-69ee-40db-ab25-39aed677d423?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Multiple Dell monitors displaying colorful abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d59b9be-440e-4ba7-bbf2-f319f96da4f8?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two Dell monitors displaying financial charts in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/db866d59-4727-4af5-9b79-9e7bf2142840?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/db866d59-4727-4af5-9b79-9e7bf2142840?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor displaying a green leaf pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e510ec01-89bf-4005-a7c8-5b05b85779a2?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person working at a desk with multiple monitors and a laptop."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24-inch screen size",
+        "Full HD resolution",
+        "LED backlit display",
+        "Sleek black design with silver stand",
+        "10Hz refresh rate",
+        "IPS Technology",
+        "HDMI, DisplayPort, and USB ports",
+        "tilt, swivel, and height adjustments",
+        "ComfortView",
+        "VESA mount compatibility"
+      ],
+      "colors": [
+        {
+          "hex": "#321b60",
+          "percentage": 0.2519
+        },
+        {
+          "hex": "#572975",
+          "percentage": 0.2422
+        },
+        {
+          "hex": "#9962a6",
+          "percentage": 0.1488
+        },
+        {
+          "hex": "#584393",
+          "percentage": 0.1396
+        },
+        {
+          "hex": "#8c488c",
+          "percentage": 0.1142
+        },
+        {
+          "hex": "#ba94c9",
+          "percentage": 0.1033
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/P7X7Yol-RnUy-8tFxDf?o=01M30ZFXAWDM7J38D8CSXYEXWM&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 150.0,
+            "compare_at_price": 156.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 6532.0,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/P7X7Yol-hFQq-8tFxDf?o=01M28BSZH8HBT0CDACK2KX91EG&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "6ave.com",
+          "price": {
+            "price": 229.49,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.018,
+          "dimensions": {
+            "length": {
+              "number": 23.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "LED",
+          "IPS",
+          "LCD"
+        ],
+        "display-resolution": [
+          "Full HD",
+          "1920 x 1080"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "VGA",
+          "USB"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "LED backlight"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "745qGnB",
+      "title": "Dell P2425H 24-Inch 1920 x 1080 FHD Flat Screen LED Monitor with IPS Technology",
+      "description": "This Dell P2425H 24-inch monitor offers a Full HD 1080p resolution with a 16:9 aspect ratio and IPS technology for vibrant colors and wide viewing angles. It features an edge LED backlight, a 100Hz refresh rate for smoother motion, and a response time of 5ms. Connectivity options include HDMI, DisplayPort, VGA, and a USB hub with a USB-C port offering up to 15W power delivery. The monitor is designed for enhanced eye comfort with ComfortView Plus technology, reducing harmful blue light emissions. It also boasts an adjustable stand for tilt, swivel, pivot, and height adjustments, and is built with sustainable materials. This is an open-box item, meaning it may have been previously opened or used, but is still in good working condition.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c4a77ca0-cc90-4f07-9d10-62e9fa52388d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c4a77ca0-cc90-4f07-9d10-62e9fa52388d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Dell monitor with abstract purple and pink flowing background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e76d8d44-6707-423c-85e8-a31fc5688bd0?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e76d8d44-6707-423c-85e8-a31fc5688bd0?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell monitor with abstract purple and pink flowing background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/39a86267-5fd9-4c68-b6cd-dd9d19da991d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/39a86267-5fd9-4c68-b6cd-dd9d19da991d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dell monitor with abstract purple and pink flowing background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce20956e-ba98-4887-95a1-b9e91d2bf958?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black Dell monitor showing the stand and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5c2c6501-e6aa-4857-ac9f-9b18aa6fea59?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5c2c6501-e6aa-4857-ac9f-9b18aa6fea59?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell monitor with its stand shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/41cd9c9d-88a2-4926-9c0d-86656c5177bf?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/41cd9c9d-88a2-4926-9c0d-86656c5177bf?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Dell monitor with its stand shown from a slight angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f90aad30-a92e-482c-a943-ec8cd78d57d1?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f90aad30-a92e-482c-a943-ec8cd78d57d1?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a black monitor showing the bezel and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/01f87436-c4fd-4def-a9c3-a61346c55634?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/01f87436-c4fd-4def-a9c3-a61346c55634?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor with a cooling fan visible on the bottom."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ca3b1f4b-fd72-4ea9-b757-816279fe58ba?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying abstract purple and pink flowing background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f37f83b5-00f9-474f-b3fb-38c3057ce397?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Screenshot showing financial budget and line graph applications on two monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ece8fbd-5966-4100-801d-bdc567259ba6?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5ece8fbd-5966-4100-801d-bdc567259ba6?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor displaying a green leaf pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/79f335c9-61bc-4ce8-887f-59d9b84b27ef?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person working at a desk with multiple monitors and a laptop in an office."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "recycled plastics",
+        "recycled steel",
+        "recycled aluminum",
+        "recycled glass"
+      ],
+      "key_features": [
+        "100 Hz Refresh Rate",
+        "5ms Response Time",
+        "IPS Panel",
+        "DisplayPort 1.2, VGA, and HDMI 1.4 connectivity",
+        "100 x 100 mm VESA Mount",
+        "Ergonomic stand with Height, Tilt, Swivel, and Pivot adjustments",
+        "T\u00dcV certified for 4-star eye comfort",
+        "Maximum Resolution: 1920 x 1080",
+        "Screen Size: 24 inches",
+        "99% sRGB"
+      ],
+      "colors": [
+        {
+          "hex": "#2e185e",
+          "percentage": 0.2626
+        },
+        {
+          "hex": "#8f5498",
+          "percentage": 0.2564
+        },
+        {
+          "hex": "#512670",
+          "percentage": 0.2336
+        },
+        {
+          "hex": "#553f8e",
+          "percentage": 0.1442
+        },
+        {
+          "hex": "#b891c7",
+          "percentage": 0.1033
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/745qGnB-RnUy-8tFxDf?o=01KRZNGADXN4Z4F0AYG09P4ST9&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 150.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/745qGnB-p1PB-8tFxDf?o=01KY4AQCJY6Z84J82HDB6QXK0E&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 189.0,
+            "compare_at_price": 189.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080",
+          "1080p",
+          "Full HD"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "display-technology": [
+          "LED",
+          "IPS"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA",
+          "USB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Adjustable viewing angle",
+          "LED backlight",
+          "Matte finish",
+          "Flicker-free",
+          "Anti-glare",
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "4G4zPSh",
+      "title": "24 P2424HT Multi-Touch Monitor",
+      "description": "The Dell 24 P2424HT is a 23.8-inch Full HD (1920 x 1080) IPS multi-touch monitor designed for interactive work and presentations. It features a responsive 10-point edge-to-edge touchscreen and a flexible articulating stand that supports height adjustment, tilt, and swivel, allowing the screen to be lowered to desk level for a tablet-like experience. The monitor includes an integrated USB-C hub providing up to 90W Power Delivery, multiple USB-A ports, and an RJ45 Ethernet port for single-cable docking. To enhance eye comfort, it utilizes Dell ComfortView Plus technology to reduce blue light. This bundle comes with essential cables, including DisplayPort, ZoomSpeed HDMI, and USB-C cables, and is compatible with both Windows and macOS.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f80a5a4c-ac25-49c6-9099-9e7bfe555895?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor screen with abstract graphics and cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/163cfa3b-a289-45ce-b06f-cb0a88b93ee2?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/1107785d-0928-48c8-b748-2d1d16e89a24?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 24-inch monitor with articulating stand showing abstract graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2eb4a094-1a69-4431-9c3d-190ade5f04c4?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 24-inch monitor with articulating stand showing abstract graphics."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "plastic"
+      ],
+      "key_features": [
+        "10-Point Edge-to-Edge Touchscreen for intuitive navigation",
+        "USB-C Docking Hub with Ethernet and up to 90W Power Delivery",
+        "Flexible articulating stand with height, tilt, and swivel adjustments",
+        "23.8-inch Full HD IPS panel (1920 x 1080) for consistent colors",
+        "Dell ComfortView Plus technology to reduce eye strain",
+        "Comprehensive connectivity: HDMI, DisplayPort, and USB-C",
+        "Compatible with Windows and macOS"
+      ],
+      "colors": [
+        {
+          "hex": "#c0a7ea",
+          "percentage": 0.3356
+        },
+        {
+          "hex": "#deb4e2",
+          "percentage": 0.2326
+        },
+        {
+          "hex": "#323138",
+          "percentage": 0.1377
+        },
+        {
+          "hex": "#e69fc7",
+          "percentage": 0.1353
+        },
+        {
+          "hex": "#dacee4",
+          "percentage": 0.0961
+        },
+        {
+          "hex": "#9f78b9",
+          "percentage": 0.0627
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/4G4zPSh-Qoqa-8tFxDf?o=01M1G9JXKXRV03H112MCRKARPX&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 449.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/4G4zPSh-p1PB-8tFxDf?o=01M3NS6F3KTKJQVRGWAM5Z50YG&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 449.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Touchscreen",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "VxTdB9d",
+      "title": "Dell Pro P 24 Monitor",
+      "description": "This 23.8-inch FHD monitor from Dell is designed for seamless productivity, offering extensive connectivity, a high refresh rate, and T\u00dcV-certified 4-star eye comfort. It features an IPS panel for wide viewing angles and a 120Hz refresh rate for smooth visuals. The monitor includes a variety of ports, including HDMI, DisplayPort, and USB-C with power delivery, making it a versatile addition to any workspace. Its adjustable stand allows for height, swivel, pivot, and tilt adjustments for ergonomic comfort.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/9589e4ca-f993-4c3b-924a-d07c226d41e1?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "24-inch Dell Pro P monitor with blue abstract background and black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6ad94f56-344c-4547-8554-c2fda333c8cd?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "24-inch Dell Pro P monitor with blue abstract background and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/06493ffc-0941-4219-a8c8-a01add58480f?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/1bcf89c8-0806-4a37-b330-ff1f00726ea1?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the Dell monitor showing ports and ventilation."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" Full HD IPS Display with 1920 x 1080 resolution",
+        "10Hz Refresh Rate for smoother scrolling and responsiveness",
+        "IPS Panel Technology for accurate colors and 178\u00b0 viewing angles",
+        "Integrated USB Hub for connecting peripherals",
+        "Fully Adjustable Ergonomic Stand (height, pivot, swivel, and tilt)",
+        "TAA Compliant",
+        "T\u00dcV-certified 4-star eye comfort",
+        "150:1 native contrast ratio",
+        "300 cd/m\u00b2 brightness",
+        "99% sRGB color gamut"
+      ],
+      "colors": [
+        {
+          "hex": "#83e0e3",
+          "percentage": 0.295
+        },
+        {
+          "hex": "#1b4044",
+          "percentage": 0.1398
+        },
+        {
+          "hex": "#0b1e21",
+          "percentage": 0.1244
+        },
+        {
+          "hex": "#53c0c3",
+          "percentage": 0.1222
+        },
+        {
+          "hex": "#478f92",
+          "percentage": 0.1139
+        },
+        {
+          "hex": "#167479",
+          "percentage": 0.1085
+        },
+        {
+          "hex": "#b6f8f9",
+          "percentage": 0.0962
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VxTdB9d-p1PB-8tFxDf?o=01KZYXRNJT3G38CXSCZVEKQ7Z6&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 174.99,
+            "compare_at_price": 189.9,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/VxTdB9d-Bteb-8tFxDf?o=01KP3DECJC1X4RV2VY33T6JEP0&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "dell.com",
+          "price": {
+            "price": 179.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": null,
+            "width": {
+              "number": 21.21,
+              "unit": "in"
+            },
+            "height": {
+              "number": 12.37,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 6.53,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Resolution",
+            "values": [
+              {
+                "label": "WUXGA (1920 x 1200)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490",
+                "product_id": "VxTdB9d"
+              },
+              {
+                "label": "Full HD (1920 \u00d7 1080)",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/72050453-8390-4473-bc5c-000af17a37c8",
+                "product_id": "oNPMqJL"
+              }
+            ]
+          },
+          {
+            "name": "Webcam",
+            "values": [
+              {
+                "label": "None",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490",
+                "product_id": "VxTdB9d"
+              },
+              {
+                "label": "Integrated Webcam",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/d9092faf-fa06-46f0-965a-1a74e0c6ebf3",
+                "product_id": "jKbPO0g"
+              }
+            ]
+          },
+          {
+            "name": "Speakers",
+            "values": [
+              {
+                "label": "None",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490",
+                "product_id": "VxTdB9d"
+              },
+              {
+                "label": "Integrated Speakers",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/d9092faf-fa06-46f0-965a-1a74e0c6ebf3",
+                "product_id": "jKbPO0g"
+              }
+            ]
+          },
+          {
+            "name": "Power Delivery",
+            "values": [
+              {
+                "label": "15W via USB-C downstream port",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490",
+                "product_id": "VxTdB9d"
+              },
+              {
+                "label": "90W",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/585d0225-90b7-4bad-8e21-bf4547ffc38d",
+                "product_id": "bT29U3F"
+              }
+            ]
+          },
+          {
+            "name": "Built-in Ethernet",
+            "values": [
+              {
+                "label": "None",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490",
+                "product_id": "VxTdB9d"
+              },
+              {
+                "label": "RJ45 Ethernet port, 1GbE",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/585d0225-90b7-4bad-8e21-bf4547ffc38d",
+                "product_id": "bT29U3F"
+              }
+            ]
+          },
+          {
+            "name": "Stand Included",
+            "values": [
+              {
+                "label": "Yes",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/85332ed3-5232-4c0e-b7f3-26f66add5490",
+                "product_id": "VxTdB9d"
+              },
+              {
+                "label": "None",
+                "exists": false,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/585d0225-90b7-4bad-8e21-bf4547ffc38d",
+                "product_id": "bT29U3F"
+              }
+            ]
+          },
+          {
+            "name": "Webcam",
+            "values": []
+          },
+          {
+            "name": "Stand Included",
+            "values": []
+          }
+        ],
+        "selected": [
+          {
+            "name": "Power Delivery",
+            "label": "15W via USB-C downstream port"
+          },
+          {
+            "name": "Stand Included",
+            "label": "Yes"
+          },
+          {
+            "name": "Size",
+            "label": "24-Inch"
+          },
+          {
+            "name": "Webcam",
+            "label": "None"
+          },
+          {
+            "name": "Speakers",
+            "label": "None"
+          },
+          {
+            "name": "Built-in Ethernet",
+            "label": "None"
+          },
+          {
+            "name": "Resolution",
+            "label": "WUXGA (1920 x 1200)"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "pattern": [
+          "Abstract"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "Rec. 709"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 27,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "GdnvvhS",
+      "title": "Dell Pro P P2426HEB LED monitor",
+      "description": "The Dell Pro P P2426HEB is a 24-inch LED-backlit IPS monitor designed for professional performance. It features Full HD (1080p) resolution with a 120Hz refresh rate and 300 cd/m\u00b2 brightness, ensuring vivid and smooth visuals. The monitor is highly versatile with connectivity options including HDMI, DisplayPort, and USB-C with power delivery up to 90W. It is equipped with built-in speakers, an IR camera, a microphone, and a KVM switch, making it an efficient hub for a modern workspace. For ergonomics, it offers adjustable height, tilt, swivel, and pivot rotations. This EPEAT Gold and ENERGY STAR certified monitor also includes eye comfort mode and anti-glare coating for prolonged use.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2f4594c3-b2c0-4347-95d8-d4253b95a467?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2f4594c3-b2c0-4347-95d8-d4253b95a467?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell P2426HEB monitor displaying a colorful wave pattern."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1080p) resolution at 120 Hz",
+        "IPS LED-backlit LCD technology",
+        "USB-C upstream/DisplayPort 1.4 Alt Mode with 90W Power Delivery",
+        "Integrated IR camera, microphone, and KVM switch",
+        "Adjustable stand (height, pivot, swivel, tilt)",
+        "EPEAT Gold and ENERGY STAR certified",
+        "Built-in stereo speakers (5W)",
+        "Anti-glare 3H Hard Coating"
+      ],
+      "colors": [
+        {
+          "hex": "#0c060a",
+          "percentage": 0.3018
+        },
+        {
+          "hex": "#1b2d3d",
+          "percentage": 0.1474
+        },
+        {
+          "hex": "#29130d",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#53554c",
+          "percentage": 0.1194
+        },
+        {
+          "hex": "#513422",
+          "percentage": 0.1188
+        },
+        {
+          "hex": "#929173",
+          "percentage": 0.1035
+        },
+        {
+          "hex": "#050d1d",
+          "percentage": 0.078
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/GdnvvhS-TgS4-8tFxDf?o=01M3YX9X4XRJVMQ4W67NYCVMYA&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "cdw.com",
+          "price": {
+            "price": 489.99,
+            "compare_at_price": 587.49,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 20.8,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 12.28,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in camera",
+          "Built-in speakers",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "energy-efficiency-class-sdr": [
+          "D"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "gWgMtKl",
+      "title": "Dell Dual 24\" P2425H Monitor Kit",
+      "description": "Enhance your workspace with the Dell 24 P2425H Monitor designed for professionals who value clarity and comfort. This 24-inch display features a 16:9 IPS panel providing Full HD resolution of 1920 x 1080 at 100 Hz. The IPS technology ensures vibrant colors and consistent viewing from any angle making it ideal for detailed tasks and collaborative environments. With a 5 ms (GtG) response time this monitor delivers smooth visuals reducing motion blur in fast-moving content. The monitor offers a 1500:1 static contrast ratio and 250 nits brightness ensuring clear and vivid images even in well-lit settings. Supporting 16.7 million colors and covering 99% of the sRGB color gamut it ensures accurate color reproduction perfect for tasks that demand precision such as graphic design and photo editing. Connectivity is versatile with HDMI DisplayPort and VGA inputs making it easy to integrate with your setup. The adjustable stand allows you to tilt swivel pivot and adjust the height for optimal viewing comfort reducing strain during extended use. Additionally the P2425H is certified for eye comfort featuring reduced blue light emissions to help minimize eye fatigue. Whether you re a designer data analyst or business professional the Dell 24 P2425H Monitor offers the performance versatility and comfort you need for a productive work environment. Its sleek design and ergonomic features make it an essential addition to any modern workspace.Manufacturer Included Items:Dell 24 P2425H Monitor Power Cord DisplayPort Cable (6 ) USB-A 3.2 Gen 1 to USB-B Cable (6 ) HDMI Cable (6 )Bundle Items Include:2 x Dell P2425H 24 Full HD (1920 x 1080) Display 16:9 IPS LED 100Hz Monitor2 x USB-C CableLCD Cleaning Kit",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3f79ef49-b9df-4beb-848c-a36cc44cb0e3?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor on a stand with vibrant purple abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e46a9358-ef02-460f-866e-239b0136f69d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e46a9358-ef02-460f-866e-239b0136f69d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell monitor on a stand with vibrant purple abstract wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1920 x 1080)",
+        "16:9 IPS panel",
+        "100 Hz refresh rate",
+        "5 ms (GtG) response time",
+        "1500:1 static contrast ratio",
+        "250 nits brightness",
+        "99% sRGB color gamut",
+        "HDMI, DisplayPort, and VGA inputs",
+        "Adjustable stand (tilt, swivel, pivot, height)",
+        "Blue light emission reduction"
+      ],
+      "colors": [
+        {
+          "hex": "#2c185b",
+          "percentage": 0.2524
+        },
+        {
+          "hex": "#4e246f",
+          "percentage": 0.2459
+        },
+        {
+          "hex": "#975fa4",
+          "percentage": 0.15
+        },
+        {
+          "hex": "#533d8b",
+          "percentage": 0.1321
+        },
+        {
+          "hex": "#854388",
+          "percentage": 0.1153
+        },
+        {
+          "hex": "#bb93c8",
+          "percentage": 0.1043
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gWgMtKl-BsaX-8tFxDf?o=01M5ZPCVK95Z4HF6TTWV7C1DR9&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "walmart.com",
+          "price": {
+            "price": 479.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA",
+          "USB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ]
+      },
+      "ratings": {
+        "value": 4.9,
+        "count": 8,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "5v7Q74W",
+      "title": "24 Inch FHD LED Backlit LCD IPS Monitor with DisplayPort and VGA Ports",
+      "description": "The Dell E2420H is a 24-inch Full HD (1920 x 1080) LED backlit monitor designed for everyday office work, school, and home computing. It features a sharp display with wide viewing angles and versatile connectivity options, including DisplayPort and VGA inputs. This refurbished business-grade monitor includes a tilt-adjustable stand and is VESA mount compatible for flexible setup options.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7b9227ca-0e58-427b-85f8-6df661c461cd?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "cleaned_url": "https://cdn.trychannel3.com/f3c596cc-4366-4603-8909-7e58840f4451?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Essential E2420H refurbished 24-inch FHD IPS LED monitor displaying a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/63b46084-17a7-4a15-bce8-10129c9d9ec7?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/63b46084-17a7-4a15-bce8-10129c9d9ec7?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Essential E2420H refurbished 24-inch FHD IPS LED monitor displaying a city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04a50676-60d4-41aa-9883-97b42b9a9785?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/04a50676-60d4-41aa-9883-97b42b9a9785?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black Dell Essential E2420H monitor with a speaker grille."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/93516ed4-be7d-45f0-b108-399cb86aa516?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/93516ed4-be7d-45f0-b108-399cb86aa516?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=o39o",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of a black Dell Essential E2420H monitor on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" Full HD Display (1920 x 1080 resolution)",
+        "DisplayPort and VGA inputs",
+        "LED Backlit Display for bright, clear pictures",
+        "Wide Viewing Angles for consistent visibility",
+        "VESA Mount Compatible",
+        "Tilt-Adjustable Stand",
+        "1000:1 contrast ratio",
+        "Thin profile for seamless multi-display setups",
+        "In-Plane Switching (IPS) technology",
+        "ComfortView flicker-free technology and blue-light filtration"
+      ],
+      "colors": [
+        {
+          "hex": "#322829",
+          "percentage": 0.1694
+        },
+        {
+          "hex": "#64bbee",
+          "percentage": 0.1459
+        },
+        {
+          "hex": "#cee5ea",
+          "percentage": 0.1427
+        },
+        {
+          "hex": "#7fd4fc",
+          "percentage": 0.1417
+        },
+        {
+          "hex": "#c4becc",
+          "percentage": 0.1166
+        },
+        {
+          "hex": "#0f1827",
+          "percentage": 0.1035
+        },
+        {
+          "hex": "#847b79",
+          "percentage": 0.0908
+        },
+        {
+          "hex": "#3c5d76",
+          "percentage": 0.0895
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5v7Q74W-o39o-8tFxDf?o=01M2XZK2P6NMEQSPT4Q1QNYRVC&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "discountelectronics.com",
+          "price": {
+            "price": 99.0,
+            "compare_at_price": 249.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.063,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/5v7Q74W-n0yg-8tFxDf?o=01M38ERP8ADEDEXJRRK5P4JZFK&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 245.0,
+            "compare_at_price": 269.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 102.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/5v7Q74W-LPzf-8tFxDf?o=01KBP7RYNWK1Z6F9YPW27K8RNQ&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 249.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "device-interface": [
+          "Display port",
+          "VGA"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "LED backlight",
+          "Adjustable viewing angle"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": {
+        "value": 3.62,
+        "count": 13,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "KBTRgvr",
+      "title": "Dell Pro 24 Plus Monitor",
+      "description": "Stay productive with the Dell Pro 24 Plus Monitor, featuring a vibrant FHD IPS display. This monitor is certified by T\u00dcV for 4-star eye comfort, ensuring an enhanced visual experience with seamless connectivity. It offers a widescreen view with a thin bezel and a sleek design, making it a great addition to any workspace.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0d3192d1-0615-416d-9ccc-23dc269db3d4?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0d3192d1-0615-416d-9ccc-23dc269db3d4?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Monitor stand with silver arm and base on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/94d9c3aa-9745-460e-a1f6-ffc4e3d8db2a?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/0d92fe8f-d75d-4644-9231-066d55321fb4?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "24-inch monitor displaying vibrant purple and pink abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c8bd2a99-ae7d-4a00-a88b-91fb79c4b70b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/ce9e9b69-17b6-4ff9-a2c8-8053c1120e8e?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "24-inch monitor displaying abstract purple and pink liquid flow."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/69ec643d-8265-45ec-8e54-59839cb1ba9a?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "24-inch monitor displaying vibrant purple and pink abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2dcb83ab-e3c6-4f0f-8eb0-6e894a7ef639?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of a Dell monitor with a silver stand and black bezel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9adf8d94-2c7c-477a-8482-c1f186eb2cd0?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cf0ac7d1-b790-49e3-b122-14619a5dec13?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor stand with silver arm and base on a white background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "FHD IPS display",
+        "T\u00dcV 4-star eye comfort certification",
+        "Seamless connectivity",
+        "Widescreen",
+        "Thin bezel",
+        "Height, Tilt, Swivel, Pivot adjustability",
+        "99% sRGB color gamut",
+        "100Hz refresh rate",
+        "USB-C downstream with 15W Power Delivery"
+      ],
+      "colors": [
+        {
+          "hex": "#a7a7a6",
+          "percentage": 0.4935
+        },
+        {
+          "hex": "#222327",
+          "percentage": 0.3242
+        },
+        {
+          "hex": "#717275",
+          "percentage": 0.1746
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/KBTRgvr-Bteb-8tFxDf?o=01KNWE8WH7AWQAS2CG1PV7VZGX&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "dell.com",
+          "price": {
+            "price": 184.99,
+            "compare_at_price": 199.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": null,
+            "width": {
+              "number": 21.21,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.55,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Resolution",
+            "values": [
+              {
+                "label": "QHD (2560 x 1440)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/7cc5dc55-7914-4dbb-a776-b9ac2c520a19",
+                "product_id": "ExQW2h1"
+              },
+              {
+                "label": "WUXGA (1920 x 1200)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/0d3192d1-0615-416d-9ccc-23dc269db3d4",
+                "product_id": "KBTRgvr"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Size",
+            "label": "24-Inch"
+          },
+          {
+            "name": "Resolution",
+            "label": "WUXGA (1920 x 1200)"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "VGA",
+          "USB"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 408,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "j2XnT7q",
+      "title": "24\" IPS LED FHD Monitor",
+      "description": "This Dell P2419H monitor features a 23.8-inch display with an ultrathin bezel, a small footprint, and comfort-enhancing features. It offers Full HD resolution, a 5ms response time, and a 76Hz refresh rate, making it suitable for gaming and video work. The monitor includes HDMI, VGA, and DisplayPort inputs, as well as USB 3.0 and 2.0 ports for connectivity. With 178\u00b0 viewing angles, a 1,000:1 contrast ratio, and 250 cd/m\u00b2 brightness, it provides crisp and clear images. It is also ENERGY STAR certified.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/59a4d428-84f4-46de-a8de-1dca67a1f719?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/b06ffba2-1b08-4144-8bbc-8e870c89bf0d?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell P2419H 24-inch IPS LED FHD Monitor in black."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LCD",
+        "Plastic",
+        "Metal"
+      ],
+      "key_features": [
+        "Full HD 1920 x 1080 resolution",
+        "5 ms response time",
+        "76 Hz refresh rate",
+        "24\" antiglare LED monitor",
+        "HDMI, VGA and DisplayPort inputs",
+        "2 USB 3.0 and 2 USB 2.0 ports",
+        "178\u00b0 horizontal and vertical viewing angles",
+        "1,000:1 contrast ratio",
+        "250 cd/m\u00b2 brightness",
+        "ENERGY STAR certified"
+      ],
+      "colors": [
+        {
+          "hex": "#37492e",
+          "percentage": 0.2743
+        },
+        {
+          "hex": "#182319",
+          "percentage": 0.2611
+        },
+        {
+          "hex": "#98adbb",
+          "percentage": 0.1713
+        },
+        {
+          "hex": "#859397",
+          "percentage": 0.1098
+        },
+        {
+          "hex": "#c7d2d7",
+          "percentage": 0.1086
+        },
+        {
+          "hex": "#4c796d",
+          "percentage": 0.0749
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/j2XnT7q-p1PB-8tFxDf?o=01KY2SN4VCT1NFQ0YD45TV9393&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": 209.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "FJU80PL",
+      "title": "Dell Pro P Series Monitor",
+      "description": "The Dell Pro P 24\" (P2426) is a professional Full HD+ monitor designed for everyday productivity. It features a 24-inch 16:10 IPS panel with a native resolution of 1920 x 1200, providing more vertical workspace than standard Full HD screens. The monitor offers a smooth visual experience with a 100 Hz refresh rate and a 5 ms response time. Connectivity is versatile with HDMI 1.4 and DisplayPort 1.4 inputs, along with an integrated USB hub featuring USB-C (with 15W charging) and USB-A ports. For ergonomic comfort, the monitor supports height, tilt, and swivel adjustments, as well as full rotation for portrait view, and is VESA mount compatible.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/61b38e37-39d0-4db3-9fd7-a89efdc598e6?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/61b38e37-39d0-4db3-9fd7-a89efdc598e6?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro P 24 16:10 monitor with blue abstract curves on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" 16:10 IPS Panel",
+        "HDMI 1.4 | DisplayPort 1.4",
+        "FHD+ 1920 x 1200 at 100 Hz",
+        "5 ms (GtG) Response Time",
+        "Integrated USB hub with USB-C (15W charging) and USB-A ports",
+        "99% sRGB color gamut coverage",
+        "Height, tilt, swivel, and rotation adjustable stand",
+        "100 x 100mm VESA mount compatible"
+      ],
+      "colors": [
+        {
+          "hex": "#cde9f5",
+          "percentage": 0.3991
+        },
+        {
+          "hex": "#112536",
+          "percentage": 0.1325
+        },
+        {
+          "hex": "#030c1e",
+          "percentage": 0.1269
+        },
+        {
+          "hex": "#2a4a5d",
+          "percentage": 0.1215
+        },
+        {
+          "hex": "#94c6dd",
+          "percentage": 0.1129
+        },
+        {
+          "hex": "#598aa4",
+          "percentage": 0.1072
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/FJU80PL-oHaU-8tFxDf?o=01M38MJ0C8NZEFDJD4T0QVDVM9&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 303.21,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 20.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 20.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 10.78,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Size",
+            "label": "24-inch"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:10"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "Anti-glare"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "gS8rslG",
+      "title": "Dell 24 Monitor - SE2426H",
+      "description": "The Dell 24 Monitor - SE2426H is a 23.8-inch Full HD (1920 x 1080) LED monitor designed for everyday productivity and smooth visual experiences. It features a high 144Hz refresh rate and a 1ms Moving Picture Response Time (MPRT) to reduce motion blur and tearing, supported by AMD FreeSync\u2122. The In-Plane Switching (IPS) panel ensures consistent color accuracy and wide 178\u00b0/178\u00b0 viewing angles. For eye health, it is T\u00dcV Rheinland 3-star certified for comfort view, reducing harmful blue light emissions. Its space-saving design includes ultra-thin bezels, dual HDMI 1.4 ports for seamless input switching, and a tilt-adjustable stand. Built with sustainability in mind, it utilizes post-consumer recycled plastics, steel, and glass, and is ENERGY STAR\u00ae certified.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4e42b917-9ade-4ce0-a47b-110f58cfc615?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4e42b917-9ade-4ce0-a47b-110f58cfc615?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell 24-inch computer monitor displaying a blue wave pattern."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "recycled plastic",
+        "recycled steel",
+        "recycled glass"
+      ],
+      "key_features": [
+        "144Hz refresh rate for smooth motion",
+        "1ms Moving Picture Response Time (MPRT)",
+        "T\u00dcV Rheinland 3-star certification for eye comfort",
+        "In-Plane Switching (IPS) technology for wide viewing angles (178\u00b0/178\u00b0)",
+        "AMD FreeSync\u2122 support to eliminate screen tearing",
+        "Dual HDMI 1.4 connectivity ports",
+        "Ultra-thin bezels for a maximized viewing experience",
+        "Sustainable design using recycled plastics, steel, and glass",
+        "ENERGY STAR\u00ae certified for energy efficiency"
+      ],
+      "colors": [
+        {
+          "hex": "#109ba9",
+          "percentage": 0.4871
+        },
+        {
+          "hex": "#0a6a7e",
+          "percentage": 0.3842
+        },
+        {
+          "hex": "#191e1f",
+          "percentage": 0.1287
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gS8rslG-Bteb-8tFxDf?o=01M2WX4Z7HATFFSWD7X2RGRKAC&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "dell.com",
+          "price": {
+            "price": 99.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 7.04,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.21,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.23,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 7.43,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "NTSC"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Suitable for gaming"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 75,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "pyddmgI",
+      "title": "Dell 24 Monitor",
+      "description": "This Dell 24-inch monitor, model SE2426H, is designed for everyday tasks with a focus on visual comfort and performance. It features a 144Hz refresh rate and a 1ms MPRT for smooth motion, making it suitable for gaming and fast-paced content. The T\u00dcV 3-star certification indicates its commitment to eye comfort during extended use. The monitor boasts an IPS panel for wide viewing angles and vibrant colors. It includes essential connectivity options and a stand with tilt adjustment.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/93c4e82a-468d-4384-9abc-cd28613b083e?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cad46587-4f2a-47fe-bee0-6a2e761dc5d5?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell 24 monitor displaying a cyan wave pattern on teal background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ef8470e-269f-482a-8ee6-f1d490c2778b?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Dell monitor displaying a cyan wave pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a68cf50f-15a9-4a3b-9383-00ab4dcadc90?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of a black Dell monitor showing branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/01e2ce68-5023-47d7-89b3-1f67ba737225?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a black Dell monitor with a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9925ede-ae99-4f6c-b6b6-51ad9f8e4f62?aid=01M66D918P10ZRFJ2SGA5C0S3D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Profile view of a black Dell monitor stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "23.8-inch display",
+        "144Hz refresh rate",
+        "1ms MPRT",
+        "T\u00dcV 3-star certification for eye comfort",
+        "IPS panel",
+        "Tilt adjustment",
+        "FreeSync (AMD Adaptive Sync)",
+        "1920 x 1080 Resolution",
+        "2 x HDMI 1.4 ports",
+        "VESA Mountable (100 x 100mm)"
+      ],
+      "colors": [
+        {
+          "hex": "#0e9ba9",
+          "percentage": 0.4852
+        },
+        {
+          "hex": "#0a6a7e",
+          "percentage": 0.3838
+        },
+        {
+          "hex": "#191e1f",
+          "percentage": 0.131
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/pyddmgI-LPzf-8tFxDf?o=01M62MW8B5315XJJKMJK9VYA3H&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 94.99,
+            "compare_at_price": 129.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 21.21,
+              "unit": "in"
+            },
+            "width": {
+              "number": 16.23,
+              "unit": "in"
+            },
+            "height": {
+              "number": 7.04,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 7.43,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/pyddmgI-Bteb-8tFxDf?o=01KQXA6HQ5P6B8HW8DFNHHA23T&aid=01M66D918P10ZRFJ2SGA5C0S3D",
+          "domain": "dell.com",
+          "price": {
+            "price": 99.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": null,
+            "width": {
+              "number": 21.21,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.23,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 7.43,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Refresh Rate",
+            "values": [
+              {
+                "label": "100 Hz",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/93c4e82a-468d-4384-9abc-cd28613b083e",
+                "product_id": "pyddmgI"
+              },
+              {
+                "label": "240 Hz",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/f4bf5793-70fd-4798-9f55-4762e373ac62",
+                "product_id": "J2nWTNF"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Height-Adjustable Stand",
+            "label": "Height-Adjustable"
+          },
+          {
+            "name": "Size",
+            "label": "24-inch"
+          },
+          {
+            "name": "Refresh Rate",
+            "label": "100 Hz"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Suitable for gaming"
+        ],
+        "pattern": [
+          "Graphic"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "NTSC"
+        ]
+      },
+      "ratings": {
+        "value": 4.62,
+        "count": 42,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmMwMGFmNDAxZjY1MTA5OTEiLCAib2Zmc2V0IjogMjB9"
+}
