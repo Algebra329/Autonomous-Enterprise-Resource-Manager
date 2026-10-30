@@ -19,5 +19,8 @@
     "@rm/agent": "workspace:*",
     "@rm/channel3": "workspace:*",
     "@rm/paypal": "workspace:*"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
   }
 }
