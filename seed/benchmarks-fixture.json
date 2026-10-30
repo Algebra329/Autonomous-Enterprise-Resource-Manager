@@ -1,0 +1,310 @@
+{
+  "source": "channel3",
+  "as_of": "2026-10-30",
+  "items": {
+    "DOCK-TB": {
+      "query": "Lenovo ThinkPad Thunderbolt 4 dock",
+      "product_title": "ThinkPad Thunderbolt 4 Workstation Dock",
+      "currency": "USD",
+      "median_price": 370.46500000000003,
+      "offers": [
+        {
+          "merchant": "adorama.com",
+          "price": 334.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/CVCWwHm-T9Fg-8tFxDf?o=01KNMAGT22QT42AD0FFSK96CB2&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
+        },
+        {
+          "merchant": "bestbuy.com",
+          "price": 342.94,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/CVCWwHm-p1PB-8tFxDf?o=01KYC7543SH1WDH3AM7P593EWV&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
+        },
+        {
+          "merchant": "cdw.com",
+          "price": 397.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/CVCWwHm-TgS4-8tFxDf?o=01M5BW33GB1QCZKPG16SXNTGRW&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
+        },
+        {
+          "merchant": "beachcamera.com",
+          "price": 419.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/CVCWwHm-RnUy-8tFxDf?o=01KRZ3GH1MC8VCXGFRV2MYFT6P&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
+        }
+      ]
+    },
+    "LAP-13": {
+      "query": "UltraLight 13 Laptop",
+      "product_title": "Microsoft Surface Laptop (13\", Snapdragon X Plus, 2025)",
+      "currency": "USD",
+      "median_price": 1249.99,
+      "offers": [
+        {
+          "merchant": "bestbuy.com",
+          "price": 1129.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/36jx1Uo-p1PB-8tFxDf?o=01KZQJE73ZVV0M6AN92039K8F0&aid=01M66DADGWZBXE9AJT02WFS3WR"
+        },
+        {
+          "merchant": "abt.com",
+          "price": 1249.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/36jx1Uo-DO3T-8tFxDf?o=01M2SHQXS1MMR0X6QM1R68JT37&aid=01M66DADGWZBXE9AJT02WFS3WR"
+        },
+        {
+          "merchant": "officedepot.com",
+          "price": 1249.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/36jx1Uo-6Uzl-8tFxDf?o=01M2NHN8Y0BG3G6855VCW9HYB3&aid=01M66DADGWZBXE9AJT02WFS3WR"
+        },
+        {
+          "merchant": "bhphotovideo.com",
+          "price": 1249.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/36jx1Uo-oHaU-8tFxDf?o=01M3B7PN5JE8VV7PDP402BNKNH&aid=01M66DADGWZBXE9AJT02WFS3WR"
+        },
+        {
+          "merchant": "staples.com",
+          "price": 1299.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/36jx1Uo-LFnL-8tFxDf?o=01KPF5ZEC2SM6E4VVM1Y53TN2R&aid=01M66DADGWZBXE9AJT02WFS3WR"
+        }
+      ]
+    },
+    "LAP-14": {
+      "query": "Lenovo ThinkPad T14 Gen 5",
+      "product_title": "Lenovo ThinkPad T14 Gen 5 - AI PC",
+      "currency": "USD",
+      "median_price": 1587.99,
+      "offers": [
+        {
+          "merchant": "adorama.com",
+          "price": 1234.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/MKfy49V-T9Fg-8tFxDf?o=01M596WKPKAP1949909J8BJWHA&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+        },
+        {
+          "merchant": "cdw.com",
+          "price": 1486.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/MKfy49V-TgS4-8tFxDf?o=01M42F30N7MCXD1AVQ8YWBW2KD&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+        },
+        {
+          "merchant": "officedepot.com",
+          "price": 1587.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/MKfy49V-6Uzl-8tFxDf?o=01M32HWHCVJKB8HV877SXCJ3N5&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+        },
+        {
+          "merchant": "newegg.com",
+          "price": 1728.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/MKfy49V-LPzf-8tFxDf?o=01M61J9HX4FHR77H42FYKBX9DG&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+        },
+        {
+          "merchant": "bestbuy.com",
+          "price": 1797.07,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/MKfy49V-p1PB-8tFxDf?o=01KXPGBJV6ANN2MQN6EXHZJTT1&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+        }
+      ]
+    },
+    "LAP-16": {
+      "query": "MacBook Pro 16 inch",
+      "product_title": "MacBook Pro 16\"",
+      "currency": "USD",
+      "median_price": 2979.495,
+      "offers": [
+        {
+          "merchant": "microcenter.com",
+          "price": 2499.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-yqJJ-8tFxDf?o=01M41TEK63Y0HPK7B3YNN0NH92&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "pcrichard.com",
+          "price": 2749.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-Pu5r-8tFxDf?o=01KR7XRK9FBSNWKTF661CJNV6M&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "bhphotovideo.com",
+          "price": 2749.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-oHaU-8tFxDf?o=01M3QFTK3QPYV1W0AGETYCCMPW&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "costco.com",
+          "price": 2959.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-ZO25-8tFxDf?o=01M13GB5X0H5HVTSKMM0T13YFS&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "adorama.com",
+          "price": 2999.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-T9Fg-8tFxDf?o=01KNJQYRE8715PNR859624S12Z&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "bestbuy.com",
+          "price": 2999.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-p1PB-8tFxDf?o=01KYC98DSGX3WB8K69RNQ3MXG0&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "cdw.com",
+          "price": 2999.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-TgS4-8tFxDf?o=01M5Z8J2AW7K1F98N34Z4HQZRR&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        },
+        {
+          "merchant": "quickshipelectronics.com",
+          "price": 4099.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-xO6g-8tFxDf?o=01M19EZVAXG33ACG64XZA872E0&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+        }
+      ]
+    },
+    "MON-24": {
+      "query": "HP E24 G5 monitor",
+      "product_title": "E24t G5 Monitor",
+      "currency": "USD",
+      "median_price": 389.99,
+      "offers": [
+        {
+          "merchant": "hp.com",
+          "price": 284.25,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/58irpw3-KRXv-8tFxDf?o=01KF2R3V62C2PRBN8ZWVPJWT9P&aid=01M66D93QQDZ37W2FSQ94R7STE"
+        },
+        {
+          "merchant": "bestbuy.com",
+          "price": 294.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/58irpw3-p1PB-8tFxDf?o=01KYC8NQVY5VGSRH1MXDKN05C6&aid=01M66D93QQDZ37W2FSQ94R7STE"
+        },
+        {
+          "merchant": "macys.com",
+          "price": 389.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/58irpw3-K6RA-8tFxDf?o=01M1H6XSXNEZ4RJH8AZSZ3WC0V&aid=01M66D93QQDZ37W2FSQ94R7STE"
+        },
+        {
+          "merchant": "adorama.com",
+          "price": 389.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/58irpw3-T9Fg-8tFxDf?o=01KNM8PRD7N2Q7C38BP88PWNFZ&aid=01M66D93QQDZ37W2FSQ94R7STE"
+        },
+        {
+          "merchant": "cdw.com",
+          "price": 389.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/58irpw3-TgS4-8tFxDf?o=01M38WDDJMWSEBKXWBZBCE3B8F&aid=01M66D93QQDZ37W2FSQ94R7STE"
+        }
+      ]
+    },
+    "MON-27": {
+      "query": "27 inch 4K USB-C monitor",
+      "product_title": "ColorPro VP2776T-4K Monitor",
+      "currency": "USD",
+      "median_price": 699.99,
+      "offers": [
+        {
+          "merchant": "macys.com",
+          "price": 699.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/FZSMl7u-K6RA-8tFxDf?o=01M3C5CT1T0MVWGFK38EJPJ03F&aid=01M66D9MR50VD82P0SDR9GQW7M"
+        },
+        {
+          "merchant": "officedepot.com",
+          "price": 699.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/FZSMl7u-6Uzl-8tFxDf?o=01M63MYYNJ8REXFERQ48VK8QQ9&aid=01M66D9MR50VD82P0SDR9GQW7M"
+        },
+        {
+          "merchant": "adorama.com",
+          "price": 699.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/FZSMl7u-T9Fg-8tFxDf?o=01KNMHQZT4W98Z4D7KS776JYHK&aid=01M66D9MR50VD82P0SDR9GQW7M"
+        },
+        {
+          "merchant": "bhphotovideo.com",
+          "price": 699.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/FZSMl7u-oHaU-8tFxDf?o=01M2NDWEBW6WTG0W7JSJPBNENJ&aid=01M66D9MR50VD82P0SDR9GQW7M"
+        },
+        {
+          "merchant": "bestbuy.com",
+          "price": 699.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/FZSMl7u-p1PB-8tFxDf?o=01KY013YK51B3C2ZFNAGEBQGH8&aid=01M66D9MR50VD82P0SDR9GQW7M"
+        }
+      ]
+    }
+  }
+}

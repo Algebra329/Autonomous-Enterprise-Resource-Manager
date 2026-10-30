@@ -1,0 +1,3258 @@
+{
+  "products": [
+    {
+      "id": "hqW0kLH",
+      "title": "CalDigit TS4 Thunderbolt 4 18-in-1 Hub",
+      "description": "The CalDigit TS4 is a professional-grade Thunderbolt 4 18-in-1 Hub designed to transform a notebook or PC into a full-fledged workstation. It features a comprehensive array of ports, including three Thunderbolt 4 ports for data speeds up to 40 Gb/s, three USB-C 3.2 Gen 2 ports, and five USB-A 3.2 Gen 2 ports. For multimedia and connectivity, it includes a DisplayPort 1.4 output (supporting up to 8K resolution or dual 4K 60 Hz displays), a 2.5 Gigabit Ethernet port, SD and microSD UHS-II card slots, and a 3.5mm combo audio jack. The hub provides up to 98W of power delivery to the host device and is compatible with macOS and Windows.",
+      "brands": [
+        {
+          "id": "hHMr",
+          "name": "CalDigit"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/78007524-b1d4-40ad-8b61-bf9bbac78c10?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/78007524-b1d4-40ad-8b61-bf9bbac78c10?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver CalDigit TS4 Thunderbolt hub shown from the front, standalone."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/982000b5-9b2f-4209-8454-a4a31f098d3f?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/982000b5-9b2f-4209-8454-a4a31f098d3f?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver CalDigit TS4 Thunderbolt hub shown from the front, standalone."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "Three Thunderbolt 4 Ports",
+        "Three USB-C 3.2 Gen 2 Ports",
+        "Five USB-A 3.2 Gen 2 Ports",
+        "DisplayPort 1.4 output supporting up to 8K resolution",
+        "SD and microSD UHS-II card slots",
+        "2.5 Gigabit Ethernet port",
+        "98W Power Delivery for host charging",
+        "Compatible with macOS and Windows"
+      ],
+      "colors": [
+        {
+          "hex": "#acafb5",
+          "percentage": 0.6413
+        },
+        {
+          "hex": "#32353c",
+          "percentage": 0.1297
+        },
+        {
+          "hex": "#8d9097",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#64676f",
+          "percentage": 0.0999
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/hqW0kLH-oHaU-8tFxDf?o=01M39ZM99YKVS3W2CJWZAPVD9W&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 379.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 5.55,
+              "unit": "in"
+            },
+            "width": {
+              "number": 4.46,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.65,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.41,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "1440p"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Display port",
+          "Ethernet",
+          "SD card",
+          "Thunderbolt",
+          "USB"
+        ],
+        "compatible-device": [
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "connector-gender": [
+          "Female"
+        ],
+        "material": [
+          "Aluminum"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "BGel3Kl",
+      "title": "CalDigit Thunderbolt 4 Pro Dock",
+      "description": "The CalDigit Thunderbolt 4 Pro Dock is a high-performance docking station designed to expand a Mac's connectivity through a single Thunderbolt 4 or 3 cable. It provides 18 ports, including three Thunderbolt 4 ports, five USB-A ports, three USB-C ports, and supports dual 6K 60Hz displays or a single 8K display. It also features SD and microSD 4.0 UHS-II card readers, a DisplayPort 1.4, and a 2.5 Gigabit Ethernet port, while delivering up to 98W of power to charge a connected laptop.",
+      "brands": [
+        {
+          "id": "hHMr",
+          "name": "CalDigit"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b909a33c-fd8a-4766-8427-efbd6037828b?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=DoAg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b909a33c-fd8a-4766-8427-efbd6037828b?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=DoAg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a CalDigit Thunderbolt 4 Pro Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0634fa52-7141-495b-941a-9bd54e3a7410?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=DoAg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a CalDigit Thunderbolt 4 Pro Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/022fc370-42da-4364-bc7b-b7e01995888e?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=DoAg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a CalDigit Thunderbolt 4 Pro Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/69182b15-2f7e-4493-9cfd-ee0f5a505ffa?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=DoAg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear ports and connectivity of the CalDigit dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/851d2784-f46a-4bfd-abf0-0cea1999f36c?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=DoAg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop and monitor connected via CalDigit dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "18 ports of connectivity",
+        "Up to 98W power delivery to laptop",
+        "Three Thunderbolt 4 (40Gb/s) ports",
+        "Supports single 8K or dual 6K 60Hz displays",
+        "Five USB-A (10Gb/s) ports",
+        "Three USB-C (10Gb/s) ports",
+        "One SD & one microSD 4.0 UHS-II card reader",
+        "One DisplayPort 1.4 port",
+        "One 2.5 Gigabit Ethernet port"
+      ],
+      "colors": [
+        {
+          "hex": "#dbdce0",
+          "percentage": 0.508
+        },
+        {
+          "hex": "#b7b8bc",
+          "percentage": 0.1315
+        },
+        {
+          "hex": "#444549",
+          "percentage": 0.1303
+        },
+        {
+          "hex": "#98999d",
+          "percentage": 0.1155
+        },
+        {
+          "hex": "#6a6b6f",
+          "percentage": 0.1147
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/BGel3Kl-DoAg-8tFxDf?o=01M3E9HSH0X4FQZX02C3FM87Z8&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "apple.com",
+          "price": {
+            "price": 329.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.2,
+          "dimensions": {
+            "length": {
+              "number": 4.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 1.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 5.6,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 24.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "material": [
+          "Aluminum"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "Display port",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm",
+          "SD card",
+          "Micro SD card"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "tNx7aWS",
+      "title": "Thunderbolt 4 Dock for Quad Monitors",
+      "description": "Expand your productivity with the Plugable Thunderbolt 4 Dock, designed for seamless connectivity and high-performance multitasking. This docking station supports up to four displays, including 2x HDMI and 2x Thunderbolt, with resolutions up to 4K or a single 8K display. It offers robust 100W (96W certified) host charging, ensuring your laptop stays powered. With three 40Gbps Thunderbolt ports, you benefit from rapid data transfer and 15W charging for connected devices. Additional features include high-speed USB ports, Gigabit Ethernet, an SD card slot, and audio connectivity, consolidating all your peripherals into one hub. Compatible with Windows 10+, macOS 11+, and ChromeOS 100+, this dock is a versatile solution for modern workstations. Plugable provides lifetime support for this product.",
+      "brands": [
+        {
+          "id": "1vI1",
+          "name": "Plugable"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/78e44659-6b6b-4ab4-a197-d5fb64360d37?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Two versions of the Plugable Thunderbolt dock shown."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9c28cfff-38ea-48db-bff4-22ef063ad23c?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Compatibility chart showing OS and host device support."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9422098b-0220-4924-b441-ad88e37b3c29?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop connected to a Thunderbolt dock with fast charging."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/99b13d6e-6ef8-4acb-b883-3da67c9cbdb6?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/272830ba-9cbb-4f4d-b4cf-af434d04cca0?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Setup demonstrating a laptop with four monitors via Thunderbolt dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b74b4a65-628f-49ba-ad5c-8a3fd4a16a42?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing Thunderbolt, HDMI, and USB ports on the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a2a519a-1c3b-41d0-83cb-9cc756ddc300?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Instructions on how to download and install the DisplayLink driver."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c3f4d138-ba66-4e4b-8573-9e783cfa56b7?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Setup demonstrating a Mac laptop with four monitors via Thunderbolt dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [],
+      "colors": [
+        {
+          "hex": "#b9c7d4",
+          "percentage": 0.3284
+        },
+        {
+          "hex": "#1f4974",
+          "percentage": 0.1338
+        },
+        {
+          "hex": "#2a83b0",
+          "percentage": 0.1338
+        },
+        {
+          "hex": "#0b2e54",
+          "percentage": 0.1201
+        },
+        {
+          "hex": "#7a8a9e",
+          "percentage": 0.1087
+        },
+        {
+          "hex": "#44b2c1",
+          "percentage": 0.1087
+        },
+        {
+          "hex": "#5ecee9",
+          "percentage": 0.0665
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/tNx7aWS-LPzf-8tFxDf?o=01KBPCTV3FMKA37J2Y3WZZ0WQE&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "newegg.com",
+          "price": {
+            "price": 319.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Ethernet",
+          "SD card",
+          "Thunderbolt",
+          "USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "l4bSIQE",
+      "title": "Plugable Thunderbolt 4 Dock with 100W Charging (TBT4-UD5)",
+      "description": "The Plugable TBT4-UD5 is a Thunderbolt 4 certified docking station designed for modern workspaces, compatible with Windows 10 or later and macOS (with specific display support for M1/M2/M3 Pro/Max). This versatile hub features 13 ports, including two HDMI 2.0 ports supporting dual 4K 60Hz displays or a single 8K display via its Thunderbolt 4 downstream port. It provides up to 100W Power Delivery (96W certified) to charge laptops and offers high-speed data transfer via 40Gbps Thunderbolt 4 ports, a 10Gbps USB-C port, and four USB-A ports. Additional connectivity includes Gigabit Ethernet, SD/Micro SD card readers, and a combo audio jack.",
+      "brands": [
+        {
+          "id": "1vI1",
+          "name": "Plugable"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d7eeb712-6c99-4aab-b88e-ef97e8da7f20?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d7eeb712-6c99-4aab-b88e-ef97e8da7f20?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Thunderbolt 4 dock device with various ports and connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/26086408-8bd3-4792-909a-2c52023d612d?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/26086408-8bd3-4792-909a-2c52023d612d?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Plugable Thunderbolt dock with Wirecutter product review badge."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e61395e3-852e-46df-a02f-61f88c2ed404?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e61395e3-852e-46df-a02f-61f88c2ed404?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Plugable dock with cables and accessories shown."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fe452d4a-8128-41e9-add8-38e95755c2e2?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Plugable dock connecting a laptop to dual monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c72af4e9-fbfd-461e-8bfa-3d112cd05ed9?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c72af4e9-fbfd-461e-8bfa-3d112cd05ed9?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of Plugable dock showing various ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b52ec05a-2321-4cec-91eb-f63492243c79?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b52ec05a-2321-4cec-91eb-f63492243c79?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Plugable Thunderbolt dock and charging cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bf52b3f8-fcf7-433b-b5cd-15ee1ff1abad?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Plugable dock setup with laptop and dual monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2e7e74d9-ad1a-4e9e-a4e8-3094ec421b53?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing dual display support up to 4K resolution."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "13-in-1",
+        "Thunderbolt 4 compatible",
+        "100W charging support",
+        "Supports 4K dual monitors or 8K single monitor",
+        "USB-C 10Gbps, USB 3.0, USB 2.0 ports",
+        "SD and Micro SD card readers",
+        "Gigabit Ethernet",
+        "K-Lock slot",
+        "Dual 4K 60Hz HDMI display support",
+        "40Gbps Thunderbolt 4 upstream and downstream ports"
+      ],
+      "colors": [
+        {
+          "hex": "#4d4e4f",
+          "percentage": 0.4468
+        },
+        {
+          "hex": "#f4f4f4",
+          "percentage": 0.4105
+        },
+        {
+          "hex": "#292a2c",
+          "percentage": 0.0821
+        },
+        {
+          "hex": "#808181",
+          "percentage": 0.0606
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/l4bSIQE-hl1t-8tFxDf?o=01KYMB3M0NR5NK2R1Q4NTK9NGJ&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 199.95,
+            "compare_at_price": 279.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/l4bSIQE-LPzf-8tFxDf?o=01KBPAP5WBKA5THASAEH03GW4C&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "newegg.com",
+          "price": {
+            "price": 199.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Micro SD card",
+          "Thunderbolt",
+          "USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "compatible-device": [
+          "Keyboard",
+          "Mouse",
+          "Smartphone",
+          "Tablet",
+          "Digital camera"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 8,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "GC7DFwo",
+      "title": "Razer Thunderbolt 4 Dock Docking Station",
+      "description": "The Razer Thunderbolt 4 Dock Chroma is a sleek, customizable hub designed to enhance connectivity for your setup. It features 10 ports, supporting lightning-fast data transfer rates and the ability to output to dual 4K or a single 8K display. Compatible with Windows 10/11 and macOS 11.1 or later, this docking station includes four Thunderbolt 4 ports, three USB-A 3.2 Gen 2 ports, Gigabit Ethernet, a UHS-II SD card slot, and a 3.5mm audio combo jack. It also supports pass-through charging and is Razer Chroma compatible.",
+      "brands": [
+        {
+          "id": "A70f",
+          "name": "Razer"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/108d53be-d87d-4a2b-97ec-007b5394205b?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/108d53be-d87d-4a2b-97ec-007b5394205b?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Razer Thunderbolt 4 Docking Station with various cables and adapters on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "plastic"
+      ],
+      "key_features": [
+        "Thunderbolt 4 (Type-C) Connection",
+        "Black Plastic Enclosure",
+        "USB Bus Powered",
+        "Universal",
+        "Dual 4K or single 8K video output",
+        "10 ports total",
+        "Razer Chroma Compatible",
+        "Pass-Through Charging",
+        "Thunderbolt 4 Certified",
+        "Future-Proof & Backward-Compatible"
+      ],
+      "colors": [
+        {
+          "hex": "#1d2024",
+          "percentage": 0.4958
+        },
+        {
+          "hex": "#373a42",
+          "percentage": 0.4269
+        },
+        {
+          "hex": "#7d8083",
+          "percentage": 0.0774
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/GC7DFwo-n0yg-8tFxDf?o=01M4P1HKEQX7Q1RX6CVV84BSEB&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 458.34,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 15.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "Ethernet",
+          "3.5 mm",
+          "SD card"
+        ],
+        "pattern": [
+          "Animal"
+        ]
+      },
+      "ratings": {
+        "value": 4.36,
+        "count": 11,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "1ZFHbBl",
+      "title": "Thunderbolt 4 Dock",
+      "description": "This Acer Thunderbolt 4 Docking Station offers extensive connectivity with 16 ports, supporting up to four 4K displays or a single 8K display. It features 40Gbps data transfer speeds for quick file transfers and a 160W power adapter to charge your laptop. With 2.5Gbps Ethernet and an SD 4.0 card reader, it's a versatile hub for both Windows and macOS.",
+      "brands": [
+        {
+          "id": "oLNv",
+          "name": "Acer"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a4759aae-884f-4cb4-bfa0-67765adb34df?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/6c96c891-e2d9-45ec-a382-7014704129af?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Grey Acer Thunderbolt 4 Docking Station with multiple ports."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16-in-1 Extensive Connectivity",
+        "Fast 40Gbps Data Transfer",
+        "Single 8K or Quad 4K@60Hz Display",
+        "160W Super Power Adapter",
+        "2.5 Gigabit Ethernet"
+      ],
+      "colors": [
+        {
+          "hex": "#3c4348",
+          "percentage": 0.3875
+        },
+        {
+          "hex": "#687178",
+          "percentage": 0.2979
+        },
+        {
+          "hex": "#c0cbd2",
+          "percentage": 0.1391
+        },
+        {
+          "hex": "#8e99a0",
+          "percentage": 0.0934
+        },
+        {
+          "hex": "#1b1f22",
+          "percentage": 0.0822
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1ZFHbBl-p1PB-8tFxDf?o=01KY717SF3BR6577PN905BF4FH&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 269.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI",
+          "SD card",
+          "USB",
+          "XLR-5"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "4K ultra HD",
+          "1080p",
+          "1440p",
+          "2160p"
+        ],
+        "material": [
+          "Aluminum",
+          "Metal"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "72r8xsr",
+      "title": "Plugable Thunderbolt 4 Dock",
+      "description": "A 13-in-1 Thunderbolt 4 docking station providing up to 100W Power Delivery, dual 4K display support via HDMI, 40Gbps data transfer, and a variety of USB, SD/microSD, Ethernet, and audio ports for a versatile workstation.",
+      "brands": [
+        {
+          "id": "1vI1",
+          "name": "Plugable"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/37e1aab5-a74e-4a0a-8e82-1caf3ea83080?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/fbf43ad6-bc59-49e1-b9bb-bea8d6523dd4?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Plugable 13-in-1 Thunderbolt 4 Docking Station shown from the front and a detached cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/100fd6e8-d1e2-4eaf-a7b0-085cd6dbc180?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram illustrating the connectivity and features of the 13-in-1 Thunderbolt 4 Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/be15715b-cc4d-43e1-9713-0a9d3c96018c?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Thunderbolt 4 dock connected to a laptop and dual monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eb17e891-6658-4739-ab51-6621e68ab256?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Thunderbolt 4 dock connecting a laptop to multiple displays."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0926945a-2af9-45ec-9a91-06e70cea7271?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Compatibility chart showing supported operating systems and host connections for the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/76e30779-4016-44a8-b582-b5eea4e7cce8?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Thunderbolt 4 dock providing 100W power delivery to a laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Metal casing (inferred from image and typical high-end dock construction)"
+      ],
+      "key_features": [
+        "Expand your workstation with this Plugable Thunderbolt 4 docking station for peak performance.",
+        "40Gbps Thunderbolt 4 ports for rapid data transfers.",
+        "Connect dual 4K displays at 60Hz via HDMI ports.",
+        "Up to 100W USB Power Delivery to charge laptops.",
+        "UHS-II SD/microSD card readers for fast media transfers.",
+        "Versatile connectivity with multiple USB-A and USB-C ports."
+      ],
+      "colors": [
+        {
+          "hex": "#505251",
+          "percentage": 0.63
+        },
+        {
+          "hex": "#323534",
+          "percentage": 0.3005
+        },
+        {
+          "hex": "#777978",
+          "percentage": 0.0695
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/72r8xsr-T9Fg-8tFxDf?o=01KNMDJM5DRATX6DPSDXM47NXA&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "adorama.com",
+          "price": {
+            "price": 199.95,
+            "compare_at_price": 279.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Keyboard",
+          "Mouse"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Micro SD card",
+          "Thunderbolt",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "WD6gmhQ",
+      "title": "Belkin Thunderbolt 4 Dock",
+      "description": "The Belkin Thunderbolt 4 Dock (INC030TTSGY) is a high-performance connectivity hub designed to expand laptop capabilities. It features a Thunderbolt 4 host connection supporting up to 40 Gb/s data transfer and 96W Power Delivery pass-through charging. The dock allows for the connection of up to three 4K60 external displays via one HDMI 2.1 and two DisplayPort 1.4 ports. It provides a wide array of I/O options, including five USB ports (one USB-C and four USB-A), 2.5 Gb/s Ethernet, SD 4.0 and microSD 4.0 card slots, and a 3.5mm audio combo jack.",
+      "brands": [
+        {
+          "id": "FjLZ",
+          "name": "Belkin"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4f047857-670c-40d7-8a82-6125a75dae4a?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver Belkin Connect Thunderbolt 4 Dock, side view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fd4291a8-a847-422b-96b4-7cb1ce206ac6?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Belkin dock with cables and power adapters."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6da980e1-c4fa-40ab-b49e-9e4cb1f08071?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Belkin dock with cables and power adapter."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cd5d3ea0-0922-412d-9327-5c657602a23e?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Belkin Connect Thunderbolt 4 Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ea493272-0165-4c4a-a024-7bda09e31399?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Belkin Connect Thunderbolt 4 Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c85629cb-23a6-4993-87ad-e65dde38f733?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Underside view of the Belkin Connect Thunderbolt 4 Dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Thunderbolt 4 (Type-C) Connection",
+        "Bandwidth speeds up to 40Gbps",
+        "Supports triple displays up to 4K at 60Hz",
+        "Up to 96W Power Delivery to host device",
+        "14 total ports for video, data, charging, and Ethernet",
+        "Compatible with ChromeOS, Windows, and macOS",
+        "1 x HDMI 2.1 & 2 x DisplayPort 1.4",
+        "1 x Thunderbolt 4 Port, 1 x USB-C & 4 x USB-A Ports",
+        "2.5 Gb/s Ethernet",
+        "1 x SD & 1 x microSD Card Slots"
+      ],
+      "colors": [
+        {
+          "hex": "#ababad",
+          "percentage": 0.6259
+        },
+        {
+          "hex": "#2d2d2e",
+          "percentage": 0.3741
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WD6gmhQ-oHaU-8tFxDf?o=01M3KNKENF4H3CE7DJKBWNNTTP&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 299.95,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 8.85,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.39,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.06,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.54,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Aluminum",
+          "Metal"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet",
+          "3.5 mm",
+          "SD card",
+          "Micro SD card",
+          "Micro USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "4320p",
+          "8K ultra HD"
+        ]
+      },
+      "ratings": {
+        "value": 4.46,
+        "count": 27,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "gqBsWx5",
+      "title": "Surface Thunderbolt 4 Dock",
+      "description": "The Surface Thunderbolt 4 Dock is a high-performance connectivity hub designed to transform your Surface computer into a desktop workstation. It features ultra-high-speed data transfer via USB4/Thunderbolt 4, supporting up to two 4K monitors at 60Hz and data speeds up to 40Gbps. The dock provides up to 96W of power passthrough to charge your laptop and accessories efficiently. It is equipped with a versatile array of ports, including front-facing and rear-facing USB-A and USB-C ports, an Ethernet port (2.5 Gbit/s), and a 3.5mm audio jack. Built with inclusivity in mind, it includes raised tactile indicators to help users with low vision identify ports easily. Additionally, the dock and power supply unit enclosures are made from 20% ocean-bound plastic, reflecting a commitment to sustainability.",
+      "brands": [
+        {
+          "id": "IAno",
+          "name": "Microsoft"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/60f68fda-6dca-4377-bee3-26db084c448c?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/60f68fda-6dca-4377-bee3-26db084c448c?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Thunderbolt 4 dock and cable on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e956aafe-313e-48d1-ae49-fb4efe6ce1fd?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e956aafe-313e-48d1-ae49-fb4efe6ce1fd?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Thunderbolt 4 dock device on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/12bfec67-3fbb-4382-9a12-e6b55e3f9964?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/12bfec67-3fbb-4382-9a12-e6b55e3f9964?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Thunderbolt 4 dock with USB-C cable on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/047cf989-dd03-4eb2-8e9a-ef11aaa1b3b3?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/047cf989-dd03-4eb2-8e9a-ef11aaa1b3b3?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the black Thunderbolt 4 dock showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9081caf4-3719-4081-92a0-e76749e68e64?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9081caf4-3719-4081-92a0-e76749e68e64?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=63Gk",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Thunderbolt 4 dock showing ports."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "ocean-bound plastic"
+      ],
+      "key_features": [
+        "USB4/Thunderbolt 4 high-speed ports",
+        "Connect up to two 4K monitors at 60Hz",
+        "Data transfer speeds up to 40Gbps",
+        "Up to 96W power passthrough",
+        "Cross-device compatibility with Surface and other USB4/Thunderbolt 4 devices",
+        "Raised tactile indicators for improved accessibility",
+        "Made with 20% ocean-bound plastic in enclosures"
+      ],
+      "colors": [
+        {
+          "hex": "#434343",
+          "percentage": 0.8418
+        },
+        {
+          "hex": "#1c1c1c",
+          "percentage": 0.0811
+        },
+        {
+          "hex": "#939393",
+          "percentage": 0.0771
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gqBsWx5-63Gk-8tFxDf?o=01M40TP70WVVP47235479J9EVC&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "microsoft.com",
+          "price": {
+            "price": 225.99,
+            "compare_at_price": 299.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 5.91,
+              "unit": "in"
+            },
+            "width": {
+              "number": 2.95,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.84,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 0.9,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "compatible-device": [
+          "Smartphone"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Ethernet",
+          "Thunderbolt",
+          "USB"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Plastic"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "VyczadW",
+      "title": "Thunderbolt 4 Dock",
+      "description": "The Belkin Thunderbolt 4 Dock (INC030ttSGY) is a sleek, rectangular docking station designed to expand your laptop's connectivity. It features a matte grey and black finish and provides a wide array of ports, including high-speed USB-C, HDMI, and card readers, allowing for multiple display support and efficient peripheral management.",
+      "brands": [
+        {
+          "id": "FjLZ",
+          "name": "Belkin"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5e6077cc-e90e-4e4f-92e7-6878cc139416?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5e6077cc-e90e-4e4f-92e7-6878cc139416?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Sleek grey Belkin Thunderbolt 4 Dock lying flat."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 4 connectivity",
+        "Supports up to 3 displays",
+        "Multiple high-speed USB-C ports",
+        "Integrated SD 4.0 and TF 4.0 card readers"
+      ],
+      "colors": [
+        {
+          "hex": "#ababad",
+          "percentage": 0.6252
+        },
+        {
+          "hex": "#282929",
+          "percentage": 0.2833
+        },
+        {
+          "hex": "#404141",
+          "percentage": 0.0915
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/VyczadW-p1PB-8tFxDf?o=01M40RXN2SHK8PR7FF58D37ZF9&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 345.43,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "USB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "2nyd4N5",
+      "title": "Lenovo ThinkPad Thunderbolt 4 Workstation Dock",
+      "description": "The Lenovo ThinkPad Thunderbolt 4 Workstation Dock is a high-performance connectivity hub designed to transform a laptop or desktop into a powerful workstation. Featuring a single Thunderbolt 4 host connection, it provides an extensive array of ports including Thunderbolt 4, USB-A, USB-C, Gigabit Ethernet, and a 3.5mm audio jack. It supports advanced display configurations, including a single 8K display at 30 Hz or up to four 4K displays at 60 Hz via HDMI 2.1 and DisplayPort 1.4. Additionally, the dock offers up to 230W Power Delivery to keep compatible systems charged.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4addc9d9-0c55-40bf-9dc1-3476b3eab514?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4addc9d9-0c55-40bf-9dc1-3476b3eab514?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad Thunderbolt 4 Workstation Dock lying flat."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5667ec8-edd2-464f-b04a-a3a412b81a16?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5667ec8-edd2-464f-b04a-a3a412b81a16?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view showing connectivity ports on the workstation dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20e6bde6-bb26-40be-b22f-bde3080d9038?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/20e6bde6-bb26-40be-b22f-bde3080d9038?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the dock showing power and input ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aaea76a8-aeeb-4262-9588-804d048bce37?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "ThinkPad laptop connected to the dock via a cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e7e901ed-e291-480a-97ec-1b90b5e38b08?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Set of ThinkPad Thunderbolt 4 dock components and cables."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 4 Host Connection",
+        "1 x Thunderbolt 4 Port",
+        "4 x USB-A Ports",
+        "1 x USB-C Port",
+        "1 x HDMI 2.1 Port",
+        "2 x DisplayPort 1.4 Ports",
+        "Up to 230W Power Delivery",
+        "Supports a single 8K @ 30 Hz display or quad 4K @ 60 Hz displays",
+        "Intel vPro Support",
+        "Stay connected with Gigabit Ethernet; this docking station supports 10/100/1000 speeds."
+      ],
+      "colors": [
+        {
+          "hex": "#5a5a5a",
+          "percentage": 0.6696
+        },
+        {
+          "hex": "#2d2d2e",
+          "percentage": 0.2641
+        },
+        {
+          "hex": "#808080",
+          "percentage": 0.0662
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2nyd4N5-T9Fg-8tFxDf?o=01KNMB1F02S1Q84K2GH25NJJBQ&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "adorama.com",
+          "price": {
+            "price": 389.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "4320p"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "connector-gender": [
+          "Female"
+        ]
+      },
+      "ratings": {
+        "value": 4.21,
+        "count": 729,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "idcSpQR",
+      "title": "Razer Thunderbolt Dock",
+      "description": "The Razer Thunderbolt 4 Dock Chroma is a sleek, 10-port docking station designed for high-performance connectivity. Certified for Thunderbolt 4, it supports dual 4K or single 8K video output and is compatible with Windows, Mac (including M1), and Thunderbolt 3 systems. The dock features 4x Thunderbolt 4 ports, 3x USB-A 3.2 Gen 2 ports, a Gigabit Ethernet port, a UHS-II SD card slot, and a 3.5 mm audio combo jack. It also provides synchronous power delivery up to 90W to charge your laptop while powering connected peripherals. The Mercury White edition includes Razer Chroma RGB lighting for customizable aesthetics on Windows OS.",
+      "brands": [
+        {
+          "id": "A70f",
+          "name": "Razer"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/25378b4e-d4da-4b79-aa8f-8e1070aca972?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Razer Thunderbolt 4 Dock device in silver on a dark desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c648099-3cab-4416-9830-7dbdb53a035e?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/a0cb1454-b0e3-4cd4-88b2-e2bf8f3f91ba?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up side view of the Razer Thunderbolt 4 Dock side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/46a27996-8274-4e43-ac6f-6c7be1ff64b0?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/46a27996-8274-4e43-ac6f-6c7be1ff64b0?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up rear view of the Razer Thunderbolt 4 Dock ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b485364a-1aae-4934-aaaa-760417600e54?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Razer Thunderbolt 4 Dock with cables and adapters on a laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Universal Thunderbolt\u2122 4 dock with 10 ports for maximum connectivity",
+        "Compatible with Windows and Mac devices",
+        "Connect up to 2 x 4K displays (Intel Mac) and 1 x 4K (M1 Mac)",
+        "Thunderbolt 4 Certified",
+        "Dual 4K or Single 8K video support",
+        "Up to 90W synchronous power delivery",
+        "Backward compatible with Thunderbolt 3 and USB 4",
+        "Razer Chroma RGB lighting (Windows OS only)",
+        "UHS-II SD card reader",
+        "Gigabit Ethernet"
+      ],
+      "colors": [
+        {
+          "hex": "#d2d2d3",
+          "percentage": 0.9003
+        },
+        {
+          "hex": "#6a6b6d",
+          "percentage": 0.0997
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/idcSpQR-LPzf-8tFxDf?o=01M63X3EY6FGXHQPXWCAV6ZTPK&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "newegg.com",
+          "price": {
+            "price": 216.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/idcSpQR-po5a-8tFxDf?o=01KR2R83GMJ4M1FBHKH2JEDKXD&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "razer.com",
+          "price": {
+            "price": 319.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Color / Design",
+            "label": "Mercury"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "pattern": [
+          "Solid",
+          "Logo"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "2160p",
+          "4K ultra HD",
+          "1080p",
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "USB",
+          "Ethernet",
+          "Micro USB",
+          "SD card",
+          "AUX",
+          "Thunderbolt",
+          "3.5 mm"
+        ],
+        "power-source": [
+          "Hardwire",
+          "USB",
+          "AC-powered"
+        ],
+        "connector-gender": [
+          "Female to male"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Tablet"
+        ],
+        "material": [
+          "Metal",
+          "Aluminum"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 52,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "cTgeP33",
+      "title": "Thunderbolt 4 100W G6 Dock",
+      "description": "This HP Thunderbolt 4 G6 Dock is designed to enhance your desktop or notebook experience by providing extensive connectivity and charging capabilities. It supports up to four displays with an 8K resolution, allowing for a comprehensive visual workspace. With five USB ports, including three Type-A and two Type-C ports, you can connect a wide range of peripherals. The dock offers 100W charging, ensuring your devices stay powered up during use. Its compact and minimalist design with rounded corners, finished in a matte silver-grey metallic material, makes it a sleek addition to any workspace. The top surface features a subtle, recessed HP logo, and a small power indicator light is located on the front right edge.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/da13e04a-fb74-49a8-a374-b30e7d1c78a2?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/da13e04a-fb74-49a8-a374-b30e7d1c78a2?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Gray Hp Thunderbolt 4 G6 Dock device shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0940892b-07f2-4b18-b1be-339206aaf572?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gray Hp Thunderbolt 4 G6 Dock device shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7c94939f-6e2c-458b-b063-de9c55109585?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man working at a desk with multiple monitors and laptop setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7c3c8f0e-2da4-475a-9984-ee4781eb0d1d?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7c3c8f0e-2da4-475a-9984-ee4781eb0d1d?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gray Hp Thunderbolt 4 G6 Dock device shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ef63c3f7-97f5-4217-8192-43a5ddf5ae55?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ef63c3f7-97f5-4217-8192-43a5ddf5ae55?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gray Hp Thunderbolt 4 G6 Dock device shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3b7ca555-5c5b-41d4-b62b-049fb01b0722?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3b7ca555-5c5b-41d4-b62b-049fb01b0722?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gray Hp Thunderbolt 4 G6 Dock device shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9652b800-e3bb-42bd-9a83-ece99533c653?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9652b800-e3bb-42bd-9a83-ece99533c653?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Gray Hp Thunderbolt 4 G6 Dock device shown from above."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "100W Charging",
+        "4 Displays Supported",
+        "5 x USB Ports",
+        "3 x USB Type-A Ports",
+        "2 x USB Type-C Ports",
+        "Thunderbolt 4",
+        "2 x USB-C 3.2 Gen 2",
+        "1 x USB-C 3.2 Gen 2 with DP Alt Mode",
+        "USB-A 3.2 Gen 2 & USB-A 3.2 Gen 1 Ports",
+        "1 x HDMI 2.1 port"
+      ],
+      "colors": [
+        {
+          "hex": "#7e7e7e",
+          "percentage": 0.6537
+        },
+        {
+          "hex": "#c3c5c4",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#a7a8a8",
+          "percentage": 0.1213
+        },
+        {
+          "hex": "#4a4a4a",
+          "percentage": 0.096
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cTgeP33-Qoqa-8tFxDf?o=01M1J3Z84DXPTRPD9F3QGR674G&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 239.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/cTgeP33-oHaU-8tFxDf?o=01M3NBTK6EM7VA9ACQH01HYGA7&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 245.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 4.76,
+              "unit": "in"
+            },
+            "width": {
+              "number": 4.76,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.95,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.6,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/cTgeP33-p1PB-8tFxDf?o=01KXPFPSVG2RJ8BWYJVSV49APC&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 282.11,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "video-resolution-supported": [
+          "4320p",
+          "4K ultra HD"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ]
+      },
+      "ratings": {
+        "value": 4.57,
+        "count": 24,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "ti7kx4x",
+      "title": "Surface Thunderbolt 4 Dock for Business",
+      "description": "The Microsoft Surface Thunderbolt 4 Dock for Business is a versatile docking station designed to expand the capabilities of compatible Surface computers. It features a Thunderbolt 4 host connection via an integrated cable and provides three 40 Gb/s USB-C ports supporting external 4K displays and up to 15W power delivery. The dock also includes three USB-A 3.1 Gen 2 ports for high-speed data transfer, a 2.5G Ethernet LAN port for wired networking, and a 3.5mm audio jack. It supports dual 4K displays at 60 Hz and includes a 165W AC adapter providing up to 96W power passthrough. The design incorporates 20% ocean-bound plastic in the enclosures and features tactile port indicators for accessibility.",
+      "brands": [
+        {
+          "id": "IAno",
+          "name": "Microsoft"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/45a5ba2f-779b-48cd-810c-9e80e15e82e2?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/2cb7f650-a5d5-4947-84ca-c991e5c648be?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "angle_view",
+          "alt_text": "Top view of the black Microsoft SURFACE TB4 Docking Station."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "ocean-bound plastic"
+      ],
+      "key_features": [
+        "Thunderbolt 4 Host Connection",
+        "3 x Thunderbolt 4 Ports",
+        "3 x USB-A 3.1 Gen 2",
+        "1 x 2.5G Ethernet LAN Port",
+        "Supports dual 4K 3840 x 2160, 60 Hz Displays",
+        "Tactile Port Indicators",
+        "Up to 96W power passthrough"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ti7kx4x-oHaU-8tFxDf?o=01M3MHT8B30KFEEPX9GPMTACTB&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 244.26,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 5.91,
+              "unit": "in"
+            },
+            "width": {
+              "number": 2.95,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.84,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.4,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/ti7kx4x-LPzf-8tFxDf?o=01KBP9ZA65PYBB96HYFZH09J7W&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "newegg.com",
+          "price": {
+            "price": 252.04,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm",
+          "2.5 mm",
+          "AUX"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Keyboard",
+          "Mouse",
+          "Smartphone",
+          "Tablet"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "82AGVpB",
+      "title": "Thunderbolt 4 Dock",
+      "description": "The Corsair TBT200 is a high-performance Thunderbolt 4 docking station designed to expand your workstation's connectivity. It features four Thunderbolt 4 ports to accommodate multiple compatible devices, including a host and three peripherals, with full backward compatibility for Thunderbolt 3. The dock supports dual 4K HDR monitors and provides 10 additional ports, including four USB Type-A ports, one USB Type-C port, a 2.5Gb Ethernet port for fast wired networking, and an SD 4.0 (UHS-II) card reader. It offers smart charging technology with up to 96W power delivery to compatible laptops and is encased in a slim, modern aluminum housing.",
+      "brands": [
+        {
+          "id": "kKUt",
+          "name": "CORSAIR"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/39e173a9-a810-4a6b-9572-33bf9a3ec6b7?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=YaBq",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Grey Thunderbolt 4 docking station device viewed from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum"
+      ],
+      "key_features": [
+        "Connect a multitude of devices and displays with a single Thunderbolt 4 port.",
+        "Dual monitor support for 4K HDR with included USB Type-C to HDMI or USB Type-C to DisplayPort cable adapters.",
+        "10 additional ports for connecting peripherals.",
+        "2.5 Gigabit Ethernet port for high-speed wired networking.",
+        "Smart Charging Technology with up to 96W of power delivery for host laptop.",
+        "Slim aluminum housing with modern looks.",
+        "4X USB Type-A Ports",
+        "1X USB Type-C Port",
+        "SD 4.0 (UHS-II) Card Reader",
+        "3.5mm combo audio port"
+      ],
+      "colors": [
+        {
+          "hex": "#797979",
+          "percentage": 0.8381
+        },
+        {
+          "hex": "#a8a8a8",
+          "percentage": 0.0918
+        },
+        {
+          "hex": "#515151",
+          "percentage": 0.0702
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/82AGVpB-YaBq-8tFxDf?o=01KRPVKM3QAR1HFFZXDTFAHJ1P&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "corsair.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.02,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 1.22,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Keyboard"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "Ethernet",
+          "SD card",
+          "3.5 mm",
+          "HDMI",
+          "Display port"
+        ],
+        "material": [
+          "Aluminum",
+          "Metal"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "3tFMRJ1",
+      "title": "Thunderbolt 4 Multimedia Pro Dock",
+      "description": "The Satechi Thunderbolt 4 Multimedia Pro Dock is a 16-in-1 docking station designed for content creators using Windows or Mac setups. It features a Thunderbolt 4 host connection supporting up to 40 Gb/s and 96W power delivery. The dock includes a wide array of connectivity options: one USB-C 3.2 Gen 2 port, three USB-A 3.2 Gen 2 ports, two USB-A 3.2 Gen 1 ports, and one USB-A 2.0 port for charging. For video, it offers two DisplayPort 1.4 and two HDMI 2.1 ports, supporting up to four external displays on Windows. Additionally, it provides SD and microSD card slots, a 2.5 GbE Gigabit Ethernet port, and a 3.5mm headphone/microphone combo jack. Constructed from aircraft-grade aluminum with silicone rubber sides, it can be positioned horizontally or vertically using the included stand.",
+      "brands": [
+        {
+          "id": "FtSi",
+          "name": "SATECHI"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f7c8d770-26ba-4977-83a1-dd03d590c7d7?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f7c8d770-26ba-4977-83a1-dd03d590c7d7?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Satechi Thunderbolt 4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/95291c5a-5fcf-40a9-9e15-9275ba3add7a?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Thunderbolt 4 dock on a desk with laptop and plant."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ecd4235b-fcf3-4e3c-9543-7c07d91762fa?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ecd4235b-fcf3-4e3c-9543-7c07d91762fa?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of the Satechi Thunderbolt 4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eae586e4-16b2-47a4-a586-0c68a9937307?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/eae586e4-16b2-47a4-a586-0c68a9937307?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the tall Satechi multimedia dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/71afa303-2725-4e0b-a238-fb9e7cb56b98?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/71afa303-2725-4e0b-a238-fb9e7cb56b98?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the tall Satechi multimedia dock with ports."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum",
+        "silicone rubber"
+      ],
+      "key_features": [
+        "16-in-1 connectivity with Thunderbolt 4",
+        "Supports up to four external displays with 40Gbps bandwidth",
+        "Delivers up to 96W Power Delivery charging",
+        "Includes 2x HDMI 2.1 and 2x DisplayPort 1.4 ports",
+        "Integrated UHS-II SD and Micro SD card slots",
+        "2.5Gbps Ethernet port for high-speed wired networking",
+        "Aircraft-grade aluminum construction with space gray finish",
+        "Includes vertical stand for flexible desk placement",
+        "Supports up to four external 4K 60Hz displays (Windows)",
+        "Universal compatibility with Mac and Windows"
+      ],
+      "colors": [
+        {
+          "hex": "#70727a",
+          "percentage": 0.2865
+        },
+        {
+          "hex": "#adb1b8",
+          "percentage": 0.2595
+        },
+        {
+          "hex": "#323235",
+          "percentage": 0.1441
+        },
+        {
+          "hex": "#101013",
+          "percentage": 0.1222
+        },
+        {
+          "hex": "#8d9098",
+          "percentage": 0.1126
+        },
+        {
+          "hex": "#515156",
+          "percentage": 0.075
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3tFMRJ1-T9Fg-8tFxDf?o=01M4HSZBK4PQNXSDA8EDS59NEX&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "adorama.com",
+          "price": {
+            "price": 298.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/3tFMRJ1-Eh92-8tFxDf?o=01M16RR131GY18S29MF5GPNF8X&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "satechi.com",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.05,
+          "dimensions": {
+            "length": {
+              "number": 195.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 105.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 47.0,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 693.0,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/3tFMRJ1-oHaU-8tFxDf?o=01M357NK744PHZTK2TGZ8TMZEB&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 7.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 4.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 24.4,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/3tFMRJ1-p1PB-8tFxDf?o=01KY798EPJAPVK4YWTAHGQ395R&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "material": [
+          "Metal",
+          "Aluminum",
+          "Silicone",
+          "Rubber"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Tablet",
+          "Smartphone"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "2160p",
+          "1080p",
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Micro USB",
+          "RCA",
+          "TOSLINK",
+          "Ethernet",
+          "Micro SD card",
+          "Thunderbolt",
+          "3.5 mm",
+          "SD card"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "USB",
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "connector-gender": [
+          "Female"
+        ]
+      },
+      "ratings": {
+        "value": 3.75,
+        "count": 8,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "dNgKVKt",
+      "title": "Thunderbolt 4 Ultra 180W G6 Dock",
+      "description": "The HP Thunderbolt 4 Ultra 180W G6 Docking Station (9X481UT) is a high-performance hub designed to maximize productivity and streamline connectivity. Featuring Thunderbolt 4 technology, it offers data transfer speeds up to 40Gbps and provides up to 180W of power delivery to keep devices charged. It includes HP Quick Connect for fast device wake-up, HP Wolf Security for end-to-end protection, and cloud manageability via Poly Lens. Built for longevity with replaceable parts and eco-friendly plastic-free packaging, it supports up to four displays with a maximum resolution of 8K.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ee3aa8aa-fc22-4809-80ea-a7dc6dade060?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a square grey HP dock device with logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/74f81aec-9382-462b-85ba-47370813fd9b?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of a compact grey HP Thunderbolt 4 dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Up to 180W power delivery",
+        "40 Gbps data transfer speeds via Thunderbolt 4",
+        "HP Quick Connect for instant device wake-up",
+        "HP Wolf Security with Sure Start and Zero Trust Framework",
+        "Cloud manageability via Poly Lens",
+        "Supports up to 4 displays with max resolution of 8K",
+        "Plastic-free packaging",
+        "Compact, minimalist design",
+        "Matte finish"
+      ],
+      "colors": [
+        {
+          "hex": "#565656",
+          "percentage": 0.4965
+        },
+        {
+          "hex": "#a3a4a4",
+          "percentage": 0.2579
+        },
+        {
+          "hex": "#7f8180",
+          "percentage": 0.2457
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dNgKVKt-Qoqa-8tFxDf?o=01M1HDHM4VGJV3EAZPM1GFZSMD&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 289.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/dNgKVKt-p1PB-8tFxDf?o=01M4C04XB878Z1CQJ4EZJXXA8M&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 389.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "material": [
+          "Plastic"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "USB",
+          "Display port"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "4320p"
+        ]
+      },
+      "ratings": {
+        "value": 4.07,
+        "count": 14,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "DUENsGR",
+      "title": "HP Thunderbolt 4 100W G6 Dock",
+      "description": "The HP Thunderbolt 4 100W G6 Dock is a high-performance docking station designed for desktop PCs and notebooks. It features a high-speed Thunderbolt 4 connection providing up to 100W of power delivery to the host system. This compact, matte gray dock supports up to four displays and offers extensive connectivity with five USB ports (three USB-A and two USB-C), an HDMI port, two DisplayPorts, and an RJ-45 network port. It includes integrated security via HP Wolf Security, HP Sure Start, and a Zero Trust Framework. The dock is designed for sustainability, utilizing 35% post-consumer recycled plastic and plastic-free packaging.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/548428d0-b8b3-4a3e-b0e0-365d13431ee9?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock viewed from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f431dcb-ff4a-428d-923b-ec129a34b26c?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop and monitor setup with HP dock on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f3ef675-5fa2-4e14-9d30-042a2cbb60ca?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4f3ef675-5fa2-4e14-9d30-042a2cbb60ca?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock viewed from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1fbd3712-1ad0-4370-85f4-140c65b26f52?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock viewed from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4d5b8d21-548c-45bd-a7ed-ff025a5ead22?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock with power cord shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d9f5dbd-6b8e-4b00-85f1-1611e40f610e?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man working with laptop and monitors at a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a342be6c-18eb-4707-aec0-bf8874f880e3?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a342be6c-18eb-4707-aec0-bf8874f880e3?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock viewed from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f8c63c06-30c0-420e-a677-6503d2e28a53?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f8c63c06-30c0-420e-a677-6503d2e28a53?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock with black cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/562799cc-afae-438d-bd20-2ba078dd42ce?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/562799cc-afae-438d-bd20-2ba078dd42ce?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock with black cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b6104dc6-72cf-48a7-9950-9b377b112dda?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b6104dc6-72cf-48a7-9950-9b377b112dda?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock with cable shown from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0615fdcb-cefe-4c3b-99f0-0d209e3f6f4a?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0615fdcb-cefe-4c3b-99f0-0d209e3f6f4a?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP Thunderbolt 4 100W G6 Dock viewed from above."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "35% post-consumer recycled plastic"
+      ],
+      "key_features": [
+        "Thunderbolt 4 connectivity with up to 100W USB Power Delivery",
+        "Supports up to 4 displays (4K resolution supported with DSC)",
+        "Expansive port selection: 3 x USB Type-A, 2 x USB Type-C, 1 x HDMI, 2 x DisplayPorts, 1 x RJ-45",
+        "Enhanced security with HP Wolf Security and HP Sure Start",
+        "Cloud manageability via Poly Lens for automatic firmware updates",
+        "Sustainable design with 35% post-consumer recycled plastic",
+        "HP Quick Connect wakes devices upon approach"
+      ],
+      "colors": [
+        {
+          "hex": "#7e7e7e",
+          "percentage": 0.6535
+        },
+        {
+          "hex": "#c3c5c4",
+          "percentage": 0.129
+        },
+        {
+          "hex": "#a7a8a8",
+          "percentage": 0.1212
+        },
+        {
+          "hex": "#4a4a4a",
+          "percentage": 0.0963
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/DUENsGR-LPzf-8tFxDf?o=01M5Z4TKNWYNYKY6HV842GQSPD&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "newegg.com",
+          "price": {
+            "price": 124.99,
+            "compare_at_price": 180.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 4.76,
+              "unit": "in"
+            },
+            "width": {
+              "number": 4.76,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.95,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "w04Otsn",
+      "title": "Universal Thunderbolt 4 Dock",
+      "description": "This Lenovo ThinkPad Universal Thunderbolt 4 Dock offers a reliable and consistent enterprise-grade docking experience, providing seamless data, video, and power connectivity. With a single Thunderbolt cable, you can connect up to four 4K displays or one 8K display, enjoy lightning-fast 40 Gbps transfer speeds, and benefit from enhanced dynamic power charging up to 100W. It's designed for all Thunderbolt 3, Thunderbolt 4, USB 4, and USB-C Windows-based systems, offering limitless adaptability. The dock also supports remote management through Lenovo Dock Manager, allowing for silent firmware updates without user interruption.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/23147c8a-c919-408e-bb69-e43a0eb4ffd6?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/10355c90-3bff-4f1a-bc1e-d9783fa7877e?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Universal Thunderbolt 4 Dock with power and data ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3370c9eb-1f9d-4b9d-be7a-e0a434837417?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the Lenovo ThinkPad Thunderbolt 4 Dock showing all connectivity ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ac39b555-1c36-4865-a502-72fe6ae51fc2?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Bottom view of the black Lenovo ThinkPad Thunderbolt 4 Dock with red accents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4cc1101-359d-4731-a5a4-e96c1537a41d?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad laptop connected to a Thunderbolt 4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/224e337b-6fe3-4b1a-bcb5-e59534cd0298?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad dock and its accompanying cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae28fff5-6baa-448a-a37b-ba11e1e95712?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working at a desk with a laptop and multiple monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/21006be9-a7af-4ed6-b276-15960fe1c084?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working with multiple monitors and a laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Enterprise-Grade Universal Thunderbolt 4 Docking Experience",
+        "Thunderbolt\u202f4 host connection",
+        "2\u202f\u00d7\u202fDisplayPort\u202f1.4 or 1\u202f\u00d7\u202fHDMI\u202f1.4",
+        "4\u202f\u00d7\u202fUSB\u202f3.2 Gen\u202f2 Type\u2011A ports",
+        "1\u202f\u00d7\u202fUSB\u2011C port (10\u202fGb/s)",
+        "Gigabit Ethernet",
+        "3.5\u202fmm audio jack",
+        "10\u202fW power delivery",
+        "Single 8K@30Hz or up to 4 4K@60HZ display support",
+        "Data transfer rates up to 40 Gbps"
+      ],
+      "colors": [
+        {
+          "hex": "#ffffff",
+          "percentage": 0.5165
+        },
+        {
+          "hex": "#565857",
+          "percentage": 0.3046
+        },
+        {
+          "hex": "#2b2c2d",
+          "percentage": 0.1333
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/w04Otsn-p1PB-8tFxDf?o=01KXPGQX6GJH82B1VB2YYJ6HYP&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 249.99,
+            "compare_at_price": 399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/w04Otsn-Qoqa-8tFxDf?o=01M1RJ5JX6YFDN2DN8GFN2K1T8&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 279.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/w04Otsn-6Uzl-8tFxDf?o=01KRJV2NE64TCH0XW793A3NT97&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 375.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.19,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.19,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "TRS",
+          "USB",
+          "3.5 mm"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "4320p",
+          "2160p",
+          "1080p"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ]
+      },
+      "ratings": {
+        "value": 4.26,
+        "count": 658,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "1tOwIaV",
+      "title": "Thunderbolt 4 Dock",
+      "description": "The Dynabook Thunderbolt 4 Dock (PS0120UA1PRP) is a comprehensive single-cable port hub designed to expand the connectivity of your laptop. It features a massive 15-port array, including dual HDMI and DisplayPort outputs that support up to four simultaneous displays and a single video resolution of up to 8K. With power delivery of up to 90W, it charges your laptop while providing high-speed data transfer via USB 3.0 and Thunderbolt 4 ports, as well as LAN and audio connectivity.",
+      "brands": [
+        {
+          "id": "5hFc",
+          "name": "Dynabook"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/688321e1-f1a3-453f-bb35-8481cd654354?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=qpLb",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "detail",
+          "alt_text": "Rear ports of a black Thunderbolt 4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f23cf6b6-6ec9-4652-bc83-be87cb9a1843?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=qpLb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f23cf6b6-6ec9-4652-bc83-be87cb9a1843?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=qpLb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dynabook Thunderbolt 4 Dock device shown from a side angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/405e43c4-b93f-4482-9d70-60d4fbe52153?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=qpLb",
+          "cleaned_url": "https://cdn.trychannel3.com/002be515-c701-4e02-b11e-bb53225e967d?aid=01M66DA3J8056ZNX7T7ACJCVP5&mid=qpLb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Dynabook Thunderbolt 4 Dock device shown from the front."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Connect up to 4 Displays Simultaneously",
+        "Up to 8K Single Video Resolution",
+        "Dual HDMI and DisplayPort Video Output",
+        "Charges Your Laptop Up to 90W",
+        "Single-Cable Port Hub",
+        "15 Ports: 2x HDMI, 4x USB 3.0 (1x With Sleep And Charge), 2x USB Type-C Thunderbolt 4, 2x USB 3.1 Type-C, 2x DisplayPort, LAN, and Headphone/mic"
+      ],
+      "colors": [
+        {
+          "hex": "#28292c",
+          "percentage": 0.8184
+        },
+        {
+          "hex": "#101113",
+          "percentage": 0.0915
+        },
+        {
+          "hex": "#707072",
+          "percentage": 0.0901
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1tOwIaV-qpLb-8tFxDf?o=01M0Q814R4XRWDN753FYJ1W98P&aid=01M66DA3J8056ZNX7T7ACJCVP5",
+          "domain": "shop.us.dynabook.com",
+          "price": {
+            "price": 359.99,
+            "compare_at_price": 399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet",
+          "3.5 mm"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmU5YjQ2ZmVhOTc1NDE2ZmYiLCAib2Zmc2V0IjogMjB9"
+}

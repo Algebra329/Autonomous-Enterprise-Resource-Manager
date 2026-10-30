@@ -1,0 +1,3856 @@
+{
+  "products": [
+    {
+      "id": "wJYL7wl",
+      "title": "LG 27\" 4K 3840x2160 IPS 60Hz 5ms (GtG) White Monitor",
+      "description": "The LG 27US550-W is a 27-inch 4K UHD monitor designed for creators, offering a resolution of 3840x2160 and an IPS panel for wide viewing angles. It features a 60Hz refresh rate, 5ms (GtG) response time, and 300 nits of brightness. The monitor supports HDR10 and covers 90% of the DCI-P3 color gamut, making it suitable for photographers and video editors. It boasts a 3-side virtually borderless design and an ergonomic stand with tilt, height, swivel, and pivot adjustments. Connectivity options include two HDMI ports, one DisplayPort 1.4, and a headphone jack.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dfa468ba-b2ff-41a4-a364-1ea6cfbb9cf4?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dfa468ba-b2ff-41a4-a364-1ea6cfbb9cf4?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 27 inch monitor with curved screen on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bf8c9268-4531-46f2-8aaf-556b7e0e5523?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 27 inch monitor with curved screen on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5937662a-6ad6-4161-9ced-ad116331b434?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 27 inch monitor with curved screen on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/29793159-148b-408a-a145-7782a7cc2bb3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/29793159-148b-408a-a145-7782a7cc2bb3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor with white stand and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dcb5397f-78e6-452e-bf21-cdbac827bc04?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor with white stand and control panel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3c1a5b2b-a6a4-458c-ba09-08f4b1a9e5f2?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3c1a5b2b-a6a4-458c-ba09-08f4b1a9e5f2?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor's power cable and connection port area."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/767eeed0-5bfb-4c41-9a0a-d0bc09c2f029?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear view of the LG monitor showing logo and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/66048d27-9c1c-4e14-be6e-eb367d293a55?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the monitor's center bezel, power buttons, and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c5ed23ea-12b0-415c-98b9-1ec3bee84557?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor mounted on a white arm."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD (3840x2160) resolution",
+        "IPS panel with 178\u00b0 wide view",
+        "60Hz refresh rate",
+        "5ms (GtG) response time",
+        "HDR10 support",
+        "90% DCI-P3 color gamut",
+        "300 nits brightness",
+        "3-side virtually borderless design",
+        "Ergonomic stand (tilt, height, swivel, and pivot adjustment)",
+        "Connectivity: 2x HDMI, 1x DisplayPort 1.4, 1x Headphone Jack"
+      ],
+      "colors": [
+        {
+          "hex": "#9fcbe5",
+          "percentage": 0.2993
+        },
+        {
+          "hex": "#dbb2d4",
+          "percentage": 0.1534
+        },
+        {
+          "hex": "#cce3e6",
+          "percentage": 0.1355
+        },
+        {
+          "hex": "#ca97ce",
+          "percentage": 0.1178
+        },
+        {
+          "hex": "#403b49",
+          "percentage": 0.1037
+        },
+        {
+          "hex": "#9bb4dc",
+          "percentage": 0.0956
+        },
+        {
+          "hex": "#d4cddb",
+          "percentage": 0.0947
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/wJYL7wl-CCJD-8tFxDf?o=01M3WZV9TFJZPMMC3M2YNJ8VT5&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "canadacomputers.com",
+          "price": {
+            "price": 237.49,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 61.3,
+              "unit": "cm"
+            },
+            "width": {
+              "number": 25.3,
+              "unit": "cm"
+            },
+            "height": {
+              "number": 53.9,
+              "unit": "cm"
+            },
+            "weight": {
+              "number": 6.8,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Frameless",
+          "HDR support"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 4.62,
+        "count": 25,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "j5qbmxh",
+      "title": "4K UHD UltraFine IPS Monitor",
+      "description": "Experience stunning visuals with the LG 27-inch 4K UHD UltraFine IPS Monitor. This monitor features VESA DisplayHDR 400 for vivid colors and brightness, and a DCI-P3 95% color gamut for incredible detail and color accuracy. Perfect for gamers and content creators, it includes features like Black Stabilizer for dark scenes and Dynamic Action Sync for reduced input lag. The versatile USB Type-C port supports up to 90W of power delivery, along with DisplayPort, HDMI, and USB 3.0 ports for seamless connectivity. Its ergonomic stand allows for easy adjustments in height, tilt, and pivot, ensuring comfortable viewing.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/60118fb1-0f00-4399-aec5-397325e8962d?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=g0qz",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27 inch UltraFine monitor with a silver stand on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/55b9b965-f30f-4649-b622-e4dbae183693?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=g0qz",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/55b9b965-f30f-4649-b622-e4dbae183693?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=g0qz",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White LG Smart Monitor on a stand with colorful screen display."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\u201d 4K UHD (3840x2160) screen with up to 95% DCI-P3 for sharp detail and vibrant color",
+        "VESA DisplayHDR 400 delivers vivid color and brightness for rich, dynamic visuals",
+        "Up to 95% DCI-P3 brings HDR content to life with impeccable, stunning color",
+        "Black Stabilizer brightens dark scenes for better visibility for the edge gamers crave",
+        "Dynamic Action Sync minimizes input lag for ultra-responsive gameplay",
+        "LG Switch app splits your screen, customizes layouts, and streamlines work and play",
+        "Customize your view with an ergonomic stand that adjusts height, tilt, and pivot"
+      ],
+      "colors": [
+        {
+          "hex": "#b8402a",
+          "percentage": 0.1536
+        },
+        {
+          "hex": "#1d0729",
+          "percentage": 0.1519
+        },
+        {
+          "hex": "#9b0b36",
+          "percentage": 0.1495
+        },
+        {
+          "hex": "#d4b158",
+          "percentage": 0.1299
+        },
+        {
+          "hex": "#3d0850",
+          "percentage": 0.1229
+        },
+        {
+          "hex": "#570b54",
+          "percentage": 0.1184
+        },
+        {
+          "hex": "#3f3753",
+          "percentage": 0.1106
+        },
+        {
+          "hex": "#95764c",
+          "percentage": 0.0631
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/j5qbmxh-g0qz-8tFxDf?o=01KS3861EDB1AJPGGTK5M1Y7K2&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "lg.com",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": 379.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.063,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": {
+        "value": 4.2,
+        "count": 93,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "N3wTnHF",
+      "title": "LG UltraFine 27UP650K-W 27\" 16:9 4K Ultra HD IPS LCD HDR Monitor",
+      "description": "Experience stunning visuals with the LG 27-inch 4K UHD UltraFine monitor. Featuring a 4K UHD resolution (3840 x 2160), VESA DisplayHDR 400 for enhanced contrast and vibrant colors, and convenient USB Type-C connectivity with 90W power delivery. This monitor is designed for creators with its IPS display, 2000:1 contrast ratio, and factory calibration for accurate color representation. The 3-side virtually borderless design and ergonomic stand with tilt, height, and pivot adjustments offer a comfortable and efficient workspace. Enjoy immersive sound with built-in speakers powered by MAXX Audio.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cda4b905-48ef-42e8-baf5-fc5461834aa6?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/50e42562-2321-4c32-9d06-e95298c427ee?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27-inch 4K UHD UltraFine monitor with a silver stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" UHD 4K (3840 x 2160) IPS",
+        "VESA DisplayHDR\u2122 40 with up to 98% DCI-P3 color gamut expression",
+        "USB Type-C\u2122 with 90W Power Delivery",
+        "Hardware Calibration & LG Calibration Studio",
+        "2,0:1 Contrast Ratio & 3-Side Virtually Borderless Display",
+        "Tilt/Height/Pivot Adjustable Stand & Speaker with MaxxAudio\u00ae",
+        "HDMI 2.0 and DisplayPort 1.4 connectivity",
+        "HDR10 support for brighter highlights and deeper contrast",
+        "anti-glare screen for clear viewing in bright environments"
+      ],
+      "colors": [
+        {
+          "hex": "#460b60",
+          "percentage": 0.18
+        },
+        {
+          "hex": "#c9401f",
+          "percentage": 0.1787
+        },
+        {
+          "hex": "#b40640",
+          "percentage": 0.1458
+        },
+        {
+          "hex": "#1e0529",
+          "percentage": 0.1448
+        },
+        {
+          "hex": "#d8b76a",
+          "percentage": 0.1151
+        },
+        {
+          "hex": "#43365a",
+          "percentage": 0.1037
+        },
+        {
+          "hex": "#680857",
+          "percentage": 0.0761
+        },
+        {
+          "hex": "#9a7738",
+          "percentage": 0.0559
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/N3wTnHF-T9Fg-8tFxDf?o=01KNMB13XE501MSQWS8X215KZQ&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "adorama.com",
+          "price": {
+            "price": 279.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "HDR support",
+          "Flicker-free",
+          "LED backlight",
+          "Frameless",
+          "Built-in speakers"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "4096 x 2160",
+          "1920 x 1080",
+          "1024 x 768"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "pattern": [
+          "Abstract",
+          "Solid"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "2000:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ]
+      },
+      "ratings": {
+        "value": 3.68,
+        "count": 9,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "4eufWtJ",
+      "title": "LG 27\" 4K UHD UltraFine HDR10, IPS, PC Monitor + 26 Months Protection Bundle",
+      "description": "The LG 27\" 4K UHD UltraFine IPS monitor (model 27US550-W) is designed for creativity and productivity, featuring a 3840 x 2160 resolution display with HDR10 and a DCI-P3 90% color gamut for vibrant, accurate colors. It boasts a 3-side virtually borderless design and a flexible stand that supports tilt, height, swivel, and pivot adjustments. This bundle includes the monitor, 26 months of extended protection from CPS, two Deco Gear 6FT 4K HDMI 2.0 cables, and the Tech Smart USA Elite Suite 18 editing software bundle.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9814fdf8-f1b1-4cde-9e4b-1b6da9274393?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD monitor with stand and accessories."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1d8eee32-b68c-4fe6-a1bb-df293b57a324?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1d8eee32-b68c-4fe6-a1bb-df293b57a324?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" monitor display specs showing 4K, HDR10, IPS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8de715c1-6f90-468d-99ff-7f788292659a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" monitor with white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3326b962-4a7b-47f9-b768-88352b21a1ba?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of LG 27\" monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1fc4524c-2419-4bf8-8fd7-76a97adea3ca?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of LG 27\" monitor screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e1a17ba4-1e40-4045-ac8c-9131e1fa451a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e1a17ba4-1e40-4045-ac8c-9131e1fa451a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of LG 27\" monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/439346f2-d4da-49da-b117-7508e36623c0?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of LG 27\" monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7e0ac86d-84ba-465f-b05a-5d2cb19fb9cd?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7e0ac86d-84ba-465f-b05a-5d2cb19fb9cd?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of LG 27\" monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6bc0455e-25e2-491d-a1ee-b5caa995c7e9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6bc0455e-25e2-491d-a1ee-b5caa995c7e9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of LG monitor stand and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e56d72d1-c204-4cb5-b637-297c7ecb6174?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of LG monitor stand and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/700c225f-0f84-43bb-ad1f-8ca367279f79?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/700c225f-0f84-43bb-ad1f-8ca367279f79?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor mounted on a wall with arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d638b3e-1963-4df0-a4f4-6805e412172e?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8d638b3e-1963-4df0-a4f4-6805e412172e?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of LG monitor power and input panel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c00f807f-9b74-445a-8a8b-c11299bc7ef4?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c00f807f-9b74-445a-8a8b-c11299bc7ef4?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of LG monitor power and input panel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5282b359-9a95-465a-b8e5-a7c71cf697c3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5282b359-9a95-465a-b8e5-a7c71cf697c3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of LG monitor power and input panel."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\u201d UHD 4K (3840x2160) IPS display",
+        "HDR10, DCI-P3 90% (Typ.)",
+        "Brightness 300nits upgrade",
+        "3-side Virtually Borderless",
+        "LG Switch app support",
+        "Tilt/Height/Swivel/Pivot display adjustments"
+      ],
+      "colors": [
+        {
+          "hex": "#9fcbe5",
+          "percentage": 0.3002
+        },
+        {
+          "hex": "#d8b7d3",
+          "percentage": 0.169
+        },
+        {
+          "hex": "#cce4e6",
+          "percentage": 0.1443
+        },
+        {
+          "hex": "#c5a3d4",
+          "percentage": 0.1345
+        },
+        {
+          "hex": "#99b9e1",
+          "percentage": 0.1154
+        },
+        {
+          "hex": "#d3d0dd",
+          "percentage": 0.0821
+        },
+        {
+          "hex": "#9c78a6",
+          "percentage": 0.0545
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/4eufWtJ-RnUy-8tFxDf?o=01M2Y9QVK05JP2GBP3TBVD2CYB&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": 395.91,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": {
+              "number": 253.2,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 613.5,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 539.2,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 6.8,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "HDMI"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "eKmgVFv",
+      "title": "27\" 4K UHD UltraFine HDR10, IPS, PC Monitor",
+      "description": "This LG UltraFine monitor offers a stunning visual experience with its 27-inch UHD 4K IPS display, HDR10 support, and DCI-P3 90% color gamut. Designed for professionals like illustrators, photographers, and video editors, it features a 3-side virtually borderless design for an efficient workstation. The monitor includes convenient features like LG Switch for optimizing workflow and a stand with adjustable tilt, height, swivel, and pivot. It also comes with a 1-year limited warranty and is bundled with a 26-month extended protection plan, an editing software bundle, and a high-speed HDMI cable.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b481fe3c-9d0a-4fcb-8bd8-bde27305b42a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/18a16100-ddcb-43d1-9ef5-76e0eabfcf2b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor front view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ccec141-8d6c-494c-8a7c-dab94dffe7d2?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor bundle with software and cables"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6083ce3c-0ef2-4da1-9fcc-3a84e09d5112?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor 3/4 view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af9a45f4-511a-4294-87f9-3510c27689ef?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor angled front view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9d28ccd4-7fee-4968-acce-8b41df502e2c?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor front view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8cf3fd0b-c210-46dd-a05b-c12f8d9f2e09?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor 3/4 view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c5e9c47f-c012-4e5e-8804-4eca942b4d22?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" 4K UHD UltraFine monitor portrait orientation view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3dee95ba-d779-4a5e-a198-5bdfb0b063d8?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/63862d40-325a-4917-bec4-64440105d621?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor rear view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3a1849da-cf22-4ee1-949f-ad1f93926ce2?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor rear angled view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2854ca64-8e2c-43aa-acd1-d966cb182266?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor side profile view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/38b05fb1-2a99-4969-bda5-3ac5bf03e387?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor rear panel without stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/769e4977-15b0-4b72-b209-0fd90c3c67f1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor top-down view"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/08522bdc-1edf-4a27-891e-4fbd26eb4f10?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ad212a51-692f-4eab-8add-0e3a6d841b64?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine monitor angled top-down view"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "27\" UHD 4K (3840x2160) IPS display",
+        "HDR10, DCI-P3 90% (Typ.)",
+        "Brightness 300nits upgrade",
+        "3-side Virtually Borderless",
+        "26 Month Extended Protection",
+        "Professional Office Suite + PCmover Professional + PDF EDITOR",
+        "LG Switch",
+        "LG 1 Year Limited Warranty"
+      ],
+      "colors": [
+        {
+          "hex": "#a0cae6",
+          "percentage": 0.3304
+        },
+        {
+          "hex": "#565e6d",
+          "percentage": 0.1701
+        },
+        {
+          "hex": "#dea6cf",
+          "percentage": 0.1396
+        },
+        {
+          "hex": "#dfebec",
+          "percentage": 0.1241
+        },
+        {
+          "hex": "#dbc9d8",
+          "percentage": 0.1203
+        },
+        {
+          "hex": "#332f37",
+          "percentage": 0.0897
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/eKmgVFv-p1PB-8tFxDf?o=01KY4BT7N5VFNDM6MZP1GN56HS&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "pattern": [
+          "Abstract",
+          "Solid"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "Frameless",
+          "Built-in speakers",
+          "LED backlight"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Ej0L4MN",
+      "title": "LG UltraFine Computer Monitor",
+      "description": "This LG UltraFine monitor features a 27-inch 4K UHD display with HDR10 support, offering vibrant colors and sharp detail for creative professionals. Its 3-side virtually borderless design provides an immersive viewing experience, while features like Reader Mode and Flicker Safe ensure comfortable use. The monitor also includes essential features like Black Stabilizer and Dynamic Action Sync, along with the LG Switch app for easy workspace customization.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b682d6b3-8d0d-4932-bd8d-e3d211ce6fe9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/ad100e3d-dacb-436f-a19e-86dee07b918d?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 27-Inch 4K UHD Monitor in White - Front View"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c236e379-233b-4118-993e-78035ce08f64?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6dffa4a9-c962-4621-94cf-069afa25ee14?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "LG UltraFine 27-Inch 4K UHD Monitor in White - Rear View"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/98ae0e90-2e0b-4d4f-9dcc-9cfcfb200b25?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/09c762bf-ee7e-47b5-aa5a-b70d3d8e4cc1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "LG UltraFine 27-Inch 4K UHD Monitor in White - Three-Quarter Front View"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a5cf4f9a-40eb-450f-a602-b93db004bd31?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/81492d8f-94b6-437f-8a1d-86c6e4273d7c?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "LG UltraFine 27-Inch 4K UHD Monitor in White - Perspective View"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/672cefc6-1bb7-4607-a91a-450a4a15f304?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7310c92c-feef-47b6-b0e3-13b2e0054cc3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "LG UltraFine 27-Inch 4K UHD Monitor in White - Top View"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/865d41b5-ea10-4cab-9062-b19a58c23167?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "cleaned_url": "https://cdn.trychannel3.com/ae0091a9-fda7-4c72-8ff4-59eefa927ad3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=DO3T",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "LG UltraFine Monitor Rear I/O Ports Detail"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 4K UHD (3840 x 2160) IPS Display",
+        "HDR10 with up to 90% DCI-P3 color gamut expression",
+        "3-Side Virtually Borderless Design",
+        "Reader Mode and Flicker Safe",
+        "Black Stabilizer & Dynamic Action Sync",
+        "LG Switch app"
+      ],
+      "colors": [
+        {
+          "hex": "#a8d9f6",
+          "percentage": 0.3193
+        },
+        {
+          "hex": "#e9c3e3",
+          "percentage": 0.1661
+        },
+        {
+          "hex": "#d8ace3",
+          "percentage": 0.1524
+        },
+        {
+          "hex": "#dbf4f4",
+          "percentage": 0.1455
+        },
+        {
+          "hex": "#9fc5f5",
+          "percentage": 0.1215
+        },
+        {
+          "hex": "#dfe0ed",
+          "percentage": 0.063
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Ej0L4MN-DO3T-8tFxDf?o=01KXGM4F23VB14DGNTP7X3HWYD&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "abt.com",
+          "price": {
+            "price": 249.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 12.1,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1000000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "HDR support"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "device-interface": [
+          "Display port"
+        ],
+        "display-resolution": [
+          "2160p"
+        ],
+        "pattern": [
+          "Geometric"
+        ]
+      },
+      "ratings": {
+        "value": 4.25,
+        "count": 59,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "xrRZFpy",
+      "title": "UltraFine U7 Monitor",
+      "description": "The LG Ultrafine U7 27\" 4K UHD Monitor (Model: 27U730B, 2026 Edition) is a high-precision display designed for creative professionals and multi-taskers. It features a 27-inch IPS panel with a 4K UHD resolution (3840x2160), 60Hz refresh rate, and 5ms response time. This monitor ensures lifelike vibrancy with 99% sRGB color accuracy and HDR10 support. For enhanced connectivity, it includes a built-in USB-C hub with 65W power delivery, allowing users to charge laptops and connect peripherals via a single cable. The ergonomic stand supports tilt, height, and pivot adjustments for optimal comfort.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0248136e-c00e-482e-89a9-9be3402201c6?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0248136e-c00e-482e-89a9-9be3402201c6?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a 27-inch LG Ultrafine monitor displaying vibrant colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f04df4f2-9cf9-49f5-8681-f56035428653?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f04df4f2-9cf9-49f5-8681-f56035428653?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a 27-inch LG Ultrafine monitor with vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/74d6709b-b1ac-46a1-94f1-1a563bc4afe9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/74d6709b-b1ac-46a1-94f1-1a563bc4afe9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black LG Ultrafine monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f163011-b56e-42f2-8aab-da8339ee7807?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6f163011-b56e-42f2-8aab-da8339ee7807?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the monitor displaying its stand design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9cb0adac-bff8-4c19-9f66-233c39b74095?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9cb0adac-bff8-4c19-9f66-233c39b74095?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the LG monitor showing ports and connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4b0f4209-30ff-4add-addd-66cf60d599a1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=xO6g",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor's input and output ports."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 4K UHD (3840x2160) IPS Panel",
+        "60Hz Refresh Rate",
+        "5ms Response Time",
+        "99% sRGB color accuracy",
+        "HDR10 support",
+        "USB-C with 65W power delivery",
+        "Ergonomic stand (tilt, height, pivot)",
+        "AMD FreeSync",
+        "400 nits Brightness",
+        "DCI-P3 90%"
+      ],
+      "colors": [
+        {
+          "hex": "#41d89f",
+          "percentage": 0.1564
+        },
+        {
+          "hex": "#333022",
+          "percentage": 0.1374
+        },
+        {
+          "hex": "#d3f4c0",
+          "percentage": 0.1332
+        },
+        {
+          "hex": "#217d58",
+          "percentage": 0.128
+        },
+        {
+          "hex": "#c5400b",
+          "percentage": 0.1277
+        },
+        {
+          "hex": "#2caf7b",
+          "percentage": 0.1236
+        },
+        {
+          "hex": "#9cc095",
+          "percentage": 0.1018
+        },
+        {
+          "hex": "#97704a",
+          "percentage": 0.0919
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xrRZFpy-xO6g-8tFxDf?o=01M2DYXD14TM8CSDJ3R6XMZDM9&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "quickshipelectronics.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": 399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.018,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/xrRZFpy-ZO25-8tFxDf?o=01M13EKT9T9RBHB92MBVNE4C8V&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "costco.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 13.4,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Flicker-free",
+          "Frameless"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "3.5 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "TS4bBFT",
+      "title": "Ultrafine U7 4k Uhd Ips Monitor",
+      "description": "This 27-inch LG UltraFine monitor offers a stunning 4K UHD resolution with HDR10 support for vibrant colors and deep contrasts. The IPS panel provides wide viewing angles, making it ideal for creative professionals. Its virtually borderless design, reader mode, and flicker-safe technology ensure a comfortable and immersive viewing experience, while features like Black Stabilizer and Dynamic Action Sync enhance gaming performance. The included LG Switch app allows for easy workspace customization.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/9c6f4259-fadc-4e1e-93fd-6d129bfed25f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=g0qz",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9c6f4259-fadc-4e1e-93fd-6d129bfed25f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=g0qz",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine display showing colorful abstract light patterns."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30d57370-c8e7-4383-9fc4-4d4508dae1f4?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=g0qz",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27 inch 4K UHD monitor displaying vibrant colors and resolution settings."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic/Metal (Chassis/Stand)"
+      ],
+      "key_features": [
+        "27\" UltraFine\u2122 display delivers deep blacks\u00b9, vivid color, and 4K UHD clarity",
+        "Unlock rich, brilliant color with HDR10 and up to 90% DCI-P3 coverage",
+        "Transform your screen into a multitasking hub with the LG Switch app\u00b2",
+        "Adjust tilt, height, swivel, and pivot to fit your ideal working position",
+        "3-Side Virtually Borderless Design",
+        "Reader Mode and Flicker Safe",
+        "Black Stabilizer & Dynamic Action Sync",
+        "Connect multiple devices with USB Type-C, HDMI, DidsplayPort and headphone connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#e84805",
+          "percentage": 0.1813
+        },
+        {
+          "hex": "#0b8d5c",
+          "percentage": 0.1809
+        },
+        {
+          "hex": "#edfab4",
+          "percentage": 0.1555
+        },
+        {
+          "hex": "#48dca3",
+          "percentage": 0.1363
+        },
+        {
+          "hex": "#3dbb87",
+          "percentage": 0.1204
+        },
+        {
+          "hex": "#709069",
+          "percentage": 0.098
+        },
+        {
+          "hex": "#add2a3",
+          "percentage": 0.0746
+        },
+        {
+          "hex": "#76411c",
+          "percentage": 0.053
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/TS4bBFT-g0qz-8tFxDf?o=01KR7WXVBGYK5MD0W47GRWYZNQ&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "lg.com",
+          "price": {
+            "price": 229.99,
+            "compare_at_price": 299.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.063,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 9.3,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "White"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "pattern": [
+          "Graphic"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": {
+        "value": 4.4,
+        "count": 84,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "iKtaxCP",
+      "title": "LG UltraFine 27US550-W.AUS 27\" 4K UHD LED Monitor",
+      "description": "The LG 27US550 is a 27-inch UltraFine 4K UHD PC monitor designed for creators, photographers, and video editors. It features an IPS display with a resolution of 3840x2160, HDR10 support, and a DCI-P3 90% color gamut for stunning visual clarity and vibrant colors. The monitor boasts a 3-side virtually borderless design and a versatile stand that allows for tilt, height, swivel, and pivot adjustments. Additional features include the LG Switch app for workspace optimization, Reader Mode, Flicker Safe, and multiple connectivity options including DisplayPort 1.4 and two HDMI ports.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a18eecf1-9cfb-43fb-9f02-67e9f9ac4a4b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a18eecf1-9cfb-43fb-9f02-67e9f9ac4a4b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "White monitor arm with black accent line on a white desk base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1488c354-6ff3-4335-8b9c-f3afe412cf44?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1488c354-6ff3-4335-8b9c-f3afe412cf44?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White monitor arm with black accent line on a white desk base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/578ae1ea-45b4-4b88-a724-2ec20f2784cb?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Front view of the LG monitor showing logo and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c844ade1-0688-4be8-8c89-5f0bd6c96e44?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c844ade1-0688-4be8-8c89-5f0bd6c96e44?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor mounted on a white articulating stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/321cab0c-9a43-4f28-9d07-846d695fa9c2?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor mounted on a white articulating stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a75c1070-adfb-4ff2-a015-55bfcb9a81a8?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a75c1070-adfb-4ff2-a015-55bfcb9a81a8?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor mounted on a white articulating stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0dc9134d-6102-4e21-a51e-9920f39947a1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0dc9134d-6102-4e21-a51e-9920f39947a1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of a monitor displaying colorful abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a311673-5393-479d-a538-25c48b74e946?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor screen showing colorful dynamic background."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0504/3555/5511/files/1092616_1.jpg?v=1789689078",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor screen showing colorful dynamic background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0bb48b44-d075-4256-a762-a284b4821405?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0bb48b44-d075-4256-a762-a284b4821405?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor screen showing colorful dynamic background."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0504/3555/5511/files/1092614_1.jpg?v=1789689074",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor screen showing colorful dynamic background."
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0504/3555/5511/files/1092612_1.jpg?v=1789689070",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor screen showing colorful dynamic background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/991844ae-fa52-4322-bd3f-3181784b6f0f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor displaying specifications: 27\" IPS UHD 4K HDR10."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "3840 x 2160 Resolution",
+        "60 Hz Refresh Rate",
+        "5 ms Response Time",
+        "IPS Panel",
+        "HDMI 2.0 and DisplayPort 1.4",
+        "HDR10 Support",
+        "90% DCI-P3 Color Gamut",
+        "Virtually Borderless Design",
+        "Reader Mode",
+        "Height, Tilt, Swivel, and Pivot adjustments"
+      ],
+      "colors": [
+        {
+          "hex": "#d8d8d8",
+          "percentage": 0.6628
+        },
+        {
+          "hex": "#353535",
+          "percentage": 0.1786
+        },
+        {
+          "hex": "#b9b9b9",
+          "percentage": 0.1022
+        },
+        {
+          "hex": "#5c5c5c",
+          "percentage": 0.0564
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/iKtaxCP-RnUy-8tFxDf?o=01M30Q8JD8MDQTY5T5BDGC74T4&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": 349.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": {
+              "number": 613.5,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 253.2,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 539.2,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 6.8,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "HDR support",
+          "Anti-glare",
+          "Flicker-free"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Display port",
+          "HDMI"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 10,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "lvr7v1i",
+      "title": "LG 27\" UltraGear QHD 1ms 240Hz Gaming Monitor",
+      "description": "The LG UltraGear 27-inch gaming monitor delivers a high-performance visual experience with a QHD (2560 x 1440) IPS display. Engineered for speed and precision, it features a 240Hz refresh rate and a 1ms (GtG) response time, officially validated as NVIDIA G-SYNC Compatible and supporting AMD FreeSync Premium to eliminate screen tearing and stutter. The monitor covers 95% of the DCI-P3 color gamut and is VESA DisplayHDR 400 certified for vibrant, high-fidelity colors and dynamic contrast. Its design includes a virtually borderless screen and a highly adjustable stand (tilt, height, and pivot) to suit any gaming setup. This specific bundle includes the monitor and a 2-year extended warranty.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/39606333-9571-4322-8655-5bc9eca13e6b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" UltraGear gaming monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a381f46e-494d-4b08-9926-68a0af5a9ee5?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" UltraGear gaming monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8224dc7d-9c70-4396-827f-0271af62af51?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" UltraGear gaming monitor with a black stand showing gaming."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6d5ca59b-8de9-4ef4-b5e5-9d2cb819449e?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" UltraGear gaming monitor with a black stand showing gaming."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/40ca8bac-1c5c-458c-8093-b449ac249847?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the LG UltraGear monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dd473756-4d70-4a78-af83-7e1b212a4089?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the LG UltraGear monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2c22916b-7d12-4dde-8e21-64876fef991b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specification details of the LG UltraGear monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6fa8e81e-dffa-4a3f-aecd-0bdcbc26e529?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6fa8e81e-dffa-4a3f-aecd-0bdcbc26e529?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG 27\" UltraGear gaming monitor with dynamic visuals."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/42f861c1-cdd8-4c0d-9e0e-59938642701e?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Gamer using LG UltraGear monitor with headphones."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4532c69f-0c53-447d-8617-8ef6f9c3db7a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two gamers playing video games on a large monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b9357aa7-c33f-4783-b91a-48bd79c5fef7?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b9357aa7-c33f-4783-b91a-48bd79c5fef7?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Person wearing a headset playing a game on a monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0dba2aff-0896-44f2-a7d5-b78d0d3d93fa?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Multiple gaming monitors set up on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c6954258-1061-4422-86d8-e34cd1114761?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c6954258-1061-4422-86d8-e34cd1114761?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=RnUy",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Monitor packaging with 2-year protection warranty."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" QHD (2560 x 1440) IPS Display",
+        "240Hz Refresh Rate",
+        "1ms (GtG) Response Time",
+        "NVIDIA G-SYNC Compatible",
+        "AMD FreeSync Premium",
+        "VESA DisplayHDR 400",
+        "DCI-P3 95% Color Gamut",
+        "Tilt/Height/Pivot Adjustable Stand",
+        "3-Side Virtually Borderless Design",
+        "HDMI 2.1 and DisplayPort 1.4 connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#130212",
+          "percentage": 0.1605
+        },
+        {
+          "hex": "#a21589",
+          "percentage": 0.1516
+        },
+        {
+          "hex": "#2f0227",
+          "percentage": 0.1418
+        },
+        {
+          "hex": "#610355",
+          "percentage": 0.1348
+        },
+        {
+          "hex": "#311830",
+          "percentage": 0.1172
+        },
+        {
+          "hex": "#bfa8be",
+          "percentage": 0.1171
+        },
+        {
+          "hex": "#a3036d",
+          "percentage": 0.0968
+        },
+        {
+          "hex": "#6f4967",
+          "percentage": 0.0801
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/lvr7v1i-RnUy-8tFxDf?o=01M2XCJBGTN9D7YSGKACR2C5K0&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 499.99,
+            "compare_at_price": 536.94,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 13.7,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync Premium",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "monitor-specialized-features": [
+          "Flicker-free",
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ku9pfTG",
+      "title": "LG UltraFine 27BU650B-B 27\" 4K HDR Monitor",
+      "description": "The LG UltraFine 27BU650B-B is a 27-inch 4K UHD monitor featuring an IPS panel for detailed visuals and realistic colors. It supports HDR10 and 90% DCI-P3 color gamut, making it suitable for productivity, video watching, and gaming. The monitor includes versatile connectivity with USB-C (offering up to 90W power delivery), HDMI 2.0, and DisplayPort 1.4, along with an integrated USB hub and built-in 5W stereo speakers.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/23d29ce2-6ce1-441b-9cf0-ce9de78c6bc8?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/23d29ce2-6ce1-441b-9cf0-ce9de78c6bc8?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27-inch UltraFine 4K HDR monitor on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "4K UHD 3840 x 2160 resolution at 60 Hz",
+        "HDR10 support with 1000:1 static contrast ratio",
+        "USB-C connectivity with up to 90W charging",
+        "HDMI 2.0 and DisplayPort 1.4 inputs",
+        "90% DCI-P3 color gamut coverage",
+        "Integrated Waves MaxxAudio enhanced 5W stereo speakers",
+        "Adjustable stand with height, tilt, swivel, and rotation",
+        "Flicker Safe and Reader Mode for eye comfort"
+      ],
+      "colors": [
+        {
+          "hex": "#3ae2a7",
+          "percentage": 0.1406
+        },
+        {
+          "hex": "#35bd87",
+          "percentage": 0.1374
+        },
+        {
+          "hex": "#d6f6c4",
+          "percentage": 0.1363
+        },
+        {
+          "hex": "#3a321f",
+          "percentage": 0.1353
+        },
+        {
+          "hex": "#19855a",
+          "percentage": 0.1342
+        },
+        {
+          "hex": "#cc4109",
+          "percentage": 0.1272
+        },
+        {
+          "hex": "#917f55",
+          "percentage": 0.0953
+        },
+        {
+          "hex": "#9eca9e",
+          "percentage": 0.0937
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ku9pfTG-oHaU-8tFxDf?o=01M62YH45571BHESZ9E0TJKZHT&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 319.99,
+            "compare_at_price": 399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 10.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 17.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Display port"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "o1cmnHA",
+      "title": "LG UltraGear 27GP95R-B 27'' UHD 4K Nano IPS Gaming Monitor",
+      "description": "The LG UltraGear 27GP95R-B is a high-performance 27-inch UHD 4K gaming monitor designed for immersive and fast-paced gameplay. It features a Nano IPS panel for vivid colors and sharp details, paired with a rapid 1ms (GtG) response time and a refresh rate of 144Hz (overclockable to 160Hz) to minimize ghosting and stuttering. The monitor is NVIDIA G-SYNC Compatible and supports AMD FreeSync Premium Pro for seamless movement. Additionally, it offers VESA DisplayHDR 600 for dynamic contrast and HDMI 2.1 support for 4K at 120Hz, making it compatible with next-generation gaming consoles.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/46856fa9-d2d2-4f4d-9f75-aa69b5c4676f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG UltraGear gaming monitor on a stand with a racing scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eb3815ae-8322-48ae-bd9d-59bd20cea6d3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/eb3815ae-8322-48ae-bd9d-59bd20cea6d3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraGear gaming monitor on a stand with a racing scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4bfef703-d238-4385-887d-85dbdde10b3a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4bfef703-d238-4385-887d-85dbdde10b3a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraGear gaming monitor on a stand with a racing scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f2907388-8d69-49b0-a9ac-d3de75e1010d?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f2907388-8d69-49b0-a9ac-d3de75e1010d?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraGear gaming monitor on a stand with a racing scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9ba956e3-b45f-49de-b0b1-64a36ac039a1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9ba956e3-b45f-49de-b0b1-64a36ac039a1?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the LG UltraGear monitor with ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/99f89607-2285-4ac9-b024-8df03d7b8269?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/99f89607-2285-4ac9-b024-8df03d7b8269?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the LG UltraGear monitor with ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0cb8aa32-15f3-443c-a751-6322e5b6e696?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the LG UltraGear monitor with ports and controls."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8996bb80-95c4-4bef-ae54-2d9984aa99d5?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8996bb80-95c4-4bef-ae54-2d9984aa99d5?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraGear gaming monitor on a stand with a racing scene."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27'' UHD 4K Nano IPS display",
+        "1ms (GtG) response time",
+        "144Hz refresh rate (Overclock to 160Hz)",
+        "HDMI 2.1 supporting 4K & 120Hz",
+        "VESA DisplayHDR\u2122 600",
+        "NVIDIA\u00ae G-SYNC\u00ae Compatible",
+        "AMD FreeSync\u2122 Premium Pro",
+        "Hardware Calibration via LG Calibration Studio"
+      ],
+      "colors": [
+        {
+          "hex": "#b7e0f1",
+          "percentage": 0.1765
+        },
+        {
+          "hex": "#436897",
+          "percentage": 0.1339
+        },
+        {
+          "hex": "#8e7d7b",
+          "percentage": 0.1328
+        },
+        {
+          "hex": "#8aa9c4",
+          "percentage": 0.1262
+        },
+        {
+          "hex": "#e7ebed",
+          "percentage": 0.1243
+        },
+        {
+          "hex": "#1c2b43",
+          "percentage": 0.1199
+        },
+        {
+          "hex": "#443335",
+          "percentage": 0.1123
+        },
+        {
+          "hex": "#c4b7b3",
+          "percentage": 0.0742
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/o1cmnHA-CCJD-8tFxDf?o=01M3VCKEY83D9N34S3P82PP1S1&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "canadacomputers.com",
+          "price": {
+            "price": 322.89,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 609.2,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 291.2,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 574.7,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 7.4,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync Premium Pro",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "N7YAKJ8",
+      "title": "LG 27\" IPS UHD Computer Monitor 27BN85UN-B",
+      "description": "The LG 27BN85UN-B is a 27-inch 4K UHD LCD monitor featuring an In-Plane Switching (IPS) panel for stunning visuals and accurate colors, covering 99% of the sRGB color spectrum. It supports VESA DisplayHDR\u2122 400 and Radeon FreeSync\u2122 technology for an immersive viewing experience. Designed for productivity and creativity, it includes a USB Type-C connection with 90W Power Delivery for seamless integration with MacBooks and other mobile devices. The monitor comes with an ergonomic stand supporting height, pivot, swivel, and tilt adjustments, and a 3-side virtually borderless design.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/012f5e9b-7fc3-4c57-8982-15028153366f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5085ec4-aa5d-4d5d-84e2-46b7c5f32963?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3a9820eb-1c7f-4384-949f-514b7ae4d534?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/be820fb8-eb9a-4c24-b9bc-d2471e72e1dc?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a355ef1c-65a6-4890-b07c-d4e5b159e157?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/387b14c1-3201-4a94-9dc9-4739319accb3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/387b14c1-3201-4a94-9dc9-4739319accb3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor stand and base shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f5252ffb-6bf0-4fa9-ab5c-9bc6d76c130a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ace73614-a7fb-4ad1-94c9-7ba0bb4c14ab?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/84ea2b0a-16a9-462b-9135-f3ec23a0860e?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8f0516e3-6109-452a-833b-5f3b27ac3aac?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/12135d9c-e581-4fbe-a8f2-b2acdf617b73?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b7c3ecb4-d768-4f13-b0c4-d8d4614a17d8?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor displaying an Annual Report on a computer screen."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "VESA DisplayHDR\u2122 400",
+        "3-Side Virtually Borderless Design",
+        "Radeon FreeSync\u2122 Technology",
+        "SRGB 99% (Typ.) color coverage",
+        "USB Type-C\u2122 with 90W Power Delivery",
+        "Ergonomic Stand (Height/Pivot/Tilt)",
+        "Hardware Calibration Ready via True Color Pro software",
+        "OnScreen Control for intuitive display customization",
+        "27\" IPS Display with 3840 x 2160 (4K UHD) Resolution",
+        "Multiple Ports: HDMI, DisplayPort, USB-C, and USB 3.0 Hub"
+      ],
+      "colors": [
+        {
+          "hex": "#2c2c2c",
+          "percentage": 0.7682
+        },
+        {
+          "hex": "#9a9a9a",
+          "percentage": 0.1183
+        },
+        {
+          "hex": "#494949",
+          "percentage": 0.1135
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/N7YAKJ8-LPzf-8tFxDf?o=01M5BDA3V39R4J28HGCM3HAAVN&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "newegg.com",
+          "price": {
+            "price": 454.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.1,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/N7YAKJ8-TgS4-8tFxDf?o=01M40PJ2CXV80A2WGW1NDTR7RA&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "cdw.com",
+          "price": {
+            "price": 469.99,
+            "compare_at_price": 957.5,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 1.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 14.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.11,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "pattern": [
+          "Texture"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ctvBqd8",
+      "title": "LG 27HJ713C-B 27\" Class 4K UHD LCD Monitor",
+      "description": "The LG 27HJ713C-B is a 27-inch Class 4K UHD LCD monitor featuring In-Plane Switching (IPS) technology for wide viewing angles and accurate color reproduction. Designed for professional use, it includes features such as a two-way pivot, flicker-safe technology, and DICOM Part 14 compliance, making it suitable for medical imaging and detailed design work. The monitor offers a 3840 x 2160 resolution, 350 nits of brightness, and covers 99% of the sRGB color gamut.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2b0bfdc4-899e-45f8-8e5a-ac6fd950d6e3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2b0bfdc4-899e-45f8-8e5a-ac6fd950d6e3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black LG 27-inch monitor on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/354e3086-3f93-46d8-8bc5-38436101ddc9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/354e3086-3f93-46d8-8bc5-38436101ddc9?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black LG 27-inch monitor on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0fd68334-6a85-4b97-b70d-9f96c09051ea?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0fd68334-6a85-4b97-b70d-9f96c09051ea?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black LG 27-inch monitor on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a463c79c-5abc-4c48-91cb-986e8dadbd68?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=6Uzl",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using a monitor displaying medical scans on a wall."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD resolution (3840 x 2160)",
+        "27-inch IPS display",
+        "Two-way Pivot",
+        "Flicker Safe",
+        "350 nits brightness",
+        "SRGB 99% color gamut",
+        "DICOM Part 14 compliant",
+        "Brightness Stabilization"
+      ],
+      "colors": [
+        {
+          "hex": "#353535",
+          "percentage": 0.3996
+        },
+        {
+          "hex": "#1c1c1c",
+          "percentage": 0.35
+        },
+        {
+          "hex": "#5a5a5a",
+          "percentage": 0.1472
+        },
+        {
+          "hex": "#989898",
+          "percentage": 0.1032
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ctvBqd8-6Uzl-8tFxDf?o=01M2QQC427NZ5377934XDE045F&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 1999.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "display-resolution": [
+          "4096 x 2160"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DICOM",
+          "sRGB"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "HV3uJTY",
+      "title": "LG 27HJ712C-W 27\" Class 4K UHD LCD Monitor",
+      "description": "The LG 27HJ712C-W is a 27-inch 4K UHD LCD clinical review monitor designed for high-precision medical imaging. It features an 8MP IPS display with a resolution of 3840x2160 and sRGB coverage over 99% for accurate color reproduction. The monitor is compliant with DICOM Part 14 standards to ensure consistent grayscale tones, making it ideal for radiology and other clinical review applications. Key features include brightness stabilization to compensate for backlight aging, Dynamic Sync Mode for low input lag, and eye-comfort technology such as Flicker Safe and Reader Mode to reduce eye strain. It is TAA compliant and comes in a white finish.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/49350bef-0cb6-4f0f-ae08-8781b04e663b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/49350bef-0cb6-4f0f-ae08-8781b04e663b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch white 4K UHD LCD monitor on a white stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "8MP (3840x2160) IPS Display",
+        "DICOM Part 14 compliant for clinical review",
+        "SRGB over 99% color gamut",
+        "350 nits brightness",
+        "Brightness Stabilization sensor",
+        "Dynamic Sync Mode for low input lag",
+        "Flicker Safe and Reader Mode for eye comfort",
+        "TAA Compliant"
+      ],
+      "colors": [
+        {
+          "hex": "#686868",
+          "percentage": 0.2671
+        },
+        {
+          "hex": "#1a1a1a",
+          "percentage": 0.2531
+        },
+        {
+          "hex": "#4c4c4c",
+          "percentage": 0.1246
+        },
+        {
+          "hex": "#8f8f8f",
+          "percentage": 0.1214
+        },
+        {
+          "hex": "#eaeaea",
+          "percentage": 0.118
+        },
+        {
+          "hex": "#353535",
+          "percentage": 0.1159
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/HV3uJTY-TgS4-8tFxDf?o=01M38V12034574N8BC7P022A81&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "cdw.com",
+          "price": {
+            "price": 1599.0,
+            "compare_at_price": 2099.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 1.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.21,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.07,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 13.67,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free"
+        ],
+        "color-accuracy-standards": [
+          "DICOM",
+          "sRGB"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "TYdHpDI",
+      "title": "LG 27HS713C-B 27\" Class Webcam 4K UHD LED Monitor",
+      "description": "The LG 27HS713C-B is a 27-inch Class 4K UHD LED monitor designed for high-fidelity visuals. Featuring an In-plane Switching (IPS) panel with a native resolution of 3840 x 2160, it offers accurate brightness and color, making it suitable for professional use. This DICOM compliant monitor includes specialized features such as a calibration sensor, hardware calibration, and an Integrated Front Sensor (IFS), indicating its utility in medical imaging environments. It is equipped with a built-in webcam, a KVM switch, and a USB hub for enhanced productivity. Connectivity options include DisplayPort, HDMI, and USB Type-C. The ergonomic design allows for height, pivot, swivel, and tilt adjustments, and it supports VESA mounting (100 x 100).",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f4b41a56-a1be-46e1-bab6-5df477b9ad9f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f4b41a56-a1be-46e1-bab6-5df477b9ad9f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG 27-inch 4K medical monitor displaying MRI/CT scans."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" viewable screen size with 4K UHD resolution (3840 x 2160)",
+        "LED backlight technology for vivid visuals and energy efficiency",
+        "DICOM Compliant for medical imaging accuracy",
+        "Integrated webcam for video conferencing",
+        "Built-in KVM switch and USB hub",
+        "IPS panel technology with 95% DCI-P3 color gamut",
+        "Ergonomic stand with height, pivot, swivel, and tilt adjustments",
+        "Multiple connectivity options: DisplayPort, HDMI, and USB Type-C",
+        "5 ms response time",
+        "Calibration sensor and hardware calibration support"
+      ],
+      "colors": [
+        {
+          "hex": "#868787",
+          "percentage": 0.2839
+        },
+        {
+          "hex": "#adadad",
+          "percentage": 0.2692
+        },
+        {
+          "hex": "#090909",
+          "percentage": 0.1248
+        },
+        {
+          "hex": "#313332",
+          "percentage": 0.1217
+        },
+        {
+          "hex": "#646665",
+          "percentage": 0.1051
+        },
+        {
+          "hex": "#dfe0e0",
+          "percentage": 0.0953
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/TYdHpDI-TgS4-8tFxDf?o=01M3YX9QZ46SEW6RHM63A1GK32&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "cdw.com",
+          "price": {
+            "price": 1599.0,
+            "compare_at_price": 2099.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 24.15,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.55,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Built-in camera",
+          "LED backlight"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "DICOM"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "7SbMrXv",
+      "title": "LG 27BP450Y-I 27\" Class LCD Monitor",
+      "description": "A visual feast for the eyes the 27BP450Y-I 27 16:9 Full HD IPS LCD Monitor is a testament to the seamless blend of high-definition clarity and premium display technology. Featuring In-Plane Switching (IPS) technology this monitor elevates the performance of liquid crystal displays to new heights. Experience markedly reduced response times enhanced color reproduction and the flexibility to enjoy a crisp clear picture from virtually any viewing angle.The monitor s Full HD resolution ensures that every pixel works in concert to deliver breathtaking visuals making it an ideal choice for professionals and enthusiasts alike who demand precision and detail in their visual experiences.With the innovative On-Screen Control efficiency meets convenience. This intuitive feature consolidates a multitude of essential monitor settings into a single accessible window. Adjustments to volume brightness and picture mode presets are now at your fingertips with the added functionality of Screen Split 2.0 and Dual Controller support. These adjustments are easily made with a simple click of the mouse eliminating the need for physical buttons and creating a sleek streamlined user interface.Designed with versatility in mind the 27BP450Y-I monitor is wall mountable offering the ultimate in flexibility. Whether you re looking to enhance your viewing experience or free up valuable desk space this monitor can be easily transitioned from a desktop display to a wall-mounted screen fitting seamlessly into any workspace or home setup.Crafted for those who appreciate a minimalist aesthetic without sacrificing functionality this monitor is a sophisticated addition to any setting. Its expansive 27-inch screen provides ample real estate for multitasking gaming or immersing yourself in multimedia content. Elevate your visual journey with the 27BP450Y-I 27 Full HD IPS LCD Monitor where every detail is engineered for excellence.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cfd562c1-51bb-42d1-b585-0f8f8da354c6?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/23fc1c85-968d-40ea-89a7-1288900f0341?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=BsaX",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black LG 27-inch LCD monitor on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16:9 Aspect Ratio",
+        "TAA Compliant",
+        "27-inch Viewable Screen",
+        "In-plane Switching (IPS) Technology",
+        "Direct LED Backlight",
+        "16.7 Million Colors",
+        "FreeSync",
+        "250 Nit Brightness",
+        "5 ms Response Time",
+        "Full HD Resolution On-Screen Control (Volume, Brightness, Picture Mode presets, Screen Split 2.0, Dual Controller support)"
+      ],
+      "colors": [
+        {
+          "hex": "#343434",
+          "percentage": 0.6256
+        },
+        {
+          "hex": "#727272",
+          "percentage": 0.1513
+        },
+        {
+          "hex": "#565656",
+          "percentage": 0.1175
+        },
+        {
+          "hex": "#a8a8a8",
+          "percentage": 0.1056
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/7SbMrXv-BsaX-8tFxDf?o=01M5ZP72WM0HTCQKT4JXK4XWYM&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "walmart.com",
+          "price": {
+            "price": 189.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/7SbMrXv-TgS4-8tFxDf?o=01M38WJFWDH4TY9VA7GD9PZDV4&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "cdw.com",
+          "price": {
+            "price": 189.0,
+            "compare_at_price": 375.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 20.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.24,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "display-resolution": [
+          "Full HD",
+          "1920 x 1080"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "LED backlight",
+          "Anti-glare",
+          "Flicker-free"
+        ],
+        "vesa-mounting-pattern": [
+          "75 x 75 mm"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "color-accuracy-standards": [
+          "NTSC"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "abBRAJi",
+      "title": "Ultrafine 4K UHD IPS Monitor",
+      "description": "The LG 32\" Class Ultrafine monitor features a 31.5-inch IPS display with 4K UHD resolution (3840 x 2160), providing crisp and detailed visuals. It supports a 60Hz refresh rate and a 5ms response time, making it suitable for productivity and entertainment. The monitor includes HDR10 support for enhanced dynamic range, built-in speakers, and multiple connectivity options including two HDMI ports and one DisplayPort.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3ad8fc03-5462-4445-9a4f-16ba862a8a5f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3ad8fc03-5462-4445-9a4f-16ba862a8a5f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 31.5-inch 4K UHD IPS monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9fd68ab1-73ed-4d8f-8c61-090d89a3c498?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 31.5-inch 4K UHD IPS monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/84fcee80-83db-4616-b33a-9c6ac0eff000?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/84fcee80-83db-4616-b33a-9c6ac0eff000?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG UltraFine 31.5-inch 4K UHD IPS monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/194b54cd-1aad-4d67-9782-0e5236d63a99?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/194b54cd-1aad-4d67-9782-0e5236d63a99?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "32-inch monitor mounted on a silver metal arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e15c2e19-6d8b-4228-81cb-2e4bc11f5a3f?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=ZO25",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear ports and power input on the monitor back."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD Resolution (3840 x 2160)",
+        "IPS Panel",
+        "60 Hz Refresh Rate",
+        "5ms Response Time",
+        "HDR10 Support",
+        "Built-in Speakers",
+        "Adaptive Sync Technology",
+        "1000:1 Contrast Ratio"
+      ],
+      "colors": [
+        {
+          "hex": "#293a47",
+          "percentage": 0.1673
+        },
+        {
+          "hex": "#6b0b18",
+          "percentage": 0.1455
+        },
+        {
+          "hex": "#b63839",
+          "percentage": 0.1438
+        },
+        {
+          "hex": "#430b19",
+          "percentage": 0.1338
+        },
+        {
+          "hex": "#131426",
+          "percentage": 0.1159
+        },
+        {
+          "hex": "#b41326",
+          "percentage": 0.1106
+        },
+        {
+          "hex": "#b5a69f",
+          "percentage": 0.0992
+        },
+        {
+          "hex": "#855c50",
+          "percentage": 0.0839
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/abBRAJi-ZO25-8tFxDf?o=01M13G45NRBBRVET8RXA2ZH8DV&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "costco.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 28.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.9,
+              "unit": "in"
+            },
+            "height": {
+              "number": 23.5,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 18.1,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "HDMI"
+        ],
+        "monitor-shape": [
+          "Curved"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ]
+      },
+      "ratings": {
+        "value": 4.41,
+        "count": 138,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "Mcne4Qx",
+      "title": "LG UltraGear 27\" Gaming Monitor 27G440A-B",
+      "description": "The LG UltraGear 27G440A-B is a 27-inch Full HD (1920x1080) gaming monitor featuring a fast IPS panel with a 240Hz refresh rate and a 1ms (GtG) response time for smooth, responsive gameplay. It supports HDR10 and provides up to 99% sRGB color accuracy. To ensure a tear-free experience, it is compatible with both AMD FreeSync Premium and NVIDIA G-Sync. The monitor includes gamer-centric features like Dynamic Action Sync, Black Stabilizer, and a built-in crosshair. Its ergonomic stand allows for height adjustment, tilt, swivel, and pivot (portrait mode), and it is VESA mount compatible (100 x 100 mm).",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ff974a43-1e81-41b9-b0df-e25c6d1d7e70?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a LG UltraGear 27 inch gaming monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8dbce296-2dfe-4599-b696-93d47e8629cd?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8dbce296-2dfe-4599-b696-93d47e8629cd?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a LG UltraGear 27 inch gaming monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/860b4566-05d9-447b-9b48-bfd0526f6c66?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/860b4566-05d9-447b-9b48-bfd0526f6c66?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a LG UltraGear 27 inch gaming monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/892dd6af-659b-4842-ab20-7ae45e307774?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/892dd6af-659b-4842-ab20-7ae45e307774?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a LG UltraGear 27 inch gaming monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4e15b183-37ca-4057-acab-74c5b98a11c0?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4e15b183-37ca-4057-acab-74c5b98a11c0?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a LG UltraGear 27 inch gaming monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/24e27f68-f587-494c-9d2a-270fe22bb713?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/24e27f68-f587-494c-9d2a-270fe22bb713?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a LG UltraGear 27 inch gaming monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/413e5c56-9718-46d7-a7ee-b2488b1ec281?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/413e5c56-9718-46d7-a7ee-b2488b1ec281?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the LG UltraGear monitor showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d985ee56-814a-482c-b028-093d4568c9be?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d985ee56-814a-482c-b028-093d4568c9be?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile of the LG UltraGear monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/035a0174-f3c8-4384-ace2-53c1cccfdadc?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the monitor's input ports and power button."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7423c312-dc88-4154-b08c-e829dd4c4a96?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7423c312-dc88-4154-b08c-e829dd4c4a96?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "View of the LG UltraGear monitor stand mounted on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cd1b17e6-ff51-420d-b8c1-3861615e382b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Gaming monitor setup on a desk in a room."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0d39ae36-12a4-4c18-8fc3-6f78d6011dc3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0d39ae36-12a4-4c18-8fc3-6f78d6011dc3?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor standing on its adjustable base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/378ea6d6-d55c-482d-84bf-169766b87c3c?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/378ea6d6-d55c-482d-84bf-169766b87c3c?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the LG logo on the monitor base."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" Full HD IPS display",
+        "240Hz refresh rate",
+        "1ms (GtG) response time",
+        "AMD FreeSync Premium & NVIDIA G-Sync compatible",
+        "HDR10 support",
+        "Up to 99% sRGB color accuracy",
+        "Ergonomic stand (height, swivel, pivot, tilt)",
+        "VESA 100 x 100 mm mount compatible",
+        "Dynamic Action Sync",
+        "Black Stabilizer"
+      ],
+      "colors": [
+        {
+          "hex": "#551498",
+          "percentage": 0.165
+        },
+        {
+          "hex": "#984ce0",
+          "percentage": 0.1487
+        },
+        {
+          "hex": "#42479a",
+          "percentage": 0.1438
+        },
+        {
+          "hex": "#a167da",
+          "percentage": 0.1383
+        },
+        {
+          "hex": "#250581",
+          "percentage": 0.1291
+        },
+        {
+          "hex": "#b9a8df",
+          "percentage": 0.0968
+        },
+        {
+          "hex": "#8e24cb",
+          "percentage": 0.0962
+        },
+        {
+          "hex": "#252492",
+          "percentage": 0.0822
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Mcne4Qx-LPzf-8tFxDf?o=01M5ZTGKCCCNN3P187WBJ0APEV&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "newegg.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync Premium",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Qzpy78f",
+      "title": "LG Smart Monitor Ai U5S",
+      "description": "This LG Smart Monitor features a 27-inch Full HD IPS display with vibrant colors and wide viewing angles. It comes with built-in webOS, allowing access to popular streaming apps like Netflix, Prime Video, and more, as well as over 300 free LG Channels. The monitor supports Apple AirPlay 2 and HomeKit for seamless streaming from iOS and macOS devices. It also includes features like Screen Share, a web browser, and remote desktop capabilities, making it suitable for both work and entertainment. With two HDMI ports and two USB ports, connectivity is versatile, and the integrated speakers provide clear audio. The monitor boasts a sleek, 3-sided virtually frameless design with a modern stand and tilt adjustment for comfortable viewing.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/8340ba19-43e3-431b-986e-9cb7646d191b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "White monitor showing the LG Smart Monitor webOS interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ac6479fd-518a-4662-baa7-144c6365c7ff?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "White LG smart monitor in a living room displaying a movie."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d0fca75c-8afe-4b31-ba62-c69012e8f914?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of a face eating a donut on a monitor screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/da39b2f3-149f-40aa-8a00-6458c0885788?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "White monitor displaying the Apple TV+ interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/94ecde9f-7b85-43f0-9150-b6cc22787f4b?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Computer monitor displaying data charts on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fff29bef-a6ae-4aed-b6b2-2e386a3c7321?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White monitor displaying a person with pink cotton candy."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6959b0d8-292b-4a1e-bf95-7048c01ae3d2?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "White monitor displaying a music concert scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5199a65a-dc10-4eab-ab23-6ea018789dc6?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5199a65a-dc10-4eab-ab23-6ea018789dc6?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White monitor displaying a colorful abstract pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c7e39672-126f-44b1-98bd-91acbedc239d?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear view showing ports and power input on the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2c1158eb-c634-4c5e-a4a3-f6c6239caf3a?aid=01M66D9GHKRWNKN3JA5G5BYXGN&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White monitor displaying a music streaming interface."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" FHD (1920 x 1080) IPS Display",
+        "Smart Monitor with webOS 23",
+        "ThinQ Home Dashboard & Magic Remote Support",
+        "AirPlay 2, Screen Share, Bluetooth",
+        "HDMI x2, USB x2 & Stereo Speaker",
+        "HDR10, Flicker Safe & Reader Mode",
+        "HDR10 Pro with up to 99% sRGB delivers richer color and clearer, vivid visuals",
+        "\u03b15 AI Gen9 Processor enhances sharpness and depth for clearer, more balanced visuals",
+        "LG Switch app\u2078 splits your screen, customizes layouts, and streamlines work and play\u00b9",
+        "Enjoy smooth, fluid motion with a 100Hz refresh rate, enhancing your gaming and video streaming experience."
+      ],
+      "colors": [
+        {
+          "hex": "#949d9e",
+          "percentage": 0.5552
+        },
+        {
+          "hex": "#c1c8c7",
+          "percentage": 0.3773
+        },
+        {
+          "hex": "#687071",
+          "percentage": 0.0675
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Qzpy78f-T9Fg-8tFxDf?o=01KNMK02EGMBRD3MK6A5ZNVD71&aid=01M66D9GHKRWNKN3JA5G5BYXGN",
+          "domain": "adorama.com",
+          "price": {
+            "price": 169.99,
+            "compare_at_price": 199.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Green",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Pink",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "White",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI",
+          "USB",
+          "Bluetooth",
+          "Wi-Fi",
+          "Wireless display"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "LED",
+          "IPS",
+          "LCD"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support",
+          "Anti-glare",
+          "Adjustable viewing angle",
+          "Flicker-free",
+          "Frameless"
+        ],
+        "display-resolution": [
+          "Full HD",
+          "1080p",
+          "1920 x 1080"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "pattern": [
+          "Solid",
+          "Graphic"
+        ],
+        "contrast-ratio-typical": [
+          "1300:1",
+          "1000:1"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "NTSC"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 3.53,
+        "count": 65,
+        "source_count": 2
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjQ0MDQzYTQ5MTA5OTUxNGMiLCAib2Zmc2V0IjogMjB9"
+}

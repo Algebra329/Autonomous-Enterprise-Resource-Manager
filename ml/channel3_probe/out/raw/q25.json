@@ -1,0 +1,3702 @@
+{
+  "products": [
+    {
+      "id": "Wy8Bvjv",
+      "title": "Anker Prime Docking Station (14-Port, 160W Max Output) + Prime Thunderbolt 4 USB-C Cable (3.3 ft, 240W)",
+      "description": "The Anker Prime Docking Station is a comprehensive 14-in-1 connectivity solution designed for high-performance productivity. It delivers a total power output of up to 160W, allowing it to charge up to four devices simultaneously across three USB-C ports (100W max each) and one USB-A port (12W max). This bundle includes an Anker Prime Thunderbolt 4 USB-C Cable capable of 240W PD charging and 40 Gbps data transfer, ideal for boosting a 16-inch MacBook Pro (M3 Pro) to 50% in approximately 26 minutes. The station supports dual 4K displays, 10 Gbps fast data transfer, and includes integrated audio and Ethernet ports, making it compatible with a wide range of laptops from Dell, HP, and Lenovo.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7bb95065-e5e3-46fa-9785-dc3b21598326?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7bb95065-e5e3-46fa-9785-dc3b21598326?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Docking Station and cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/77d343cd-ccc6-477a-b8db-dc0f5185b50c?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime 14-in-1 docking station and two units."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/22c9aef4-8899-43f8-9b38-3764bf6611af?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop connected to Anker docking station for fast charging."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b7d197ef-b890-45b1-9b7e-2334f4f7366d?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b7d197ef-b890-45b1-9b7e-2334f4f7366d?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Docking Station and related cables on a dark desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e0f02048-0d8e-4254-b4b2-a8d7767a7cb0?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing 240W USB-C PD charging for various devices."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "upcycled-braided nylon"
+      ],
+      "key_features": [
+        "14-in-1 Connectivity for charging, data transfer, and dual display management",
+        "Ultra-Fast 160W Total Output to charge up to four devices simultaneously",
+        "Includes Anker Prime Thunderbolt 4 USB-C Cable supporting 240W PD charging",
+        "Supports dual 4K displays for enhanced productivity",
+        "High-speed 10 Gbps data transfer capabilities",
+        "Cable engineered to withstand over 300,000 bends for long-term reliability",
+        "Three USB-C ports (100W max each) and one USB-A port (12W max)",
+        "Includes a 240W USB-C to USB-C cable with upcycled-braided nylon and 300,000+ bend durability"
+      ],
+      "colors": [
+        {
+          "hex": "#5b5c66",
+          "percentage": 0.6652
+        },
+        {
+          "hex": "#1a1c1c",
+          "percentage": 0.2203
+        },
+        {
+          "hex": "#b0b1b8",
+          "percentage": 0.1145
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Wy8Bvjv-p1PB-8tFxDf?o=01M4BPAM9TX1FJJ2DBAKQE04X8&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 192.48,
+            "compare_at_price": 299.98,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/Wy8Bvjv-LPzf-8tFxDf?o=01M5190GPW47ME8P2YEJ1HGZH8&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "newegg.com",
+          "price": {
+            "price": 299.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "2160p"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "USB",
+          "Thunderbolt",
+          "HDMI"
+        ],
+        "material": [
+          "Nylon"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "jiptFGl",
+      "title": "Thunderbolt 4 Docking Station",
+      "description": "This Thunderbolt 4 Certified docking station offers high-performance connectivity for Windows laptops and MacBooks. It allows users to expand their workspace using a single Thunderbolt 4, Thunderbolt 3, or USB4 port, providing a wide range of ports including three downstream Thunderbolt 4/USB4 ports, three USB 3.2 Gen 2 Type-A ports, a Gigabit Ethernet port, and an SD 4.0/UHS-II card reader. With 96W Power Delivery, it can efficiently charge compatible laptops while supporting dual 4K 60Hz monitors or a single 8K 30Hz display.",
+      "brands": [
+        {
+          "id": "QBGM",
+          "name": "StarTech.com"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/69c4a3e5-9920-4ebe-9664-a346614bf235?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/69c4a3e5-9920-4ebe-9664-a346614bf235?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a silver StarTech Thunderbolt 4 docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/46346bba-a265-4b6d-bf0e-da0b52614f2c?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/46346bba-a265-4b6d-bf0e-da0b52614f2c?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a silver StarTech docking station with a cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fa349d4f-f31b-4bcf-8fc6-dfe4405ebcbc?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fa349d4f-f31b-4bcf-8fc6-dfe4405ebcbc?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Docking station, power adapter, and cables laid out."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7ba7e04e-d8f1-46fc-9958-f985999dd4ed?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ba7e04e-d8f1-46fc-9958-f985999dd4ed?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the docking station showing power input and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4782124d-98e1-4b58-b14d-4834fabcb7e4?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4782124d-98e1-4b58-b14d-4834fabcb7e4?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the docking station showing USB and SD ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/276a1c7b-c273-4f99-a57c-941079de8e76?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/276a1c7b-c273-4f99-a57c-941079de8e76?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two views of the docking station and its accessories."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c60b78c0-2bd9-44fc-b933-43da29b8f867?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c60b78c0-2bd9-44fc-b933-43da29b8f867?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the docking station showing power input and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e570ce7c-7702-439e-8ab2-6b0a422d63b8?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e570ce7c-7702-439e-8ab2-6b0a422d63b8?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Bottom view of the docking station with power and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e7751676-fe24-4981-8a47-092956c9fbf7?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e7751676-fe24-4981-8a47-092956c9fbf7?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Docking station and its associated power/data cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e061548c-a115-48da-834a-7ab9e8bac6b3?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e061548c-a115-48da-834a-7ab9e8bac6b3?aid=01M66DA8D331TEB196FM1ME34X&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Docking station connected to a USB cable."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 4 Certified",
+        "96W USB Power Delivery",
+        "Supports dual 4K 60Hz monitors or single 8K 30Hz monitor",
+        "3x downstream Thunderbolt 4/USB4 ports",
+        "3x USB 3.2 Gen 2 (10Gbps) Type-A ports",
+        "Gigabit Ethernet port with PXE boot and WoL",
+        "Secure Digital (SD) 4.0/UHS-II card reader",
+        "Includes 2.6 ft. (0.8 m) Thunderbolt 4 cable"
+      ],
+      "colors": [
+        {
+          "hex": "#96908a",
+          "percentage": 0.7735
+        },
+        {
+          "hex": "#4c4a45",
+          "percentage": 0.1332
+        },
+        {
+          "hex": "#b2afaa",
+          "percentage": 0.0933
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/jiptFGl-hl1t-8tFxDf?o=01M28H3WQ0D0QXMKQEP5TC3CZP&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 158.17,
+            "compare_at_price": 169.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Ethernet",
+          "SD card",
+          "Thunderbolt",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 2,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "IA41wu7",
+      "title": "Anker Prime 14-in-1 Thunderbolt 5 Docking Station",
+      "description": "The Anker Prime TB5 Docking Station is a high-performance 14-in-1 Thunderbolt 5 hub designed for professional workstations. It features an upstream Thunderbolt 5 port providing up to 140W charging and a maximum transfer speed of 120Gbps, allowing large files (up to 150GB) to be moved in as little as 25 seconds. The dock supports advanced display configurations, including up to 8K resolution for single or dual displays on compatible Windows laptops. It is equipped with a comprehensive array of ports: two Thunderbolt 5 downstream ports, two USB-C ports (45W total output), three USB-A ports, SD/TF card readers, a 2.5Gbps Ethernet port, and an audio jack. To ensure stability during heavy workloads, it includes an active cooling system and features ambient LED lighting for a modern aesthetic.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/8f530590-2397-4c23-8b51-00ae8f2533e0?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8f530590-2397-4c23-8b51-00ae8f2533e0?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime TB5 Docking Station in a silver/grey rectangular shape with blue accents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e3801f9c-9722-4575-8357-1e0737e47ed0?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic detailing the ports and connectivity options of the docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/59692e67-38bb-495d-8fd4-e93c28c171fc?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the internal circuitry and Thunderbolt connection on the docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/652079ba-fa81-49f6-bb51-2d23a7dc31a7?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop connected to the docking station demonstrating up to 8K dual display output."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/11db5df4-97b0-405b-a0c0-80719b3c234a?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "MacBook connected to the docking station demonstrating up to 6K dual display output."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7250a8b2-5895-4b73-980e-190cb3036b94?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Anker Prime docking station charging a MacBook Pro via Thunderbolt 5."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "14-in-1 connectivity with Thunderbolt 5 upstream and downstream ports",
+        "Up to 120Gbps maximum data transfer speeds",
+        "Up to 140W Max charging via Thunderbolt 5 upstream port (PD 3.1)",
+        "Supports up to 8K@60Hz single display or dual 8K@60Hz for Windows laptops",
+        "Active cooling system to prevent overheating under full load",
+        "Includes SD and TF card readers, 2.5Gbps Ethernet, and multiple USB-A/C ports",
+        "Ambient LED lighting accents",
+        "14-in-1 connectivity: 2x TB5 downstream, 1x HDMI 2.1, 1x DP 2.1, 2x USB-C, 3x USB-A, 1x Ethernet, 1x 3.5mm audio, 1x SD, 1x microSD",
+        "Integrated active cooling with smart cooling algorithm",
+        "Interactive multi-color LED ambient lighting"
+      ],
+      "colors": [
+        {
+          "hex": "#8c8c90",
+          "percentage": 0.5353
+        },
+        {
+          "hex": "#66696e",
+          "percentage": 0.2606
+        },
+        {
+          "hex": "#b2b7bd",
+          "percentage": 0.1102
+        },
+        {
+          "hex": "#41434c",
+          "percentage": 0.0939
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/IA41wu7-TTNp-8tFxDf?o=01KZBHA0F7K2VZ4VTNP28V1PR3&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/IA41wu7-oHaU-8tFxDf?o=01M3CCJVAXZ8XVR21YM1F8G2T9&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 4.6,
+              "unit": "in"
+            },
+            "width": {
+              "number": 4.6,
+              "unit": "in"
+            },
+            "height": {
+              "number": 3.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.4,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/IA41wu7-p1PB-8tFxDf?o=01M5DKM4F3YNM7XXEQT4T2ABWV&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Tablet",
+          "Smartphone"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet",
+          "3.5 mm",
+          "Micro SD card",
+          "Micro USB",
+          "Thunderbolt",
+          "SD card",
+          "TRS"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "1080p",
+          "720p"
+        ]
+      },
+      "ratings": {
+        "value": 4.72,
+        "count": 200,
+        "source_count": 4
+      }
+    },
+    {
+      "id": "Tj7XGY5",
+      "title": "Anker Prime TB5 Docking Station (14-Port, 8K, Thunderbolt 5) + Prime Thunderbolt 5 USB-C to USB-C Cable",
+      "description": "The Anker Prime TB5 is a high-performance 14-in-1 Thunderbolt 5 docking station designed for advanced multi-display setups and rapid data transfer. It supports data transfer speeds up to 120 Gbps and provides up to 140W charging for connected laptops. The dock features a wide array of connectivity options, including Thunderbolt 5 upstream and downstream ports, USB-C and USB-A ports, SD/TF card readers, a 2.5 Gbps Ethernet port, an audio jack, and choice of HDMI 2.1 or DisplayPort 2.1. It supports dual 8K@60Hz displays and includes an active cooling system to prevent overheating. This bundle includes the docking station and a 3.3 ft Prime Thunderbolt 5 USB-C to USB-C cable.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2d4ea80b-1062-4955-8511-463b7dafcf1b?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Infographic detailing the features and ports of the 14-in-1 Thunderbolt 5 Docking Station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f805f39a-abbb-465f-95f2-b26761a4d1c8?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker charging puck demonstrating 140W fast charging for a MacBook Pro."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a389d0e4-af01-46f1-8ef2-183b2aee2616?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the Thunderbolt 5 port showing high-speed data transfer specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b6c2784e-a168-4383-a4af-a14b449e48b1?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b6c2784e-a168-4383-a4af-a14b449e48b1?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dual 8K@60Hz display setup using Thunderbolt 5 connection."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af3c9a6b-a7bd-4884-aff4-be3dbf6802cd?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime TB5 Docking Station unit in gray with blue lighting and cables."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14-in-1 connectivity including Thunderbolt 5, USB-C, USB-A, SD/TF, Ethernet, and Audio",
+        "Supports up to 80 Gbps data transfer and 120 Gbps max bandwidth",
+        "140W max charging for laptops (up to 240W USB-C charging capacity)",
+        "Supports dual 8K@60Hz displays",
+        "Integrated active cooling system to prevent overheating",
+        "Includes 3.3 ft Anker Prime Thunderbolt 5 Cable"
+      ],
+      "colors": [
+        {
+          "hex": "#566497",
+          "percentage": 0.1537
+        },
+        {
+          "hex": "#033683",
+          "percentage": 0.1472
+        },
+        {
+          "hex": "#091f52",
+          "percentage": 0.1361
+        },
+        {
+          "hex": "#4d88d5",
+          "percentage": 0.1353
+        },
+        {
+          "hex": "#010c2c",
+          "percentage": 0.1344
+        },
+        {
+          "hex": "#1856b6",
+          "percentage": 0.122
+        },
+        {
+          "hex": "#66bae9",
+          "percentage": 0.0996
+        },
+        {
+          "hex": "#223660",
+          "percentage": 0.0717
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Tj7XGY5-p1PB-8tFxDf?o=01M4DN38SZX8SXC5J9S998YFCQ&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 445.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "SD card",
+          "Thunderbolt",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "lXOBrSm",
+      "title": "Anker Prime TB5 Docking Station (14-Port, 8K, Thunderbolt 5, 140W Max Charging) + Anker Prime Thunderbolt 5 USB-C to USB-C Cable",
+      "description": "The Anker Prime TB5 Docking Station is a high-performance 14-in-1 hub designed for Thunderbolt 5 laptops, supporting data transfer speeds up to 80 Gbps and 120 Gbps max bandwidth. It provides powerful connectivity with 14 ports, including Thunderbolt 5 upstream and downstream ports, USB-C, USB-A, SD/TF card readers, a 2.5 Gbps Ethernet port, and HDMI 2.1/DisplayPort 2.1, enabling dual 8K@60Hz display support. The dock delivers up to 140W charging to connected devices and features an active cooling system to maintain stability under load. This bundle includes the docking station and a 3.3 ft Anker Prime Thunderbolt 5 USB-C to USB-C cable supporting 240W charging.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c6f3fcef-24b9-415e-a0c1-61c8cc837f07?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime docking station with USB-C cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5478de60-8a58-4225-a88c-4d22f2e8a1a0?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker 14-In-1 Thunderbolt 5 Docking Station features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0741e27c-f2bd-4630-8951-28f84767638e?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0741e27c-f2bd-4630-8951-28f84767638e?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker 140W charging adapter and laptop charging demo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5c6a6330-db53-4121-a6e8-ada5cfbe609d?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Thunderbolt 5 high-speed data transfer infographic."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to 80 Gbps data transfer and 240W fast charging",
+        "14-in-1 port selection: 1x Thunderbolt 5 upstream, 2x Thunderbolt 5 downstream, 2x USB-C, 3x USB-A, SD/TF card readers, 2.5 Gbps Ethernet, audio jack, and HDMI 2.1/DP 2.1",
+        "Dual display support: Up to 8K@60Hz for a single display, or dual 8K@60Hz for Thunderbolt 5 Windows laptops",
+        "Advanced active cooling system to prevent overheating",
+        "140W max charging for connected devices",
+        "Bundle includes a 3.3 ft Thunderbolt 5 USB-C to USB-C cable (240W, 80 Gbps)"
+      ],
+      "colors": [
+        {
+          "hex": "#8d8d91",
+          "percentage": 0.5333
+        },
+        {
+          "hex": "#63656a",
+          "percentage": 0.2604
+        },
+        {
+          "hex": "#b5b7be",
+          "percentage": 0.1098
+        },
+        {
+          "hex": "#3b3c41",
+          "percentage": 0.0965
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/lXOBrSm-LPzf-8tFxDf?o=01M519C45JEADQSZWXVM5471HR&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "newegg.com",
+          "price": {
+            "price": 445.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "SD card",
+          "TRS"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "elK2c6m",
+      "title": "Anker Prime TB5 Docking Station",
+      "description": "The Anker Prime TB5 Docking Station is a powerful 14-in-1 hub designed for high-performance computing. It features Thunderbolt 5 connectivity for blazing-fast data transfer speeds, capable of moving a 150GB file in just 25 seconds. The dock supports advanced dual display setups, delivering up to 8K@60Hz on a single display or dual 8K@60Hz for compatible Windows laptops. It also provides robust power delivery, with a 140W max upstream port supporting PD 3.1, and front-facing USB-C ports sharing 45W for fast charging multiple devices. Integrated active cooling ensures sustained peak performance.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f8a1e278-78cb-405a-bc33-f6ea2782e094?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/789032bd-0a17-41d7-891a-39cc0f273032?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Thunderbolt 5 docking station with USB-C ports and cables."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Metal Casing (Inferred from image and premium product nature)"
+      ],
+      "key_features": [
+        "14-in-1 Thunderbolt 5 Docking Station",
+        "Thunderbolt 5 Upstream Port with 140W Max Charging (PD 3.1)",
+        "Dual Display Support up to 8K@60Hz (or dual 8K@60Hz on compatible Windows laptops)",
+        "High-Speed Data Transfer: Move 150GB in 25 seconds via Thunderbolt 5",
+        "Advanced Active Cooling System to prevent overheating under full load",
+        "Includes 2x Thunderbolt 5 Downstream Ports, 2x USB-C Ports (45W Total Shared), 3x USB-A Ports, SD/TF Card Readers, 2.5Gbps Ethernet, and Audio Jack",
+        "Includes 3.3 ft Thunderbolt 5 cable and 6 ft AC power cable"
+      ],
+      "colors": [
+        {
+          "hex": "#8b8c90",
+          "percentage": 0.5376
+        },
+        {
+          "hex": "#636469",
+          "percentage": 0.257
+        },
+        {
+          "hex": "#b1b8bf",
+          "percentage": 0.1069
+        },
+        {
+          "hex": "#373a45",
+          "percentage": 0.0985
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/elK2c6m-TTNp-8tFxDf?o=01KBPBTAMN0RNGA45KAXZAYQSW&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "us.anker.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "8K ultra HD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "SD card",
+          "Ethernet",
+          "HDMI",
+          "Display port"
+        ]
+      },
+      "ratings": {
+        "value": 4.78,
+        "count": 103,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "HzGOBX0",
+      "title": "Docking Station",
+      "description": "This Anker Prime 14-in-1 Thunderbolt 5 Docking Station is a high-performance hub designed to streamline your workspace. It offers a comprehensive suite of ports, including Thunderbolt 5 upstream and downstream ports, USB-C, USB-A, SD & TF card readers, Ethernet, and audio input/output. With support for 8K displays and 140W fast charging, it's ideal for professionals who need speed, power, and versatile connectivity. The advanced cooling system ensures optimal performance even under heavy load. The bundle also includes a 3.3 ft Thunderbolt 5 cable capable of 80Gbps data transfer and 240W charging.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3be6a4d7-5ac5-4cf7-b0e8-d808bc6b9729?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3be6a4d7-5ac5-4cf7-b0e8-d808bc6b9729?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Tb5 Docking Station and cables on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/29438958-0233-4a54-a6cb-9d88d3996f34?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Marketing graphic detailing the features of the Anker 14-in-1 Thunderbolt 5 Docking Station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9c6068be-d3ea-49f9-a819-b94184997a5d?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop showing high-speed data transfer speeds via Thunderbolt 5."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/995c3f72-307e-49da-823f-2c8bf96a5188?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Anker Prime docking station connected to a laptop for fast charging."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f3de6f40-5306-49ed-b563-1ccbb77b8e38?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Graphic showing dual 6K Max display support via HDMI and DisplayPort."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20f7c91c-7d5b-43d0-81ac-73a58b35488e?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Graphic showing dual 8K Max display support via HDMI and DisplayPort."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/deb72cf2-40e9-4c49-8128-e64a8ce26bf7?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Compatibility matrix showing supported devices for macOS and Windows displays."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/24d8eb54-f31a-4cf7-afbb-171362cc38d2?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Ultra-fast USB-C charging demonstration for a MacBook Pro."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f712d938-6f08-406d-a4b9-f99565969ca2?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic listing compatible devices for various USB-C applications."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Metal casing (implied by construction/cooling system)"
+      ],
+      "key_features": [
+        "14-in-1 Thunderbolt 5 Dock",
+        "Up to 120Gbps Data Transfer",
+        "Dual Display Docking Station",
+        "140W Max Host Charging",
+        "8K support",
+        "High-performance cooling",
+        "Interactive Ambient Lighting",
+        "Fast Charge Multiple Devices",
+        "240W USB-C Charging",
+        "14-in-1 Thunderbolt 5 Dock: Equipped with a Thunderbolt 5 upstream port, two Thunderbolt 5 downstream ports, two USB-C ports, three USB-A ports, SD and TF card readers, an AC input, a 2.5Gbps Ethernet port, an audio jack, and an HDMI 2.1 or DisplayPort 2.1 port. It also includes an advanced active cooling system for optimal performance even under full load, preventing overheating."
+      ],
+      "colors": [
+        {
+          "hex": "#848589",
+          "percentage": 0.5449
+        },
+        {
+          "hex": "#a4a7ad",
+          "percentage": 0.2294
+        },
+        {
+          "hex": "#616469",
+          "percentage": 0.1184
+        },
+        {
+          "hex": "#454954",
+          "percentage": 0.1073
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/HzGOBX0-p1PB-8tFxDf?o=01KXS6HKRHPVXY045R4B9K2AJX&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 357.98,
+            "compare_at_price": 445.98,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/HzGOBX0-TTNp-8tFxDf?o=01KRDCZPENRSRT7PAX097FYAYC&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": {
+            "length": {
+              "number": 116.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 116.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 75.0,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 1086.0,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/HzGOBX0-ak4n-8tFxDf?o=01M5Y9TSQWBS1FC7W4DF0GRPF3&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "zulily.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": 676.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "4K ultra HD",
+          "4320p"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "SD card",
+          "Micro SD card",
+          "3.5 mm",
+          "PCIe"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB",
+          "Hardwire"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ]
+      },
+      "ratings": {
+        "value": 4.77,
+        "count": 108,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "w2pKbBC",
+      "title": "Anker USB-C Hub 7-in-1 Docking Station",
+      "description": "The Anker Nano 7-in-1 USB-C Hub is a compact connectivity solution designed for Windows, Mac, and Chrome systems. It expands a single USB-C port into seven diverse connections: one HDMI port supporting 4K at 60 Hz (mirror and extend modes), one USB-C 3.2 Gen 1 port, two USB-A 3.2 Gen 1 ports, one UHS-I SDXC card reader, and one UHS-I microSDXC card reader. Additionally, it features a USB-C Power Delivery port supporting up to 100W pass-through charging, allocating 85W to the host device and 15W to power the hub. The device connects via an integrated 9.84\" USB-C cable.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/333f80ac-4207-460b-92e4-2ff918d80b9c?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Nano USB-C Hub with various ports and cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e16fd683-e930-4289-b472-02d6afc28643?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e16fd683-e930-4289-b472-02d6afc28643?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker Nano USB-C Hub showing all ports and features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b88bbc9c-673d-4b89-a6c7-f162f1745712?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "User playing a game with 4K@60Hz display and laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dd22c692-d313-44bf-8ba8-dca999dbd597?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of USB ports showing data transfer speeds."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e4052442-1b27-4cf9-938b-fa01c79fbdfc?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop charging quickly using the Anker hub with 85W power."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7a5abedd-cf11-445b-8359-129fcee550a2?aid=01M66DA8D331TEB196FM1ME34X&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Hand putting the Anker hub into a backpack pocket for portability."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Metal"
+      ],
+      "key_features": [
+        "USB 3.2 (Gen 1 Type-C) Connection",
+        "1x HDMI (supports 4K @ 60 Hz)",
+        "1x USB Type-C (Charging Only)",
+        "2x USB 3.2 Gen 1 Type-A",
+        "1x microSD port",
+        "1x SDXC port",
+        "USB Bus Powered",
+        "USB-C Power Delivery supports up to 100W pass-through charging",
+        "Integrated 9.84\" USB-C cable",
+        "Supports Mirror and Extend Mode"
+      ],
+      "colors": [
+        {
+          "hex": "#6b6b72",
+          "percentage": 0.2647
+        },
+        {
+          "hex": "#acadb8",
+          "percentage": 0.2546
+        },
+        {
+          "hex": "#8f8f98",
+          "percentage": 0.2517
+        },
+        {
+          "hex": "#4e4e51",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#323233",
+          "percentage": 0.0981
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/w2pKbBC-oHaU-8tFxDf?o=01M3JRVDXEW3QAH7ZN7YSFGZGM&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 25.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 5.17,
+              "unit": "in"
+            },
+            "width": {
+              "number": 1.46,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.47,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.35,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/w2pKbBC-TgS4-8tFxDf?o=01M38H1C2APDN13FEZ8BES4WN9&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "cdw.com",
+          "price": {
+            "price": 25.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "connector-gender": [
+          "Male",
+          "Female"
+        ],
+        "power-source": [
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "device-interface": [
+          "HDMI",
+          "USB",
+          "SD card",
+          "Micro SD card"
+        ],
+        "material": [
+          "Aluminum",
+          "Metal"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ]
+      },
+      "ratings": {
+        "value": 4.05,
+        "count": 20,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "wEuFO6l",
+      "title": "Anker 575 USB-C Docking Station",
+      "description": "The Anker 575 USB-C Docking Station is a compact, matte black connectivity hub designed to expand your laptop's capabilities. It features a powerful 85W laptop-charging USB-C port, an 18W Power Delivery USB-C port for mobile devices, and a USB-C data port. For peripheral connectivity, it includes three USB-A ports and supports multi-monitor setups with two HDMI ports and one DisplayPort, capable of streaming to up to three monitors in 1080p@60Hz. Additionally, it includes integrated SD and TF card slots and a headphone jack.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6564d112-773e-4abc-aeb7-d6de209fd347?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/82ee25cd-a448-4548-b1d7-bf055b82330a?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Anker 575 USB-C Docking Station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88307ff2-66f1-47e8-bfb7-2be42ee861da?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker 575 USB-C Docking Station showing data ports and connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cf536db0-7b94-471a-8ed3-6d4eaaa146bb?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Comparison infographic showing extended display mode on Windows vs. macOS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e6fe129f-c91f-44b8-bdf1-90e99df36fb5?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Anker docking station charging a laptop via USB-C with an 85W Max Power Delivery."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/90b41cc6-c4cb-4607-8247-2b3319876979?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Hands typing on a laptop connected to an Anker docking station and power adapter."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bad06423-2ca8-44ef-8f11-dac70931c1b8?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Compatibility chart showing USB-C ports and compatible host models for the docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/306af001-f481-4206-bbf1-69ded4a77766?aid=01M66DA8D331TEB196FM1ME34X&mid=n0yg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "What's in the box for the Anker 575 USB-C Docking Station."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "13-in-1 expansion with multiple ports",
+        "85W laptop-charging USB-C port",
+        "18W Power Delivery USB-C port for mobile devices",
+        "Triple display support (1080p@60Hz) via 2x HDMI and 1x DisplayPort",
+        "Includes SD and microSD card slots",
+        "3.5mm AUX port and Ethernet connectivity",
+        "Works with Windows 8, 10, 11, and macOS 10.12 or later",
+        "Includes a USB-C data port and 3 USB-A ports"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/wEuFO6l-n0yg-8tFxDf?o=01M3792DCHG34B86VMY59NNWZA&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 197.0,
+            "compare_at_price": 300.68,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/wEuFO6l-sEuD-8tFxDf?o=01KZXMS56VTWC7MYXY1AEQXMYV&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "saharacase.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "1080p",
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Display port",
+          "3.5 mm",
+          "AUX",
+          "Ethernet",
+          "Micro SD card"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "compatible-device": [
+          "Smartphone"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "79TxPz0",
+      "title": "USB-C Docking Station (13-in-1)",
+      "description": "The Anker PowerExpand 13-in-1 USB-C Dock is a comprehensive docking station designed to expand a laptop's connectivity. It features a wide array of ports, including an 85W laptop-charging USB-C port, an 18W Power Delivery USB-C port, a USB-C data port, three USB-A ports, two HDMI ports, a DisplayPort, an Ethernet port, SD/microSD card slots, and a 3.5mm AUX port. It supports simultaneous high-speed charging for a laptop and mobile device and can stream media to up to three monitors in 1080p@60Hz. This specific unit is sold as an 'Open Box' item in black.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4a8b7ea1-6de7-47da-b120-945fce858d99?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4a8b7ea1-6de7-47da-b120-945fce858d99?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Anker 575 USB-C Docking Station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae75c46f-fcb3-46d5-a411-300b23383a03?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker 575 13-in-1 USB-C Docking Station showing all ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/53d96e0c-fdd7-4015-9ade-da11087ba8fe?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic comparing extended display capabilities on Windows vs. macOS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b0f6f4e-92bf-47ad-9fe1-f3580444d201?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/10bf7e51-6030-4461-a563-d551ff2cabb5?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Anker docking station charging a laptop and a phone simultaneously."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dd05d64e-25df-4643-b68d-5f114bbbff07?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/d777a18f-1f97-4e3e-9ed1-894593176ae9?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Hands typing on a laptop connected to the Anker docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a6ebd179-6415-42f1-a5dd-8722a77524bc?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing USB-C compatibility and compatible host models."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d369737-e384-4f00-b128-b6643f102492?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Contents of the Anker 575 docking station box."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Compatibility Information",
+        "Huge Expansion",
+        "Simultaneous Charging",
+        "10 Gbps USB-C and 5 Gbps USB-A data ports"
+      ],
+      "colors": [
+        {
+          "hex": "#656770",
+          "percentage": 0.5786
+        },
+        {
+          "hex": "#4b4c4e",
+          "percentage": 0.2337
+        },
+        {
+          "hex": "#303134",
+          "percentage": 0.1046
+        },
+        {
+          "hex": "#9799a0",
+          "percentage": 0.0831
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/79TxPz0-TTNp-8tFxDf?o=01KBPCG621FWV7NZJFBGWXV7KY&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "SD card",
+          "Micro SD card",
+          "3.5 mm",
+          "AUX",
+          "TRS"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "1080p",
+          "4K ultra HD"
+        ]
+      },
+      "ratings": {
+        "value": 4.72,
+        "count": 153,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "643nIbq",
+      "title": "575 USB-C Docking Station (13-in-1)",
+      "description": "This Anker 13-in-1 USB-C Laptop Docking Station is a comprehensive connectivity hub designed to expand your laptop's capabilities. It supports triple display output via 2x HDMI and 1x DisplayPort (1080p@60Hz), provides high-speed data transfer with 10 Gbps USB-C and 5 Gbps USB-A ports, and includes Ethernet, audio, and SD/microSD card slots. It also ensures your devices stay powered with 85W charging for laptops and 18W Power Delivery for mobile devices.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/84cb7561-5719-4acd-a840-5d86739961b1?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/84cb7561-5719-4acd-a840-5d86739961b1?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Anker 575 USB-C Docking Station on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/36e5d106-5444-441a-ab30-b3817eb83c60?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic detailing the 13-in-1 features of the Anker docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c1dda827-6a74-4d74-b7e0-9d1ceb2ddbff?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Docking station setup with monitor, speakers, and laptop in a home office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c373cbaf-cf6b-4f33-9657-182e2594e3e6?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Laptop charging from the Anker docking station with 85W Power Delivery."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51d144ec-d107-43af-b70f-cbf9877b609b?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Hands interacting with a laptop connected to the Anker docking station for fast file transfer."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fcce345c-223b-47fa-abdc-8e107bd95b4d?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "What's in the box for the Anker 575 docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cb01ab8f-c515-489f-a768-f918f455926f?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing macOS display modes support."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5329ffcc-382e-4276-9ab8-e1548d288696?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing Windows display modes support."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Refurbished Product",
+        "Compatibility Information: Works with Windows 8, 10, and 11, and macOS 10.12 or later",
+        "Huge Expansion: 85W laptop-charging USB-C port, 18W PD USB-C, USB-C data, 3\u00d7 USB-A, 2\u00d7 HDMI, DisplayPort, Ethernet, SD/microSD, 3.5 mm AUX, DC input",
+        "Simultaneous Charging: Laptop via 85W USB-C and phone via 18W USB-C for concurrent charging",
+        "Triple Display: Up to 3 monitors at 1080p@60Hz via DP and two HDMI ports",
+        "10 Gbps USB-C and 5 Gbps USB-A Data ports",
+        "Plug-and-play compatibility"
+      ],
+      "colors": [
+        {
+          "hex": "#65686e",
+          "percentage": 0.5654
+        },
+        {
+          "hex": "#4b4c4f",
+          "percentage": 0.2487
+        },
+        {
+          "hex": "#2f3133",
+          "percentage": 0.098
+        },
+        {
+          "hex": "#93959b",
+          "percentage": 0.0879
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/643nIbq-TTNp-8tFxDf?o=01KBPDCAJD187F4MEJ3MB1WJYC&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 99.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/643nIbq-p1PB-8tFxDf?o=01KYXNZ5BR3CWZ28V9CGQ7A5Q2&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "1080p",
+          "4K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "device-interface": [
+          "USB",
+          "Ethernet",
+          "HDMI",
+          "3.5 mm",
+          "SD card",
+          "Micro SD card",
+          "Display port",
+          "Micro USB",
+          "AUX"
+        ],
+        "power-source": [
+          "USB",
+          "AC-powered",
+          "DC-powered"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ]
+      },
+      "ratings": {
+        "value": 4.72,
+        "count": 154,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "1e3v67o",
+      "title": "Anker 563 USB-C Docking Station",
+      "description": "The Anker 563 USB-C Docking Station (10-in-1) is a powerful connectivity solution designed to expand your laptop's capabilities. It features advanced DisplayLink technology, allowing you to connect up to three monitors (including M1 MacBooks) for an enhanced multitasking experience. With a wide array of ports\u2014including dual HDMI, DisplayPort, 100W Power Delivery, USB-A, USB-C, Ethernet, and audio jacks\u2014it serves as a complete workstation hub. It supports high-speed file transfers up to 5 Gbps and provides rapid charging for your laptop and mobile devices.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/419e8066-cc29-4e3a-8763-64cb5bf2591f?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/419e8066-cc29-4e3a-8763-64cb5bf2591f?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker docking station device shown from the side view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cd83e7d9-9e30-4d46-a157-71a6cf85d402?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker 10-in-1 USB-C docking station showing all ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e06b8d0e-ec6c-43ab-94da-6a10045c187d?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man working on a laptop connected to a large monitor setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9147f4cf-9b0d-4e6f-99c2-b2a9daee80c1?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Instructions on how to install the DisplayLink driver and settings."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ab872c27-8f3e-495e-83d3-d13e8e730707?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Docking station transferring files to a laptop via USB."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4d12a5ec-982c-4608-8968-50db2bc392ca?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Docking station streaming 4K video to a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/13e1a7d0-5a36-43d5-abd9-f1af41351343?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Anker power adapter charging multiple devices."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "10-in-1 port expansion including 2x HDMI, 1x DisplayPort, and Ethernet",
+        "Supports triple display output, compatible with M1 MacBooks",
+        "Up to 100W Power Delivery for laptop charging",
+        "Dedicated 30W USB-C Power Delivery port for mobile devices",
+        "High-speed data transfer up to 5 Gbps via USB 3.2 Gen 1 ports",
+        "Includes 180W power adapter and USB-C 3.1 Gen 2 cable",
+        "Unlock Triple Display: Up to 4K@30Hz on the main display and up to 1920\u00d71080 at 60Hz on the second and third displays.",
+        "DisplayLink technology allows for adding three screens to MacBooks."
+      ],
+      "colors": [
+        {
+          "hex": "#8b8e94",
+          "percentage": 0.4031
+        },
+        {
+          "hex": "#b0b3b8",
+          "percentage": 0.3912
+        },
+        {
+          "hex": "#d3d6da",
+          "percentage": 0.113
+        },
+        {
+          "hex": "#55585c",
+          "percentage": 0.0926
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1e3v67o-p1PB-8tFxDf?o=01KZ9D0TK84RHMBENRSBH956MC&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 259.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "USB",
+          "2.5 mm",
+          "AUX",
+          "3.5 mm"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Digital camera",
+          "Tablet",
+          "Smartwatch"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered",
+          "USB"
+        ],
+        "video-resolution-supported": [
+          "1080p",
+          "1440p",
+          "4K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "material": [
+          "Aluminum",
+          "Metal"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 2801,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "ND7CmPE",
+      "title": "Anker Prime 14-Port with 160W Max Output Docking Station",
+      "description": "The Anker Prime 14-Port Docking Station is a high-performance connectivity hub designed to organize and power a modern workspace. It features a total power output of 160W, capable of charging up to four devices simultaneously, including three USB-C ports (100W max each) and one USB-A port. The station offers a comprehensive 14-in-1 connectivity suite, including dual 4K HDMI ports for extended displays, a 1Gbps Ethernet port, an audio port, and multiple high-speed data ports supporting transfers up to 10Gbps. A standout feature is the real-time smart interface display that monitors power output, making it an ideal central hub for laptops (Windows, macOS, ChromeOS) and peripherals.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f5c89a7c-c565-4d9a-9dff-5501d0a4f209?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f5c89a7c-c565-4d9a-9dff-5501d0a4f209?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Docking Station device on a white background with a cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/68c4849e-158e-4d33-bfba-2abd6bd8a873?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Two Anker Prime docking stations side by side with branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc0fe9e7-bdbd-4803-aa5b-1e5bea34d9bb?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Docking station demonstrating ultra-fast charging and data transfer to devices."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0b1ce832-aa33-4d6e-bdb1-c3ad2c5befef?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Anker docking station integrated into an organized desk setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7e9b1bf7-91ed-465b-8679-a731981aa077?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specification diagram of Anker dock ports and data transfer speeds."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/12c1d1aa-c49d-4fdf-bc5f-0cc6d6d2928a?aid=01M66DA8D331TEB196FM1ME34X&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing dual 4K display modes on Windows and macOS."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "160W total output for simultaneous charging of up to 4 devices",
+        "14-in-1 connectivity suite for data, power, and display",
+        "Dual 4K HDMI ports supporting 4K@60Hz (DP 1.4) or 1080p@60Hz (DP 1.2)",
+        "Fast data transfer speeds up to 10Gbps",
+        "Real-time smart interface display for power monitoring",
+        "Compatible with Windows 10/11, ChromeOS, and laptops supporting DP Alt Mode"
+      ],
+      "colors": [
+        {
+          "hex": "#565962",
+          "percentage": 0.6606
+        },
+        {
+          "hex": "#18191a",
+          "percentage": 0.2268
+        },
+        {
+          "hex": "#aeb2b9",
+          "percentage": 0.1126
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ND7CmPE-p1PB-8tFxDf?o=01M3XMKRY8MFSF6KHAEBGD46TS&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 269.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "AGb5LZR",
+      "title": "Docking Station",
+      "description": "This Anker Prime Docking Station is a versatile 14-in-1 hub designed to enhance your productivity and connectivity. It supports triple displays with up to 8K output, offering seamless multitasking for both Windows and macOS systems. The station features a robust 140W USB-C upstream port for powerful laptop charging, along with multiple USB-C and USB-A ports for extensive device support. Its active cooling system ensures optimal performance, while the smart display provides real-time information on power, data transfer, and display status. The Anker Dock Manager app allows for advanced control and management.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/45954f5c-b941-4c91-a17c-78ef547646e0?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/45954f5c-b941-4c91-a17c-78ef547646e0?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Docking Station with USB cable connected, showing power and data transfer details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/01aa122d-1b02-42ec-b631-edb9313164d9?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker Prime Docking Station showing all connection types and port specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/933c2b94-9d3b-4ab5-bc99-da8288fe2b9a?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Guide on installing the DisplayLink Driver for various operating systems."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e3e2c94e-d54a-4f08-8d17-14a8b4515de6?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Triple display output via Anker Docking Station showing 8K resolution."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/798e7fc0-b7ec-41ad-9c1f-83060e4da54b?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker Docking Station highlighting USB-C charging and power specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bcab9d5c-a5ca-4a81-9f47-af62db862885?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "AnkerSense software and Dock Manager interface for device monitoring."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2a03ef8d-72c4-4572-8333-4bbb28c89bb0?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing active cooling and enhanced performance features of the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c275b534-a039-4610-9cbb-4ed4df9af819?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime Docking Station with USB-C ports and charging indicators on a dark surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c7aa1fcf-b824-418f-98fd-bb849b87032e?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing extended display configurations supported by the dock on various computers."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Metal casing (implied by premium look and cooling needs)"
+      ],
+      "key_features": [
+        "14 Powerful Connections",
+        "One 8K Output, Triple Display Versatility",
+        "macOS and Windows Compatible",
+        "140W Upstream Charging",
+        "Smart Display and Control via App",
+        "10Gbps Data Transfer",
+        "2.5Gbps Ethernet",
+        "14-in-1 Thunderbolt 5 Dock with Thunderbolt 5 upstream/downstream ports, USB-C, USB-A, SD/TF card readers, Ethernet, audio jack, and HDMI 2.1/DisplayPort 2.1.",
+        "80Gbps data transfers for rapid file transfer (e.g., 150GB in 25 seconds).",
+        "Sleek matte black finish with a digital display showing power output."
+      ],
+      "colors": [
+        {
+          "hex": "#97989c",
+          "percentage": 0.2792
+        },
+        {
+          "hex": "#070808",
+          "percentage": 0.2687
+        },
+        {
+          "hex": "#7b7d83",
+          "percentage": 0.1257
+        },
+        {
+          "hex": "#5c5e64",
+          "percentage": 0.1167
+        },
+        {
+          "hex": "#bebec2",
+          "percentage": 0.1094
+        },
+        {
+          "hex": "#25282a",
+          "percentage": 0.1003
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/AGb5LZR-TTNp-8tFxDf?o=01KSMY9YJWZYH2Z8CN3J43WP98&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "us.anker.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": {
+            "length": {
+              "number": 195.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 92.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 47.0,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 834.0,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/AGb5LZR-p1PB-8tFxDf?o=01KXZD5DCJ0TH1A9DJ6V4F7DXP&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "SD card",
+          "Micro SD card",
+          "USB",
+          "Thunderbolt",
+          "3.5 mm"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "4K ultra HD",
+          "Full HD",
+          "HD"
+        ],
+        "material": [
+          "Plastic",
+          "Aluminum"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet",
+          "Digital camera"
+        ]
+      },
+      "ratings": {
+        "value": 3.2,
+        "count": 5,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "YMBo6kL",
+      "title": "Prime Charging Docking Station",
+      "description": "The Anker Prime Charging Docking Station offers comprehensive connectivity with 14 ports, including four USB-C and five USB-A ports, dual HDMI for high-definition output, and dedicated audio and Ethernet ports. Its space-efficient vertical design, integrated GaN AC-DC power module, and ultra-clear dual 4K displays at 60Hz make it an ideal solution for revitalizing your workspace. The station is designed for safety with advanced heat dissipation and temperature controls, and provides up to 160W of total output for fast charging, supporting up to four devices simultaneously. It features a smart display for immediate visual feedback on power levels and connection statuses.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/235f6ff8-94ea-4f62-90e3-a1886757c77e?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/235f6ff8-94ea-4f62-90e3-a1886757c77e?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime charging dock from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5084855f-4846-4b15-8b61-b057a2f828b1?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Anker Prime charging dock with various cables on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4fe4cb5b-d2e1-4509-877f-c93daaba86b4?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker Prime display showing power and interface status."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d6e1347a-ed91-42f4-9a38-6d691800b163?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing 11 ports and data transfer speeds on the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4eecc5dc-778c-4623-8765-dca865cba9d4?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4eecc5dc-778c-4623-8765-dca865cba9d4?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Two Anker Prime charging docks side by side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9e301c77-038a-4832-8c56-eedf91f363a4?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Anker Prime charging dock powering multiple devices."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14-in-1 Connectivity",
+        "Dual 4K Displays",
+        "160W Total Output",
+        "4x USB-C Ports (100W Max each)",
+        "5x USB-A Ports",
+        "Dual HDMI",
+        "Ethernet Port",
+        "Audio Port",
+        "Smart Display",
+        "Compact, Vertical Design"
+      ],
+      "colors": [
+        {
+          "hex": "#6d6d6f",
+          "percentage": 0.4411
+        },
+        {
+          "hex": "#242526",
+          "percentage": 0.4255
+        },
+        {
+          "hex": "#b1b1b1",
+          "percentage": 0.1
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/YMBo6kL-TTNp-8tFxDf?o=01KZ6B0G3YK26E205FHW4MWZ7W&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 269.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": {
+            "length": {
+              "number": 140.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 97.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 47.0,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 888.0,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/YMBo6kL-Bteb-8tFxDf?o=01KWCAY8GRKMVZSQ800HJD7Q34&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "dell.com",
+          "price": {
+            "price": 269.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 1.85,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.82,
+              "unit": "in"
+            },
+            "height": {
+              "number": 5.51,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.96,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/YMBo6kL-sEuD-8tFxDf?o=01KZXGA6X8YQ0YZWYETV7PTRE1&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "saharacase.com",
+          "price": {
+            "price": 269.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "1080p",
+          "1440p",
+          "2160p",
+          "Full HD",
+          "HD"
+        ],
+        "power-source": [
+          "USB",
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "SD card",
+          "USB"
+        ],
+        "connector-gender": [
+          "Male",
+          "Female to female"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Mouse",
+          "Power bank",
+          "Smartphone",
+          "Tablet"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Plastic",
+          "Aluminum",
+          "Metal"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 2899,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "uRqpK9x",
+      "title": "Nano Docking Station",
+      "description": "This 13-in-1 docking station from Anker is designed for USB-C laptops and features a removable hub for seamless switching between mobile and desktop use. It offers flexible triple display options, high-speed data transfer up to 10Gbps, and multiple ports including HDMI, USB-C, USB-A, and SD/TF card slots. The dock supports up to 100W host charging and features a sleek light strip that indicates connection status.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c2cb8bc8-2886-4658-8801-03bf6b298c97?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/142fcf38-c0fa-44a2-a43c-42f7c3a03c8b?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Nano Docking Station with its removable hub detached"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cc25bab0-ca95-4060-8004-f45c2e7ae415?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker Nano Docking Station with port labels"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/37a2d8a7-6bdb-49c4-bb2a-4425b2ea2387?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Anker Nano Docking Station and removable hub in use with a laptop"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1686dcab-8097-44cd-ace9-6e06910aeb6d?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Setup guide for Anker Nano Docking Station"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d430249d-9bb1-472e-bcc6-4d7aff6fc129?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker 6-in-1 removable hub with port labels"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4a485d95-3dbc-4065-8760-39de3fc38d6a?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Anker Nano Docking Station and removable hub connected to monitors"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/84aec79c-1a32-45c7-b53f-399c38e97d77?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Anker Nano Docking Station highlighting data transfer and charging speeds"
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "13-in-1 Dock with Removable Hub",
+        "Flexible Display Options with Main Dock and Removable Hub",
+        "All the Connections You Need",
+        "Fast Power Delivery and Data Transfer"
+      ],
+      "colors": [
+        {
+          "hex": "#313337",
+          "percentage": 0.4459
+        },
+        {
+          "hex": "#484a52",
+          "percentage": 0.2308
+        },
+        {
+          "hex": "#63656d",
+          "percentage": 0.1427
+        },
+        {
+          "hex": "#8e939d",
+          "percentage": 0.1089
+        },
+        {
+          "hex": "#17181b",
+          "percentage": 0.0717
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/uRqpK9x-TTNp-8tFxDf?o=01KV7GVGYYA0WP7Q1YEEYPP5SR&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Smartphone",
+          "Digital camera"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Ethernet",
+          "USB"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "USB",
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A",
+          "USB Type-B",
+          "USB Micro-B"
+        ],
+        "video-resolution-supported": [
+          "1080p",
+          "2160p",
+          "4K ultra HD",
+          "720p"
+        ]
+      },
+      "ratings": {
+        "value": 4.68,
+        "count": 81,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "aU3UGl6",
+      "title": "Prime Docking Station",
+      "description": "The Anker Prime Docking Station is a comprehensive 14-in-1 connectivity hub designed for high-performance multitasking. It supports triple display setups, including one 8K output, and offers robust power delivery with a 140W USB-C upstream port. Featuring a smart display for real-time monitoring of charging power and cooling, along with ActiveShield 3.0 and a built-in fan, it ensures stable and cool operation for macOS and Windows users.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/495b4c0c-470f-404c-8327-6259dfc98b21?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/495b4c0c-470f-404c-8327-6259dfc98b21?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime docking station viewed from the side with power indicators."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cb1d89d5-cacc-45f8-86d3-d5ebe1428025?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic detailing the 14 ports and connections of the Anker Prime dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fd3c6b32-c6ef-499e-8a47-543e51589dcf?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker docking station displaying triple 8K video output to multiple screens."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4509508c-8de3-4d72-9869-a39ab59bc90c?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the USB-C power and data ports on the Anker Prime dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b53cc883-4e30-49b6-a43d-37308f348256?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Anker docking station showing the AnkerSense status screen interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/320f1a85-96bc-484f-b6ce-7b0d1e63f367?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing internal cooling and performance enhancement features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6df6fa17-caca-4113-aa6d-d58b9f3523f7?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime docking station with a phone and cable for charging and data transfer."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c3c9313a-762f-4beb-97e8-e54815868234?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing various triple and dual display configurations."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3ae60d10-15c2-48f5-a258-ca358e58ca36?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Screenshot of the DisplayLink Manager software for setting up display output."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "14 powerful connections including USB-C, HDMI, DisplayPort, Ethernet, and SD/TF card slots",
+        "Supports triple display output, including one 8K resolution monitor",
+        "Up to 140W power delivery via USB-C upstream port",
+        "Smart display for real-time updates on charging power, fan mode, and settings",
+        "ActiveShield 3.0 and built-in fan for active cooling",
+        "Compatible with both macOS and Windows (DisplayLink driver required)"
+      ],
+      "colors": [
+        {
+          "hex": "#97989c",
+          "percentage": 0.2792
+        },
+        {
+          "hex": "#070808",
+          "percentage": 0.2687
+        },
+        {
+          "hex": "#7b7d83",
+          "percentage": 0.1257
+        },
+        {
+          "hex": "#5c5e64",
+          "percentage": 0.1167
+        },
+        {
+          "hex": "#bebec2",
+          "percentage": 0.1094
+        },
+        {
+          "hex": "#25282a",
+          "percentage": 0.1003
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/aU3UGl6-TTNp-8tFxDf?o=01KZNT4PSWMVRB1A2ENSYHAR98&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 299.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered",
+          "Rechargeable",
+          "USB"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "SD card",
+          "USB",
+          "Wireless display",
+          "Micro SD card",
+          "TRS",
+          "Thunderbolt",
+          "3.5 mm"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "Full HD",
+          "4K ultra HD",
+          "2160p"
+        ],
+        "compatible-device": [
+          "Mouse",
+          "Digital camera"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Metal",
+          "Plastic"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 122,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "8OWeqFL",
+      "title": "Anker Nano Docking Station",
+      "description": "This Anker Nano Docking Station is a versatile 13-in-1 solution designed for seamless connectivity and enhanced productivity. It features a unique built-in removable hub, allowing you to switch between a full desktop setup and a mobile workstation with ease. The main dock supports triple displays with dual HDMI and DisplayPort outputs capable of up to 4K resolution, while the detachable hub provides essential ports for on-the-go access. With a comprehensive array of ports including USB-C, USB-A, Ethernet, audio, and SD/TF card slots, it caters to all your connectivity needs. Experience fast power delivery up to 100W for your laptop and data transfer speeds up to 10 Gbps.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1fd724a4-f62c-4a6f-a4a9-3263f0fe95fe?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1fd724a4-f62c-4a6f-a4a9-3263f0fe95fe?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Anker Nano 13-in-1 docking station with ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5e0bcb02-c193-40aa-ac87-3a98da5038f8?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person using a laptop with Anker docking station for multiple connections."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a2e6cbd8-4f81-445f-9cfe-c6a1f1fa576e?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a2e6cbd8-4f81-445f-9cfe-c6a1f1fa576e?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Docking station supporting three external monitors for display expansion."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/97001534-faca-439d-8775-f8595af8da77?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic comparing extended display modes on Windows vs macOS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7ebafbbb-8c3c-44dc-ad42-ee938e4d4ff9?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing all ports and connections on the Anker docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/366ebb52-65ac-479d-9b2b-6512065bd9ac?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing 10Gbps USB-C data transfer and 100W charging."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "13-in-1 Dock with Removable Hub",
+        "Flexible Display Options with Main Dock and Removable Hub",
+        "All the Connections You Need",
+        "Fast Power Delivery and Data Transfer",
+        "Supports up to 100W Host Charging",
+        "Data Transfer speed up to 10 Gbps",
+        "Triple Display support up to 4K@60Hz"
+      ],
+      "colors": [
+        {
+          "hex": "#333439",
+          "percentage": 0.4233
+        },
+        {
+          "hex": "#484b53",
+          "percentage": 0.2351
+        },
+        {
+          "hex": "#62656d",
+          "percentage": 0.1535
+        },
+        {
+          "hex": "#8e929a",
+          "percentage": 0.1056
+        },
+        {
+          "hex": "#1e1f22",
+          "percentage": 0.0825
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/8OWeqFL-TTNp-8tFxDf?o=01KZ6BQV8R8S48S3RV3J2SF6N5&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "uk.anker.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/8OWeqFL-Bteb-8tFxDf?o=01M5ZBQTKH0XCG8Y2JPKXSEVZR&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "dell.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/8OWeqFL-p1PB-8tFxDf?o=01M4NMZAF5HDX276BHWM616S5P&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A",
+          "USB Type-B"
+        ],
+        "device-interface": [
+          "HDMI",
+          "USB",
+          "Display port",
+          "SD card",
+          "Micro USB",
+          "SATA",
+          "Ethernet",
+          "Thunderbolt",
+          "TOSLINK",
+          "6.35 mm",
+          "RCA",
+          "TRS",
+          "3.5 mm"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered",
+          "DC-powered",
+          "USB"
+        ],
+        "video-resolution-supported": [
+          "1080p",
+          "1440p",
+          "4K ultra HD",
+          "Full HD",
+          "HD",
+          "2160p"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ]
+      },
+      "ratings": {
+        "value": 4.79,
+        "count": 28,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "qV6l1lq",
+      "title": "Anker Prime Wireless Charging Station",
+      "description": "Three-in-one wireless charging station featuring MagGo, AirCool TEC cooling, and a dock stand. Provides 25W max wireless charging with a smart display, supports multiple devices (phone, earbuds, watch) with temperature monitoring and safe charging technologies.",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7ab0a15f-6e02-4e6e-a21b-3793e93517c9?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ab0a15f-6e02-4e6e-a21b-3793e93517c9?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Anker Prime wireless charging station with smartwatch."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/edae08da-34d6-42fc-9b45-dd403be09b49?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/edae08da-34d6-42fc-9b45-dd403be09b49?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Anker Prime charging station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b5d5109b-55a7-47e1-9c2a-617de9b9ccbf?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing fast wireless charging speed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e5a6e941-8c62-4685-af8a-b12b9353af58?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specification of active cooling technology for phone charging."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ee4f9846-ba46-48f2-8aeb-0a48e695c70b?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man using Anker Q2 25W for smooth calls."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8b841354-0344-49ca-b2c3-7891ecf556b3?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Display showing real-time charging status on Anker Prime."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e4b4ea1f-96e7-495f-af75-8663faa69f9e?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing three charging modes."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/55871f76-e645-417c-8c8a-2a75ae0d70b7?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/55871f76-e645-417c-8c8a-2a75ae0d70b7?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Elegant charging stand design for watch and AirPods."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bf16bfe2-18e9-4614-8521-f8b000f4cd41?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Safety features overview of the wireless charging station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f23729da-0eb0-4499-bd7f-b6b0b81f44b9?aid=01M66DA8D331TEB196FM1ME34X&mid=TTNp",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Compatibility list for iPhones and Apple Watches."
+        }
+      ],
+      "category": {
+        "slug": "wireless-chargers",
+        "title": "Wireless Chargers",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "power",
+            "title": "Power"
+          },
+          {
+            "slug": "power-adapters-chargers",
+            "title": "Power Adapters & Chargers"
+          },
+          {
+            "slug": "wireless-chargers",
+            "title": "Wireless Chargers"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "25W Ultra-Fast Wireless Charging",
+        "T\u00dcV-Certified AirCool",
+        "Live Charging Display",
+        "3 Modes for All-Day Power",
+        "Smart Interaction"
+      ],
+      "colors": [
+        {
+          "hex": "#1c1e1d",
+          "percentage": 0.3691
+        },
+        {
+          "hex": "#373c3d",
+          "percentage": 0.2626
+        },
+        {
+          "hex": "#b6c2bf",
+          "percentage": 0.1252
+        },
+        {
+          "hex": "#7f878b",
+          "percentage": 0.1222
+        },
+        {
+          "hex": "#555860",
+          "percentage": 0.1209
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/qV6l1lq-TTNp-8tFxDf?o=01KZ6BQRTFBCNNKSKCQ6M6DR7Y&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "anker.com",
+          "price": {
+            "price": 229.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.08,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Color",
+            "values": [
+              {
+                "label": "Black Stone",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/cca488ea-3395-45ac-9570-9a7fd031d443",
+                "product_id": "unBzbBO"
+              },
+              {
+                "label": "Shell White",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/7ab0a15f-6e02-4e6e-a21b-3793e93517c9",
+                "product_id": "qV6l1lq"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Color",
+            "label": "Shell White"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "compatible-device": [
+          "Smartwatch",
+          "Wireless earbud",
+          "Smartphone"
+        ],
+        "charger-style": [
+          "Docking station",
+          "Stand",
+          "3-in-1 dock"
+        ],
+        "charging-interface-type": [
+          "Wireless charging",
+          "MagSafe"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "magsafe-compatibility": [
+          "MagSafe compatible"
+        ],
+        "charging-method": [
+          "Wireless",
+          "Wired"
+        ],
+        "wireless-charging-standard": [
+          "Qi2",
+          "Qi"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "power-conversion-semiconductor-type": [
+          "Gallium nitride (GaN)"
+        ],
+        "mounting-type": [
+          "Tabletop"
+        ]
+      },
+      "ratings": {
+        "value": 4.91,
+        "count": 69,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "sl3OTxg",
+      "title": "Anker 551 USB-C Hub 8-in-1 Foldable Tablet Stand Dock 4K HDMI A8387 Stream Deck",
+      "description": "The Anker 551 USB-C Hub is an 8-in-1 productivity dock designed for iPad Pro, iPad Air, and iPad mini. It features a foldable tablet stand that allows for adjustable angles and height to optimize the workspace. The hub expands connectivity with a 4K HDMI port (supporting up to 60Hz), two USB-A data ports, a 3.5mm AUX port, and microSD/SD card slots. It also supports high-speed pass-through charging via a USB-C Power Delivery input port (supporting up to 100W).",
+      "brands": [
+        {
+          "id": "Tegi",
+          "name": "Anker"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1e4e0a87-d2af-4efb-825a-8fda52bdb19c?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1e4e0a87-d2af-4efb-825a-8fda52bdb19c?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Anker USB-C hub stand with foldable tablet holder."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17e04abd-f827-4e79-bcba-c141cfd2c823?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "on_model",
+          "alt_text": "Hand holding an iPad mounted on an Anker USB-C hub stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/21220b3c-2ab0-4813-be4b-6b184bae0906?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing the 8-in-1 hub connections and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c328f501-50e4-42d1-bedc-3ccfb28db45b?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "iPad charging and being used with Anker hub stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88ffb343-26fc-4b12-a1a8-91132b36e128?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "4K @ 60Hz display quality demonstration with a hub."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/16c200a0-990d-4df5-860c-f5d5a872723d?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using a tablet with Anker hub stand in a bright room."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd215c4a-731c-4a5e-ae28-d4145e94247c?aid=01M66DA8D331TEB196FM1ME34X&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Diagram showing the 180\u00b0 and 70\u00b0 angle adjustment of the stand."
+        }
+      ],
+      "category": {
+        "slug": "tablet-computer-docks-stands",
+        "title": "Tablet Computer Docks & Stands",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "tablet-computer-docks-stands",
+            "title": "Tablet Computer Docks & Stands"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum alloy",
+        "silicone"
+      ],
+      "key_features": [
+        "8-in-1 connectivity hub",
+        "Foldable tablet stand",
+        "4K HDMI port (up to 60Hz)",
+        "USB-C Power Delivery pass-through charging (45W-100W)",
+        "2 USB-A data ports",
+        "3.5 mm AUX port",
+        "MicroSD and SD card slots",
+        "Adjustable height and orientation"
+      ],
+      "colors": [
+        {
+          "hex": "#373739",
+          "percentage": 0.6134
+        },
+        {
+          "hex": "#6d6e74",
+          "percentage": 0.1588
+        },
+        {
+          "hex": "#cccccf",
+          "percentage": 0.1371
+        },
+        {
+          "hex": "#92949a",
+          "percentage": 0.0908
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/sl3OTxg-LPzf-8tFxDf?o=01M5KH5VTE81FG2KNGR1T81B1X&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "newegg.com",
+          "price": {
+            "price": 163.62,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 5.63,
+              "unit": "in"
+            },
+            "width": {
+              "number": 5.55,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.4,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/sl3OTxg-n0yg-8tFxDf?o=01M38Q5K6WR4W681443C27XEC0&aid=01M66DA8D331TEB196FM1ME34X",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 180.47,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Tablet"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "HDMI",
+          "Micro SD card",
+          "SD card",
+          "USB",
+          "AUX"
+        ],
+        "height-adjustment": [
+          "Adjustable height"
+        ],
+        "mount-stand-features": [
+          "Adjustable angle",
+          "Foldable",
+          "Portable"
+        ],
+        "angles-supported": [
+          "Adjustable"
+        ],
+        "power-source": [
+          "USB"
+        ],
+        "material": [
+          "Metal"
+        ],
+        "mounting-type": [
+          "Tabletop"
+        ]
+      },
+      "ratings": {
+        "value": 4.78,
+        "count": 32,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjQ4Y2JiZTg0NWQ0MzJjZTMiLCAib2Zmc2V0IjogMjB9"
+}

@@ -40,6 +40,7 @@ venv/
 .ruff_cache/
 .mypy_cache/
 .ipynb_checkpoints/
+ml/out/
 
 # ML data and artifacts (small seed files live in /seed, not here)
 ml/data/raw/

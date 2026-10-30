@@ -1,0 +1,3685 @@
+{
+  "products": [
+    {
+      "id": "0LqDriW",
+      "title": "PD2706U",
+      "description": "This BenQ PD2706U is a 27-inch 4K UHD monitor designed for creative professionals. It offers 95% P3 color coverage and HDR400 for accurate color reproduction and enhanced contrast. The monitor features a USB-C port with 90W power delivery, making it convenient for connecting laptops and other devices. It also includes KVM switch functionality and BenQ's ICCsync technology to boost workflow efficiency. The monitor's design includes features to reduce eye fatigue, such as a comprehensive lighting system and precise control options for brightness and color temperature. The included Hotkey Puck G2 allows for easy adjustments. This monitor is also compatible with VESA wall mounts.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5f0ccc28-1631-4c55-8095-bb4f602e2ec3?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "size_chart",
+          "alt_text": "Vesa Wall Mount dimensions for a monitor, showing 100x100 mm size reference on the monitor body."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a6829e9-3676-44b7-bd2e-3ea51933aac5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1a6829e9-3676-44b7-bd2e-3ea51933aac5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor with vibrant abstract colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/230edcf6-f7f1-4180-a6ec-258c7aac9ace?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor with vibrant abstract colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c14883e8-08c1-442a-80f7-09dd0d63846f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c14883e8-08c1-442a-80f7-09dd0d63846f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor with vibrant abstract colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/23334b20-6650-4ba3-8877-06eba8d3995f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Dimensions and viewing angles of a BenQ monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/107282a6-dc09-485d-8003-2337cc6ab64d?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Connectivity ports and adjustment controls on the back of a BenQ monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ec62f8d-7ce7-470b-833a-f77ffe9458fe?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0ec62f8d-7ce7-470b-833a-f77ffe9458fe?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor displaying vibrant abstract colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6cb809fb-ef43-4922-b4f3-4d5971ecc6d6?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor displaying vibrant abstract colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/411c450a-df25-40bc-8ad6-4c7d57380b36?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "BenQ monitor mounted on a wall."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/263dd9d7-4fc7-4b9f-b4e0-db486e206e76?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Power button and function keys on the monitor base."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "27\u201d 4K UHD 16:9 IPS LED monitor with 90W USB-C connectivity",
+        "Covers 95% P3 and offer Delta E \u2264 3 color consistency",
+        "KVM & BenQ ICCsync boost work efficiency",
+        "Comprehensive lighting: Triple-curvature backlight and asymmetric front light balance the contrast between screen and environment, reducing eye fatigue caused by glare.",
+        "Precise control: The wireless controller provides precise adjustments, and the numeric touch panel makes it easy to set your preferred brightness and color temperature.",
+        "Fits any monitor: With the patented clip, ScreenBar Halo 2 also fits monitor thickness from 0.43 to 6cm and curved monitor range from 1000R to 1800R.",
+        "Wide, widescreen display with a vibrant, abstract pattern composed of bright colors including teal, blue, magenta, orange, and yellow",
+        "adjustable tilt/swivel/pivot",
+        "multiple connectivity ports",
+        "VESA Mount Compatible (100mm x 100mm)"
+      ],
+      "colors": [
+        {
+          "hex": "#ea663d",
+          "percentage": 0.1495
+        },
+        {
+          "hex": "#0f2f75",
+          "percentage": 0.1473
+        },
+        {
+          "hex": "#06a1ac",
+          "percentage": 0.1422
+        },
+        {
+          "hex": "#e8177b",
+          "percentage": 0.1312
+        },
+        {
+          "hex": "#a50f62",
+          "percentage": 0.1266
+        },
+        {
+          "hex": "#145f91",
+          "percentage": 0.1089
+        },
+        {
+          "hex": "#ecbc8f",
+          "percentage": 0.104
+        },
+        {
+          "hex": "#270e63",
+          "percentage": 0.0903
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/0LqDriW-LPzf-8tFxDf?o=01M4HWK445ESDTSFHZH9ZK40CQ&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "newegg.com",
+          "price": {
+            "price": 319.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/0LqDriW-S5BM-8tFxDf?o=01KRG5Z213BQ18PYZV0ZQY8JDK&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": 499.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/0LqDriW-LFnL-8tFxDf?o=01M3NQTZYA2QG5K5Q1MG4WA86J&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "staples.com",
+          "price": {
+            "price": 437.31,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 15.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED",
+          "LCD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB",
+          "Rec. 709"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Adjustable viewing angle",
+          "LED backlight",
+          "Matte finish",
+          "Anti-glare",
+          "Built-in speakers",
+          "Blue light filter",
+          "Flicker-free"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm",
+          "75 x 75 mm"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-shape": [
+          "Flat",
+          "Curved"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "energy-efficiency-class-hdr": [
+          "G"
+        ],
+        "energy-efficiency-class-sdr": [
+          "G"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 5,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "8Nv5cTl",
+      "title": "BenQ DesignVue PD2706U - Professional Series - LED monitor - 4K - 27\" - HDR",
+      "description": "The BenQ DesignVue PD2706U is a 27-inch 4K HDR designer monitor featuring an IPS panel with a 3840 x 2160 resolution and a 60 Hz refresh rate. Designed for creative professionals, it offers high color accuracy with 95% DCI-P3, 100% sRGB, and 100% Rec. 709 gamut coverage. Connectivity is versatile, including HDMI, DisplayPort, and a USB-C port providing 90W Power Delivery. The monitor comes with a fully adjustable stand for rotation, height, tilt, and swivel, and includes the Hotkey Puck G2 for streamlined productivity. It is TUV Rheinland Certified for low blue light and flicker-free operation to reduce eye strain.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f774c60d-3ed3-49fb-9a31-f1a63d93c174?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f774c60d-3ed3-49fb-9a31-f1a63d93c174?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue 27-inch 4K HDR monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/396c1b82-9487-4ce8-bd44-7307b27c8a5b?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue 27-inch 4K HDR monitor on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LCD"
+      ],
+      "key_features": [
+        "27\u201d IPS 4k UHD (3840x2160) resolution",
+        "60Hz refresh rate",
+        "400 nits Brightness",
+        "5 ms Response Times (GtG)",
+        "1200:1 Native Contrast",
+        "1.07 billion colors",
+        "HDR10 and VESA DisplayHDR 400",
+        "178\u00b0/178\u00b0 Viewing Angle",
+        "Color Mode, DualView, Darkroom Mode, Animation Mode, CAD/CAM Mode",
+        "Built-in KVM switch"
+      ],
+      "colors": [
+        {
+          "hex": "#722958",
+          "percentage": 0.1757
+        },
+        {
+          "hex": "#059ea9",
+          "percentage": 0.1664
+        },
+        {
+          "hex": "#111b65",
+          "percentage": 0.1243
+        },
+        {
+          "hex": "#113e79",
+          "percentage": 0.1243
+        },
+        {
+          "hex": "#de1c75",
+          "percentage": 0.122
+        },
+        {
+          "hex": "#b76e4f",
+          "percentage": 0.119
+        },
+        {
+          "hex": "#c1ad92",
+          "percentage": 0.1065
+        },
+        {
+          "hex": "#2a617a",
+          "percentage": 0.0617
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/8Nv5cTl-oHaU-8tFxDf?o=01M619J505YAFMDRQEWTA904T0&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 32.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 20.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 7.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.68,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/8Nv5cTl-TgS4-8tFxDf?o=01M3YWZMY2TY97N6XG12YH40EM&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "cdw.com",
+          "price": {
+            "price": 429.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.4,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.1,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 18.3,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "energy-efficiency-class-sdr": [
+          "G"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB",
+          "Pantone"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "energy-efficiency-class-hdr": [
+          "G"
+        ]
+      },
+      "ratings": {
+        "value": 4.8,
+        "count": 17,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "pfJ2vOI",
+      "title": "BenQ DesignVue PD2706U 27\" 4K UHD HDR IPS Monitor w/ 90W USB-C",
+      "description": "A 27\u2011inch professional monitor featuring a 4K UHD IPS panel, HDR10 (DisplayHDR 400), 90\u202fW USB\u2011C power delivery, two 2.5\u202fW speakers, KVM switch, and Pantone\u2011validated colour accuracy. Ideal for designers, video editors and creative professionals.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e33c5cbb-6b70-4621-b030-564ab57a29f6?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e33c5cbb-6b70-4621-b030-564ab57a29f6?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Benq monitor with AQCOLOR logo and vibrant abstract screen"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/614a498d-0061-4321-a798-33f0fa9a14a0?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Benq monitor on a stand with colorful abstract screen"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9f7e2f61-0e6c-47ba-b4f6-c650f7436346?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9f7e2f61-0e6c-47ba-b4f6-c650f7436346?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Benq monitor on a stand showing the side profile"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8e60f54a-c056-418b-b289-b9db706072b9?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black Benq monitor showing ports and ventilation"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b9cce46d-9ab5-4c3b-b5bb-62aba50df5ce?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black Benq monitor displaying vibrant abstract art"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/70f93456-b761-48db-932c-3745fdfaec99?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/70f93456-b761-48db-932c-3745fdfaec99?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black Benq monitor showing input ports"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/65114d76-e27c-4dfa-9a23-f6bd0f92ebe4?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a black Benq monitor and stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/746ad997-a6c4-4d89-b1b1-b5afe09b2705?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/746ad997-a6c4-4d89-b1b1-b5afe09b2705?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Benq monitor with vibrant colorful abstract screen"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e901fee1-24d5-4400-a937-fb67c5cba359?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e901fee1-24d5-4400-a937-fb67c5cba359?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Benq monitor with vibrant colorful abstract screen"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/451837e6-b931-4d9c-bb48-6e1074d2342f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/451837e6-b931-4d9c-bb48-6e1074d2342f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Benq monitor displaying colorful abstract art with stand and power cable"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "IPS 4K UHD",
+        "HDR10 DisplayHDR\u202f400",
+        "90\u202fW USB\u2011C Power Delivery",
+        "Dual\u2011Head KVM switch",
+        "Pantone & Calman verified colour accuracy",
+        "Factory\u2011calibrated",
+        "Low\u2011blue\u2011light & flicker\u2011free"
+      ],
+      "colors": [
+        {
+          "hex": "#10367d",
+          "percentage": 0.146
+        },
+        {
+          "hex": "#09a0aa",
+          "percentage": 0.1439
+        },
+        {
+          "hex": "#be0574",
+          "percentage": 0.1433
+        },
+        {
+          "hex": "#ec6c3a",
+          "percentage": 0.1432
+        },
+        {
+          "hex": "#d4266d",
+          "percentage": 0.1172
+        },
+        {
+          "hex": "#e4b78f",
+          "percentage": 0.1097
+        },
+        {
+          "hex": "#2b126e",
+          "percentage": 0.0992
+        },
+        {
+          "hex": "#206590",
+          "percentage": 0.0974
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/pfJ2vOI-p1PB-8tFxDf?o=01KY78SDS32VN19VGQ48EQ2Z10&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 539.99,
+            "compare_at_price": 549.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Frameless",
+          "Quantum dot technology",
+          "HDR support"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Micro USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": {
+        "value": 4.9,
+        "count": 12,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "veklNN0",
+      "title": "DesignVue PD2706U 27-inch 4K UHD HDR Designer Monitor with Hotkey Puck G2",
+      "description": "The BenQ DesignVue PD2706U is a 27-inch 4K UHD HDR designer monitor designed for creative professionals. It features an IPS-type LCD panel with a 3840 x 2160 resolution and a 60 Hz refresh rate, ensuring high-quality visual performance. The monitor offers wide color space coverage (95% P3, 99% sRGB, and 99% Rec. 709) and supports HDR10 for accurate and vivid colorization. It includes a fully adjustable arm stand (rotation, height, tilt, and swivel) and comes with the Hotkey Puck G2 for customizable shortcuts. Connectivity options include HDMI, DisplayPort, and a USB-C port with 90W Power Delivery. Additional features include built-in KVM support, Picture-in-Picture (PIP), Picture-by-Picture (PBP), and TUV Rheinland certification for Low Blue Light and Flicker-Free technology.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5a725425-f797-46ec-a1b6-2f8b2f688c4a?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5a725425-f797-46ec-a1b6-2f8b2f688c4a?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue monitor with vibrant abstract colors on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ad294a72-e27b-4ba7-a760-adabeb811bcb?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ad294a72-e27b-4ba7-a760-adabeb811bcb?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue monitor with vibrant abstract colors on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e26e91c8-7fee-4f7b-bf98-b727dd3343df?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e26e91c8-7fee-4f7b-bf98-b727dd3343df?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue monitor showing colorful display from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/85823de2-f774-4fe7-bc14-7f825fa44305?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/85823de2-f774-4fe7-bc14-7f825fa44305?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue monitor with colorful display facing the camera."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9154ed56-1c14-4744-bbd3-1ef5489934d2?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue monitor mounted on an adjustable arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1efd0825-ce5d-4454-a875-50ad31dabbfc?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1efd0825-ce5d-4454-a875-50ad31dabbfc?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ DesignVue monitor mounted on an adjustable arm, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/80e66568-700e-4790-936d-6f17ff2fd82e?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear ports and connections of the BenQ monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/49255173-4afa-4556-8b74-051416b7c34e?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=ZQQu",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor back panel showing all connectivity ports."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch IPS-Type LCD panel",
+        "4K UHD resolution (3840 x 2160)",
+        "HDR10 support",
+        "95% P3, 99% sRGB, and 99% Rec. 709 color gamuts",
+        "USB-C with 90W Power Delivery",
+        "Built-in KVM support",
+        "Includes Hotkey Puck G2",
+        "TUV Rheinland Certified (Low Blue Light and Flicker-Free)",
+        "Adjustable arm stand (rotation, height, tilt, and swivel)",
+        "PIP and PBP modes"
+      ],
+      "colors": [
+        {
+          "hex": "#099fa9",
+          "percentage": 0.1436
+        },
+        {
+          "hex": "#ec6b3c",
+          "percentage": 0.1423
+        },
+        {
+          "hex": "#bd0572",
+          "percentage": 0.1403
+        },
+        {
+          "hex": "#123576",
+          "percentage": 0.1347
+        },
+        {
+          "hex": "#d2266e",
+          "percentage": 0.1167
+        },
+        {
+          "hex": "#e4b78f",
+          "percentage": 0.1091
+        },
+        {
+          "hex": "#28136d",
+          "percentage": 0.1083
+        },
+        {
+          "hex": "#1f638f",
+          "percentage": 0.1051
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/veklNN0-ZQQu-8tFxDf?o=01M3VT8BRFTEA2KS8657DE4PGW&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "focuscamera.com",
+          "price": {
+            "price": 584.95,
+            "compare_at_price": 649.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.021,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "H9WIwK7",
+      "title": "DesignVue PD2706U 27-inch 4K UHD HDR Designer Monitor with Hotkey Puck G2",
+      "description": "This BenQ DesignVue PD2706U is a 27-inch 4K UHD HDR designer monitor designed to provide optimal visual performance and comfort for creative professionals. It features an IPS panel with a 3840 x 2160 resolution and a 60 Hz refresh rate, delivering a clear and smooth picture. The monitor offers exceptional color accuracy with 95% DCI-P3, 99% sRGB, and 99% Rec. 709 gamuts, supporting 1.07 billion colors. With a 1200:1 static contrast ratio and 400 nits brightness, it delivers vivid colors and balanced contrast, ideal for photo and video editing. The monitor includes extensive connectivity options such as HDMI, DisplayPort, and a USB-C port with 90W Power Delivery. It also features built-in KVM support, a customizable Hotkey Puck G2 for quick access to features, Picture-in-Picture (PIP) and Picture-by-Picture (PBP) modes for multitasking, and specialized viewing modes like CAD/CAM, Animation, and ePaper. TUV Rheinland Certified for Low Blue Light and Flicker-Free technologies, it ensures user eye comfort during long work sessions. The included adjustable arm stand allows for easy screen adjustment in rotation, height, tilt, and swivel. Additional features include intuitive color matching technology with Display ColorTalk and Palette Master Ultimate for precise calibration.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/8250d1e1-d1dc-475f-8a41-0c0dbf856af8?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor displaying colorful abstract art with AQCOLOR logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0add1123-7a6e-4a02-b391-eaed2052891a?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor displaying colorful abstract art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88def7d7-510d-4c21-b9f2-7c42d2eea3be?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of a BenQ monitor screen showing colorful abstract art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/273eb94d-5992-4fa5-a893-c6861d0877ab?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor displaying colorful abstract art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/36172bcb-ee11-47fd-9b3e-a34b63e4015b?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor displaying colorful abstract art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2b289d0a-4652-4e27-a5d7-70eb35848119?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black BenQ monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aaf05570-df15-4fa8-b246-16c1d9dfaebd?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the back panel and ports of a BenQ monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f8b75715-4840-40c2-985d-01e50708e19e?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/654b7431-48da-493d-8472-72328123191f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Dimensions and adjustment specs for a 27-inch monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b549d08d-b0e4-4dbc-bc1c-2811cda969f2?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ac7cfffe-f260-4e1a-9bd0-97dc83401dd4?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor displaying colorful abstract art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f89520d-af7d-4397-91de-81b7d25d1a85?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black BenQ monitor on a stand, side and front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7962f595-da47-4a15-8efe-afc52e049e98?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Back panel of BenQ monitor showing connectivity ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f952e5fa-6a55-47a9-8904-ce73a7cc0801?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black BenQ monitor and stand from a three-quarter view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/43a6dd9e-6478-4656-b9a9-ece981c2462b?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4370101-ab9d-49d1-b3df-6144956709c5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor displaying colorful abstract art."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch IPS panel",
+        "3840 x 2160 resolution",
+        "60 Hz refresh rate",
+        "95% DCI-P3 color gamut",
+        "99% sRGB color gamut",
+        "99% Rec. 709 color gamut",
+        "1.07 billion colors",
+        "1200:1 static contrast ratio",
+        "400 nits brightness",
+        "HDR10 support"
+      ],
+      "colors": [
+        {
+          "hex": "#c7683d",
+          "percentage": 0.2161
+        },
+        {
+          "hex": "#256494",
+          "percentage": 0.1853
+        },
+        {
+          "hex": "#1c4a90",
+          "percentage": 0.1467
+        },
+        {
+          "hex": "#2d2868",
+          "percentage": 0.1312
+        },
+        {
+          "hex": "#b91052",
+          "percentage": 0.1151
+        },
+        {
+          "hex": "#c73a4c",
+          "percentage": 0.0897
+        },
+        {
+          "hex": "#85a88b",
+          "percentage": 0.0618
+        },
+        {
+          "hex": "#9c8255",
+          "percentage": 0.0541
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/H9WIwK7-LPzf-8tFxDf?o=01M5RKXQRMQAEB1HH2125ACDDF&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "newegg.com",
+          "price": {
+            "price": 499.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 9.38,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.17,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.08,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 18.3,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/H9WIwK7-ZQQu-8tFxDf?o=01KRSCHVWEHT5YPF4HYAZCD1BV&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "focuscamera.com",
+          "price": {
+            "price": 649.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "4K ultra HD",
+          "1920 x 1080"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight",
+          "Adjustable viewing angle",
+          "Frameless",
+          "Quantum dot technology"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1",
+          "200:1",
+          "1000:1"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB",
+          "Pantone"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "pattern": [
+          "Abstract"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 3,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "dqkP7eC",
+      "title": "BenQ 27\" DesignVue PD2706U 4K Designer Monitor & Ergo Arm Kit",
+      "description": "The BenQ 27\" DesignVue PD2706U 4K Designer Monitor and Ergo Arm Kit is a professional-grade display bundle designed for creative productivity. It features a 27-inch 16:9 IPS panel with 4K UHD resolution (3840 x 2160) at 60 Hz and HDR10 support. For color accuracy, it covers 95% DCI-P3, 100% sRGB, and 100% Rec. 709 gamuts. The monitor includes versatile connectivity with HDMI, DisplayPort, and a USB-C port providing 90W Power Delivery. This kit includes a Single Ergo Arm for maximum flexibility in screen positioning and the Hotkey Puck G2 for quick access to customizable settings. It is TUV Rheinland Certified for low blue light and flicker-free performance to reduce eye strain.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7b3113a1-d54f-41ae-bb97-674db382c2ff?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7b3113a1-d54f-41ae-bb97-674db382c2ff?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch BenQ monitor and black monitor arm on a white background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "4K UHD 3840 x 2160 at 60 Hz",
+        "HDR10 support",
+        "95% DCI-P3, 100% sRGB, and 100% Rec. 709 color gamut",
+        "USB-C with 90W Power Delivery",
+        "Single Ergo Arm for adjustable positioning",
+        "Integrated KVM support",
+        "TUV Rheinland Certified Low Blue Light and Flicker-Free",
+        "Includes Hotkey Puck G2"
+      ],
+      "colors": [
+        {
+          "hex": "#722a58",
+          "percentage": 0.1822
+        },
+        {
+          "hex": "#089eaa",
+          "percentage": 0.1634
+        },
+        {
+          "hex": "#111b66",
+          "percentage": 0.1227
+        },
+        {
+          "hex": "#dd1c75",
+          "percentage": 0.1198
+        },
+        {
+          "hex": "#b96e4f",
+          "percentage": 0.1195
+        },
+        {
+          "hex": "#123e78",
+          "percentage": 0.1166
+        },
+        {
+          "hex": "#c2af94",
+          "percentage": 0.1092
+        },
+        {
+          "hex": "#2b627c",
+          "percentage": 0.0666
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/dqkP7eC-oHaU-8tFxDf?o=01M3KK9H6XRED3HAFX77FJYCHK&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 499.98,
+            "compare_at_price": 549.98,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 28.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "3.5 mm"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "3KI9aZG",
+      "title": "Creative Pro PD2706UA",
+      "description": "The BenQ Creative Pro PD2706UA is a 27-inch 4K designer monitor featuring an ergonomic arm for maximum workspace flexibility. It is engineered for color precision, covering 95% P3, 100% sRGB, and 100% Rec.709 color spaces with Delta E \u2264 3. The monitor includes professional certifications from Pantone and Calman, as well as BenQ's AQCOLOR technology for corner-to-corner uniformity. It simplifies connectivity with a 90W USB-C all-in-one cable for data and charging, and enhances productivity with a built-in KVM switch and the Hotkey Puck G2.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/6f8a944e-b8f0-4e33-8d30-b2127b81733b?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the monitor's power port and USB-C charging indicator."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 In-Plane Switching Panel",
+        "3840 x 2160 resolution at 60 Hz",
+        "1200:1 Static Contrast Ratio",
+        "5 ms (MPRT) Response Time",
+        "400 nits Peak Brightness",
+        "Ergo Arm Stand",
+        "1.07 Billion Colors with HDR10",
+        "HDMI, DisplayPort & USB-C Inputs",
+        "95% P3, 100% sRGB, 100% Rec.709 color coverage",
+        "Delta E \u2264 3 color accuracy"
+      ],
+      "colors": [
+        {
+          "hex": "#ebebeb",
+          "percentage": 0.2531
+        },
+        {
+          "hex": "#0f1015",
+          "percentage": 0.1527
+        },
+        {
+          "hex": "#a6a6a6",
+          "percentage": 0.1427
+        },
+        {
+          "hex": "#757575",
+          "percentage": 0.1182
+        },
+        {
+          "hex": "#c5c5c4",
+          "percentage": 0.1165
+        },
+        {
+          "hex": "#363638",
+          "percentage": 0.1093
+        },
+        {
+          "hex": "#0f1247",
+          "percentage": 0.1076
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3KI9aZG-S5BM-8tFxDf?o=01M2FXS2WHY656XRSQX65EBRKM&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/3KI9aZG-n0yg-8tFxDf?o=01M38QC7CNTEM18S1TWBNMJZSQ&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 402.99,
+            "compare_at_price": 669.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 21.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB",
+          "Rec. 709"
+        ],
+        "device-interface": [
+          "USB",
+          "Display port",
+          "HDMI"
+        ],
+        "display-technology": [
+          "LCD",
+          "IPS"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "DH5zSGu",
+      "title": "Dual 27\" DesignVue PD2706U 4K Designer Monitor & Ergo Arm Kit",
+      "description": "This is a professional productivity kit featuring two BenQ DesignVue PD2706U 27-inch 4K UHD designer monitors paired with a dual Ergo Arm. Each monitor features a 16:9 IPS panel with 3840 x 2160 resolution, HDR10 support, and a peak brightness of 400 nits. Designed for creative professionals, it offers wide color gamut coverage (95% P3, 100% sRGB, 100% Rec. 709) and flexible connectivity including HDMI, DisplayPort, and USB-C with 90W Power Delivery. The included Dual Ergo Arm provides high flexibility for positioning the displays, making it ideal for complex creative workflows on various desk types.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c071852d-b789-495d-803a-7c2fc199ea86?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c071852d-b789-495d-803a-7c2fc199ea86?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black 27-inch 4K monitor and dual monitor arm kit on a white background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Polyester"
+      ],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "4K UHD 3840 x 2160 resolution at 60 Hz",
+        "USB-C (90W) | HDMI | DisplayPort connectivity",
+        "Dual Ergo Arm for flexible positioning",
+        "95% P3, 100% sRGB, and 100% Rec. 709 color gamuts",
+        "Built-in KVM support and Hotkey Puck G2 included",
+        "TUV Rheinland Certified Low Blue Light and Flicker-Free"
+      ],
+      "colors": [
+        {
+          "hex": "#6d3057",
+          "percentage": 0.2092
+        },
+        {
+          "hex": "#089faa",
+          "percentage": 0.1559
+        },
+        {
+          "hex": "#db1d74",
+          "percentage": 0.1239
+        },
+        {
+          "hex": "#121b66",
+          "percentage": 0.1222
+        },
+        {
+          "hex": "#c1714e",
+          "percentage": 0.118
+        },
+        {
+          "hex": "#c7b49a",
+          "percentage": 0.1089
+        },
+        {
+          "hex": "#153f76",
+          "percentage": 0.1031
+        },
+        {
+          "hex": "#296781",
+          "percentage": 0.0588
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/DH5zSGu-oHaU-8tFxDf?o=01M36C12N2AA3JR6XVHWT4N0MF&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 1029.97,
+            "compare_at_price": 1079.97,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1200:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "cKyQWcL",
+      "title": "PD2706QN 27-inch QHD Designer Monitor",
+      "description": "The BenQ PD2706QN is a 27-inch QHD designer monitor engineered for color accuracy and productivity. It features 95% P3 color coverage and is factory-calibrated to ensure consistent color matching across displays. For streamlined connectivity and power, it includes a 90W USB-C port for simultaneous data transfer and device charging. The monitor also integrates KVM functionality to control multiple systems and supports ICCsync for unified color management. Its ergonomic design allows for height adjustment, tilting, swiveling, and a 90-degree pivot for flexible viewing orientations.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e44a0703-16d6-4169-ae9a-b5497c2fa0b5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e44a0703-16d6-4169-ae9a-b5497c2fa0b5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor displaying colorful abstract art on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7ccf320f-5157-4c75-861e-01bd458426c4?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ccf320f-5157-4c75-861e-01bd458426c4?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a gray BenQ monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d26dad5-7cfb-479d-a4aa-b6b108cf3b97?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor back showing input and output ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f0e206c6-338f-43f0-a93c-6c21aedaf49b?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing different screen sizes and pivot angle of the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/734cb49e-6070-4100-ae89-de27c8244208?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/734cb49e-6070-4100-ae89-de27c8244208?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Diagram showing monitor and stand dimensions and adjustment range."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/85c8ecd2-a88d-4bb5-9a12-3f443d640509?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/85c8ecd2-a88d-4bb5-9a12-3f443d640509?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up detail of the monitor's rear panel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/460f6ad7-f5b0-4e7c-a24e-a0bfdfe70f4f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/460f6ad7-f5b0-4e7c-a24e-a0bfdfe70f4f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor with vibrant display and swivel stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch QHD display",
+        "95% P3 color coverage",
+        "90W USB-C power delivery and data transfer",
+        "Factory-calibrated for color accuracy",
+        "Built-in KVM switch for multi-system control",
+        "ICCsync for consistent color management",
+        "Ergonomic stand with height adjustment, swivel, tilt, and 90\u00b0 pivot"
+      ],
+      "colors": [
+        {
+          "hex": "#0d357a",
+          "percentage": 0.1536
+        },
+        {
+          "hex": "#059faa",
+          "percentage": 0.1482
+        },
+        {
+          "hex": "#ef6b3b",
+          "percentage": 0.1423
+        },
+        {
+          "hex": "#bc0472",
+          "percentage": 0.1412
+        },
+        {
+          "hex": "#d4256e",
+          "percentage": 0.1206
+        },
+        {
+          "hex": "#e3b68c",
+          "percentage": 0.1067
+        },
+        {
+          "hex": "#291270",
+          "percentage": 0.0956
+        },
+        {
+          "hex": "#1d6290",
+          "percentage": 0.0919
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cKyQWcL-LPzf-8tFxDf?o=01M5NMV121P5JXRMMN2QGE8YC1&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "newegg.com",
+          "price": {
+            "price": 239.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/cKyQWcL-S5BM-8tFxDf?o=01M2C2A2NKYMXWVQH6QG20CWRV&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 331.75,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Pantone",
+          "Rec. 709",
+          "sRGB"
+        ],
+        "display-resolution": [
+          "Quad HD",
+          "2560\u2009x\u20091440"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "vesa-mounting-pattern": [
+          "75 x 75 mm",
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support",
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in camera",
+          "Flicker-free",
+          "LED backlight"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "v7ZNvys",
+      "title": "Benq 27-inch Monitor 2560 x 1440 LCD (PD2706QN)",
+      "description": "The BenQ PD2706QN is a 27-inch QHD monitor designed for productivity and visual precision. It features a 2560 x 1440 resolution IPS panel with a 100 Hz refresh rate and a 5 ms (GtG) response time. The display offers a 1000:1 static contrast ratio, 400 nits peak brightness with HDR10 support, and a wide color gamut of 16.7 million colors. For enhanced connectivity, it includes an integrated USB hub, KVM switch, and speakers, with input options including HDMI, DisplayPort, and a high-power 90W USB-C port.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4b242059-7ca0-4195-8f0b-f5fbe1ef78a5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4b242059-7ca0-4195-8f0b-f5fbe1ef78a5?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "BenQ PD2706QN monitor display on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "QHD 2560 x 1440 resolution",
+        "100 Hz refresh rate",
+        "5 ms (GtG) Response Time",
+        "1000:1 Static Contrast Ratio",
+        "400 nits Peak Brightness (HDR)",
+        "HDR10 support",
+        "Integrated USB Hub, KVM & Speakers",
+        "Connectivity: HDMI, DisplayPort, USB-C (90W)",
+        "High color accuracy with Delta E=2 and AQCOLOR technology"
+      ],
+      "colors": [
+        {
+          "hex": "#0f367a",
+          "percentage": 0.1488
+        },
+        {
+          "hex": "#069faa",
+          "percentage": 0.1478
+        },
+        {
+          "hex": "#ed6b3c",
+          "percentage": 0.1439
+        },
+        {
+          "hex": "#bc0572",
+          "percentage": 0.1419
+        },
+        {
+          "hex": "#d4256e",
+          "percentage": 0.1231
+        },
+        {
+          "hex": "#e0b68c",
+          "percentage": 0.1049
+        },
+        {
+          "hex": "#291371",
+          "percentage": 0.0952
+        },
+        {
+          "hex": "#1d628e",
+          "percentage": 0.0945
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/v7ZNvys-TgS4-8tFxDf?o=01M3YX46KRVWJS30AYRR8XZJ58&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "cdw.com",
+          "price": {
+            "price": 322.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.5,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 20.55,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/v7ZNvys-n0yg-8tFxDf?o=01M4BV6WC4Y4S68D0EWQ8XWSD9&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 450.0,
+            "compare_at_price": 589.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 121.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support",
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "LED backlight"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "3.5 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "Rec. 709",
+          "DICOM"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "energy-efficiency-class-sdr": [
+          "G"
+        ],
+        "energy-efficiency-class-hdr": [
+          "G"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Z6yIjgE",
+      "title": "Creative Pro PD2706QN",
+      "description": "The BenQ Creative Pro PD2706QN is a 27-inch QHD designer monitor engineered for creative professionals. It features a 100Hz refresh rate and the P3 wide color gamut to ensure rich, accurate color reproduction. The monitor is equipped with a Nano Matte panel to reduce glare and improve contrast. Connectivity is streamlined with a 90W USB-C port compatible with Mac devices, a built-in KVM switch for controlling two systems, and DisplayPort MST for daisy-chaining. It is Pantone and Pantone SkinTone validated and Calman Verified, ensuring industry-standard color precision. Ergonomic flexibility is provided through height adjustment, tilt, swivel, and pivot capabilities.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/995e5373-6cd0-427c-88d6-61e05ed88e73?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/c27a34a8-12a0-4e66-a74a-9d2083774c12?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=LFnL",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch QHD monitor displaying vibrant abstract colors."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "85% PCR (Post-Consumer Recycled) materials in housing"
+      ],
+      "key_features": [
+        "HDR Display with 400 nits",
+        "Sharp QHD 27\" IPS 2560 x 1440",
+        "100 Hz refresh rate",
+        "5 ms response time",
+        "Integrated USB Hub, KVM & Speakers",
+        "HDMI, DisplayPort & USB-C with 90W",
+        "27-Inch QHD Nano Matte Display",
+        "95% DCI-P3 Wide Color Gamut",
+        "Factory Calibrated with Delta E \u2264 2",
+        "Pantone & Pantone SkinTone Validated"
+      ],
+      "colors": [
+        {
+          "hex": "#2f3175",
+          "percentage": 0.1678
+        },
+        {
+          "hex": "#f99448",
+          "percentage": 0.1659
+        },
+        {
+          "hex": "#ec0487",
+          "percentage": 0.1526
+        },
+        {
+          "hex": "#ff6f50",
+          "percentage": 0.1451
+        },
+        {
+          "hex": "#911990",
+          "percentage": 0.1298
+        },
+        {
+          "hex": "#fdbc3a",
+          "percentage": 0.1229
+        },
+        {
+          "hex": "#eb1e76",
+          "percentage": 0.0727
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Z6yIjgE-LFnL-8tFxDf?o=01M3HMP1P1V2ZS0EYJZX0HR0B2&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "staples.com",
+          "price": {
+            "price": 328.13,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 15.2,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Z6yIjgE-S5BM-8tFxDf?o=01M2JMMK9VQA3QEDN6N351DNYF&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 331.75,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/Z6yIjgE-p1PB-8tFxDf?o=01KY78TJRZ5Z398958D1P0XG1Q&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": 449.49,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "Pantone",
+          "Rec. 709",
+          "Rec. 2020",
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Matte finish",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "Quad HD",
+          "4K ultra HD",
+          "2560\u2009x\u20091440"
+        ],
+        "device-interface": [
+          "Display port",
+          "USB",
+          "HDMI",
+          "Thunderbolt"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "adaptive-sync-technology": [
+          "NVIDIA G-Sync Compatible"
+        ],
+        "display-technology": [
+          "LCD",
+          "IPS",
+          "LED"
+        ],
+        "energy-efficiency-class-hdr": [
+          "F"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Mqfj2HM",
+      "title": "Benq 27-inch Monitor 2560 x 1440 LCD (GW2790Q)",
+      "description": "The BenQ GW2790Q is a 27-inch QHD home monitor designed for work and entertainment, featuring a native resolution of 2560 x 1440 and a 100Hz refresh rate. It utilizes IPS technology for wide 178-degree viewing angles and includes an anti-glare coating. To prioritize eye health, it is equipped with Brightness Intelligence Technology, Low Blue Light Plus, and Flicker-Free technology. Connectivity options include two HDMI ports and a DisplayPort 1.2. The monitor is ENERGY STAR certified and EPEAT Bronze compliant, housed in a slim black chassis with a tilt-adjustable stand.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/76e5c95e-7997-46e2-97d6-432de8fe0bf2?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/76e5c95e-7997-46e2-97d6-432de8fe0bf2?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "A black 27-inch QHD home monitor on a white background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LCD"
+      ],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "QHD (2560 x 1440) resolution",
+        "100 Hz refresh rate",
+        "5 ms (GtG) Response Time",
+        "1500:1 Static Contrast Ratio",
+        "350 nit Brightness",
+        "Integrated Stereo Speakers",
+        "HDMI 2.0 and DisplayPort 1.2",
+        "Low Blue Light Plus",
+        "IPS Technology with 178-degree viewing angles"
+      ],
+      "colors": [
+        {
+          "hex": "#302c27",
+          "percentage": 0.5488
+        },
+        {
+          "hex": "#0b0705",
+          "percentage": 0.3355
+        },
+        {
+          "hex": "#6a6863",
+          "percentage": 0.1157
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Mqfj2HM-TgS4-8tFxDf?o=01M3YWZJW8EJJ1W9T7V8MSMMJY&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "cdw.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 17.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 10.36,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Mqfj2HM-n0yg-8tFxDf?o=01M4C47RYHFS6GGP3K39HHXER2&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 428.0,
+            "compare_at_price": 429.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 111.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "EXwT5al",
+      "title": "Creative Pro PD2705Q 27\" 2K Designer Monitor",
+      "description": "The BenQ Creative Pro PD2705Q is a 27-inch 2K designer monitor engineered for precision and color accuracy. It covers 100% of the sRGB and Rec.709 color spaces with a Delta E \u2264 3, ensuring superb color reproduction for creative professionals. The monitor features AQCOLOR technology for corner-to-corner uniformity and includes specialized modes such as Animation Mode, CAD/CAM Mode, and DualView to optimize various design workflows. It is Calman Verified and Pantone Validated, offering high reliability out of the box. Connectivity is enhanced with a USB-C port providing 65W power delivery and data transmission, alongside a KVM switch for seamless multi-system control. For user comfort, it incorporates BenQ Eye Care technology, including Flicker-Free and Low Blue Light certifications from T\u00dcV Rheinland.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/aba1898c-c175-4ba6-b7a3-18feab7ab865?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working at a desk in front of a large monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch 2K resolution display",
+        "10% sRGB and 10% Rec.709 color space coverage",
+        "Delta E \u2264 3 for high color accuracy",
+        "AQCOLOR technology for corner-to-corner uniformity",
+        "USB-C connectivity with 65W power delivery",
+        "Integrated KVM switch for multi-system efficiency",
+        "Calman Verified and Pantone Validated",
+        "Specialized modes: Animation, CAD/CAM, and DualView",
+        "T\u00dcV Rheinland certified Flicker-Free and Low Blue Light",
+        "HDR10 support"
+      ],
+      "colors": [
+        {
+          "hex": "#262626",
+          "percentage": 0.948
+        },
+        {
+          "hex": "#464646",
+          "percentage": 0.052
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/EXwT5al-S5BM-8tFxDf?o=01M2BWZWKTMHX4DYMKGN8J5T64&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 402.33,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "device-interface": [
+          "Display port",
+          "USB"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB"
+        ],
+        "display-technology": [
+          "LCD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "yf8WuKD",
+      "title": "EW270Q 27\u201d 2K 200Hz Home Entertainment Monitor",
+      "description": "The BenQ EW270Q is a 27-inch 2K home entertainment monitor designed for immersive viewing and gaming. It features a high 200Hz refresh rate for smooth motion, 90% DCI-P3 color coverage for vibrant visuals, and BenQ's exclusive HDRi and High Pixel Contrast technologies for optimized brightness and deeper blacks. For audio, it is equipped with dual 5W built-in speakers with six specialized audio modes. User convenience is enhanced by a scenario hotkey for one-touch setting switches and Display Pilot 2 software for on-screen control. The monitor also includes BenQ Eye-Care Technology, such as a Low Blue Light panel and Visual Optimiser, to reduce eye strain.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7daa5cf4-2b4a-4ba4-a096-3781f5d309a6?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "A 27-inch 2K monitor, keyboard, mouse, and lamp on a white desk."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "2K resolution",
+        "200Hz refresh rate",
+        "90% DCI-P3 color coverage",
+        "BenQ HDRi adaptive brightness",
+        "High Pixel Contrast for deeper blacks",
+        "Dual built-in 5W speakers with 6 audio modes",
+        "Scenario Hotkey for one-touch setting switches",
+        "BenQ Eye-Care Technology with Low Blue Light panel",
+        "Display Pilot 2 on-screen control software",
+        "Tilt and swivel adjustments"
+      ],
+      "colors": [
+        {
+          "hex": "#7a756c",
+          "percentage": 0.7214
+        },
+        {
+          "hex": "#5c574e",
+          "percentage": 0.1276
+        },
+        {
+          "hex": "#453b33",
+          "percentage": 0.0922
+        },
+        {
+          "hex": "#b3aea6",
+          "percentage": 0.0588
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/yf8WuKD-S5BM-8tFxDf?o=01M2C038YMX9B68T209E0NJ215&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 200.65,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "HDR support",
+          "Suitable for gaming"
+        ],
+        "display-resolution": [
+          "Quad HD"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Wcf2tDM",
+      "title": "MA270U 27\" IPS 4K UHD USB-C Computer Monitor",
+      "description": "The BenQ MA270U is a 27-inch 4K Ultra HD IPS monitor specifically designed for seamless integration with Apple MacBook Series, including MacBook Air and MacBook Pro. It features an innovative Nano Matte Panel to eliminate reflections and glare, P3 wide color gamut for vibrant colors, and synchronized controls for brightness and volume adjustments directly from the MacBook keyboard. The monitor connects via a single USB-C cable, providing up to 90W power delivery, and includes an adjustable stand for height, tilt, swivel, and pivot adjustments. This product is bundled with a desktop headphone stand.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c4072131-b482-428d-85f7-76ffb1bc82b3?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c4072131-b482-428d-85f7-76ffb1bc82b3?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "BenQ 27-inch 4K UHD monitor and stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 4K Ultra HD IPS HDR monitor",
+        "Bundled with a desktop headphone stand",
+        "Connects via USB-C and HDMI ports",
+        "Nano Matte Panel designed to eliminate reflection and glare",
+        "Designed for seamless integration with Apple MacBook Series",
+        "Calibrated with exclusive color tuning for P3 wide color gamut",
+        "Synchronized controls for brightness and volume from MacBook keyboard",
+        "Built-in hub delivers 90W and 15W power delivery",
+        "Adjustable stand supports height, tilt, swivel, and pivot",
+        "TUV Reflection Free and Low Blue Light certified"
+      ],
+      "colors": [
+        {
+          "hex": "#3b3b3b",
+          "percentage": 0.3951
+        },
+        {
+          "hex": "#5f5f5f",
+          "percentage": 0.2934
+        },
+        {
+          "hex": "#1e1e1e",
+          "percentage": 0.23
+        },
+        {
+          "hex": "#969696",
+          "percentage": 0.0815
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Wcf2tDM-K6RA-8tFxDf?o=01M2TVHKK7J2P94NV8NCNQ11WZ&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "macys.com",
+          "price": {
+            "price": 556.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "HDR support"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ZEKOIL7",
+      "title": "Creative Pro PD2705UA 27-inch Ergo Arm 4K UHD Designer Monitor",
+      "description": "The BenQ Creative Pro PD2705UA is a 27-inch 4K UHD designer monitor specifically engineered for creative professionals. It features an integrated Ergo Arm for maximum workspace flexibility and ergonomic comfort. The display provides exceptional color accuracy with 99% sRGB and 99% Rec.709 coverage, Delta E \u2264 3 reproduction, and is Pantone and Pantone SkinTone Validated as well as Calman Verified. Connectivity is streamlined via a USB-C port supporting 65W power delivery, video, audio, and data transmission. Additional professional features include HDR10 support, KVM switch, Picture-in-Picture (PIP), Picture-by-Picture (PBP), and specialized color modes like M-book, CAD/CAM, and Animation mode. It also incorporates T\u00dcV Rheinland certified eye-care technologies, including Flicker-Free and Low Blue Light filters.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/091a3e36-e850-4129-87c9-fbcb6fe78b4e?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/091a3e36-e850-4129-87c9-fbcb6fe78b4e?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/13ae80d2-cd7d-4374-87e1-d82d5d770754?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/13ae80d2-cd7d-4374-87e1-d82d5d770754?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e28c352-3502-4d57-aeff-285729bfb694?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0e28c352-3502-4d57-aeff-285729bfb694?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0953d24b-3d20-45bc-9ffd-16a5870f9c3d?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0953d24b-3d20-45bc-9ffd-16a5870f9c3d?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f9f2856b-3acb-45b4-984a-547e6c1b698d?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup showing size and swivel/tilt angles."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f75bf804-f84b-442f-9536-531e450ef413?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor back showing connection ports and specs."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e468eeb3-efdd-42f8-a88c-e4042f5dd19f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e468eeb3-efdd-42f8-a88c-e4042f5dd19f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor stand base showing dimensions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/834932cc-b58d-4f2d-b03e-e694e72f6026?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/834932cc-b58d-4f2d-b03e-e694e72f6026?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5d6de6e-24ca-41ba-b6e9-ee19af4bc7b9?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5d6de6e-24ca-41ba-b6e9-ee19af4bc7b9?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ea26a555-bb4a-4fef-a01d-8b6ff65bfb31?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ea26a555-bb4a-4fef-a01d-8b6ff65bfb31?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor remote control."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6e87b8c1-9a69-4a09-b4ef-99c29381d450?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6e87b8c1-9a69-4a09-b4ef-99c29381d450?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0e3f5ee6-9164-4e90-83c8-8d19aa14a5aa?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0e3f5ee6-9164-4e90-83c8-8d19aa14a5aa?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=S5BM",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Behance monitor display with colorful abstract background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Cotton",
+        "Rayon"
+      ],
+      "key_features": [
+        "27-inch 4K UHD Resolution",
+        "Integrated Ergo Arm",
+        "99% sRGB and 99% Rec.709 color space coverage",
+        "Delta E \u2264 3 color accuracy",
+        "USB-C connectivity with 65W power delivery",
+        "HDR10 support",
+        "Pantone and Pantone SkinTone Validated",
+        "Calman Verified",
+        "KVM Switch",
+        "T\u00dcV Rheinland certified eye-care (Flicker-Free, Low Blue Light)"
+      ],
+      "colors": [
+        {
+          "hex": "#285e80",
+          "percentage": 0.1452
+        },
+        {
+          "hex": "#079ca8",
+          "percentage": 0.14
+        },
+        {
+          "hex": "#c26749",
+          "percentage": 0.1302
+        },
+        {
+          "hex": "#1c3d6b",
+          "percentage": 0.1285
+        },
+        {
+          "hex": "#e6197c",
+          "percentage": 0.1282
+        },
+        {
+          "hex": "#16196a",
+          "percentage": 0.1215
+        },
+        {
+          "hex": "#92135e",
+          "percentage": 0.1062
+        },
+        {
+          "hex": "#e9ae81",
+          "percentage": 0.1002
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ZEKOIL7-S5BM-8tFxDf?o=01KRJVVH1J076XCYVR1TBK1Q4Y&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 329.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "2560\u2009x\u20091440",
+          "2160p",
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Matte finish",
+          "Anti-glare",
+          "Built-in speakers",
+          "Suitable for gaming",
+          "Touchscreen",
+          "Frameless",
+          "LED backlight",
+          "Quantum dot technology",
+          "Adjustable viewing angle",
+          "Ambient light sensor",
+          "AI-powered"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "Rec. 709",
+          "DCI-P3",
+          "Adobe RGB",
+          "Rec. 2020",
+          "Pantone"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "USB",
+          "Thunderbolt",
+          "Display port",
+          "HDMI",
+          "Tethering"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED",
+          "IPS"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WS1ASvh",
+      "title": "SW272Q 27-inch 2K AdobeRGB Photographer Monitor",
+      "description": "The BenQ SW272Q is a 27-inch 2K photographer monitor designed for high-precision creative work. It features a Fine-Coated anti-reflection panel for a simulated paper-texture experience and is TUV Rheinland certified for reflection-free performance. The monitor leverages AQCOLOR technology with a 16-bit 3D LUT and Delta E \u2264 1.5 for superior color accuracy. It supports a wide range of color spaces including Adobe RGB, sRGB, and P3, and is validated by Pantone and Calman. For connectivity, it includes 90W USB-C power delivery and is compatible with select SDI to HDMI devices. Additional professional features include Paper Color Sync, GamutDuo, and HDR10 support.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/eb015b9a-f39d-4022-8d30-77ae2eb30647?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Man viewing a 27-inch 4K monitor displaying a mountain landscape."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch 2K resolution (2560x1440)",
+        "Fine-Coated anti-reflection panel for simulated paper-texture",
+        "AQCOLOR technology with Delta E \u2264 1.5",
+        "90W USB-C power delivery",
+        "Wide color gamut: 99% Adobe RGB, 100% sRGB, 100% Rec.709, 98% P3",
+        "Pantone Validated and Calman Verified",
+        "HDR10 compatible",
+        "Paper Color Sync and GamutDuo for accurate photo preview",
+        "16-bit 3D lookup table (LUT)",
+        "TUV Rheinland Reflection-Free Certification"
+      ],
+      "colors": [
+        {
+          "hex": "#5d5755",
+          "percentage": 0.1889
+        },
+        {
+          "hex": "#3d464a",
+          "percentage": 0.1846
+        },
+        {
+          "hex": "#d6d7d2",
+          "percentage": 0.1553
+        },
+        {
+          "hex": "#87c7df",
+          "percentage": 0.1509
+        },
+        {
+          "hex": "#b19b87",
+          "percentage": 0.1012
+        },
+        {
+          "hex": "#2b282d",
+          "percentage": 0.0891
+        },
+        {
+          "hex": "#6792a1",
+          "percentage": 0.0681
+        },
+        {
+          "hex": "#604344",
+          "percentage": 0.0619
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WS1ASvh-oHaU-8tFxDf?o=01M39AX6GNWMRPCRZY8S9326ZV&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 799.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 24.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 23.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 14.4,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 18.3,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/WS1ASvh-S5BM-8tFxDf?o=01M2C168KH2KGVTV83C4WFF2ES&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "benq.eu",
+          "price": {
+            "price": 825.83,
+            "compare_at_price": 856.08,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "2560\u2009x\u20091440",
+          "1440p"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "HDR support",
+          "Built-in speakers"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Thunderbolt",
+          "Display port",
+          "Micro SD card",
+          "SD card",
+          "3.5 mm"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB",
+          "Pantone"
+        ],
+        "vesa-mounting-pattern": [
+          "75 x 75 mm",
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "energy-efficiency-class-hdr": [
+          "G"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 32,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "drbQRBD",
+      "title": "BenQ 27\" PD2770U 4K Color Management Monitor & Ergo Arm Kit",
+      "description": "The BenQ 27\" PD2770U is a 4K color management monitor designed for creative professionals, bundled with a Single Ergo Arm in white for enhanced desktop flexibility. It features a 27\" IPS panel with UHD 3840 x 2160 resolution, offering factory-calibrated accuracy (Delta E \u22641.5) and broad color gamut coverage including 99% Adobe RGB and DCI-P3. The monitor includes a magnetic shading hood to block glare, a Nano Matte panel for eye comfort, and a wireless Hotkey Puck G3 for quick adjustments. Connectivity is comprehensive with HDMI, DisplayPort, and a USB-C port supporting up to 96W power delivery. The included white ergonomic arm provides extensive tilt, swivel, and rotation options to optimize the viewing position.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0f75d742-0708-4f87-8843-5e8bafbf121c?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0f75d742-0708-4f87-8843-5e8bafbf121c?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black monitor on a stand with a white monitor arm."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "UHD 4K 3840 x 2160 at 60 Hz",
+        "Calman-verified and Pantone-validated color accuracy",
+        "USB-C with up to 96W power delivery",
+        "Magnetic shading hood for glare reduction",
+        "Includes Hotkey Puck G3 for streamlined workflow",
+        "Single Ergo Arm mount for flexible positioning",
+        "Nano Matte Panel for reduced glare"
+      ],
+      "colors": [
+        {
+          "hex": "#121633",
+          "percentage": 0.2002
+        },
+        {
+          "hex": "#224870",
+          "percentage": 0.1815
+        },
+        {
+          "hex": "#292332",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#ba126f",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#7f5454",
+          "percentage": 0.122
+        },
+        {
+          "hex": "#b3a793",
+          "percentage": 0.1091
+        },
+        {
+          "hex": "#8c7061",
+          "percentage": 0.1003
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/drbQRBD-oHaU-8tFxDf?o=01M3JJ3B8829AFJBK51VNFHF41&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 1699.98,
+            "compare_at_price": 1749.98,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 36.3,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "HDR support",
+          "Matte finish"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "Rec. 709",
+          "sRGB"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ZYNuQI5",
+      "title": "BenQ Designer PD2730S LED Monitor",
+      "description": "The BenQ Designer PD2730S is a professional 27-inch LED-backlit LCD monitor designed specifically for graphic designers and color-sensitive work. It features a stunning native 5K resolution (5120 x 2880) and VESA DisplayHDR 400 certification for high-dynamic-range visuals. The monitor utilizes an IPS panel with 100% sRGB color gamut and Pantone validation to ensure accurate color reproduction. For productivity and comfort, it includes a versatile stand with height, swivel, tilt, and pivot adjustments, along with eye-care technologies like Flicker-Free and Low Blue Light. Connectivity is highly streamlined via Thunderbolt 4, HDMI, and DisplayPort, with a built-in KVM switch and USB hub.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/0a394bea-81d1-4358-9a80-ede4b67834ca?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0a394bea-81d1-4358-9a80-ede4b67834ca?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor displaying abstract colorful wallpaper on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15156130-a099-48e0-bf77-b074fa9b2123?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/15156130-a099-48e0-bf77-b074fa9b2123?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "BenQ monitor displaying vibrant abstract colorful wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/19b2206e-bd50-4164-89e6-375c6076ff58?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/19b2206e-bd50-4164-89e6-375c6076ff58?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of a white BenQ monitor showing ports and branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/afd5b5b7-7676-4304-bce6-046ce0ce27e0?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/afd5b5b7-7676-4304-bce6-046ce0ce27e0?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of a colorful abstract screen display on a monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LED-backlit LCD"
+      ],
+      "key_features": [
+        "Native 5K resolution (5120 x 2880) @ 60 Hz",
+        "27-inch IPS panel",
+        "VESA DisplayHDR 400",
+        "100% sRGB color gamut",
+        "Thunderbolt 4, HDMI, and DisplayPort connectivity",
+        "Built-in KVM switch and USB hub",
+        "Flicker-Free and Low Blue Light technology",
+        "Adjustable stand (height, pivot, swivel, tilt)",
+        "Pantone Validated and Pantone Skintone Validated",
+        "Includes Hotkey puck G3"
+      ],
+      "colors": [
+        {
+          "hex": "#d7c8b9",
+          "percentage": 0.1441
+        },
+        {
+          "hex": "#732557",
+          "percentage": 0.1401
+        },
+        {
+          "hex": "#101c6e",
+          "percentage": 0.1256
+        },
+        {
+          "hex": "#0e7998",
+          "percentage": 0.1247
+        },
+        {
+          "hex": "#d17548",
+          "percentage": 0.1247
+        },
+        {
+          "hex": "#de1e74",
+          "percentage": 0.1217
+        },
+        {
+          "hex": "#13417a",
+          "percentage": 0.111
+        },
+        {
+          "hex": "#24a7ad",
+          "percentage": 0.1081
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ZYNuQI5-TgS4-8tFxDf?o=01M3YX4GYC4G9NCSHHT6QZMS1S&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "cdw.com",
+          "price": {
+            "price": 1197.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 9.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 18.12,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight",
+          "Matte finish"
+        ],
+        "color-accuracy-standards": [
+          "DICOM",
+          "Pantone",
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "5K ultra HD"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "energy-efficiency-class-hdr": [
+          "G"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "contrast-ratio-typical": [
+          "2000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ],
+        "pattern": [
+          "Abstract"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "UBFfzwk",
+      "title": "MA270S LED Monitor",
+      "description": "The BenQ MA270S is a 27-inch 5K HDR monitor specifically designed for MacBook Pro and MacBook Air users. It features a 16:9 IPS Nano Gloss panel with a UHD 5K resolution of 5120 x 2880 at 70 Hz, providing exceptional detail and rich, accurate color for photo and video editing. The monitor supports HDR10 with a 2000:1 static contrast ratio, 450 nits brightness, and 99% coverage of sRGB and DCI-P3 color gamuts. Connectivity is robust, featuring a 96W Thunderbolt 4 port for single-cable video, data, and power, an additional 15W Thunderbolt 4 port for daisy chaining, two HDMI 2.1 ports, and a USB 3.2 hub. It also includes integrated 3W stereo speakers and an ergonomic stand that supports rotation, height adjustment, tilt, and swivel.",
+      "brands": [
+        {
+          "id": "H7Q8",
+          "name": "BenQ"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a9700b24-c08f-4b06-aad5-232b9fabd895?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a9700b24-c08f-4b06-aad5-232b9fabd895?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the BenQ monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c333bf33-cd8f-440e-947c-706ba5da5b3f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c333bf33-cd8f-440e-947c-706ba5da5b3f?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Refurbished BenQ monitor with a silver stand on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0dd96733-fe79-4990-bfa2-c5f31d00238b?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Diagram showing monitor size and height adjustment for the stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ab3705c-b244-4ec8-a3df-d5145ca50890?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor's curved bezel and swivel feature."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ea8c4146-49cb-4aa6-832c-db3b7acdee95?aid=01M66D9SWBKND7HYY4QG8JTG46&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the monitor back showing USB and HDMI ports."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Nano Gloss Panel",
+        "UHD 5K 5120 x 2880 resolution at 70 Hz",
+        "5 ms Response Time",
+        "2000:1 Static Contrast Ratio",
+        "450 nits Brightness",
+        "1.07 Billion Colors with HDR10",
+        "99% sRGB & DCI-P3 Coverage",
+        "Integrated USB Hub & Stereo Speakers",
+        "HDMI 2.1 & Thunderbolt 4 (96W)",
+        "Thunderbolt 4, HDMI 2.1, and USB Type-C connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#ddd8fc",
+          "percentage": 0.3223
+        },
+        {
+          "hex": "#e7c9fc",
+          "percentage": 0.2918
+        },
+        {
+          "hex": "#b6b8f2",
+          "percentage": 0.1652
+        },
+        {
+          "hex": "#a090d5",
+          "percentage": 0.116
+        },
+        {
+          "hex": "#4e4282",
+          "percentage": 0.1048
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/UBFfzwk-oHaU-8tFxDf?o=01M3K5AZWKKEK9PXKP5QWCT9E5&aid=01M66D9SWBKND7HYY4QG8JTG46",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 1999.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 22.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 19.05,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support",
+          "Glossy finish"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "5K ultra HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB"
+        ],
+        "contrast-ratio-typical": [
+          "2000:1"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Curved",
+          "Flat"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": {
+        "value": 4.87,
+        "count": 6,
+        "source_count": 2
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjI5MzhmMzA4OTJkMGE4ZWQiLCAib2Zmc2V0IjogMjB9"
+}

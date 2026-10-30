@@ -1,0 +1,4088 @@
+{
+  "products": [
+    {
+      "id": "kWjLsBg",
+      "title": "Samsung ViewFinity S8 S80UH LED Monitor",
+      "description": "The Samsung ViewFinity S8 S80UH is a 27-inch 4K UHD LED monitor designed for detailed visuals and multitasking. It features a 3840 x 2160 resolution IPS panel with 350 cd/m\u00b2 brightness, a 1000:1 static contrast ratio, and HDR10 support for enhanced color and contrast. The monitor includes versatile connectivity with USB-C (providing 90W charging and data transfer), LAN, HDMI, and DisplayPort. It is equipped with a built-in KVM switch and supports Picture-in-Picture/Picture-by-Picture. For user comfort, it features an ergonomic stand supporting tilt, swivel, and height adjustment, along with Eye Saver Mode and Flicker Free technology.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dc372054-2365-425c-843b-b5e73eb3f61a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc372054-2365-425c-843b-b5e73eb3f61a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung 27-inch 4K UHD LED monitor displaying abstract light patterns."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD (3840 x 2160) resolution",
+        "27-inch IPS panel",
+        "USB-C connectivity with 90W charging",
+        "Ergonomic stand (tilt, swivel, height adjustment)",
+        "Built-in KVM switch",
+        "Picture-in-Picture / Picture-by-Picture support",
+        "HDR10",
+        "Eye Saver Mode and Flicker Free technology",
+        "LAN, HDMI, and DisplayPort connectivity"
+      ],
+      "colors": [
+        {
+          "hex": "#cbd4f7",
+          "percentage": 0.2185
+        },
+        {
+          "hex": "#1d1d30",
+          "percentage": 0.1411
+        },
+        {
+          "hex": "#706da9",
+          "percentage": 0.1352
+        },
+        {
+          "hex": "#afadd7",
+          "percentage": 0.1345
+        },
+        {
+          "hex": "#d07367",
+          "percentage": 0.1343
+        },
+        {
+          "hex": "#e0e0f1",
+          "percentage": 0.0974
+        },
+        {
+          "hex": "#523752",
+          "percentage": 0.0876
+        },
+        {
+          "hex": "#e2b39e",
+          "percentage": 0.0515
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kWjLsBg-TgS4-8tFxDf?o=01M3YX8FTSYAJZM8EH875AC7AC&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "cdw.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": 799.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "monitor-specialized-features": [
+          "Flicker-free",
+          "HDR support"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "2rAqyiI",
+      "title": "Samsung 27\" ViewFinity S8 (S80UD) 4K UHD Monitor",
+      "description": "The Samsung ViewFinity S80UD is a 27-inch 4K HDR monitor designed for productivity and versatility. It features a 16:9 IPS panel with a UHD resolution of 3840 x 2160, supporting HDR10 for lifelike images and a wide color gamut of 99% sRGB. The monitor is equipped with comprehensive connectivity, including HDMI, DisplayPort, and a USB-C port that provides up to 90W of power delivery for laptops. A built-in KVM switch allows users to control two devices with a single keyboard and mouse. The ergonomic design includes a fully adjustable stand (height, tilt, swivel, and rotation) and is T\u00dcV-certified for eye care to reduce flicker and blue light.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5cb1d7c2-fe68-4cea-ab10-ca1bb631fa76?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5cb1d7c2-fe68-4cea-ab10-ca1bb631fa76?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 4K UHD monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7251c602-fc06-4404-86c0-3a4e2ed00f18?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 4K UHD monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd50ad43-ec2c-4720-aea4-ffb65795197e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing 4K UHD resolution and pixel details on a monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ac15bb0c-3dc8-4d86-b85e-95da6f7807b5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing enhanced color and HDR10 support features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cd902dc1-e49f-4780-a231-2885fb5873a0?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop connected to a monitor on a desk in a home office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7e36ce0d-f017-4f1c-9ea2-02c3c82bfba7?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing monitor tilt and swivel adjustment features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/36742c84-50f4-4faf-b45b-72e2e08115af?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing connectivity ports on the monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/824be5ad-97e4-4196-a0d0-6ac296d0ff02?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 4K UHD monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d0722afa-ef49-4521-9175-03c0947f1e28?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d0722afa-ef49-4521-9175-03c0947f1e28?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 monitor with vibrant display on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e7695d54-a1ba-424c-b16f-7a36f3069369?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e7695d54-a1ba-424c-b16f-7a36f3069369?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 4K UHD monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5907fa71-8062-42dc-a7e0-f2453463f2cb?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 monitor showing a bright blue screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20aed736-9268-49f3-9b33-d23620f894e3?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/20aed736-9268-49f3-9b33-d23620f894e3?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung ViewFinity S8 4K UHD monitor on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "IPS-Type LCD"
+      ],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "UHD 4K 3840 x 2160 at 60 Hz",
+        "USB-C connectivity with 90W power delivery",
+        "Integrated KVM switch for controlling multiple devices",
+        "HDR10 support and 99% sRGB coverage",
+        "Fully adjustable ergonomic stand (rotation, swivel, tilt, height)",
+        "T\u00dcV-certified intelligent eye care technologies",
+        "Connectivity: HDMI, DisplayPort, RJ45 Ethernet, and USB 3.0 hub"
+      ],
+      "colors": [
+        {
+          "hex": "#4d85e4",
+          "percentage": 0.1934
+        },
+        {
+          "hex": "#caebe6",
+          "percentage": 0.1543
+        },
+        {
+          "hex": "#8b90e6",
+          "percentage": 0.1428
+        },
+        {
+          "hex": "#51effd",
+          "percentage": 0.1266
+        },
+        {
+          "hex": "#1a2b72",
+          "percentage": 0.1209
+        },
+        {
+          "hex": "#70bef1",
+          "percentage": 0.1092
+        },
+        {
+          "hex": "#bfbfcc",
+          "percentage": 0.0912
+        },
+        {
+          "hex": "#45499a",
+          "percentage": 0.0617
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2rAqyiI-oHaU-8tFxDf?o=01M3HY219J21QBP428PDK1XWCD&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 899.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 13.4,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB",
+          "3.5 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 5,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "gI5mCSf",
+      "title": "Viewfinity S8 S80h 4K UHD High Resolution Monitor",
+      "description": "The Samsung ViewFinity S8 S80H is a 27-inch high-resolution 4K UHD monitor designed for professional and business use. It features an IPS panel with HDR10 support, ensuring vibrant colors and deep contrast. The monitor is equipped with an ergonomic height-adjustable stand (HAS) that supports tilting, swiveling, and pivoting for optimal viewing comfort. To reduce eye strain during long work sessions, it includes Eye Saver Mode and Flicker Free technology. Connectivity is versatile, offering HDMI, DisplayPort, and a USB hub with Type-A and Type-B ports.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/dc2cd5d1-4d29-408e-8e21-8f76d5621e34?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc2cd5d1-4d29-408e-8e21-8f76d5621e34?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27 inch Samsung ViewFinity S8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5717acf7-873b-4050-b65a-43a3d6a30f3a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor specifications and dimensions shown."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/80a8bbd9-6af0-4cf3-8b92-f340d1d30413?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/80a8bbd9-6af0-4cf3-8b92-f340d1d30413?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27 inch monitor displaying different resolution content."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3e72f7c7-6d4e-41db-b7c3-8d02dbe3ba21?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Monitor connected to a laptop for work."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2c1440e5-5244-4fcc-b5ea-8e4bfd283f3c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using a monitor at an ergonomic desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2910477f-c250-4f10-b0b6-f85238a26afa?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic comparing Eye Saver Mode effects."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ac903b5-c6a0-4cf3-a5d8-2af638edc9d1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Back panel connection ports of the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2ec4b7f3-bbb1-42de-a828-bf96b0394824?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27 inch monitor featuring key features overview."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2c3d6f35-96ef-43d1-a669-5ae619e6a66f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2c3d6f35-96ef-43d1-a669-5ae619e6a66f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Samsung monitor from the back view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f521991b-abb5-4b0f-a227-7e5c745392ba?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f521991b-abb5-4b0f-a227-7e5c745392ba?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "27 inch monitor displaying abstract display."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD Resolution (3840 x 2160)",
+        "HDR10 support",
+        "IPS Panel for wide viewing angles",
+        "Ergonomic design with Height Adjustable Stand (HAS), Tilt, Swivel, and Pivot",
+        "Eye Saver Mode and Flicker Free technology",
+        "Comprehensive connectivity: HDMI 2.0, DisplayPort 1.2, and USB 3.2 Gen1 Hub",
+        "SRGB 99% color gamut coverage"
+      ],
+      "colors": [
+        {
+          "hex": "#dfcbde",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#db779d",
+          "percentage": 0.143
+        },
+        {
+          "hex": "#9375a3",
+          "percentage": 0.1378
+        },
+        {
+          "hex": "#b09ebf",
+          "percentage": 0.1255
+        },
+        {
+          "hex": "#e8e5f1",
+          "percentage": 0.1157
+        },
+        {
+          "hex": "#d53858",
+          "percentage": 0.113
+        },
+        {
+          "hex": "#d9a5c3",
+          "percentage": 0.1104
+        },
+        {
+          "hex": "#58325e",
+          "percentage": 0.1005
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gI5mCSf-ckmS-8tFxDf?o=01M5MEQAPY5BVFQREAZ8JQK787&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "samsung.com",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.016,
+          "dimensions": {
+            "length": {
+              "number": 24.3,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.58,
+              "unit": "in"
+            },
+            "height": {
+              "number": 22.08,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.24,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              {
+                "label": "27\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/dc2cd5d1-4d29-408e-8e21-8f76d5621e34",
+                "product_id": "gI5mCSf"
+              },
+              {
+                "label": "32\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/2cb1504f-71b0-4501-b53b-826a7850e378",
+                "product_id": "2GyNhW0"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Size",
+            "label": "27\""
+          }
+        ]
+      },
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Flicker-free",
+          "HDR support"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "AAtK9oV",
+      "title": "Viewfinity S8 Monitor",
+      "description": "This Samsung ViewFinity S8 monitor boasts a 27-inch IPS display with a 4K UHD resolution, offering crisp visuals and vibrant colors with 1.07 billion color support and 99% sRGB color gamut. The anti-glare, flicker-free screen ensures comfortable viewing, even during extended use. With a 60Hz refresh rate and 5ms response time, it's suitable for various tasks, from professional work to casual entertainment. The monitor features a versatile stand with tilt, swivel, and pivot adjustments, and a VESA mount for flexible placement. Connectivity options include HDMI, DisplayPort, and multiple USB ports, along with an RJ45 Ethernet port.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/963b38bd-bf97-4a03-a68a-9964b2191b4c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/963b38bd-bf97-4a03-a68a-9964b2191b4c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 monitor showing vibrant blue and orange abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cea8e89e-9fcc-40bb-b611-fe53e215ef68?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cea8e89e-9fcc-40bb-b611-fe53e215ef68?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 monitor showing vibrant blue and orange abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/99db2593-b610-4aea-8980-3f787b6ee146?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor dimensions and screen size specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f2ea052-df89-4f14-a01f-de98bc3475d0?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "32 inch monitor displaying a website and charts in a home office setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/326f0288-28d1-489e-8fcb-191e6b2cd2c9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/326f0288-28d1-489e-8fcb-191e6b2cd2c9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor display showing UHD resolution and picture quality."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ebf15b72-52ee-4f09-a31e-7cf4ae78de47?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "37 inch monitor on a desk with a laptop, keyboard, and mouse."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9b51b17f-20e7-41d3-a2df-bfcbfb3225ff?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor's connectivity ports and features diagram."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b4354701-9109-4c3e-971f-9a6f3a485440?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4354701-9109-4c3e-971f-9a6f3a485440?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 UHD monitor on a stand with vivid display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2df56f6a-d4bb-41e4-b655-98d23dcda8b3?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2df56f6a-d4bb-41e4-b655-98d23dcda8b3?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Samsung Viewfinity S8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51450b86-f9ef-4650-b227-b1bcb3ad648f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/51450b86-f9ef-4650-b227-b1bcb3ad648f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "37 inch Viewfinity S8 monitor showing vibrant blue and orange abstract wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2475e852-b5bc-4732-8b75-e40e052f44e4?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Features icons indicating UHD, USB-C, stand, ergonomics, and eye care."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LED",
+        "VA panel",
+        "HDMI",
+        "DisplayPort",
+        "USB-C",
+        "LAN"
+      ],
+      "key_features": [
+        "4K UHD",
+        "IPS Panel",
+        "Anti Glare",
+        "Flicker Free",
+        "VESA Mount Compatible",
+        "1.07 Billion Colors",
+        "9% sRGB Color Gamut",
+        "178 degree Vertical and Horizontal viewing angle",
+        "60Hz Refresh Rate",
+        "5ms GTG Response Time"
+      ],
+      "colors": [
+        {
+          "hex": "#4b8ded",
+          "percentage": 0.1878
+        },
+        {
+          "hex": "#c6ece8",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#8b90e3",
+          "percentage": 0.1387
+        },
+        {
+          "hex": "#4ceffd",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#1c37a0",
+          "percentage": 0.117
+        },
+        {
+          "hex": "#67c0f5",
+          "percentage": 0.1033
+        },
+        {
+          "hex": "#bcbfd0",
+          "percentage": 0.0965
+        },
+        {
+          "hex": "#4c4fb2",
+          "percentage": 0.0735
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/AAtK9oV-ckmS-8tFxDf?o=01KRE4DFANCDZA5RNTVFXGYDJF&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "samsung.com",
+          "price": {
+            "price": 449.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.016,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              {
+                "label": "27\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/963b38bd-bf97-4a03-a68a-9964b2191b4c",
+                "product_id": "AAtK9oV"
+              },
+              {
+                "label": "32\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/69e1bcf4-c761-4e62-b0c7-3c62496d2b88",
+                "product_id": "pnr3mek"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Speakers",
+            "label": "With Speakers"
+          },
+          {
+            "name": "Size",
+            "label": "27\""
+          }
+        ]
+      },
+      "structured_attributes": {
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Flicker-free",
+          "LED backlight",
+          "HDR support"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "pattern": [
+          "Abstract"
+        ]
+      },
+      "ratings": {
+        "value": 4.75,
+        "count": 144,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "FO8NCee",
+      "title": "Samsung 27\" ViewFinity S8 (S80HF) 5K UHD High Resolution Monitor",
+      "description": "The Samsung ViewFinity S8 S80HF is a 27-inch 5K HDR monitor designed for productivity and high-detail work. It features a 16:9 IPS panel with a native resolution of 5120 x 2880, offering 77% more pixels than 4K for exceptional clarity. The monitor supports HDR10 for true-to-life colors and a wide color gamut. Connectivity is comprehensive, featuring USB-C with 90W power delivery, LAN port for Ethernet, HDMI 2.1, and DisplayPort 1.4. It includes a built-in KVM switch for controlling two sources with one keyboard and mouse, as well as Picture-in-Picture (PIP) and Picture-by-Picture (PBP) functionality. An adjustable ergonomic stand allows for tilting, swiveling, height adjustment, and 90-degree pivoting. For eye comfort, it includes T\u00dcV-certified Eye Saver Mode and flicker-free technology.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/94677b9a-80d7-4e0f-81b4-e4934892425e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/96d8dd12-94ed-4855-9cbb-d558b09f04b7?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch Samsung ViewFinity S8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4f613c74-9c80-442c-9cca-2bb90d35394f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/f0adeb3b-a5a4-49c8-a70d-abcc29080cc2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Monitor dimensions and stand size reference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dbcc73fd-e131-4252-af2b-5034c137c59e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor display showing 5K resolution and video content."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/232abb24-16ae-441c-9fee-84e37a35388f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor connectivity ports and features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8d4e4e25-5e48-4d5d-8550-efb9c05ce99a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/5d8275dd-e9eb-4237-b1bf-a657c4fcfe73?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor display showing a performance graph."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/927f7b30-c5cc-46a9-a9c8-4cdb857df840?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/ec31ebb4-f3fb-44e0-a8ce-f1c741b94547?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working at a desk with a monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fcaa17bb-b489-4b0f-aaef-363a0b487644?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear view of monitor with ports labeled."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7bb9b811-cd93-4467-a2e5-c680240a0054?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/db7c2bcd-295b-4628-9c38-eaf156223fc7?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30824442-bf36-4473-987a-4f80672d5f8b?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/f41706da-66f3-415a-a855-7e5e504a6c0c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Samsung ViewFinity S8 monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/99e25990-9c88-4bc4-a3c8-91d5652c6ac9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/d7f3dafe-65b9-46d2-a483-58e20548c051?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Samsung ViewFinity S8 monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Recycled Plastic"
+      ],
+      "key_features": [
+        "5K resolution (5120x2880) with 218 PPI",
+        "HDR10 support with over 1 billion colors",
+        "USB-C port with 90W charging and data transfer",
+        "Built-in LAN port for Ethernet connectivity",
+        "Built-in KVM switch for controlling two sources with one keyboard/mouse",
+        "Picture-in-Picture (PiP) and Picture-by-Picture (PbP) modes",
+        "Ergonomic stand (tilt, swivel, height adjust, 90-degree pivot)",
+        "T\u00dcV-certified Eye Saver Mode and flicker-free technology",
+        "Samsung Display Manager for screen controls and color calibration",
+        "27\" 16:9 IPS Panel"
+      ],
+      "colors": [
+        {
+          "hex": "#5363b4",
+          "percentage": 0.2161
+        },
+        {
+          "hex": "#110c1f",
+          "percentage": 0.1557
+        },
+        {
+          "hex": "#a78da0",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#b96b63",
+          "percentage": 0.1254
+        },
+        {
+          "hex": "#443a6b",
+          "percentage": 0.1211
+        },
+        {
+          "hex": "#d8c3ac",
+          "percentage": 0.094
+        },
+        {
+          "hex": "#24358b",
+          "percentage": 0.0851
+        },
+        {
+          "hex": "#903e4b",
+          "percentage": 0.0733
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/FO8NCee-p1PB-8tFxDf?o=01M4BMWGFA0C7KZ990Z6BM3RNR&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 589.99,
+            "compare_at_price": 699.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/FO8NCee-oHaU-8tFxDf?o=01M357VNJ5C8BWV1DQ6C760AAH&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 699.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "Ethernet",
+          "3.5 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "5K ultra HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": {
+        "value": 4.86,
+        "count": 61,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "RtVu8K3",
+      "title": "Viewfinity S8 4K UHD HDR10 High Resolution Monitor with Ergonomic Stand",
+      "description": "Experience stunning visuals with the Samsung ViewFinity S8 27\" 4K Ultra HD LED Monitor. This monitor features a 27-inch display with a 3840 x 2160 resolution, offering incredible detail and clarity. Its TFT active matrix display technology ensures better picture quality, while the 16:9 aspect ratio provides a widescreen viewing experience. With support for 1.07 billion colors, you can enjoy vivid and lifelike images. The monitor is designed with a sleek black bezel and a modern stand, making it a stylish addition to any workspace. It includes HDMI and DisplayPort interfaces for versatile connectivity and meets ENERGY STAR and TUV Eyesafe Display Certification standards. The overall dimensions are 21.73\"H x 24.23\"W x 7.73\"D, and it weighs 14.77 lbs. This monitor comes with a 3-year manufacturer limited warranty.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/903c29ce-2bb5-4b7f-b295-862cfa73fe64?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/d17b99a5-84cf-44a0-aee2-906883fcd49d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S80pb 27-inch 4K UHD IPS monitor with black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fa10c9fc-dcfd-4236-9702-1b1f5eedb2a1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fa10c9fc-dcfd-4236-9702-1b1f5eedb2a1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S80pb 27-inch 4K UHD IPS monitor shown at an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a1f3a5a8-87e7-43db-a750-6bfd3f88ee96?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a1f3a5a8-87e7-43db-a750-6bfd3f88ee96?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S80pb 27-inch 4K UHD IPS monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/be0361e6-348b-434d-a4a2-afd6876a5bb2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/be0361e6-348b-434d-a4a2-afd6876a5bb2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Side profile view of a Samsung Viewfinity S80pb monitor and its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6126f3b4-0b68-4b44-bbda-20a712799b2d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6126f3b4-0b68-4b44-bbda-20a712799b2d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of a Samsung Viewfinity S80pb monitor and its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2f6802e0-14ed-4ac9-9397-92c92e6e0628?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2f6802e0-14ed-4ac9-9397-92c92e6e0628?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S80pb 27-inch 4K UHD IPS monitor with black stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD (3840x2160) Resolution",
+        "HDR10",
+        "Ergonomic Stand",
+        "DisplayPort",
+        "HDMI",
+        "USB",
+        "IPS panel",
+        "60Hz refresh rate and 5ms response time",
+        "Eye Saver Mode and flicker-free technology",
+        "VESA mount compatibility"
+      ],
+      "colors": [
+        {
+          "hex": "#2e2f2d",
+          "percentage": 0.6047
+        },
+        {
+          "hex": "#4a3533",
+          "percentage": 0.1424
+        },
+        {
+          "hex": "#81635a",
+          "percentage": 0.1391
+        },
+        {
+          "hex": "#c9c7bc",
+          "percentage": 0.1138
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/RtVu8K3-LFnL-8tFxDf?o=01KJWXGEJCJHT9CET7R7PZTZ94&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "staples.com",
+          "price": {
+            "price": 462.39,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 14.3,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/RtVu8K3-p1PB-8tFxDf?o=01KYGZFS3YFH50QB2B5PA3M9HG&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 469.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/RtVu8K3-T9Fg-8tFxDf?o=01KNMET856BQ7DHM3Q3QM1V907&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "adorama.com",
+          "price": {
+            "price": 599.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              {
+                "label": "27\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "32\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "4096 x 2160",
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED",
+          "VA"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Pantone",
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Matte finish",
+          "Adjustable viewing angle",
+          "LED backlight"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": {
+        "value": 4.31,
+        "count": 67,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "goV9CyA",
+      "title": "ViewFinity S8 Monitor",
+      "description": "This 32-inch Samsung ViewFinity S8 monitor is designed for professionals and enthusiasts, boasting a 4K UHD resolution of 3840 x 2160 for exceptional clarity. It features a 99% sRGB color gamut and supports over 1.07 billion colors, ensuring accurate and vibrant color reproduction ideal for design and editing tasks. The monitor offers extensive ergonomic adjustments, including height, pivot, swivel, and tilt, for a comfortable and productive workspace. Connectivity is robust with HDMI, DisplayPort, and a USB 3.0 hub. For extended viewing comfort, it includes Adaptive Picture, Eye Saver Mode, and Flicker-Free technology.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e76eb1d7-8c22-44e1-984a-5c931d224d48?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e76eb1d7-8c22-44e1-984a-5c931d224d48?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Viewfinity S8 monitor with vibrant screen display and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/31c1a29e-4471-4770-b08a-6888b2997704?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/31c1a29e-4471-4770-b08a-6888b2997704?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Viewfinity S8 monitor with vibrant screen display and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1cfc3ee8-55b8-42bf-bbe1-ea3ca9295de0?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1cfc3ee8-55b8-42bf-bbe1-ea3ca9295de0?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Viewfinity S8 monitor back view with black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2a076136-e1d5-4300-8304-7032dcd42146?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2a076136-e1d5-4300-8304-7032dcd42146?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Viewfinity S8 monitor with vibrant screen display and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6a9b98cc-63ff-4a9d-a442-cf3abe9b76f9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Features infographic for Viewfinity S8 monitor: UHD, stand, ergonomics, HDR10."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/526ff6ce-856a-4e82-813f-abb8382ba994?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/526ff6ce-856a-4e82-813f-abb8382ba994?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Monitor dimensions with and without stand for Viewfinity S8."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dd8e84f9-db90-4b1b-8900-60db1f2931d9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dd8e84f9-db90-4b1b-8900-60db1f2931d9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Graphic showing UHD resolution details on a monitor screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4e825d3c-b978-41c0-9f9e-845a1ea33a3a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor being set up easily on an ergonomic stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6b9f93cd-698f-4400-97d7-9bbc25e36cc2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor features showing tilt, swivel, pivot, and adjustable stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8e2eba60-7dd3-4f1a-8bba-4c8df4227d1f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Connectivity port diagram for the Viewfinity S8 monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "LCD"
+      ],
+      "key_features": [
+        "3840 x 2160 Resolution",
+        "60 Hz Refresh Rate",
+        "5 ms Response Time, VA Panel",
+        "HDMI 2.0; DisplayPort 1.2",
+        "100 x 100 mm VESA Mount",
+        "Height; Tilt; Swivel; Pivot",
+        "HDR10",
+        "Flicker-Free",
+        "Eye Saver Mode",
+        "350 cd/\u33a1 Brightness"
+      ],
+      "colors": [
+        {
+          "hex": "#3bdefb",
+          "percentage": 0.2806
+        },
+        {
+          "hex": "#86e7fb",
+          "percentage": 0.196
+        },
+        {
+          "hex": "#31b2f0",
+          "percentage": 0.1801
+        },
+        {
+          "hex": "#e6e771",
+          "percentage": 0.1502
+        },
+        {
+          "hex": "#3933a9",
+          "percentage": 0.1015
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/goV9CyA-p1PB-8tFxDf?o=01KY7AE6Y1H7HMNG2G74HS4QBK&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 449.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/goV9CyA-n0yg-8tFxDf?o=01M38T7W28PSE9J2QFRAMWHQFY&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 977.0,
+            "compare_at_price": 2499.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 20.0,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "4096 x 2160",
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-specialized-features": [
+          "Flicker-free",
+          "HDR support",
+          "Blue light filter",
+          "Quantum dot technology",
+          "Anti-glare",
+          "LED backlight"
+        ],
+        "display-technology": [
+          "VA",
+          "LCD"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "pattern": [
+          "Abstract"
+        ]
+      },
+      "ratings": {
+        "value": 4.67,
+        "count": 83,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "JMGMBP2",
+      "title": "ViewFinity S8 (S80D) 4K UHD HDR10 High Resolution Monitor",
+      "description": "The Samsung 27-inch ViewFinity S8 (S80UA) is a high-resolution UHD monitor designed for professional productivity. It features a 4K IPS panel for sharp visuals and wide viewing angles, HDR10 support for enhanced contrast, and versatile connectivity including a USB-C port with 90W charging power. The monitor comes with a height-adjustable stand that supports tilt, swivel, and pivot functions for ergonomic comfort.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/bbdc824a-7036-4dea-a686-a27526814712?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bbdc824a-7036-4dea-a686-a27526814712?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S8 monitor displaying abstract art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5c6cb100-0cbe-4bb3-814d-18c0fcd65234?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5c6cb100-0cbe-4bb3-814d-18c0fcd65234?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Samsung monitor with a black stand shown from the back."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ab91c97-13c9-42c7-aca9-1fb5234bdc87?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1ab91c97-13c9-42c7-aca9-1fb5234bdc87?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor displaying a colorful geometric abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d6714e5e-d911-40b5-ab7d-f5a00323fb6e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d6714e5e-d911-40b5-ab7d-f5a00323fb6e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor displaying a colorful geometric abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/99c9d128-4b0a-4793-baeb-01f03d2fada9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/66020c63-a2c3-4746-84b3-e80a1b13fc54?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing the ports on the back of the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0f4232e6-fb6e-4cf5-abb3-11c1b241b4e9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0f4232e6-fb6e-4cf5-abb3-11c1b241b4e9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor mounted on an articulating arm stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c07e37f-0adf-4472-b58d-42178c57558a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c07e37f-0adf-4472-b58d-42178c57558a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor displaying a colorful geometric abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3acd06b4-2dad-4fc0-8c4f-1fbfe80aad44?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3acd06b4-2dad-4fc0-8c4f-1fbfe80aad44?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of a Samsung monitor and its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c8f36552-fce4-4323-88b4-ac03981ff30e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c8f36552-fce4-4323-88b4-ac03981ff30e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor displaying a colorful geometric abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ebfd6f9-8560-4033-8b6f-5094b4ab8475?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1ebfd6f9-8560-4033-8b6f-5094b4ab8475?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor displaying a colorful geometric abstract background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c15728b-2dea-4dd4-9ddd-236665877456?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1c15728b-2dea-4dd4-9ddd-236665877456?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a Samsung monitor showing ports and branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cae1b151-fdab-4df4-812d-3c9a2553b9b1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=ckmS",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the back panel ports and connection points."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "UHD (3840x2160) Resolution",
+        "IPS Panel",
+        "HDR10 Support",
+        "USB Type-C connectivity with 90W charging",
+        "Height Adjustable Stand (HAS)",
+        "Pivot, Tilt, and Swivel versatility",
+        "Screen size of 27 inches",
+        "LED display technology for bright visuals, energy efficiency, and slim design"
+      ],
+      "colors": [
+        {
+          "hex": "#cad1b5",
+          "percentage": 0.1505
+        },
+        {
+          "hex": "#7f85b4",
+          "percentage": 0.1474
+        },
+        {
+          "hex": "#24305a",
+          "percentage": 0.1288
+        },
+        {
+          "hex": "#e1f2c6",
+          "percentage": 0.1278
+        },
+        {
+          "hex": "#3f5d90",
+          "percentage": 0.1211
+        },
+        {
+          "hex": "#3d8095",
+          "percentage": 0.1177
+        },
+        {
+          "hex": "#7faba8",
+          "percentage": 0.1046
+        },
+        {
+          "hex": "#96cdb0",
+          "percentage": 0.1021
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/JMGMBP2-ckmS-8tFxDf?o=01M1EC2WRESR79JBWZS9ZZ5PHM&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "samsung.com",
+          "price": {
+            "price": 419.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.016,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.7,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.1,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "Ethernet"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "2160p"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 4.78,
+        "count": 130,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "H04Bppz",
+      "title": "Samsung S27D408GAN - S40GD Series - LED monitor - Full HD (1080p) - 27\"",
+      "description": "The Samsung S27D408GAN from the S40GD Series is a 27-inch Full HD (1080p) LED-backlit LCD monitor designed for professionals and gamers. It features an IPS panel for wide viewing angles and consistent color, a 100Hz refresh rate for smooth motion, and a 5ms response time. To ensure comfort during long sessions, it includes Eye Saver Mode and Flicker-Free technology. The monitor is highly adjustable, offering height, pivot, swivel, and tilt options, and provides versatile connectivity with HDMI and DisplayPort inputs along with a built-in USB 2.0 hub.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cbd233f5-ff0a-44f9-9bba-1a83d1122814?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cbd233f5-ff0a-44f9-9bba-1a83d1122814?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black LED monitor displaying an abstract red, orange, and yellow geometric pattern."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "16.9% recycled plastic"
+      ],
+      "key_features": [
+        "Full HD (1920 x 1080) resolution",
+        "100Hz V-Sync rate for smooth visuals",
+        "IPS panel with 178 degree viewing angles",
+        "Eye Saver Mode and Flicker Free technology",
+        "Adjustable stand: Height, Pivot, Swivel, and Tilt",
+        "Connectivity: 2 x HDMI, 1 x DisplayPort, and USB 2.0 hub",
+        "ENERGY STAR and EPEAT Silver certified"
+      ],
+      "colors": [
+        {
+          "hex": "#910102",
+          "percentage": 0.1915
+        },
+        {
+          "hex": "#cf4209",
+          "percentage": 0.1365
+        },
+        {
+          "hex": "#fbde0c",
+          "percentage": 0.1304
+        },
+        {
+          "hex": "#302a27",
+          "percentage": 0.1289
+        },
+        {
+          "hex": "#10090d",
+          "percentage": 0.1278
+        },
+        {
+          "hex": "#c30304",
+          "percentage": 0.0963
+        },
+        {
+          "hex": "#6b0606",
+          "percentage": 0.0957
+        },
+        {
+          "hex": "#e98a13",
+          "percentage": 0.0929
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/H04Bppz-TgS4-8tFxDf?o=01M3YX3TRB6S9MQ15AJCNTYZS4&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "cdw.com",
+          "price": {
+            "price": 189.99,
+            "compare_at_price": 379.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 8.82,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight",
+          "Suitable for gaming"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "42Ey8P4",
+      "title": "ViewFinity S60UD Monitor",
+      "description": "The Samsung ViewFinity S60UD is a 27-inch professional monitor featuring a QHD (2560 x 1440) resolution and a 75Hz refresh rate. Designed for content creation and professional use, it utilizes an IPS panel for accurate color reproduction and wide 178\u00b0 viewing angles. The monitor supports HDR10 and offers versatile connectivity, including USB-C with 90W power delivery, HDMI, and DisplayPort. Its ergonomic design allows for height, tilt, and swivel adjustments for maximum user comfort.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ef356481-4f42-4743-bcf4-c4e59868811e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/04e6ca3d-2c01-4995-a5c5-cc6f243bf635?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S60ud 27 inch monitor with black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3627d472-88e7-4280-891a-06bf688d3a47?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/66ec756f-75b7-497b-bcb2-6cef2578180d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S60ud 27 inch monitor with black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e1141be8-dbee-4b9b-a843-1f8fea9125bb?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/9363376b-9c44-4164-9794-a4e8d72e637a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S60ud 27 inch monitor with black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2996047f-648e-4cb1-afda-fb274ecf3aa0?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/1b770b5e-8769-4754-8c0d-784cf6cceff6?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S60ud 27 inch monitor with black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/45538de5-00da-4e1a-aa20-609cb0e1105e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/c82c1613-e6ff-4246-8f6e-bfbf5bd55f52?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the black bezel and stand of the monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch QHD (2560 x 1440) resolution",
+        "IPS panel technology for wide viewing angles",
+        "75Hz refresh rate",
+        "USB-C connectivity with 90W power delivery",
+        "HDR10 support",
+        "Ergonomic adjustable height, tilt, and swivel",
+        "ENERGY STAR certified"
+      ],
+      "colors": [
+        {
+          "hex": "#9afad7",
+          "percentage": 0.2091
+        },
+        {
+          "hex": "#3afbbe",
+          "percentage": 0.1644
+        },
+        {
+          "hex": "#242a29",
+          "percentage": 0.1401
+        },
+        {
+          "hex": "#2ad3a2",
+          "percentage": 0.1133
+        },
+        {
+          "hex": "#d0fcad",
+          "percentage": 0.1096
+        },
+        {
+          "hex": "#38854a",
+          "percentage": 0.1086
+        },
+        {
+          "hex": "#82fbcb",
+          "percentage": 0.0869
+        },
+        {
+          "hex": "#87de9e",
+          "percentage": 0.068
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/42Ey8P4-LFnL-8tFxDf?o=01KZ5MPXPFQD7TW5YSMBCXMTFS&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "staples.com",
+          "price": {
+            "price": 436.65,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": {
+            "length": {
+              "number": 7.8,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 17.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.9,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "3000:1"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "HDR support"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 4.75,
+        "count": 6,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "2gy3Tlr",
+      "title": "Samsung 27\" 100Hz 2560x1440 IPS Flat Panel Display",
+      "description": "The Samsung ViewFinity S6 is a professional-grade 27-inch LED-backlit LCD monitor designed for high-precision tasks. It features a QHD resolution of 2560 x 1440, a 100Hz refresh rate, and an IPS panel for vivid and accurate color reproduction with 99% sRGB coverage and HDR10 support. For enhanced productivity, it includes a KVM switch, a USB hub, and a USB-C port that supports up to 90W power delivery, reducing cable clutter. The ergonomically designed stand allows for height, pivot, swivel, and tilt adjustments to ensure optimal viewing comfort.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/86cf2daa-fc0a-4691-9fe7-7d6730df923c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/86cf2daa-fc0a-4691-9fe7-7d6730df923c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung 27-inch monitor displaying vibrant green and blue liquid art on a black stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LED-backlit LCD"
+      ],
+      "key_features": [
+        "QHD resolution (2560 x 1440)",
+        "100Hz refresh rate",
+        "IPS panel technology",
+        "HDR10 support",
+        "99% sRGB color gamut",
+        "USB-C port with 90W power delivery",
+        "Integrated KVM switch and USB hub",
+        "Fully adjustable stand (height, pivot, swivel, tilt)",
+        "3-sided bezeless design",
+        "Daisy chain compatibility"
+      ],
+      "colors": [
+        {
+          "hex": "#97fadb",
+          "percentage": 0.2059
+        },
+        {
+          "hex": "#3bfbbe",
+          "percentage": 0.167
+        },
+        {
+          "hex": "#242c29",
+          "percentage": 0.1353
+        },
+        {
+          "hex": "#38864d",
+          "percentage": 0.1161
+        },
+        {
+          "hex": "#cbfca6",
+          "percentage": 0.111
+        },
+        {
+          "hex": "#29d29f",
+          "percentage": 0.1066
+        },
+        {
+          "hex": "#7efccb",
+          "percentage": 0.1008
+        },
+        {
+          "hex": "#81df9d",
+          "percentage": 0.0572
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2gy3Tlr-TgS4-8tFxDf?o=01M3YX0DJBT7S92Z3N35ME88D6&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "cdw.com",
+          "price": {
+            "price": 369.99,
+            "compare_at_price": 739.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 17.39,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "JHM6dVx",
+      "title": "ViewFinity S27C900PAN 27\" 5K QHD (5120 x 2880) 60Hz Smart Monitor",
+      "description": "The Samsung 27\" ViewFinity S9 is a high-performance 5K IPS smart monitor designed for professionals. It features a resolution of 5,120 x 2,880, 600 nits of brightness, and a matte display to reduce glare. Equipped with Thunderbolt 4 (90W charging) and a 4K SlimFit camera, it integrates seamlessly into a modern workspace. The monitor runs on the Tizen\u2122 OS, providing access to smart TV apps and productivity tools like Microsoft 365. Its ergonomic design includes a height-adjustable stand with pivot and tilt functionality, and it is Pantone Validated for color accuracy.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ac723c98-0592-4ff9-ae0a-2021aa7cf5c5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ac723c98-0592-4ff9-ae0a-2021aa7cf5c5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "27-inch curved monitor with vibrant light display on a silver stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7968979f-3578-4fd8-8cd1-37c92a9e286d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7968979f-3578-4fd8-8cd1-37c92a9e286d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Samsung monitor stand and panel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e1f31195-b314-488d-bacc-7dd73dc3c679?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the camera on a monitor bezel."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "5K QHD (5120 x 280) resolution with 218 PPI",
+        "60Hz Native Refresh Rate (up to 75Hz via DisplayPort/USB-C)",
+        "9% DCI-P3 and sRGB color gamut",
+        "Matte Display with Intelligent Eye Care",
+        "Thunderbolt 4 and miniDisplayPort connectivity",
+        "Integrated SmartThings Hub and MultiView",
+        "IPS Panel with HDR support",
+        "Adjustable stand (Height, Tilt, Pivot)",
+        "DCI-P3 9% color gamut and Pantone Validated",
+        "60 nits typical brightness"
+      ],
+      "colors": [
+        {
+          "hex": "#fceef2",
+          "percentage": 0.5009
+        },
+        {
+          "hex": "#f3d0e7",
+          "percentage": 0.2904
+        },
+        {
+          "hex": "#eb9db5",
+          "percentage": 0.142
+        },
+        {
+          "hex": "#a24a76",
+          "percentage": 0.0667
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/JHM6dVx-p1PB-8tFxDf?o=01KYTD3A775RNWKB94Y2VS1P2P&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1599.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Bluetooth",
+          "Thunderbolt",
+          "USB",
+          "Wi-Fi",
+          "Display port"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in camera",
+          "Built-in speakers",
+          "Flicker-free",
+          "HDR support",
+          "Frameless",
+          "Matte finish"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "Pantone",
+          "sRGB"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": {
+        "value": 3.58,
+        "count": 85,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "A9uTYvM",
+      "title": "Samsung 27\" FHD Essential Curved Monitor LC27F396FHNXZA",
+      "description": "The Samsung 27\" FHD Essential Curved Monitor (model LC27F396FHNXZA) is an open-box display designed for a comfortable viewing experience with its deeply curved screen. It features a high contrast ratio of 3000:1 for vibrant picture quality and AMD FreeSync technology to ensure smooth gameplay. This open-box unit comes with a 1-year warranty.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7451fd06-9a99-4022-8661-d1217ebd3e68?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung curved monitor on stand displaying a night city view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/19596b09-c97a-4249-b4c2-9e023dac36c1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung curved monitor on stand displaying a night city view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/863ee03e-6907-474e-88a5-857303aecc38?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung curved monitor on stand displaying a night city view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/54c96364-b69c-41d4-9ac0-fb15b0606676?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/54c96364-b69c-41d4-9ac0-fb15b0606676?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Curved Samsung monitor displaying a night city view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4670653d-e1aa-47a2-b5f9-14a0ba598dfb?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4670653d-e1aa-47a2-b5f9-14a0ba598dfb?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Curved Samsung monitor showing the curved screen edge."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2b5f3b4d-a979-4be8-98b8-174e1effd77f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Samsung monitor showing ports and branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/412ef8e0-ca41-45b0-82be-6f7f4badc74e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/412ef8e0-ca41-45b0-82be-6f7f4badc74e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Samsung monitor showing ports and branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30b0bc64-0729-46fc-b53a-cb2f9c14c08d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/30b0bc64-0729-46fc-b53a-cb2f9c14c08d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of the curved Samsung monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/82e0c6e5-425a-4bea-b805-99c60a2fa1a5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/82e0c6e5-425a-4bea-b805-99c60a2fa1a5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of the curved Samsung monitor and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c9ee4ec9-fdb7-4699-b869-03c0987158bb?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Curved Samsung monitor displaying a night city view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a9c596e8-61af-4b09-b464-69a8065e09cf?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor rear panel showing connectivity ports and specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/643492f0-f7ba-43c6-b8aa-4dd8b79f823d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/643492f0-f7ba-43c6-b8aa-4dd8b79f823d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Samsung monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/86d38b68-b8d4-4e54-b59b-d0589ce1aeec?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor screen showing AMD FreeSync comparison."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/816e3129-56c8-468a-b999-465477542aad?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/816e3129-56c8-468a-b999-465477542aad?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=BsaX",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Open box packaging for Samsung monitor with 1 year warranty."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Deeply curved screen for a comfortable viewing experience",
+        "Vibrant and Superior Picture Quality with 30:1 contrast ratio",
+        "Smooth game play with AMD Freesync",
+        "60Hz refresh rate",
+        "4ms response time",
+        "FHD (1920x1080) resolution",
+        "HDMI input",
+        "Includes 5AVE HDMI Cable"
+      ],
+      "colors": [
+        {
+          "hex": "#fdfdfa",
+          "percentage": 0.264
+        },
+        {
+          "hex": "#3c2f2c",
+          "percentage": 0.1397
+        },
+        {
+          "hex": "#57403a",
+          "percentage": 0.1334
+        },
+        {
+          "hex": "#4d6897",
+          "percentage": 0.1286
+        },
+        {
+          "hex": "#17171d",
+          "percentage": 0.1186
+        },
+        {
+          "hex": "#224071",
+          "percentage": 0.1172
+        },
+        {
+          "hex": "#90a7be",
+          "percentage": 0.0984
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/A9uTYvM-BsaX-8tFxDf?o=01M0WZZB3SHA0TVA1AF59B5GPX&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "walmart.com",
+          "price": {
+            "price": 229.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 14.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI"
+        ],
+        "monitor-specialized-features": [
+          "Suitable for gaming"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Curved"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "display-technology": [
+          "LED"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "WtDJOJa",
+      "title": "Samsung 27\" 4K 60Hz IPS Flat Panel Display",
+      "description": "The Samsung ViewFinity S8 is a 27-inch 4K LED-backlit IPS flat panel monitor designed for professionals in design and photography. It features a 4K UHD resolution (3840 x 2160), a 60Hz refresh rate, and 99% sRGB color gamut for high color accuracy. The monitor includes HDR10 support, an ergonomic stand with height, pivot, swivel, and tilt adjustments, and a USB 3.0 hub with up to 90W Power Delivery. Eye-care features like Flicker-Free technology and Eye Saver Mode are included to reduce strain during long working hours.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e27096e6-a9a9-47f1-92be-f7d4e6c9a2b6?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e27096e6-a9a9-47f1-92be-f7d4e6c9a2b6?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung 27-inch 4K monitor showing vibrant blue and yellow abstract display."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "LED-backlit LCD"
+      ],
+      "key_features": [
+        "4K UHD resolution (3840 x 2160)",
+        "IPS panel with 99% sRGB color gamut",
+        "60Hz refresh rate",
+        "HDR10 support",
+        "Ergonomic stand (Height, Pivot, Swivel, Tilt)",
+        "USB 3.0 hub with 90W Power Delivery",
+        "Flicker-Free technology and Eye Saver Mode",
+        "3-sided bezeless design"
+      ],
+      "colors": [
+        {
+          "hex": "#7ce4fa",
+          "percentage": 0.2093
+        },
+        {
+          "hex": "#2e9fef",
+          "percentage": 0.1635
+        },
+        {
+          "hex": "#24d0f9",
+          "percentage": 0.1518
+        },
+        {
+          "hex": "#5c4363",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#e1de6a",
+          "percentage": 0.1267
+        },
+        {
+          "hex": "#38e4fc",
+          "percentage": 0.093
+        },
+        {
+          "hex": "#15308e",
+          "percentage": 0.0659
+        },
+        {
+          "hex": "#b0a091",
+          "percentage": 0.0607
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/WtDJOJa-TgS4-8tFxDf?o=01M3YX0A6CXCVVZ8JK964HP0SY&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "cdw.com",
+          "price": {
+            "price": 419.99,
+            "compare_at_price": 839.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 13.45,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "3.5 mm"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "PAxRBEI",
+      "title": "ViewFinity S8 (S80UD) 37\" 4K UHD LED Monitor",
+      "description": "Experience crystal-clear visual excellence with the Samsung 37\" ViewFinity S8 Monitor. Featuring 4K UHD resolution for enhanced detail and a larger screen space, this monitor is ideal for professionals working on intricate designs, complex diagrams, or dynamic video content. With 1.07 billion colors and HDR10 support, enjoy a vast spectrum of hues, true-to-life color representation, and deeper contrast for stunning blacks and brights. The versatile USB-C port allows for up to 90W charging and simultaneous data transfer, while the built-in LAN port provides seamless Ethernet connectivity for laptops. Multitask efficiently with the built-in KVM switch, enabling split screen, Picture-in-Picture, or Picture-by-Picture modes. The ergonomic design includes a height-adjustable screen that tilts and swivels for optimal viewing comfort at any angle. Setup is simple with the Easy Setup Stand, requiring no tools. This monitor is T\u00dcV-certified for intelligent eye care, reducing screen flickering and protecting against excessive blue light, with automatic brightness and color temperature optimization based on your environment. Constructed with at least 14% recycled plastic, this thoughtfully designed monitor reflects Samsung's commitment to sustainability.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/df47e949-b7e6-4a83-b489-32464692f46e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/df47e949-b7e6-4a83-b489-32464692f46e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "37-inch Viewfinity S8 monitor displaying vibrant blue and yellow graphics."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD Resolution",
+        "HDR10",
+        "USB-C port with up to 90W charging and data transfer",
+        "Built-in LAN port",
+        "Height-adjustable screen",
+        "Easy Setup Stand",
+        "Built-in KVM switch (split screen, Picture-in-Picture, Picture-by-Picture)",
+        "1.07 billion colors",
+        "37-inch display",
+        "IPS panel"
+      ],
+      "colors": [
+        {
+          "hex": "#3edcfa",
+          "percentage": 0.2791
+        },
+        {
+          "hex": "#87e6fa",
+          "percentage": 0.1896
+        },
+        {
+          "hex": "#31a7ed",
+          "percentage": 0.1666
+        },
+        {
+          "hex": "#e6e576",
+          "percentage": 0.1213
+        },
+        {
+          "hex": "#7a5270",
+          "percentage": 0.1195
+        },
+        {
+          "hex": "#1939a5",
+          "percentage": 0.0835
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/PAxRBEI-K6RA-8tFxDf?o=01M1R4Z2HPEN0XEQ4ZDEE1JJE4&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "macys.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/PAxRBEI-p1PB-8tFxDf?o=01KXT216JS5C7T7EKZTGVSKRW5&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 479.99,
+            "compare_at_price": 549.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/PAxRBEI-LFnL-8tFxDf?o=01KZ5MS2Z3G9ED1VHSDEXDBB31&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "staples.com",
+          "price": {
+            "price": 579.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": {
+            "length": {
+              "number": 32.4,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 25.5,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 19.62,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB",
+          "Micro USB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "VA",
+          "LCD",
+          "IPS",
+          "LED"
+        ],
+        "monitor-shape": [
+          "Flat",
+          "Curved"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "DCI-P3"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "4K ultra HD",
+          "1920 x 1080"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1",
+          "100000000:1"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Anti-glare",
+          "Built-in speakers",
+          "Frameless",
+          "LED backlight"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "energy-efficiency-class-sdr": [
+          "F"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 153,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "3mXFAnC",
+      "title": "Samsung ViewFinity S7 S27D702EAN - S70D Series - LED monitor - 4K - 27\" - HDR",
+      "description": "The Samsung ViewFinity S7 (S27D702EAN) is a 27-inch LED monitor from the S70D Series, designed for professionals and everyday users seeking high-resolution clarity. It features a 4K UHD resolution (3840 x 2160) and HDR10 support, delivering vibrant colors with 1.07 billion hues and deeper contrast. The IPS panel provides a 1000:1 contrast ratio and a 5ms response time. Connectivity options include HDMI and DisplayPort. Designed for eye comfort, it is T\u00dcV-certified for intelligent eye care and includes an Eye Saver Mode to reduce flickering and blue light. The monitor comes with an Easy Setup Stand and is backed by a 3-year warranty.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/96abad7a-c0eb-4e58-a6de-39daff48a280?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Samsung ViewFinity S7 27-inch curved monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e4a3a197-8792-45ec-b119-75663e2c00c2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4a3a197-8792-45ec-b119-75663e2c00c2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Samsung ViewFinity S7 27-inch curved monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/05e63c9b-1869-488a-8db8-032c1d5a8294?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/05e63c9b-1869-488a-8db8-032c1d5a8294?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of a black Samsung monitor with stand and branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/743b73d6-538c-4959-a757-2f1791d5c985?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of a Samsung ViewFinity S7 curved monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/04bf429b-0f70-41ac-9d89-49faa4636db1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/04bf429b-0f70-41ac-9d89-49faa4636db1?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung monitor mounted on an articulating arm setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/79277628-e395-4645-bc80-812443929b19?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/79277628-e395-4645-bc80-812443929b19?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the monitor showing ports and design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/82c98a66-62f3-4f8f-bd36-443c2bfc44e2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the back panel and ports of the Samsung monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e6907cdb-e8e5-4a1c-aab2-dbc58bc4b036?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing connection ports (Service, HDMI, etc.) on the monitor back."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "recycled plastic"
+      ],
+      "key_features": [
+        "4K UHD Resolution (3840 x 2160) for increased detail",
+        "HDR10 support with 1.07 billion colors for true-to-life representation",
+        "T\u00dcV-certified intelligent eye care for optimized brightness and color temperature",
+        "Eye Saver Mode to reduce screen flickering and blue light",
+        "IPS panel with 1000:1 contrast ratio and 5ms response time",
+        "Connectivity via HDMI and DisplayPort",
+        "Easy Setup Stand for flexible positioning",
+        "Multiple ports: HDMI, DP, USB-A, and USB-B",
+        "Easy Setup Stand (tool-less installation)",
+        "Contains at least 14% recycled plastic"
+      ],
+      "colors": [
+        {
+          "hex": "#fe7a89",
+          "percentage": 0.1803
+        },
+        {
+          "hex": "#a499ae",
+          "percentage": 0.159
+        },
+        {
+          "hex": "#f7d4ea",
+          "percentage": 0.1472
+        },
+        {
+          "hex": "#fd4f5f",
+          "percentage": 0.1358
+        },
+        {
+          "hex": "#fd97a9",
+          "percentage": 0.1341
+        },
+        {
+          "hex": "#e2b7d0",
+          "percentage": 0.1164
+        },
+        {
+          "hex": "#aa3c6d",
+          "percentage": 0.0799
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3mXFAnC-TgS4-8tFxDf?o=01M3YX90Z6970GKTT9TZ0BNQJ8&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "cdw.com",
+          "price": {
+            "price": 723.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Curved",
+          "Flat"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "monitor-specialized-features": [
+          "HDR support",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight",
+          "Matte finish"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 178,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "PttKGSu",
+      "title": "ViewFinity S7 (S71H) 27-Inch 4K UHD IPS HDR10 Monitor",
+      "description": "The Samsung ViewFinity S7 S71H is a 27-inch UHD 4K HDR monitor designed for crisp visuals and rich color. It features a 16:9 IPS panel with a resolution of 3840 x 2160 at 60 Hz, supporting HDR10 and covering 99% of the sRGB gamut for lifelike images. The monitor includes HDMI 2.0 and DisplayPort 1.2 inputs, as well as a 3.5mm headphone jack. Its minimalist design with slim bezels makes it ideal for multi-monitor setups, and it supports Picture-by-Picture (PBP) and Picture-in-Picture (PIP) modes. For eye comfort, it is T\u00dcV-certified to reduce flickering and blue light emissions. The ergonomic stand allows for tilt adjustment, and it is VESA mount compatible (100 x 100mm).",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/28eb448e-38cb-466b-af4f-8599f6744782?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28eb448e-38cb-466b-af4f-8599f6744782?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S7 27-inch monitor with abstract colorful wallpaper."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f78e1dc9-4557-4bf8-ab08-aacf51cce98f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f78e1dc9-4557-4bf8-ab08-aacf51cce98f?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S7 monitor on a black stand, angled view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1f7bbda9-c513-4697-8de2-eb645bb1055d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1f7bbda9-c513-4697-8de2-eb645bb1055d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Samsung Viewfinity S7 monitor displaying vibrant abstract colors on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/412a5358-ad06-43f8-9df8-35253e47e50a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor dimensions and what's in the box for the Samsung monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/43015f6c-7f8a-49ea-b8a1-b8c82e9c459c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/43015f6c-7f8a-49ea-b8a1-b8c82e9c459c?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying FHD, QHD, and 4K UHD resolution graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4baf364d-87b9-470e-8d78-5e9f80450b26?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing HDR10 and color capabilities of the display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e2710e60-6184-413c-96b3-274e56ee9feb?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor in a home office setup demonstrating eye-saver modes."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9b0f0784-d973-4049-a065-8ff060444359?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear ports and connections on the back of the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3ae1add0-8191-43b8-8358-61e2bcf1d581?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person working on a laptop using the monitor with IPS panel."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" 16:9 IPS Panel",
+        "UHD 4K 3840 x 2160 resolution at 60 Hz",
+        "HDR10 support with 1.07 billion colors",
+        "99% sRGB color gamut",
+        "5 ms (GtG) response time",
+        "Slim bezel design for multi-monitor configurations",
+        "PIP and PBP modes",
+        "T\u00dcV-certified intelligent eye care",
+        "HDMI 2.0 and DisplayPort 1.2 inputs",
+        "VESA mount compatible (100 x 100mm)"
+      ],
+      "colors": [
+        {
+          "hex": "#9fd2ac",
+          "percentage": 0.2669
+        },
+        {
+          "hex": "#cbdbb6",
+          "percentage": 0.1474
+        },
+        {
+          "hex": "#73b691",
+          "percentage": 0.1425
+        },
+        {
+          "hex": "#a5bb94",
+          "percentage": 0.118
+        },
+        {
+          "hex": "#e5f6df",
+          "percentage": 0.1149
+        },
+        {
+          "hex": "#705c39",
+          "percentage": 0.1122
+        },
+        {
+          "hex": "#78976d",
+          "percentage": 0.0981
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/PttKGSu-oHaU-8tFxDf?o=01M39HV85C7G9BY0FQJJAGMV0M&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 179.99,
+            "compare_at_price": 249.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 18.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 12.1,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Suitable for gaming",
+          "Anti-glare"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm",
+          "TRS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ]
+      },
+      "ratings": {
+        "value": 4.38,
+        "count": 2,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "cQ7O4Bj",
+      "title": "Viewfinity S7 Monitor",
+      "description": "The Samsung ViewFinity S7 is a 27-inch 4K UHD (3840x2160) office monitor designed for creative professionals, designers, and general office work. It features an IPS panel for wide viewing angles, a 60Hz refresh rate, and a 5ms response time. The display supports HDR10 and can represent 1.07 billion colors, ensuring high color accuracy and contrast. Key connectivity options include one DisplayPort 1.2 and one HDMI 2.0 port. It also includes T\u00dcV-certified Intelligent Eye Care to reduce flickering and blue light, and an Easy Setup Stand that requires no tools for installation.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fa4ba2cb-7a39-4a44-a314-8168bcb1f6cf?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fa4ba2cb-7a39-4a44-a314-8168bcb1f6cf?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black 27-inch Viewfinity S7 monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ab94e8c-3146-42ee-93ce-46fe6a33a221?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0ab94e8c-3146-42ee-93ce-46fe6a33a221?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black 27-inch Viewfinity S7 monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8926865-2420-4a2f-b3f9-97788753720d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b8926865-2420-4a2f-b3f9-97788753720d?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black 27-inch Viewfinity S7 monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8517d0d3-9d00-419f-8f03-486b7ff08301?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8517d0d3-9d00-419f-8f03-486b7ff08301?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the black monitor stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2eb5b269-c01b-4ea9-b930-3088f6138965?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2eb5b269-c01b-4ea9-b930-3088f6138965?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor viewed from a side angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f4417094-da52-44b0-93d7-aec30e837413?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor with a vertical stand setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/42509f25-137c-4aad-b3e3-43a81fc51837?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/42509f25-137c-4aad-b3e3-43a81fc51837?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Front panel details of the monitor screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/70c15e52-6c2a-4cc6-a9da-fe3eaa331906?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Back panel details and Samsung logo on monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/40c19b7f-6970-4114-965e-6298d7605925?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/40c19b7f-6970-4114-965e-6298d7605925?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Diagram showing monitor connections."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "4K UHD (3840x2160) Resolution for increased detail and higher pixel density",
+        "IPS panel with 1.07 billion colors and HDR10 support",
+        "5ms response time suitable for action films, sports, or gaming",
+        "350 cd/m\u00b2 brightness levels",
+        "T\u00dcV-Certified Intelligent Eye Care with Eye Saver Mode",
+        "Easy Setup Stand requiring no tools or screws",
+        "VESA mount compatibility",
+        "Connectivity: 1x DisplayPort 1.2, 1x HDMI 2.0",
+        "99% sRGB Color Gamut",
+        "Multiple ports: HDMI, DP, USB-A, and USB-B"
+      ],
+      "colors": [
+        {
+          "hex": "#f4d2e7",
+          "percentage": 0.156
+        },
+        {
+          "hex": "#f9728b",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#3c202e",
+          "percentage": 0.1451
+        },
+        {
+          "hex": "#fe919f",
+          "percentage": 0.1415
+        },
+        {
+          "hex": "#fa4e63",
+          "percentage": 0.1275
+        },
+        {
+          "hex": "#ae93ac",
+          "percentage": 0.1274
+        },
+        {
+          "hex": "#d8b2c8",
+          "percentage": 0.0963
+        },
+        {
+          "hex": "#7d5071",
+          "percentage": 0.0521
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/cQ7O4Bj-CCJD-8tFxDf?o=01M3Y6Y7VQYHXZWVSRCC74A6YM&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "canadacomputers.com",
+          "price": {
+            "price": 265.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/cQ7O4Bj-ckmS-8tFxDf?o=01KRN9CN7VRREKP6G7HQXYQHXD&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "samsung.com",
+          "price": {
+            "price": 349.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.016,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Size",
+            "label": "27\""
+          }
+        ]
+      },
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "Frameless",
+          "Matte finish",
+          "Adjustable viewing angle",
+          "Built-in speakers"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm",
+          "USB"
+        ]
+      },
+      "ratings": {
+        "value": 4.6,
+        "count": 187,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "OInegjb",
+      "title": "Samsung Essential 27\" 1920 x 1080 FHD IPS 120Hz Monitor",
+      "description": "The Samsung Essential S3 S32GF is a 27-inch Full HD (1920 x 1080) monitor featuring an IPS panel for vivid, consistent colors from all viewing angles. Designed for versatility in home, office, and light gaming setups, it offers a smooth 120Hz refresh rate and a 5ms response time to reduce motion blur. The monitor includes an Eye Saver Mode to reduce blue light and screen flicker for eye comfort, a Game Picture Mode for optimized contrast, and a super-slim bezel design for a modern aesthetic. Connectivity is provided via two HDMI 1.4 ports, and it is VESA mount compatible.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b309099a-c548-4f05-bd97-1f581e78cdb2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b309099a-c548-4f05-bd97-1f581e78cdb2?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Samsung Essential Monitor S3 display in a white frame."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30a6186c-ff63-47d2-9365-b1dc2bb9be86?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/30a6186c-ff63-47d2-9365-b1dc2bb9be86?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a black Samsung monitor with a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eca04f10-db16-4f66-8b07-f79393131e39?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=CCJD",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the back panel showing HDMI and power ports."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "120Hz Refresh Rate for smooth performance",
+        "IPS Panel for vivid colors and wide viewing angles",
+        "Full HD (1920 x 1080) resolution",
+        "Eye Saver Mode to reduce blue light and flicker",
+        "Game Picture Mode for optimized image contrast",
+        "Super Slim Design with ultra-thin bezels",
+        "2 x HDMI 1.4 ports",
+        "VESA mount compatibility"
+      ],
+      "colors": [
+        {
+          "hex": "#6d14c4",
+          "percentage": 0.1601
+        },
+        {
+          "hex": "#d1b8f7",
+          "percentage": 0.154
+        },
+        {
+          "hex": "#d8e7f7",
+          "percentage": 0.1384
+        },
+        {
+          "hex": "#8fb5ea",
+          "percentage": 0.1294
+        },
+        {
+          "hex": "#251d48",
+          "percentage": 0.1289
+        },
+        {
+          "hex": "#9d76ec",
+          "percentage": 0.1277
+        },
+        {
+          "hex": "#a7ddf5",
+          "percentage": 0.1168
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/OInegjb-CCJD-8tFxDf?o=01M3YYAP2R6XVDVWYWVGXT010F&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "canadacomputers.com",
+          "price": {
+            "price": 169.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "color-accuracy-standards": [
+          "NTSC"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Flicker-free",
+          "Suitable for gaming"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "CcNq6as",
+      "title": "Viewfinity S6 QHD HDR10 High Resolution Monitor",
+      "description": "Experience exceptional clarity and seamless connectivity with the Samsung 27-inch ViewFinity S6 monitor. Featuring a QHD resolution and HDR10 support, this monitor delivers stunning visuals with vibrant colors and deep contrasts. The versatile USB-C port allows for simultaneous charging and data transfer, while the built-in LAN port ensures reliable Ethernet connectivity for your laptop. With its easy-to-use stand, this monitor offers flexibility and comfort for any workspace. Perfect for business professionals seeking enhanced productivity and a superior viewing experience.",
+      "brands": [
+        {
+          "id": "Mbqx",
+          "name": "Samsung"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/50da3228-2c6c-4ae4-a545-afa297f02c4e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/50da3228-2c6c-4ae4-a545-afa297f02c4e?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ViewFinity S6 monitor displaying abstract liquid colors on a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9e331702-2e63-477b-acef-aa9d98c655f9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9e331702-2e63-477b-acef-aa9d98c655f9?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewFinity S6 monitor displaying abstract liquid colors on a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9ae9b684-4126-42f0-ba9e-36fcb9d257f7?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9ae9b684-4126-42f0-ba9e-36fcb9d257f7?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewFinity S6 monitor displaying abstract liquid colors on a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af3af4bf-2bfb-4ca0-b3e2-d754bf86336a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/af3af4bf-2bfb-4ca0-b3e2-d754bf86336a?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the black monitor showing panel texture and stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/07ab86dc-1f7f-4e92-9e24-00c7225871d5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/07ab86dc-1f7f-4e92-9e24-00c7225871d5?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "scale_reference",
+          "alt_text": "Side view of the monitor mounted on an arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cacc3c8a-e53b-4a25-be43-2ca0e8e00a26?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cacc3c8a-e53b-4a25-be43-2ca0e8e00a26?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewFinity S6 monitor displaying abstract liquid colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/702d3154-848f-47cc-a35f-a97c38ec59a6?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the monitor screen bezel and vibrant green display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae60f242-cfb1-41e7-a57b-f1f89851f6ef?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ae60f242-cfb1-41e7-a57b-f1f89851f6ef?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor's rear I/O ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ba2935d2-0087-4429-a656-f72528e75318?aid=01M66D9QC0Q70VHX6FEH7X542V&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing various connectivity ports on the monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "100 Hz Refresh Rate",
+        "5ms Response Time",
+        "IPS Panel",
+        "HDMI 2.0, DisplayPort 1.4, and USB Type-C connectivity",
+        "USB-C port with 90W charging and data transfer",
+        "Built-in LAN port for Ethernet connectivity",
+        "HDR10 support",
+        "Flicker-Free and Eye Saver Mode",
+        "100 x 100 mm VESA Mount",
+        "Adjustable stand (Height, Tilt, Swivel, Pivot)"
+      ],
+      "colors": [
+        {
+          "hex": "#97fbdc",
+          "percentage": 0.2054
+        },
+        {
+          "hex": "#3afcbe",
+          "percentage": 0.1666
+        },
+        {
+          "hex": "#232a27",
+          "percentage": 0.1384
+        },
+        {
+          "hex": "#338548",
+          "percentage": 0.1101
+        },
+        {
+          "hex": "#28d3a0",
+          "percentage": 0.1095
+        },
+        {
+          "hex": "#cbfca7",
+          "percentage": 0.1081
+        },
+        {
+          "hex": "#7efcca",
+          "percentage": 0.0989
+        },
+        {
+          "hex": "#80e09b",
+          "percentage": 0.0631
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CcNq6as-p1PB-8tFxDf?o=01KY7AF0MG1QCRNWPD9S2K7RTF&aid=01M66D9QC0Q70VHX6FEH7X542V",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 407.58,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Size",
+            "values": [
+              {
+                "label": "27\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "32\"",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS",
+          "QLED",
+          "LCD",
+          "LED"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "Lightning",
+          "USB",
+          "VGA",
+          "Ethernet"
+        ],
+        "monitor-specialized-features": [
+          "Flicker-free",
+          "HDR support",
+          "Adjustable viewing angle",
+          "LED backlight",
+          "Anti-glare",
+          "Built-in speakers",
+          "Frameless"
+        ],
+        "pattern": [
+          "Solid",
+          "Graphic"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm",
+          "75 x 75 mm"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": {
+        "value": 4.82,
+        "count": 12,
+        "source_count": 2
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjcxMGYwYWEzMTMyZWE0ZWMiLCAib2Zmc2V0IjogMjB9"
+}

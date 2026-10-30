@@ -1,0 +1,3542 @@
+{
+  "products": [
+    {
+      "id": "EpBBkHt",
+      "title": "ThinkPad Universal Thunderbolt 4 Dock",
+      "description": "The Lenovo ThinkPad Universal Thunderbolt 4 Dock (40B00135US) is an enterprise-grade docking station designed for a reliable and consistent video, data, and power connectivity experience in Windows-based mixed-PC environments. It allows for high-productivity setups by supporting a single 8K @ 30Hz display or up to four 4K @ 60Hz displays through a single Thunderbolt cable. Key features include lightning-fast data transfer rates up to 40 Gbps, power delivery up to 100W to charge connected laptops, and Intel vPro pass-through support for remote management. The dock is compatible with Thunderbolt 3 and 4, USB 4, and USB-C Windows-based systems.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b710eccb-5f50-4d0d-9115-e3bae449e4fe?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b710eccb-5f50-4d0d-9115-e3bae449e4fe?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Thunderbolt 4 Dock lying flat."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a6347b27-cfc9-4fbc-9331-00a7f7b63471?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a6347b27-cfc9-4fbc-9331-00a7f7b63471?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the black docking station showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9ab90137-5d22-4901-8c94-8689ec51d47c?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9ab90137-5d22-4901-8c94-8689ec51d47c?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Bottom view of the black docking station showing power input."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd769c87-0e80-427a-808c-b6ae27bdedbf?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo laptop connected to the Thunderbolt dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b1c854f6-c51b-4add-9120-8784b40a547f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b1c854f6-c51b-4add-9120-8784b40a547f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo docking station and associated cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/762f8176-bce1-462a-9f96-3edd26381926?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working with a setup including the docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/60fcea43-6c8d-401a-a48d-36655b6d8c9b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working at a desk with multiple monitors and a laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports one 8K or four 4K (3840 x 2160) displays",
+        "Up to 40Gbps data transfer rates",
+        "Up to 100W Power Delivery",
+        "1 x Thunderbolt 4 Port",
+        "2 x DisplayPort 1.4",
+        "1 x HDMI 2.1 Port",
+        "4 x USB 3.1 Type-A Ports",
+        "1 x USB 3.1 Type-C",
+        "1 x RJ-45 Gigabit Ethernet Network Port",
+        "3.5mm Audio combo jack"
+      ],
+      "colors": [
+        {
+          "hex": "#595a5a",
+          "percentage": 0.6698
+        },
+        {
+          "hex": "#2d2e2f",
+          "percentage": 0.2568
+        },
+        {
+          "hex": "#7e807f",
+          "percentage": 0.0734
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/EpBBkHt-T9Fg-8tFxDf?o=01KNMAMT0EG2KEYM3RTZTWZM91&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "adorama.com",
+          "price": {
+            "price": 399.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm",
+          "TRS"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "material": [
+          "Metal"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 3.88,
+        "count": 383,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "MRJs3nB",
+      "title": "ThinkPad Thunderbolt 4 Workstation Dock 230W 4K Support, HDMI, USB-C, DisplayPort Bundled with Desk Mount Dual Monitor Stand, MK670 Wireless Keyboard & Mouse, Gel Mouse & Wrist Pad",
+      "description": "This Lenovo ThinkPad Thunderbolt 4 Workstation Dock bundle enhances productivity with a 230W dock supporting up to four 4K displays and 40Gbps data transfer. It includes versatile connectivity options like USB-C, HDMI, and DisplayPorts. The bundle also features an ergonomic MK670 wireless keyboard and mouse set, designed for comfort and compatibility with Mac and Surface devices, along with a gel wrist rest for added support. A dual monitor desk mount, compatible with 13\" to 30\" screens, is also included for optimal workspace setup.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cb09b9be-7fa9-4d55-ac00-9a6738f4786b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "detail",
+          "alt_text": "Rear I/O ports on the Thinkpad Thunderbolt 4 Workstation Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae5a19f1-8b1c-4e1e-9bfa-317ae9f17e90?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Workstation dock mounting hardware, desk mount, keyboard, mouse, and power adapter."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/37b77e64-2129-4caa-8cec-8e734a848958?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Wireless keyboard and mouse with wrist rest."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0c4fbe45-bd9a-4f8c-863c-cd463e3872c0?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/f5cdc14b-17e1-43f7-a7ee-b9f3407d7eb7?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkpad Thunderbolt 4 Workstation Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/97638377-a857-48bd-a21c-419267ab1b18?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Desk mount stand and mounting hardware."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b969c05f-c6ca-44e3-a9f0-50849dc892e5?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Charging cables and power adapter."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to four 4K displays",
+        "40Gbps data transfer speeds",
+        "Versatile connectivity with USB-C, HDMI, and DisplayPorts",
+        "Ergonomic MK670 wireless keyboard and mouse",
+        "Includes gel wrist rest for added support",
+        "Dual monitor desk mount compatible with 13\" to 30\" screens"
+      ],
+      "colors": [
+        {
+          "hex": "#393939",
+          "percentage": 0.7156
+        },
+        {
+          "hex": "#811816",
+          "percentage": 0.1045
+        },
+        {
+          "hex": "#151616",
+          "percentage": 0.1038
+        },
+        {
+          "hex": "#6a6a6a",
+          "percentage": 0.0761
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/MRJs3nB-LPzf-8tFxDf?o=01KBP8ADZ3NZASF4G71Y14NJBJ&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "newegg.com",
+          "price": {
+            "price": 639.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "material": [
+          "Metal"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "compatible-device": [
+          "Keyboard",
+          "Mouse"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "Thunderbolt",
+          "USB"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "2nyd4N5",
+      "title": "Lenovo ThinkPad Thunderbolt 4 Workstation Dock",
+      "description": "The Lenovo ThinkPad Thunderbolt 4 Workstation Dock is a high-performance connectivity hub designed to transform a laptop or desktop into a powerful workstation. Featuring a single Thunderbolt 4 host connection, it provides an extensive array of ports including Thunderbolt 4, USB-A, USB-C, Gigabit Ethernet, and a 3.5mm audio jack. It supports advanced display configurations, including a single 8K display at 30 Hz or up to four 4K displays at 60 Hz via HDMI 2.1 and DisplayPort 1.4. Additionally, the dock offers up to 230W Power Delivery to keep compatible systems charged.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4addc9d9-0c55-40bf-9dc1-3476b3eab514?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4addc9d9-0c55-40bf-9dc1-3476b3eab514?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad Thunderbolt 4 Workstation Dock lying flat."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5667ec8-edd2-464f-b04a-a3a412b81a16?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5667ec8-edd2-464f-b04a-a3a412b81a16?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view showing connectivity ports on the workstation dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/20e6bde6-bb26-40be-b22f-bde3080d9038?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/20e6bde6-bb26-40be-b22f-bde3080d9038?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the dock showing power and input ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aaea76a8-aeeb-4262-9588-804d048bce37?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "ThinkPad laptop connected to the dock via a cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e7e901ed-e291-480a-97ec-1b90b5e38b08?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Set of ThinkPad Thunderbolt 4 dock components and cables."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 4 Host Connection",
+        "1 x Thunderbolt 4 Port",
+        "4 x USB-A Ports",
+        "1 x USB-C Port",
+        "1 x HDMI 2.1 Port",
+        "2 x DisplayPort 1.4 Ports",
+        "Up to 230W Power Delivery",
+        "Supports a single 8K @ 30 Hz display or quad 4K @ 60 Hz displays",
+        "Intel vPro Support",
+        "Stay connected with Gigabit Ethernet; this docking station supports 10/100/1000 speeds."
+      ],
+      "colors": [
+        {
+          "hex": "#5a5a5a",
+          "percentage": 0.6696
+        },
+        {
+          "hex": "#2d2d2e",
+          "percentage": 0.2641
+        },
+        {
+          "hex": "#808080",
+          "percentage": 0.0662
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/2nyd4N5-T9Fg-8tFxDf?o=01KNMB1F02S1Q84K2GH25NJJBQ&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "adorama.com",
+          "price": {
+            "price": 389.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "4320p"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "3.5 mm"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "connector-gender": [
+          "Female"
+        ]
+      },
+      "ratings": {
+        "value": 4.21,
+        "count": 729,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "CVCWwHm",
+      "title": "ThinkPad Thunderbolt 4 Workstation Dock",
+      "description": "This Lenovo ThinkPad Thunderbolt 4 Workstation Dock offers a premium docking experience with reliable and consistent industry-leading video, data, and power connectivity. It is designed to be future-proof, enhancing productivity, efficiency, and creativity. Transform any workstation into a powerhouse by connecting a single cable to instantly add up to four 4K displays, enjoy lightning-fast 40 Gbps transfer speeds, and benefit from vPro support. With an upgraded 230W power delivery, it provides unmatched performance and compatibility across all Thunderbolt 3 and 4, USB 4, and USB-C systems, regardless of brand or OS. The improved hardware and Dock Manager app offer a streamlined firmware updating and management experience, reducing IT management time and ensuring uninterrupted user operation.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e7d9acc5-914d-4384-ac49-55e61275940c?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/b3ec2f34-e750-486f-8c5d-cf9f1b7e0d6e?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Thunderbolt 4 Workstation Dock, rectangular shape with ports on the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bc1ddcf7-b50c-4d4c-8cf5-02e868f538d0?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view of the black Lenovo ThinkPad Thunderbolt 4 Workstation Dock with a red accent strip."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c281c469-2f9a-4a2e-ab52-96d17370be53?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Red retail packaging box for the Lenovo ThinkPad Thunderbolt 4 Workstation Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f08da644-1cdd-460a-b68e-f8f7adaa7976?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Front view of the red retail packaging box for the Lenovo ThinkPad Thunderbolt 4 Workstation Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5bafdfeb-8bac-4cd7-870d-bb7590e5d727?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad dock connected to a laptop via a cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/25de56c3-322a-403b-a840-2e526a095f9e?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad dock and associated cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c1ac6bae-b0c9-4fdf-b2bb-04e69166e4bb?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad dock connecting a laptop to dual monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b504a24-2648-4fee-8e25-aaa4842957c6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad dock used with a laptop and a watch on a desk."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Instantly add an 8K @ 30 Hz display or up to four 4K @ 60 Hz displays",
+        "Lightning-fast 40 Gbps transfer speed",
+        "vPro Support",
+        "Upgraded 230W power delivery",
+        "Smart Remote Management",
+        "Streamlined firmware updating and management experience",
+        "Includes 2 x DisplayPort 1.4, 1 x HDMI, and 2 x Thunderbolt 4 ports",
+        "Gigabit Ethernet (1GbE) connectivity",
+        "Includes 300W power adapter",
+        "Kensington NanoSaver/MicroSaver security slot"
+      ],
+      "colors": [
+        {
+          "hex": "#ffffff",
+          "percentage": 0.516
+        },
+        {
+          "hex": "#575958",
+          "percentage": 0.3111
+        },
+        {
+          "hex": "#2c2c2e",
+          "percentage": 0.1332
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CVCWwHm-T9Fg-8tFxDf?o=01KNMAGT22QT42AD0FFSK96CB2&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "adorama.com",
+          "price": {
+            "price": 334.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/CVCWwHm-p1PB-8tFxDf?o=01KYC7543SH1WDH3AM7P593EWV&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 342.94,
+            "compare_at_price": 399.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/CVCWwHm-TgS4-8tFxDf?o=01M5BW33GB1QCZKPG16SXNTGRW&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "cdw.com",
+          "price": {
+            "price": 397.99,
+            "compare_at_price": 439.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 15.87,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/CVCWwHm-RnUy-8tFxDf?o=01KRZ3GH1MC8VCXGFRV2MYFT6P&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "beachcamera.com",
+          "price": {
+            "price": 419.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.028,
+          "dimensions": {
+            "length": {
+              "number": 220.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 80.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 30.0,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 0.45,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "1080p",
+          "2160p",
+          "4K ultra HD",
+          "8K ultra HD",
+          "3D",
+          "1440p"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "USB",
+          "Rechargeable",
+          "AC-powered"
+        ],
+        "device-interface": [
+          "USB",
+          "Thunderbolt",
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "3.5 mm"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ]
+      },
+      "ratings": {
+        "value": 4.26,
+        "count": 356,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "3z8bLhf",
+      "title": "Universal Thunderbolt 4 Smart Dock",
+      "description": "This is a high-performance USB-C docking station designed for professional and commercial users, featuring Intel Thunderbolt 4 connectivity that supports up to dual 8K displays or quad 4K displays. It offers robust power delivery up to 100W and aggregates numerous ports for expanding workspace connectivity, including Gigabit Ethernet. A key differentiator is its cloud-based management system powered by Microsoft Azure Sphere, allowing for remote IT management features.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3z8bLhf?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=T9Fg",
+          "cleaned_url": "https://www.adorama.com/images/Large/LE40B10135US.jpg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad USB-C Dock with ports and ThinkPad logo"
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "Maximize productivity with this Lenovo Thunderbolt 4 dock, supporting up to four 4K displays.",
+        "Experience blazing-fast data transfers with Thunderbolt 4 ports, reaching speeds up to 40Gbps.",
+        "Connect all your peripherals using multiple USB ports, including USB 3.2 Gen 2 and USB-C.",
+        "This Lenovo docking station delivers up to 100W power, keeping your laptop charged all day.",
+        "Enjoy a clutter-free workspace with this compact docking station's sleek and space-saving design.",
+        "Enhance your connectivity with Gigabit Ethernet for a stable and fast network connection."
+      ],
+      "colors": [
+        {
+          "hex": "#5c5d60",
+          "percentage": 0.6739
+        },
+        {
+          "hex": "#2e2f31",
+          "percentage": 0.2625
+        },
+        {
+          "hex": "#838385",
+          "percentage": 0.0636
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/3z8bLhf-T9Fg-8tFxDf?o=01KC9J5EVG5DWQYQAVMP5R8530&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "adorama.com",
+          "price": {
+            "price": 334.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "Thunderbolt",
+          "USB"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": {
+        "value": 3.88,
+        "count": 80,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "5Tta170",
+      "title": "Thinkpad Thunderbolt 4 Smart Dock Gen 2",
+      "description": "The Lenovo ThinkPad Thunderbolt 4 Smart Dock Gen 2 7500 is a next-generation docking station designed for business professionals and IT managers needing robust connectivity and management capabilities. It supports high-resolution video output, including up to one 8K display at 60Hz or dual 4K displays at 144Hz, leveraging 40 Gbps data speed. The dock features built-in 2.5Gbps Ethernet for fast networking and provides up to 100W Power Delivery (PD 3.1) to charge compatible laptops. It offers universal compatibility across operating systems (Windows, macOS, Linux) but unlocks enhanced features like MAC address passthrough on ThinkPad laptops. Furthermore, it is sustainably designed, utilizing 90% recycled post-consumer content and plastic-free packaging.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3ffe0f69-a4ba-4f6d-ab39-399cd41f223a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3ffe0f69-a4ba-4f6d-ab39-399cd41f223a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Thinkpad Thunderbolt 4 Smart Dock Gen 2 shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0277b018-9d92-4b3c-a58c-38617ccc8814?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Close-up of the Thunderbolt 4 port on the smart dock with a cable."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4d0692de-7623-42db-bc2c-f72629aaceec?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4d0692de-7623-42db-bc2c-f72629aaceec?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Thinkpad Thunderbolt 4 Smart Dock Gen 2."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9cfadc48-34b6-4dc0-940d-7a2bc5930bee?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two Thinkpad Thunderbolt 4 Smart Docks side by side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/68a934d8-cec1-4793-9eac-bdbf6ccad523?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two different configurations of the Thunderbolt 4 Smart Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c948b26f-a919-4c2d-88cb-89c19ad4d877?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c948b26f-a919-4c2d-88cb-89c19ad4d877?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Thinkpad Thunderbolt 4 Smart Dock Gen 2 shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2ef08dbd-d201-4c9e-92d1-df40f9bae281?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2ef08dbd-d201-4c9e-92d1-df40f9bae281?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Thinkpad Thunderbolt 4 Smart Dock Gen 2."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/00425d3c-cb13-4bb0-bebf-85755fd5a8a4?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/00425d3c-cb13-4bb0-bebf-85755fd5a8a4?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Thinkpad Thunderbolt 4 Smart Dock Gen 2 shown from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/29392396-6104-4667-bae5-5619c34d3c8b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/29392396-6104-4667-bae5-5619c34d3c8b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back panel of the Thinkpad Thunderbolt 4 Smart Dock Gen 2."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/66cf49c4-0118-423a-b115-51c9ea9c5a35?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/66cf49c4-0118-423a-b115-51c9ea9c5a35?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Detail view of the rear ports and connectivity on the smart dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b4a6ef91-9e4b-4cca-8236-bf0861bf9d9f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4a6ef91-9e4b-4cca-8236-bf0861bf9d9f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Detail of the power ports on the side of the smart dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "recycled plastic"
+      ],
+      "key_features": [
+        "Supports up to 40 Gbps bandwidth",
+        "Drives up to one 8K 60Hz display or two 4K 144Hz displays",
+        "Supports PD 3.1 with up to 100W output for laptop charging",
+        "Universal compatibility across Windows, macOS, and Linux",
+        "Built-in 2.5Gbps Ethernet port",
+        "Features Lenovo Accessories Fleet Manager (LAFM) for cloud-based management",
+        "Includes enterprise-grade security features",
+        "Constructed with 90% recycled post-consumer content and plastic-free packaging",
+        "Remote configuration, updates, and diagnostics for dock fleets",
+        "Connect Up to Four External Displays"
+      ],
+      "colors": [
+        {
+          "hex": "#363333",
+          "percentage": 0.5232
+        },
+        {
+          "hex": "#534d4d",
+          "percentage": 0.3194
+        },
+        {
+          "hex": "#1c1a19",
+          "percentage": 0.0937
+        },
+        {
+          "hex": "#827c7b",
+          "percentage": 0.0637
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5Tta170-hl1t-8tFxDf?o=01KBPDC8CW0DP0A07HBFK8JEEN&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 277.19,
+            "compare_at_price": 359.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/5Tta170-oHaU-8tFxDf?o=01M38CRWBNTSH1VKJJHWDH9BBV&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 296.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.2,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/5Tta170-TgS4-8tFxDf?o=01M4Z4DWBFT3RG4Q6DJ5M9B0CR&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "cdw.com",
+          "price": {
+            "price": 303.99,
+            "compare_at_price": 359.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 19.31,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/5Tta170-p1PB-8tFxDf?o=01M11N3H3CKEGJDBMTJ5V43BN2&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 324.74,
+            "compare_at_price": 368.58,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Configuration",
+            "values": [
+              {
+                "label": "Dock Only (135W adapter)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/3ffe0f69-a4ba-4f6d-ab39-399cd41f223a",
+                "product_id": "5Tta170"
+              },
+              {
+                "label": "Dock + Professional Rechargeable Combo",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/de9d8b43-3b8e-4477-8d23-928a4895b53e",
+                "product_id": "abJxH53"
+              }
+            ]
+          }
+        ],
+        "selected": [
+          {
+            "name": "Configuration",
+            "label": "Dock Only (135W adapter)"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Keyboard",
+          "Mouse",
+          "Smartphone",
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "Thunderbolt",
+          "USB"
+        ],
+        "material": [
+          "Metal"
+        ]
+      },
+      "ratings": {
+        "value": 4.36,
+        "count": 55,
+        "source_count": 4
+      }
+    },
+    {
+      "id": "LelVO4O",
+      "title": "Bundle for Lenovo Thunder Bolt 4 Dock",
+      "description": "This ZoomSpeed bundle centers around a Lenovo Thunderbolt 4 Docking Station (model 40B00135US), expanded with a comprehensive set of essential cables including HDMI, DisplayPort, and Ethernet cables for a complete workstation setup.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        },
+        {
+          "id": "A9yq",
+          "name": "JCPenney"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/42634335-5d93-4691-b743-7902ba3e7f27?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Flat lay of Lenovo ThinkPad dock, power adapter, HDMI and DisplayPort cables, and a cleaning cloth."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/311bf9ee-ebf8-44cc-84d2-b3294f128e4f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=Qoqa",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three-quarter view of a black Lenovo ThinkPad docking station on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Includes Docking Station",
+        "Includes HDMI Cable",
+        "Includes DisplayPort Cable",
+        "Includes Ethernet Cable",
+        "4 Pieces In Set"
+      ],
+      "colors": [
+        {
+          "hex": "#595b5b",
+          "percentage": 0.6767
+        },
+        {
+          "hex": "#2c2e2e",
+          "percentage": 0.2636
+        },
+        {
+          "hex": "#828382",
+          "percentage": 0.0597
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/LelVO4O-Qoqa-8tFxDf?o=01M1HAZZTVKNCF9C0A8E9757GQ&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 349.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "material": [
+          "Plastic"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "Ethernet",
+          "Thunderbolt"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "w04Otsn",
+      "title": "Universal Thunderbolt 4 Dock",
+      "description": "This Lenovo ThinkPad Universal Thunderbolt 4 Dock offers a reliable and consistent enterprise-grade docking experience, providing seamless data, video, and power connectivity. With a single Thunderbolt cable, you can connect up to four 4K displays or one 8K display, enjoy lightning-fast 40 Gbps transfer speeds, and benefit from enhanced dynamic power charging up to 100W. It's designed for all Thunderbolt 3, Thunderbolt 4, USB 4, and USB-C Windows-based systems, offering limitless adaptability. The dock also supports remote management through Lenovo Dock Manager, allowing for silent firmware updates without user interruption.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/23147c8a-c919-408e-bb69-e43a0eb4ffd6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/10355c90-3bff-4f1a-bc1e-d9783fa7877e?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Universal Thunderbolt 4 Dock with power and data ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3370c9eb-1f9d-4b9d-be7a-e0a434837417?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear view of the Lenovo ThinkPad Thunderbolt 4 Dock showing all connectivity ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ac39b555-1c36-4865-a502-72fe6ae51fc2?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Bottom view of the black Lenovo ThinkPad Thunderbolt 4 Dock with red accents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c4cc1101-359d-4731-a5a4-e96c1537a41d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad laptop connected to a Thunderbolt 4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/224e337b-6fe3-4b1a-bcb5-e59534cd0298?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkPad dock and its accompanying cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae28fff5-6baa-448a-a37b-ba11e1e95712?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working at a desk with a laptop and multiple monitors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/21006be9-a7af-4ed6-b276-15960fe1c084?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working with multiple monitors and a laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Enterprise-Grade Universal Thunderbolt 4 Docking Experience",
+        "Thunderbolt\u202f4 host connection",
+        "2\u202f\u00d7\u202fDisplayPort\u202f1.4 or 1\u202f\u00d7\u202fHDMI\u202f1.4",
+        "4\u202f\u00d7\u202fUSB\u202f3.2 Gen\u202f2 Type\u2011A ports",
+        "1\u202f\u00d7\u202fUSB\u2011C port (10\u202fGb/s)",
+        "Gigabit Ethernet",
+        "3.5\u202fmm audio jack",
+        "10\u202fW power delivery",
+        "Single 8K@30Hz or up to 4 4K@60HZ display support",
+        "Data transfer rates up to 40 Gbps"
+      ],
+      "colors": [
+        {
+          "hex": "#ffffff",
+          "percentage": 0.5165
+        },
+        {
+          "hex": "#565857",
+          "percentage": 0.3046
+        },
+        {
+          "hex": "#2b2c2d",
+          "percentage": 0.1333
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/w04Otsn-p1PB-8tFxDf?o=01KXPGQX6GJH82B1VB2YYJ6HYP&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 249.99,
+            "compare_at_price": 399.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/w04Otsn-Qoqa-8tFxDf?o=01M1RJ5JX6YFDN2DN8GFN2K1T8&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "jcpenney.com",
+          "price": {
+            "price": 279.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.042,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/w04Otsn-6Uzl-8tFxDf?o=01KRJV2NE64TCH0XW793A3NT97&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 375.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.19,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.19,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "TRS",
+          "USB",
+          "3.5 mm"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "4320p",
+          "2160p",
+          "1080p"
+        ],
+        "connector-gender": [
+          "Male to female"
+        ]
+      },
+      "ratings": {
+        "value": 4.26,
+        "count": 658,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "33HnTng",
+      "title": "ThinkPad Thunderbolt 4 Workstation 0.7m Dock Split Cable",
+      "description": "The Lenovo ThinkPad Thunderbolt 4 Workstation Dock Split Cable is a specialized 0.7m (2'4\") cable designed for the ThinkPad Thunderbolt 4 Workstation Dock. It combines a slim-tip power cable and a Thunderbolt 4 cable into a single split design to reduce desk clutter. It supports lightning-fast data transfer speeds of up to 40Gb/s and provides fast charging capabilities up to 100W via USB-C or 170W/230W through the DC plug. This cable is ideal as a replacement for original inbox cables.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c67b01b1-db54-4f17-8913-05ebd705b93e?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c67b01b1-db54-4f17-8913-05ebd705b93e?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Thunderbolt 4 split cable with USB-C connectors."
+        }
+      ],
+      "category": {
+        "slug": "thunderbolt-cables",
+        "title": "Thunderbolt Cables",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "cables",
+            "title": "Cables"
+          },
+          {
+            "slug": "storage-data-transfer-cables",
+            "title": "Storage & Data Transfer Cables"
+          },
+          {
+            "slug": "thunderbolt-cables",
+            "title": "Thunderbolt Cables"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Cable/Housing (Implied: Plastic/Rubber for black cable and connectors)"
+      ],
+      "key_features": [
+        "Dock split cable with 70cm (2'4\") length",
+        "Designed for ThinkPad Thunderbolt 4 WorkStation Dock",
+        "Combines slim-tip power cable and Thunderbolt 4 cable",
+        "Optimal length of 0.7m solves the pain point of clutter desk",
+        "Lightning speed data with 40 gbps transmission rate",
+        "Fast charging supports up to 10W (USB-C) or 170W/230W (DC plug)",
+        "Supports refresh rates of 2 x 4K@60Hz or 1 x 8K@60Hz"
+      ],
+      "colors": [
+        {
+          "hex": "#fcfcfc",
+          "percentage": 0.4146
+        },
+        {
+          "hex": "#303030",
+          "percentage": 0.251
+        },
+        {
+          "hex": "#6a6a6a",
+          "percentage": 0.1355
+        },
+        {
+          "hex": "#505050",
+          "percentage": 0.1223
+        },
+        {
+          "hex": "#909090",
+          "percentage": 0.0757
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/33HnTng-p1PB-8tFxDf?o=01KY2XMVKGCMWACP95SSSEP87Q&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 58.44,
+            "compare_at_price": 64.66,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": {
+            "length": {
+              "number": 0.7,
+              "unit": "m"
+            },
+            "width": null,
+            "height": null,
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "DC-powered"
+        ],
+        "device-interface": [
+          "Wi-Fi",
+          "Thunderbolt",
+          "USB"
+        ],
+        "material": [
+          "Stainless steel"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "cable-shielding": [
+          "Unshielded (UTP)"
+        ],
+        "cable-housing-material": [
+          "Nylon"
+        ],
+        "connector-gender": [
+          "Male to male"
+        ]
+      },
+      "ratings": {
+        "value": 4.54,
+        "count": 13,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "usxo05E",
+      "title": "Thunderbolt adapter - PCIe x4 - Thunderbolt 4 x 1",
+      "description": "The Lenovo Thunderbolt adapter is a custom x4 high-profile PCIe add-in card designed to provide high-speed connectivity and storage expansion. It features a Maple Ridge controller that powers one external and one internal Thunderbolt 4 (TBT4) port. Additionally, the card includes two mini DisplayPort inputs for graphics card integration and one mini DisplayPort for connection to an external monitor. This adapter is ideal for users seeking to expand their system's TBT4 capabilities and connectivity options.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f6f0d3e5-0001-4671-b029-b8eccd7c3a16?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f6f0d3e5-0001-4671-b029-b8eccd7c3a16?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Set of black cables and an adapter for PCIe ThinkStation Thunderbolt 4."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d121713-7cf1-4608-a218-4dd8373cd7ee?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7d121713-7cf1-4608-a218-4dd8373cd7ee?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "PCIe Thunderbolt 4 extension card with black cables and connector."
+        }
+      ],
+      "category": {
+        "slug": "thunderbolt-interface-cards-adapters",
+        "title": "Thunderbolt Interface Cards & Adapters",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-components",
+            "title": "Computer Components"
+          },
+          {
+            "slug": "i-o-cards-adapters",
+            "title": "I/O Cards & Adapters"
+          },
+          {
+            "slug": "computer-interface-cards-adapters",
+            "title": "Computer Interface Cards & Adapters"
+          },
+          {
+            "slug": "thunderbolt-interface-cards-adapters",
+            "title": "Thunderbolt Interface Cards & Adapters"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "PCIe x4 interface",
+        "Thunderbolt 4 x 1 connectivity",
+        "Includes 1 external and 1 internal Thunderbolt 4 port",
+        "Utilizes Maple Ridge controller",
+        "2 mini DisplayPort inputs from graphics cards",
+        "1 mini DisplayPort for external monitor connection"
+      ],
+      "colors": [
+        {
+          "hex": "#58575d",
+          "percentage": 0.4067
+        },
+        {
+          "hex": "#c8c6c7",
+          "percentage": 0.1712
+        },
+        {
+          "hex": "#2c2b31",
+          "percentage": 0.1126
+        },
+        {
+          "hex": "#e3e2df",
+          "percentage": 0.1103
+        },
+        {
+          "hex": "#7f7e81",
+          "percentage": 0.1057
+        },
+        {
+          "hex": "#acaaa9",
+          "percentage": 0.0936
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/usxo05E-hl1t-8tFxDf?o=01KBPAQ6W8MRTMH4X84VE5AD64&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 282.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "card-adapter-installation": [
+          "External",
+          "Internal"
+        ],
+        "bracket-profile": [
+          "Full-height"
+        ],
+        "device-interface": [
+          "Display port",
+          "Thunderbolt"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "HhoC2Mx",
+      "title": "ThinkPad Thunderbolt 5 Smart Dock 7500",
+      "description": "The Lenovo ThinkPad Thunderbolt 5 Smart Dock 7500 is a high-performance docking station designed for professional workspace expansion. It features Thunderbolt 5 technology, supporting up to 4 displays and providing 265W power delivery. The dock is equipped with a comprehensive array of ports, including 3x USB Type-A, 2x USB Type-C, HDMI 2.1, dual DisplayPort 2.1, and a 2.5Gbps RJ45 Ethernet port. It is designed for intelligent fleet management via the Lenovo Accessories Fleet Manager (LAFM), allowing IT managers to configure and diagnose devices remotely via a web browser.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/38fce998-92af-41cb-a2ed-b4a9dd87f3bf?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a red and black Thunderbolt 5 Smart Dock adapter."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c0a70508-52ce-4578-9cd8-1d361aaa548c?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Thunderbolt 5 Smart Dock adapter from above."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cbb609d4-6145-4e8d-88e1-11cb6e25a516?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cbb609d4-6145-4e8d-88e1-11cb6e25a516?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Thunderbolt 5 Smart Dock adapter in three-quarter view."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 5 technology for high-speed connectivity",
+        "Supports up to 4 displays",
+        "265W power delivery",
+        "Comprehensive port selection: HDMI 2.1, 2x DisplayPort 2.1, 5x USB ports (3x Type-A, 2x Type-C), and RJ45 2.5Gbps Ethernet",
+        "Managed via Lenovo Accessories Fleet Manager (LAFM) for remote IT configuration and diagnostics"
+      ],
+      "colors": [
+        {
+          "hex": "#343232",
+          "percentage": 0.5693
+        },
+        {
+          "hex": "#634c4b",
+          "percentage": 0.3041
+        },
+        {
+          "hex": "#72292a",
+          "percentage": 0.1267
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/HhoC2Mx-p1PB-8tFxDf?o=01M3X99GDZ6TCP9J3ZG595V83K&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 530.77,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "power-source": [
+          "AC-powered"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD"
+        ],
+        "device-interface": [
+          "Thunderbolt",
+          "HDMI",
+          "Display port",
+          "USB",
+          "Ethernet",
+          "3.5 mm"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 4.3,
+        "count": 7,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "M7XL3H7",
+      "title": "ThinkPad USB4 Dock 5000 (with 135W Adapter)",
+      "description": "The Lenovo ThinkPad 5000 is a versatile USB4 docking station designed to expand connectivity for laptops. It features a wide array of ports, including two DisplayPort and one HDMI interface supporting high-resolution video output (up to 7680 x 4320 at 60 Hz for a single display), and multiple USB ports for fast data transfer and charging, including four USB 3.2 Gen 2 Type-A and one USB-C 3.2 Gen 2 port. It includes a 135W power adapter providing up to 100W output power to the connected device, Gigabit Ethernet for stable networking, and a Kensington NanoSaver security slot for theft prevention.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e9cb4ad3-a22c-4c50-9032-988858c941a0?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e9cb4ad3-a22c-4c50-9032-988858c941a0?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad USB4 Dock 5000 product viewed from the side."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aa702ee5-33ca-4a08-8ea7-79e6aff9ee0a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aa702ee5-33ca-4a08-8ea7-79e6aff9ee0a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad USB4 Dock 5000 product viewed from the side with ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/664f303e-36b0-4887-9301-64707f770cd7?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ThinkPad USB4 Dock 5000 standing view showing the input panel."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2032c8d1-c449-42af-b7df-0fc3447d44d8?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Cable connecting to the ThinkPad USB4 Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d0031128-c98a-45d4-b6f4-4683ab3ef454?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "USB-C cable connecting to the USB4 port on the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e3beec0d-b43d-4e90-af4d-8a2ba1e444e3?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e3beec0d-b43d-4e90-af4d-8a2ba1e444e3?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the rear panel ports and indicators of the USB4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc6569ff-5558-447a-97f7-1895975e1e67?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two views of the USB4 dock showing various connection options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/49b3e4d6-ce3d-4833-b7cc-c1482f9b84f2?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/49b3e4d6-ce3d-4833-b7cc-c1482f9b84f2?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the ThinkPad USB4 Dock 5000."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ad1792a6-9d77-4310-98ff-7e406d7464d6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ad1792a6-9d77-4310-98ff-7e406d7464d6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the black ThinkPad USB4 Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aeb0bc9e-94ca-493a-9ee6-38d82ce01358?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aeb0bc9e-94ca-493a-9ee6-38d82ce01358?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the ThinkPad USB4 Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7a9fd794-771f-4bfc-8fb8-6f2ed8e5f8c6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7a9fd794-771f-4bfc-8fb8-6f2ed8e5f8c6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of the black USB4 dock with red trim."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a46e16bd-7cc4-405f-908d-4a7ce51b71c6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Detail of the rear panel and indicators on the USB4 dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8998d36-eaf3-42ff-96ec-7fcab317c72b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b8998d36-eaf3-42ff-96ec-7fcab317c72b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the ThinkPad USB4 Dock 5000."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "USB4 technology with 40Gbps bandwidth",
+        "Supports 100W PD 3.1 charge power",
+        "Display support: 1 x 8K@60Hz or 4 x 4K@60Hz",
+        "1Gb Ethernet with WOL, PXE Boot, and MAC address pass thru",
+        "Universal dock compatibility across different operating systems",
+        "135W power adapter with 100W output power",
+        "Includes 2x DisplayPort, 1x HDMI, 4x USB 3.2 Gen 2 Type-A, and 1x USB-C 3.2 Gen 2",
+        "Integrated 3.3 ft USB4 cable",
+        "MAC address pass-through and Wake on WAN support",
+        "Kensington NanoSaver/MicroSaver security slot"
+      ],
+      "colors": [
+        {
+          "hex": "#363535",
+          "percentage": 0.5241
+        },
+        {
+          "hex": "#524c4b",
+          "percentage": 0.32
+        },
+        {
+          "hex": "#201e1d",
+          "percentage": 0.0994
+        },
+        {
+          "hex": "#777271",
+          "percentage": 0.0565
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/M7XL3H7-hl1t-8tFxDf?o=01M30DKWDBKDD3NQC6HHT9SJKP&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 165.99,
+            "compare_at_price": 264.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/M7XL3H7-TgS4-8tFxDf?o=01M4Z077Q47HE33B3S2GTK2735&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "cdw.com",
+          "price": {
+            "price": 225.99,
+            "compare_at_price": 264.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 16.58,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "Ethernet",
+          "USB",
+          "Display port",
+          "HDMI"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD",
+          "4320p",
+          "2160p"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 4,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "Zs5Lzav",
+      "title": "Thinkpad Usb4 Dock",
+      "description": "The Lenovo ThinkPad USB4 Dock 5000 is a high-performance docking station designed for enterprise users, delivering USB4 connectivity at speeds up to 40Gbps. It supports up to four external monitors with a maximum resolution of 3840x2160 at 60Hz via a combination of one HDMI 2.1 port, two DisplayPort 1.4 ports, and one USB-C full-function video port. The dock features a comprehensive array of ports, including front and rear USB-A and USB-C 3.2 Gen 2 ports, and Gigabit Ethernet. It provides Power Delivery of up to 65W output with a 100W input adapter and includes integrated physical security via NanoSaver and MicroSaver lock slots. Compatible with Windows 11, macOS Sonoma, and macOS Sequoia, it comes in Eclipse Black and includes a 1m USB4 cable and a 100W power adapter.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/5db29c90-78a6-4544-a543-38326aa8f363?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5db29c90-78a6-4544-a543-38326aa8f363?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkpad USB4 Dock 5000 shown from an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a659098-7f10-4896-a90e-9fc42cd10bff?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1a659098-7f10-4896-a90e-9fc42cd10bff?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkpad USB4 Dock 5000 profile view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d1d7b10c-e5ee-42f3-8979-ebedf57c9c0b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d1d7b10c-e5ee-42f3-8979-ebedf57c9c0b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Multiple views of the Lenovo Thinkpad USB4 Dock 5000."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d787d453-a9e7-4b2b-b593-d418d2f3d2cc?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d787d453-a9e7-4b2b-b593-d418d2f3d2cc?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkpad USB4 Dock 5000 shown from an angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ccbececd-5210-41c3-8f27-cda7cb9ee17d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ccbececd-5210-41c3-8f27-cda7cb9ee17d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Lenovo Thinkpad USB4 Dock 5000."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d1d6f82b-24c9-4c6e-9e61-a96e8299199c?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d1d6f82b-24c9-4c6e-9e61-a96e8299199c?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front detail of the black Lenovo Thinkpad USB4 Dock 5000 ports."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "USB4 (Type-C) Connection",
+        "Up to 40Gbps data transfer",
+        "65W Power Delivery",
+        "Support for one 8K@60Hz or up to four 4K@60Hz displays",
+        "Gigabit Ethernet",
+        "HDMI 2.1 and DisplayPort 1.4",
+        "Compatible with Windows and macOS",
+        "Expands connectivity for ThinkPad laptops",
+        "Multiple USB-A and USB-C ports",
+        "NanoSaver and MicroSaver lock slots for physical security"
+      ],
+      "colors": [
+        {
+          "hex": "#363534",
+          "percentage": 0.5141
+        },
+        {
+          "hex": "#514b4b",
+          "percentage": 0.3211
+        },
+        {
+          "hex": "#201d1d",
+          "percentage": 0.1084
+        },
+        {
+          "hex": "#777170",
+          "percentage": 0.0564
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Zs5Lzav-oHaU-8tFxDf?o=01M3KHY07ACVZRJRV8W3Q4J3KF&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 194.95,
+            "compare_at_price": 214.95,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.0,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Zs5Lzav-TgS4-8tFxDf?o=01M4ABVAXY040EP8H71YEH1SJ8&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "cdw.com",
+          "price": {
+            "price": 209.99,
+            "compare_at_price": 249.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 16.58,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Zs5Lzav-p1PB-8tFxDf?o=01KY49QYQB556Y2SEETZNBHM0D&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 227.67,
+            "compare_at_price": 231.49,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Region/Locale",
+            "label": "United States - en"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "USB",
+          "6G-SDI"
+        ],
+        "material": [
+          "Plastic",
+          "Metal"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "power-source": [
+          "AC-powered",
+          "USB"
+        ],
+        "video-resolution-supported": [
+          "8K ultra HD",
+          "4K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "compatible-device": [
+          "Smartphone",
+          "Tablet"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 15,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "jzPmH05",
+      "title": "ThinkPad Universal USB-C Dock 90W 4K Support, HDMI, USB-C, DisplayPort, USB Hub Bundled with Bluetooth Mini U Speaker with Built-in Mic, 4 Hour Playback",
+      "description": "This Lenovo ThinkPad Universal USB-C Dock provides a versatile and efficient solution for your workspace. It offers universal compatibility with notebooks, delivering up to 90W of power for dynamic charging. Enjoy rapid data transfers and seamless plug-and-play functionality for displays and other PC accessories. The dock supports Thunderbolt 3 and 4, USB-A, and USB-C, ensuring broad compatibility across various notebooks. It also includes a compact Bluetooth Mini U Speaker with a 4-hour playback time, offering exceptional stereo sound quality and easy pairing for a complete, streamlined workstation experience.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/01KMRGKDZN46YVE4NPF1Y7TPT0?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/d24355cc-a885-465c-9d58-5df139e0e414?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Thinkpad USB-C Dock with Bluetooth speaker component."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc08521c-67fb-4783-aebe-139cff4882d4?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Rear port and power input of the black Thinkpad USB-C Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/25e8bb93-19b6-430a-8998-8dba74906a18?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Bundle of black Thinkpad USB-C Dock, speaker, and cables."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/91ef7d67-c07b-4417-9ed4-4fe258f9dfd0?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black, rounded, speaker-like accessory with a textured grille."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/420a7285-bc46-4c28-9721-9bf76ac00e32?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/420a7285-bc46-4c28-9721-9bf76ac00e32?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black rectangular Thinkpad USB-C Dock device shown from the top."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [],
+      "colors": [
+        {
+          "hex": "#484948",
+          "percentage": 0.8549
+        },
+        {
+          "hex": "#2b2c2c",
+          "percentage": 0.0886
+        },
+        {
+          "hex": "#686a69",
+          "percentage": 0.0565
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/jzPmH05-LPzf-8tFxDf?o=01KBPA9VQG12T932RDQ5DY8EP7&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "newegg.com",
+          "price": {
+            "price": 309.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "Thunderbolt",
+          "Bluetooth"
+        ],
+        "material": [
+          "Plastic"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ene3EJT",
+      "title": "Thinkpad USB4 Dock",
+      "description": "This product is a productivity bundle featuring the advanced ThinkPad USB4 Dock and the Lenovo Essential Wireless Combo Keyboard & Mouse Gen2 AI. The dock leverages cutting-edge USB4 technology for high-speed connectivity (up to 40 Gbps) and supports extensive monitor setups, including up to one 8K or two 4K displays, while providing up to 100W power delivery to the host laptop when equipped with the appropriate adapter. The included wireless keyboard and mouse offer a reliable 2.4 GHz connection, AES-128 encryption for security, and are designed with eco-conscious materials, featuring 65% post-consumer recycled plastic. This combination is ideal for business professionals looking to create a streamlined, high-performance, and versatile desktop workspace.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ene3EJT?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": null,
+          "alt_text": null
+        },
+        {
+          "url": "https://p3-ofp.static.pub//fes/cms/2025/10/30/d35qnedfrvsh2t4dn73iejbpzt5w61924559.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/09466628-8f22-4419-bc24-86c5f131d14d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad USB 4 Dock 5000 with multiple USB-A/C ports, HDMI/Display outputs and red trim front panel"
+        },
+        {
+          "url": "https://p2-ofp.static.pub//fes/cms/2025/05/22/0sbm3jg89r7swbfcxkxumj7fzoj538160934.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/2fa7f9de-1a78-42fd-8a12-c50803ac8eda?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "ThinkPad USB 4 Dock 5000 connected with keyboard and mouse, showing front panel with USB ports"
+        },
+        {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/10/30/0htrci05pf2171xfbh6lqxda18xspt294051.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/3769c833-40e6-49c0-967b-15f56e6ccdf7?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Back view of ThinkPad USB 4 Dock 5000 showing multiple HDMI/DisplayPort, USB-C, Ethernet, and power connector"
+        },
+        {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/10/30/xqutcez3u8eh0iiojebzq001e1njc2775784.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/ac624a69-e5c7-4d12-8302-1ab9e4ef8423?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "ThinkPad USB 4 Dock 5000 side view with red trim and ThinkPad branding"
+        },
+        {
+          "url": "https://p4-ofp.static.pub//fes/cms/2025/10/30/cbr23dmplkvavy65bg1nmpvoa4xutv997767.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/873246b4-2987-4903-b7f2-b9772d94a185?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "Rear view of ThinkPad USB 4 Dock 5000 showing power input and ports"
+        },
+        {
+          "url": "https://p1-ofp.static.pub//fes/cms/2025/10/30/89ronwftdy18qrx8sedr5t26xefzje354692.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/f1793e63-1194-449e-ae0e-3d3cec8f1548?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of USB-C power input brick and cable for ThinkPad USB 4 Dock 5000"
+        },
+        {
+          "url": "https://p2-ofp.static.pub//fes/cms/2025/10/30/1buyuqm9bwret7xq4v4k3fgp1mf7d3209795.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/05f4a289-5c35-4184-8853-a05e102b81c4?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Box contents of Lenovo ThinkPad USB4 Dock 5000: dock, power adapter, USB-C cable, manuals"
+        },
+        {
+          "url": "https://p3-ofp.static.pub//fes/cms/2025/10/30/4ybxfzhej0r2h9ug5nvbel6sex3bt8032749.png?width=50&height=50",
+          "cleaned_url": "https://cdn.trychannel3.com/ab9d8be5-9563-4086-a889-6ddbc3ea8669?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": " Lenovo ThinkPad USB4 Dock 5000 packaging and included accessories laid out"
+        }
+      ],
+      "category": {
+        "slug": "computer-accessory-sets",
+        "title": "Computer Accessory Sets",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "computer-accessory-sets",
+            "title": "Computer Accessory Sets"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "recycled plastic"
+      ],
+      "key_features": [
+        "ThinkPad Universal Thunderbolt 4 Dock with 40Gbps data transfer, multi-display support, and up to 100W power delivery.",
+        "Wireless keyboard and mouse combo with 2.5-zone layout, Copilot key, AES-128 encryption, and up to 18-month battery life.",
+        "Dock supports up to one 8K 60Hz or two 4K 144Hz displays.",
+        "Dock outputs up to 65W charge power with the included 90W adapter, or up to 100W with an optional adapter."
+      ],
+      "colors": [
+        {
+          "hex": "#464242",
+          "percentage": 0.5632
+        },
+        {
+          "hex": "#2a2928",
+          "percentage": 0.3589
+        },
+        {
+          "hex": "#45282a",
+          "percentage": 0.0779
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ene3EJT-hl1t-8tFxDf?o=01KBPCKTD0EG600PN8ZRBJHF2J&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 167.2,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Product Variant",
+            "values": [
+              {
+                "label": "ThinkPad USB 4 Dock (90W adapter)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/09c9bbc4-3b19-415c-8c72-d58815564a06",
+                "product_id": "EcPSa1e"
+              },
+              {
+                "label": "ThinkPad USB4 Smart Dock + Professional Rechargeable Combo",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/67dae04f-90a3-4a48-b3db-824d41e6ba70",
+                "product_id": "UqykpSA"
+              },
+              {
+                "label": "ThinkPad USB4 Dock + Essential Wireless Combo",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": "https://cdn.trychannel3.com/ene3EJT",
+                "product_id": "ene3EJT"
+              }
+            ]
+          },
+          {
+            "name": "Input Device",
+            "values": []
+          }
+        ],
+        "selected": [
+          {
+            "name": "Product Variant",
+            "label": "ThinkPad USB4 Dock + Essential Wireless Combo"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "compatible-device": [
+          "Keyboard",
+          "Mouse",
+          "Digital camera"
+        ],
+        "computer-accessories-included": [
+          "Keyboard",
+          "Mouse"
+        ],
+        "power-source": [
+          "Hardwire",
+          "USB"
+        ],
+        "connectivity-technology": [
+          "Ethernet",
+          "HDMI",
+          "USB",
+          "Wireless"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "yRBik4G",
+      "title": "ThinkPad USB4 Smart Dock 5500",
+      "description": "The Lenovo ThinkPad USB4 Smart Dock 5500 is a high-performance docking station designed for developers and creative professionals. It features a single USB4 host connection providing up to 40 Gb/s total bandwidth and supports up to four external displays, with maximum resolution reaching 8K60 for a single monitor or 4K60 for four monitors. The dock includes a comprehensive array of ports, including HDMI 2.1, DisplayPort 1.4, USB-C, and USB-A 3.2 Gen 2, along with Gigabit Ethernet. It provides up to 100W of shared power for the laptop and connected devices and is built with 90% post-consumer recycled content.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b4de1e4b-e0c4-4106-8649-0884f91d0f16?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4de1e4b-e0c4-4106-8649-0884f91d0f16?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Side view of the Lenovo ThinkPad USB 4 Smart Dock with USB4 Smart port."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/44b47d81-2c92-4779-9003-4252bd69349d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/44b47d81-2c92-4779-9003-4252bd69349d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of the Lenovo ThinkPad USB 4 Smart Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a51e6736-cf6f-4f09-9225-3fb8d30253cd?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a51e6736-cf6f-4f09-9225-3fb8d30253cd?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view showing power indicator lights on the docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9c1fe7c0-0aa5-404d-9f4d-9a75daf6d63a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9c1fe7c0-0aa5-404d-9f4d-9a75daf6d63a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the USB-C port and ports on the side of the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c5c506c-8c10-44ca-95ea-25ce06540ca3?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Close-up of the back edge and USB port of a black docking station."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/42210751-18d4-4a2b-9b35-749801061a6f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "USB-C cable connected to the USB4 port on a black dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "Connect up to four external displays",
+        "Supports up to 1 x 8K60 resolution",
+        "2 x 4K144 or 4 x 4K60 display support",
+        "Up to 100W of shared power",
+        "Up to 40 Gb/s of total data transfer",
+        "Remote IT Management (WOL, PXE Boot, MAC address passthrough)",
+        "Crafted with 90% post-consumer recycled content",
+        "Plastic-free packaging",
+        "USB Type-C Interface",
+        "Black Enclosure"
+      ],
+      "colors": [
+        {
+          "hex": "#373535",
+          "percentage": 0.5303
+        },
+        {
+          "hex": "#524b4b",
+          "percentage": 0.3087
+        },
+        {
+          "hex": "#201e1d",
+          "percentage": 0.1028
+        },
+        {
+          "hex": "#767070",
+          "percentage": 0.0583
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/yRBik4G-oHaU-8tFxDf?o=01M3QKFJQ4BZ1K5DZJ9945AYNJ&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": 244.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 8.6,
+              "unit": "in"
+            },
+            "width": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 1.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Digital camera",
+          "Smartphone",
+          "Tablet"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "material": [
+          "Plastic"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 9,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "rehV6qz",
+      "title": "ThinkPad Thunderbolt 3 Dock Gen 2 Docking Station",
+      "description": "The Lenovo ThinkPad Thunderbolt 3 Dock Gen2 is a professional-grade port replicator designed to expand the connectivity of laptops. It features a comprehensive array of ports, including two DisplayPort (DP), two HDMI, and Thunderbolt 3 interfaces, allowing for multiple monitor setups. It also includes several USB 3.1 Gen 2 Type-A ports, a Gigabit Ethernet (1GbE) RJ-45 port for stable networking, and a 3.5mm audio combo jack. The dock is powered by a 135W adapter and is compatible with Lenovo ThinkPad notebooks as well as other brands like HP, Dell, and Apple that support USB-C Alt-Mode or Thunderbolt protocols.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cd51a548-5a93-4e06-83d2-dbeab6af77f6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cd51a548-5a93-4e06-83d2-dbeab6af77f6?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad Thunderbolt 3 Dock Gen2 accessories and unit."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4130f5d0-3251-4dd8-a7e1-b9ea5509d471?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4130f5d0-3251-4dd8-a7e1-b9ea5509d471?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad Thunderbolt 3 Dock Gen2 unit."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/44862d23-5589-4049-88da-eb19578c66a7?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/44862d23-5589-4049-88da-eb19578c66a7?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of Lenovo ThinkPad Thunderbolt 3 Dock Gen2 ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/09d2c306-8a03-43c7-b5dd-a023a0e7f82b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/09d2c306-8a03-43c7-b5dd-a023a0e7f82b?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the rear connectivity ports on the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7792598e-fdfe-4066-858e-a10b6a7d697d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7792598e-fdfe-4066-858e-a10b6a7d697d?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=n0yg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkPad Thunderbolt 3 Dock Gen2 with cable."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Thunderbolt 3 host interface",
+        "Dual DisplayPort (DP) and dual HDMI outputs",
+        "Gigabit Ethernet (1GbE) connectivity",
+        "Multiple USB 3.1 Gen 2 ports",
+        "135W power delivery",
+        "Compatible with Lenovo ThinkPad and other USB-C/Thunderbolt enabled laptops",
+        "Preboot Execution Environment (PXE) support",
+        "Kensington security lock slot",
+        "Three USB 3.1 Gen 1 Type-A ports",
+        "Two USB 2.0 Type-A ports (one with always-on charging)"
+      ],
+      "colors": [
+        {
+          "hex": "#545555",
+          "percentage": 0.9513
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/rehV6qz-n0yg-8tFxDf?o=01M388F1DJ4BRQTZ6P7JT67K44&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 145.0,
+            "compare_at_price": 369.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 44.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/rehV6qz-TgS4-8tFxDf?o=01M4VX2QKMTEDV6029J4FYXH6H&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "cdw.com",
+          "price": {
+            "price": 371.99,
+            "compare_at_price": 414.04,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.7,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": null
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "compatible-device": [
+          "Digital camera",
+          "Tablet"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "Thunderbolt",
+          "USB",
+          "Ethernet",
+          "3.5 mm",
+          "Lightning"
+        ],
+        "material": [
+          "Metal"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "video-resolution-supported": [
+          "1080p",
+          "Full HD"
+        ]
+      },
+      "ratings": {
+        "value": 3.97,
+        "count": 29,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "0qLgqMr",
+      "title": "ThinkPad Thunderbolt 5 Smart Dock 7500",
+      "description": "The ThinkPad Thunderbolt 5 Smart Dock 7500 is a powerful docking station designed to maximize productivity. It supports up to three 8K 60Hz displays and offers data transfer speeds of up to 120Gbps, leveraging the latest Intel Thunderbolt 5 connectivity. This flagship dock is ideal for commercial users and features a cloud-based management console for IT managers.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/cc90b741-519d-4c09-be9d-321479d5b99f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cc90b741-519d-4c09-be9d-321479d5b99f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Thinkpad Thunderbolt 5 Smart Dock shown from a side view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/df5b590a-0020-4b8c-8cb2-3a196dc39432?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Close-up of the dock with a Thunderbolt 5 cable plugged in."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd948ceb-2170-4e02-84e8-1869a49a0092?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Close-up of the Thunderbolt 5 connector being plugged into the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ce2da9d-b8bf-41e8-a01b-891452cf65f1?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5ce2da9d-b8bf-41e8-a01b-891452cf65f1?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Smart Dock showing ports and power."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/34e3cb81-54db-46ee-b4dd-66339b354b46?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/34e3cb81-54db-46ee-b4dd-66339b354b46?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Side-by-side view of the Smart Dock and its accessories."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/af5f5681-6257-46f6-940b-8768e53a4303?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/af5f5681-6257-46f6-940b-8768e53a4303?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top-down view of the black Smart Dock showing connectivity ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b53e379-9304-4cb3-b51e-1ed8af9f9d6a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5af27f91-045f-4e7a-a80a-07d4276d8457?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Comparison of the Smart Dock in different colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/60102c90-7a2b-4bb9-8f34-98701f899426?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/60102c90-7a2b-4bb9-8f34-98701f899426?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Profile view of the black Smart Dock highlighting the design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ddda13d-2157-42e1-a8d0-f45ffc1b2241?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5ddda13d-2157-42e1-a8d0-f45ffc1b2241?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Angled view of the black Smart Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/15e978fa-83fd-44d1-8e40-6c50993a9593?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/15e978fa-83fd-44d1-8e40-6c50993a9593?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the black Thinkpad Smart Dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ed16a18b-23d1-4dff-88a4-87a28c075569?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ed16a18b-23d1-4dff-88a4-87a28c075569?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the rear connector and ports on the dock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d00bc08f-2a99-468a-8a32-21039de32cfe?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4b33f6d6-6381-430a-8600-2ba1e88e4888?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "View of the power input and status indicators on the dock."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Supports up to 180W PD 3.1 charge power",
+        "3 x 8K@60Hz + 1 x 4K@60Hz or 2 x 4K@240Hz + 2 x 4K@120Hz display support",
+        "Data transfer speed up to 80Gbps in standard mode or 120Gbps in Bandwidth Boost mode",
+        "Support vPro / AMT Pass Through",
+        "2.5Gb Ethernet supports WOL, PXE Boot, MAC address pass through on ThinkPad Notebooks",
+        "Fleet Smart Management with Lenovo\u2122 Accessories Fleet Manager (LAFM)",
+        "Universal Dock Compatibility across different Operating Systems, Windows, Linux, macOS 15 Sequoia and above"
+      ],
+      "colors": [
+        {
+          "hex": "#363534",
+          "percentage": 0.5151
+        },
+        {
+          "hex": "#504c4c",
+          "percentage": 0.325
+        },
+        {
+          "hex": "#201d1c",
+          "percentage": 0.1032
+        },
+        {
+          "hex": "#7c7978",
+          "percentage": 0.0567
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/0qLgqMr-hl1t-8tFxDf?o=01KS63P5YE9TYE4THF737SAVJN&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 400.39,
+            "compare_at_price": 519.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Included Power Adapter",
+            "label": "Includes 265W Adapter"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD",
+          "8K ultra HD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "connector-gender": [
+          "Female"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "usb-connector-type": [
+          "USB Type-C"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "Thunderbolt",
+          "USB"
+        ]
+      },
+      "ratings": {
+        "value": 4.0,
+        "count": 20,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "TWtkEEd",
+      "title": "ThinkPad Hybrid USB Type-C Laptop Dock with USB Type-A Adapter",
+      "description": "The Lenovo ThinkPad Hybrid USB-C with USB-A Dock (model 40AF0135US) is an enterprise-class universal docking station designed for professional productivity. It supports ThinkPad RapidCharge and is compatible with both older Lenovo and non-Lenovo laptops. This docking station allows for expanded connectivity, supporting up to dual UHD 4K displays via DisplayPort and HDMI ports. It features high-speed data transfer with three USB 3.1 Gen 2 ports (up to 10Gbps), two USB 2.0 ports, and a USB-C port. Additional connectivity includes a Gigabit Ethernet port and a stereo/mic combo audio jack. The unit delivers 130W pass-through power delivery to keep your laptop charged while connected.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f747cc63-24e3-4793-997d-d5bd3d87668a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f747cc63-24e3-4793-997d-d5bd3d87668a?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad Hybrid Docking Station shown from the side."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Dual 4K display support via HDMI and DisplayPort",
+        "Rapid data transfer with USB 3.1 ports",
+        "90W power delivery via slim-tip",
+        "USB-C to USB-A adapter for compatibility with older hardware",
+        "Enterprise-class features: PXE boot, Wake-On-Lan, and MAC address pass-through",
+        "Supports ThinkPad RapidCharge",
+        "Data transfer speeds up to 10Gbps on 3 x USB 3.1 ports",
+        "130W Pass-Through Power Delivery",
+        "Enterprise-class universal docking compatible with Lenovo and non-Lenovo laptops",
+        "Compatible with USB-C and USB-A laptops"
+      ],
+      "colors": [
+        {
+          "hex": "#5d5d5d",
+          "percentage": 0.824
+        },
+        {
+          "hex": "#323232",
+          "percentage": 0.1154
+        },
+        {
+          "hex": "#878787",
+          "percentage": 0.0606
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/TWtkEEd-LPzf-8tFxDf?o=01M51M6KQ0MAWEQSZEFC6ZQSNK&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "newegg.com",
+          "price": {
+            "price": 63.97,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 5.0,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/TWtkEEd-n0yg-8tFxDf?o=01M5THQHKTTBB768AY3K8AC9SB&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 133.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 20.0,
+              "unit": "oz"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/TWtkEEd-TgS4-8tFxDf?o=01M4MHM0DPRD6FSGX8VGP6RBK8&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "cdw.com",
+          "price": {
+            "price": 297.99,
+            "compare_at_price": 329.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 3.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 8.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 16.75,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "USB",
+          "TRS",
+          "3.5 mm"
+        ],
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "usb-connector-type": [
+          "USB Type-A",
+          "USB Type-C"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "material": [
+          "Plastic"
+        ]
+      },
+      "ratings": {
+        "value": 4.12,
+        "count": 409,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "oVmPayp",
+      "title": "ThinkPad Universal USB-C Smart Dock (ThinkSmart Edition)",
+      "description": "The ThinkPad Universal USB-C Smart Dock \u2013 ThinkSmart Edition is an entry-level smart docking solution designed for businesses to transform meeting spaces. It combines the flexibility of Bring Your Own Device (BYOD) with managed room capabilities via preloaded ThinkSmart Manager Basic, allowing IT administrators to capture room usage and data analytics. The dock features a wide array of ports for high-quality audiovisual connectivity, rapid charging for notebooks, and an innovative cable management system to maintain a tidy workspace and prevent accidental unplugging.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/3c9e5a1b-95e7-4d96-8a61-17e35000654f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3c9e5a1b-95e7-4d96-8a61-17e35000654f?aid=01M66D9Z5C2Z4WC8CM3AHQHNHD&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkPad device with silver rods on white background."
+        }
+      ],
+      "category": {
+        "slug": "laptop-docking-stations",
+        "title": "Laptop Docking Stations",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "electronics-accessories",
+            "title": "Electronics Accessories"
+          },
+          {
+            "slug": "computer-accessories",
+            "title": "Computer Accessories"
+          },
+          {
+            "slug": "laptop-docking-stations",
+            "title": "Laptop Docking Stations"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Preloaded with ThinkSmart Manager Basic for room usage and data analytics",
+        "Wide array of ports for seamless connectivity to professional AV devices and displays",
+        "Rapid charging capabilities (up to 100W for most USB-C notebooks)",
+        "Innovative cable management system to secure cables and reduce clutter",
+        "Plug-and-play functionality with a single USB-C cable connection",
+        "Support for up to 3 displays with a maximum resolution of 4K",
+        "Facilitates BOYD Rooms Buildouts",
+        "1 x DisplayPort, 1 x HDMI Port",
+        "Remote Room Monitoring"
+      ],
+      "colors": [
+        {
+          "hex": "#696869",
+          "percentage": 0.4327
+        },
+        {
+          "hex": "#4d4d4d",
+          "percentage": 0.2474
+        },
+        {
+          "hex": "#252525",
+          "percentage": 0.1153
+        },
+        {
+          "hex": "#0c0b0b",
+          "percentage": 0.1142
+        },
+        {
+          "hex": "#959595",
+          "percentage": 0.0903
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/oVmPayp-hl1t-8tFxDf?o=01M5TWXJB2PHP77QR3TZHJKBYM&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD",
+          "domain": "news.lenovo.com",
+          "price": {
+            "price": 349.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 171.0,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 80.0,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 30.0,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 0.51,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "video-resolution-supported": [
+          "4K ultra HD"
+        ],
+        "connector-gender": [
+          "Female"
+        ],
+        "usb-connector-type": [
+          "USB Type-C",
+          "USB Type-A"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "device-interface": [
+          "Ethernet",
+          "HDMI",
+          "Display port",
+          "USB",
+          "TRS"
+        ],
+        "material": [
+          "Metal"
+        ]
+      },
+      "ratings": null
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOmEzMmZkZTMxOTE1NmM5MDUiLCAib2Zmc2V0IjogMjB9"
+}

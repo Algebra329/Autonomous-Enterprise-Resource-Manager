@@ -1,0 +1,134 @@
+[
+  {
+    "id": "60f31bc4-d17c-5ddc-9532-8f31ec041018",
+    "app": "TeamChat Pro",
+    "vendor_id": "vendor_a",
+    "paypal_enabled": false,
+    "paypal_subscription_id": null,
+    "seat_price": 8.75,
+    "seat_count": 147,
+    "monthly_cost": 1286.25,
+    "status": "active"
+  },
+  {
+    "id": "9b54330c-b8a8-55e9-a47d-efb856c17241",
+    "app": "DocuHub",
+    "vendor_id": "vendor_b",
+    "paypal_enabled": false,
+    "paypal_subscription_id": null,
+    "seat_price": 12.0,
+    "seat_count": 143,
+    "monthly_cost": 1716.0,
+    "status": "active"
+  },
+  {
+    "id": "acc9edb8-79b7-5f5d-897c-1226f63690fa",
+    "app": "DesignForge",
+    "vendor_id": "vendor_a",
+    "paypal_enabled": true,
+    "paypal_subscription_id": null,
+    "seat_price": 45.0,
+    "seat_count": 28,
+    "monthly_cost": 1260.0,
+    "status": "active"
+  },
+  {
+    "id": "54c40ec8-9ad3-597d-93cc-29a3c870c445",
+    "app": "CodeVault",
+    "vendor_id": "vendor_b",
+    "paypal_enabled": true,
+    "paypal_subscription_id": null,
+    "seat_price": 21.0,
+    "seat_count": 46,
+    "monthly_cost": 966.0,
+    "status": "active"
+  },
+  {
+    "id": "1b5eb971-de91-5549-b3cb-286fb6557f5b",
+    "app": "DealPilot CRM",
+    "vendor_id": "vendor_a",
+    "paypal_enabled": true,
+    "paypal_subscription_id": null,
+    "seat_price": 75.0,
+    "seat_count": 44,
+    "monthly_cost": 3300.0,
+    "status": "active"
+  },
+  {
+    "id": "a350f69b-28cf-55e2-b834-412acd48f42b",
+    "app": "SupportDesk",
+    "vendor_id": "vendor_b",
+    "paypal_enabled": false,
+    "paypal_subscription_id": null,
+    "seat_price": 55.0,
+    "seat_count": 35,
+    "monthly_cost": 1925.0,
+    "status": "active"
+  },
+  {
+    "id": "d253e0dd-f927-537c-b05a-4a80dbe128e1",
+    "app": "InsightBoard BI",
+    "vendor_id": "vendor_a",
+    "paypal_enabled": true,
+    "paypal_subscription_id": null,
+    "seat_price": 30.0,
+    "seat_count": 34,
+    "monthly_cost": 1020.0,
+    "status": "active"
+  },
+  {
+    "id": "701223f7-cf6f-548b-bb7c-59438ea6dea5",
+    "app": "VideoMeet",
+    "vendor_id": "vendor_b",
+    "paypal_enabled": false,
+    "paypal_subscription_id": null,
+    "seat_price": 15.0,
+    "seat_count": 131,
+    "monthly_cost": 1965.0,
+    "status": "active"
+  },
+  {
+    "id": "7c253b2a-0788-5141-929d-958907387132",
+    "app": "PlanTrack",
+    "vendor_id": "vendor_a",
+    "paypal_enabled": false,
+    "paypal_subscription_id": null,
+    "seat_price": 10.0,
+    "seat_count": 61,
+    "monthly_cost": 610.0,
+    "status": "active"
+  },
+  {
+    "id": "b9189144-ab8e-5bde-9f07-eaee1bc0d4bc",
+    "app": "SignFlow",
+    "vendor_id": "vendor_b",
+    "paypal_enabled": true,
+    "paypal_subscription_id": null,
+    "seat_price": 25.0,
+    "seat_count": 40,
+    "monthly_cost": 1000.0,
+    "status": "active"
+  },
+  {
+    "id": "f495d692-9234-5567-b9a3-f5d323b58825",
+    "app": "MailBlast",
+    "vendor_id": "vendor_a",
+    "paypal_enabled": true,
+    "paypal_subscription_id": null,
+    "seat_price": 40.0,
+    "seat_count": 30,
+    "monthly_cost": 1200.0,
+    "status": "active"
+  },
+  {
+    "id": "35c589b0-5317-5c0a-bd83-84f72478ec65",
+    "app": "TimeKeep",
+    "vendor_id": "vendor_b",
+    "paypal_enabled": false,
+    "paypal_subscription_id": null,
+    "seat_price": 6.0,
+    "seat_count": 109,
+    "monthly_cost": 654.0,
+    "status": "active"
+  }
+]

@@ -1,0 +1,3466 @@
+{
+  "products": [
+    {
+      "id": "s0XyDzF",
+      "title": "Lenovo ThinkVision T24-40 LED monitor",
+      "description": "The Lenovo ThinkVision T24-40 is a 24-inch LED-backlit IPS monitor designed for productivity and creativity. It features a Full HD (1920 x 1080) resolution with a 120 Hz refresh rate and 250 cd/m\u00b2 brightness. The monitor is finished in eclipse black and includes a versatile stand allowing for height, pivot, swivel, and tilt adjustments. Connectivity options include HDMI, VGA, DisplayPort, and a USB 3.2 Gen 1 hub with USB-C power delivery up to 15W. It also incorporates Natural Low Blue Light technology and is Eyesafe Certified 2.0 to reduce eye strain.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ade71c85-7e8c-45c8-9ee4-b94b3a7c2413?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ade71c85-7e8c-45c8-9ee4-b94b3a7c2413?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "24-inch Lenovo ThinkVision LED monitor displaying a scenic mountain landscape."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "1920 x 1080 Full HD (1080p) resolution",
+        "120 Hz refresh rate",
+        "IPS panel with 1500:1 contrast ratio",
+        "250 cd/m\u00b2 brightness",
+        "Connectivity: HDMI, VGA, DisplayPort, and USB 3.2 Gen 1 hub",
+        "USB-C power delivery up to 15W",
+        "Adjustable stand: Height, Pivot, Swivel, Tilt",
+        "Natural Low Blue Light technology",
+        "Eyesafe Certified 2.0",
+        "EPEAT Gold and ENERGY STAR certified"
+      ],
+      "colors": [
+        {
+          "hex": "#0c0708",
+          "percentage": 0.1471
+        },
+        {
+          "hex": "#242124",
+          "percentage": 0.1468
+        },
+        {
+          "hex": "#79898f",
+          "percentage": 0.1466
+        },
+        {
+          "hex": "#0b4d50",
+          "percentage": 0.1389
+        },
+        {
+          "hex": "#472e3e",
+          "percentage": 0.1192
+        },
+        {
+          "hex": "#5c555f",
+          "percentage": 0.1137
+        },
+        {
+          "hex": "#d2bfc6",
+          "percentage": 0.1069
+        },
+        {
+          "hex": "#092425",
+          "percentage": 0.0808
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/s0XyDzF-TgS4-8tFxDf?o=01M3YX79GZ30MHH6M7KCQBZKCX&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 212.99,
+            "compare_at_price": 224.39,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.5,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.24,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "energy-efficiency-class-sdr": [
+          "C"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "1080p",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "nI2uKDF",
+      "title": "ThinkVision S24e-10 24\" (23.8\" Viewable) 1920 x 1080 Full HD HDMI D-Sub FreeSync Tilt VESA Monitor",
+      "description": "The Lenovo ThinkVision S24e-10 is a 23.8-inch LCD monitor featuring a Full HD resolution of 1920 x 1080. This VA panel monitor provides a 60 Hz refresh rate, a high 3000:1 contrast ratio, and a 4ms response time for clear visuals. It supports AMD FreeSync technology to reduce screen tearing and is TUV low blue light certified for eye comfort. Connectivity options include VGA and HDMI ports, and the monitor comes with an adjustable tilt stand and VESA compatibility.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/523ccbd6-de06-438c-b615-31abf1910057?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5416686b-9efa-40fb-84fa-840177f4e926?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5416686b-9efa-40fb-84fa-840177f4e926?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor displaying a blue floral pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/82781744-b363-46b8-a6d4-ea2f7d2dd3a0?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f3454da1-4fa7-40bc-b0db-8ea999fb9384?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f3454da1-4fa7-40bc-b0db-8ea999fb9384?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor displaying a blue floral pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bfd5b173-bd7c-4d1e-b8f6-2fb5b2d3a24b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bfd5b173-bd7c-4d1e-b8f6-2fb5b2d3a24b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor displaying a blue floral pattern."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2f8f2cc7-0df6-46a5-b32e-f25a0c378879?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6376a6a7-c0fa-4654-89a9-d94adade3329?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8a9c20dc-8c3f-4ba5-9a42-90c6d2a05480?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/317bf953-19ec-4bd0-ac6d-51152453a72e?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo Thinkvision S24e-10 24 inch monitor with stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch Full HD (1920 x 1080) LCD Display",
+        "60 Hz refresh rate and 4ms response time",
+        "3000:1 contrast ratio with 250 cd/m\u00b2 brightness",
+        "AMD FreeSync (Adaptive Sync) technology",
+        "TUV low blue light certified",
+        "HDMI and VGA ports",
+        "Adjustable tilt stand and VESA compatible"
+      ],
+      "colors": [
+        {
+          "hex": "#0a1547",
+          "percentage": 0.229
+        },
+        {
+          "hex": "#0c4ba3",
+          "percentage": 0.1563
+        },
+        {
+          "hex": "#2c262e",
+          "percentage": 0.1542
+        },
+        {
+          "hex": "#06246b",
+          "percentage": 0.1432
+        },
+        {
+          "hex": "#2c79bf",
+          "percentage": 0.134
+        },
+        {
+          "hex": "#39a3e1",
+          "percentage": 0.1282
+        },
+        {
+          "hex": "#3e4e71",
+          "percentage": 0.0552
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/nI2uKDF-LPzf-8tFxDf?o=01KBP7SBPVTGK0DVHE9SAN86WN&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "newegg.com",
+          "price": {
+            "price": 199.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/nI2uKDF-n0yg-8tFxDf?o=01M382KYP0XN10K2G3VH0DN9EF&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "backmarket.com",
+          "price": {
+            "price": 208.0,
+            "compare_at_price": 249.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": null,
+          "max_commission_rate": 0.035,
+          "dimensions": {
+            "length": {
+              "number": 7.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 15.8,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 7.4,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "LED backlight",
+          "Matte finish"
+        ],
+        "contrast-ratio-typical": [
+          "3000000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ICuqWXk",
+      "title": "Lenovo ThinkVision T24d-40 LED monitor",
+      "description": "The Lenovo ThinkVision T24d-40 is a 24-inch (23.8 inch viewable) LED-backlit IPS monitor designed for productivity and creativity. It features Full HD (1080p) resolution with a 120Hz refresh rate and a 1500:1 contrast ratio. This professional display offers extensive connectivity options including USB-C (with up to 100W power delivery), HDMI, and DisplayPort. It is designed for comfort and versatility with adjustable height, pivot, swivel, and tilt functions, and includes Natural Low Blue Light technology and Eyesafe certification to reduce eye strain. The monitor comes in Eclipse Black and includes integrated stereo speakers.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/808164d0-7def-40cc-b0b0-69f1f2498623?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/808164d0-7def-40cc-b0b0-69f1f2498623?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with a stand and red accent on the base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d0a35dac-15ab-42ad-9f51-fa74f285dffd?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with a stand and red detail on the base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/002c87a3-8662-452b-bc7f-0dc8ab86557e?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/002c87a3-8662-452b-bc7f-0dc8ab86557e?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand and arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0ce9043a-d4e4-417f-9e83-eb98c31555c3?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with a stand and red detail on the base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2847dbe8-e81f-4d6d-b599-2faf358031f0?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2847dbe8-e81f-4d6d-b599-2faf358031f0?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand and arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9e24e4e4-3ba5-420b-bdf5-8043e3138f78?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9e24e4e4-3ba5-420b-bdf5-8043e3138f78?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with a stand and red detail on the base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c2566137-5d67-416a-8ebb-d62d70dd63d1?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c2566137-5d67-416a-8ebb-d62d70dd63d1?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand and arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/831d6f80-acb7-4094-af0c-c130824eca9b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/831d6f80-acb7-4094-af0c-c130824eca9b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand and arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a7bb7cae-c350-4e35-87fb-eee46d5b5605?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a7bb7cae-c350-4e35-87fb-eee46d5b5605?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with a stand and red detail on the base."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" (23.8\" viewable) IPS LED-backlit display",
+        "Full HD (1920 x 1080) resolution",
+        "120 Hz vertical refresh rate",
+        "USB-C connectivity with Power Delivery up to 100W",
+        "HDMI and DisplayPort 1.4 interfaces",
+        "Adjustable height, pivot, swivel, and tilt",
+        "Natural Low Blue Light technology and Eyesafe Certified 2.0",
+        "Integrated stereo speakers (2W)",
+        "Anti-glare screen coating",
+        "Eclipse black finish"
+      ],
+      "colors": [
+        {
+          "hex": "#fdfdfd",
+          "percentage": 0.5674
+        },
+        {
+          "hex": "#ba090b",
+          "percentage": 0.169
+        },
+        {
+          "hex": "#803f3f",
+          "percentage": 0.127
+        },
+        {
+          "hex": "#801619",
+          "percentage": 0.0963
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ICuqWXk-LPzf-8tFxDf?o=01M5KY99BKGR03DMC98HAHX5XN&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "newegg.com",
+          "price": {
+            "price": 239.99,
+            "compare_at_price": 243.9,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/ICuqWXk-TgS4-8tFxDf?o=01M3YX90JXKCVVR0PY6R4F1W33&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 258.99,
+            "compare_at_price": 273.17,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 12.35,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD",
+          "1080p"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Anti-glare"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "device-interface": [
+          "USB",
+          "Display port",
+          "Ethernet",
+          "HDMI"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "energy-efficiency-class-sdr": [
+          "D"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "8EY6Ry4",
+      "title": "Lenovo ThinkVision T24-4v LED Monitor",
+      "description": "The Lenovo ThinkVision T24-4v is a 24-inch LED-backlit LCD monitor designed for productivity and creativity. It features a Full HD (1080p) IPS display with a 120Hz refresh rate and a 1500:1 contrast ratio for crisp, colorful visuals. To enhance professional workflows, it includes a built-in IR webcam, stereo speakers, and a versatile connectivity hub with USB-C, HDMI, DisplayPort, and VGA ports. The monitor is designed for comfort with Natural Low Blue Light technology and an adjustable stand that supports height, pivot, swivel, and tilt movements. Finished in eclipse black, it provides a sleek professional look with minimal bezels.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/371893e0-4d97-4064-8dcb-7ae23c513be1?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/371893e0-4d97-4064-8dcb-7ae23c513be1?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkVision T24-4v monitor on a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1080p) 1920 x 1080 resolution",
+        "120Hz vertical refresh rate",
+        "IPS LED-backlit display",
+        "Built-in IR camera and stereo speakers",
+        "Comprehensive connectivity: USB-C, HDMI, DisplayPort, and VGA",
+        "Adjustable stand: Height, Pivot, Swivel, and Tilt",
+        "Natural Low Blue Light technology for reduced eye strain",
+        "USB 3.2 Gen 1 hub integration"
+      ],
+      "colors": [
+        {
+          "hex": "#373839",
+          "percentage": 0.1597
+        },
+        {
+          "hex": "#d0c8d3",
+          "percentage": 0.138
+        },
+        {
+          "hex": "#c799d1",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#f4f0f2",
+          "percentage": 0.1272
+        },
+        {
+          "hex": "#222029",
+          "percentage": 0.1169
+        },
+        {
+          "hex": "#8b6ab6",
+          "percentage": 0.1159
+        },
+        {
+          "hex": "#a286bc",
+          "percentage": 0.1155
+        },
+        {
+          "hex": "#7948a1",
+          "percentage": 0.0938
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/8EY6Ry4-TgS4-8tFxDf?o=01M3YX7JBPVY14NWNVSEZZYKZF&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 283.99,
+            "compare_at_price": 297.56,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 14.3,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 11.68,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in camera",
+          "Built-in speakers"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "1080p",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "VGA"
+        ],
+        "energy-efficiency-class-sdr": [
+          "D"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "wXRnCDL",
+      "title": "Lenovo ThinkVision T24d-40 LED monitor",
+      "description": "The Lenovo ThinkVision T24d-40 is a 24-inch (23.8\" viewable) LED-backlit IPS monitor featuring Full HD (1080p) resolution with a refresh rate of up to 120Hz. Designed for productivity and eye comfort, it includes Natural Low Blue Light technology and is Eyesafe Certified 2.0. The monitor offers extensive connectivity with HDMI, DisplayPort 1.4, and USB-C (supporting power delivery up to 100W). It features a highly adjustable stand (height, pivot, swivel, and tilt), integrated stereo speakers, and an anti-glare screen coating.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d251a510-8e6c-47e6-a2f7-785709cdc095?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d251a510-8e6c-47e6-a2f7-785709cdc095?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision T24d-40 monitor on a black stand with a purple background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1920 x 1080) resolution",
+        "120 Hz vertical refresh rate",
+        "USB-C connectivity with Power Delivery up to 100W",
+        "IPS panel with 1500:1 contrast ratio",
+        "Natural Low Blue Light technology",
+        "Adjustable stand (Height, Pivot, Swivel, Tilt)",
+        "Integrated stereo speakers (2W)",
+        "Anti-glare screen coating"
+      ],
+      "colors": [
+        {
+          "hex": "#7e4993",
+          "percentage": 0.4071
+        },
+        {
+          "hex": "#261f32",
+          "percentage": 0.1454
+        },
+        {
+          "hex": "#fbfafb",
+          "percentage": 0.1407
+        },
+        {
+          "hex": "#d3c8d8",
+          "percentage": 0.1073
+        },
+        {
+          "hex": "#956699",
+          "percentage": 0.0869
+        },
+        {
+          "hex": "#755f84",
+          "percentage": 0.0641
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/wXRnCDL-TgS4-8tFxDf?o=01M3YX6EA00XPQACNRG9YBNCHD&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 237.99,
+            "compare_at_price": 243.9,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.9,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 12.35,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "energy-efficiency-class-sdr": [
+          "D"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "uSHo84m",
+      "title": "Lenovo ThinkVision T24D-4v - LED monitor - Full HD (1080p) - 24\"",
+      "description": "The Lenovo ThinkVision T24D-4v is a 24-inch LED-backlit LCD monitor designed for productivity and versatility. It features Full HD (1080p) resolution with a 120 Hz refresh rate and IPS technology for crisp, colorful visuals with wide viewing angles. This monitor is well-equipped for modern workspaces, offering extensive connectivity including HDMI, DisplayPort, and USB-C with up to 100W power delivery. It is specifically tailored for communication and collaboration, featuring a built-in webcam with IR camera, stereo speakers, and a microphone. Additional user-centric features include an anti-glare screen, Natural Low Blue Light technology for eye comfort, and a highly adjustable stand allowing for height, pivot, swivel, and tilt movements.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7a0a133f-1ffc-4079-8073-7053358dda7b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "in_use",
+          "alt_text": "Monitor displaying a water cycle infographic on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/74093fd1-4497-4db0-b0ae-7fcd6f648112?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Monitor displaying a water cycle infographic on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ebdb98e0-3420-42e1-9de2-574aedda142d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor with its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5103b69c-48d6-4232-99eb-03cb718df632?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Monitor displaying a water cycle infographic on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/46c21a20-a1d3-491e-a19d-296d66fcaa17?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Rear view of a Lenovo monitor with its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e29507a8-df73-43ca-bacd-4378b546f42f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e29507a8-df73-43ca-bacd-4378b546f42f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor stand with monitor attached on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4469238e-6f47-442a-be1d-ce52e1682b55?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4469238e-6f47-442a-be1d-ce52e1682b55?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=TgS4",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor stand and arm assembly on a plain background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1920 x 1080) resolution",
+        "120 Hz refresh rate",
+        "IPS panel with 1500:1 contrast ratio",
+        "Integrated webcam with IR camera",
+        "USB-C connectivity with 100W Power Delivery",
+        "Built-in stereo speakers and microphone",
+        "Highly adjustable stand (Height, Pivot, Swivel, Tilt)",
+        "Eyesafe Certified 2.0 and TUV Rheinland Eye Comfort Certification",
+        "Anti-glare screen coating"
+      ],
+      "colors": [
+        {
+          "hex": "#fefefe",
+          "percentage": 0.6269
+        },
+        {
+          "hex": "#a70623",
+          "percentage": 0.3365
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/uSHo84m-TgS4-8tFxDf?o=01M3YX7FK0V6ZG0WQRVQ74TN3D&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 351.99,
+            "compare_at_price": 370.73,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.5,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 13.0,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "USB",
+          "Display port",
+          "Ethernet",
+          "HDMI"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD",
+          "1080p"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "LED backlight",
+          "Ambient light sensor",
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in camera"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "energy-efficiency-class-sdr": [
+          "E"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ce566tY",
+      "title": "ThinkVision E24-30 Monitor",
+      "description": "The Lenovo ThinkVision E24-30 is a 24-inch class Full HD LED monitor featuring In-Plane Switching (IPS) technology for consistent color reproduction and wide viewing angles. It offers a 23.8-inch viewable screen with a 1920 x 1080 resolution, a 100 Hz refresh rate to reduce motion blur, and a WLED backlight. For added convenience and comfort, it includes built-in speakers, multiple connectivity options (HDMI, VGA, DisplayPort), and eye comfort features such as Low Blue Light and Flicker-free technology.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/aa164873-b917-4980-a93b-995b56b71d03?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/5403025c-38c2-49a6-8280-f33471c02c8a?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkVision E24-30 24 inch Full HD LED monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "In-Plane Switching (IPS) technology for consistent color reproduction",
+        "10 Hz refresh rate to reduce motion blur",
+        "Integrated speakers for convenient audio playback",
+        "Eye comfort features including Low Blue Light and Flicker-free",
+        "VESA Mount Compatible",
+        "1920 x 1080 Full HD resolution",
+        "IPS panel for wide viewing angles",
+        "3-side NearEdgeless display",
+        "99% sRGB color gamut",
+        "130:1 contrast ratio"
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ce566tY-p1PB-8tFxDf?o=01KYV10E7SJAMR386FHCDP0WQT&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 169.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "device-interface": [
+          "HDMI"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-specialized-features": [
+          "Glossy finish"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "nO6tHZR",
+      "title": "ThinkVision 24\" FHD IPS Monitor",
+      "description": "The Lenovo ThinkVision S24-4e is a 24-inch flat IPS monitor featuring a 16:9 aspect ratio and Full HD (1920 \u00d7 1080) resolution. With a 100 Hz refresh rate and a 4 ms response time, it delivers smooth visuals and wide 178\u00b0 viewing angles. The monitor boasts a contrast ratio of 1300:1, a brightness of 250 nits, and 99% sRGB color gamut for accurate image reproduction. Its anti-glare screen and flicker-free technology ensure comfortable viewing. Connectivity options include 1 HDMI and 1 VGA port. This bundle also includes a Dockztorm USB Hub for high-speed data transfer up to 5 Gbps. The monitor is VESA mountable and features adjustable tilt from -5\u00b0 to +22\u00b0.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/729751b7-a476-422b-83ba-dd43f57eff11?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Lenovo ThinkVision 24-inch FHD monitors with dual mount arms and a hub."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" FHD IPS (1920x1080)",
+        "1 x HDMI, 1 x VGA",
+        "-5 to +22 degrees Adjustable Tilt",
+        "Anti Glare",
+        "Flicker free",
+        "VESA Mount",
+        "Low blue light",
+        "Brightness 250 nits",
+        "100Hz refresh rate and 4 ms response time",
+        "Easy to adjust height and tilt to create better posture, reduce neck strain, and create a comfortable workspace."
+      ],
+      "colors": [],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/nO6tHZR-p1PB-8tFxDf?o=01KY1QTXQF9JNQ4T56HYC3KFQQ&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 364.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 6.61,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "contrast-ratio-typical": [
+          "10000:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Flicker-free",
+          "LED backlight"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "JXFS6iC",
+      "title": "Thinkvision Multimedia Monitor",
+      "description": "The Lenovo ThinkVision T24v-30 is a 23.8-inch Full HD (1920 x 1080) LED monitor designed for productivity and remote collaboration. It features an In-Plane Switching (IPS) panel for wide viewing angles, a built-in 2MP IR+RGB webcam with Windows Hello facial recognition, and two noise-canceling microphones. The monitor includes integrated 3W speakers and a variety of connectivity options including HDMI 1.4, DisplayPort 1.2, and VGA, as well as a USB hub. Its design is finished in Raven Black and supports VESA mounting for flexible setup.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/51c54667-966f-4f63-babc-abfaf254e8ee?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/fd5ee453-c821-4288-8f59-52b4abc7c5f6?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Business Update screen displayed on a Lenovo monitor."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch FHD (1920 x 1080) IPS panel",
+        "75 Hz Refresh Rate",
+        "Integrated 2.0-megapixel IR + RGB camera with Windows Hello and privacy shutter",
+        "Dual integrated 3W speakers and dual noise-canceling microphones",
+        "Physical buttons for Microsoft Teams, volume, and mic adjustments",
+        "Connectivity: 1 x HDMI 1.4, 1 x DisplayPort 1.2, 1 x VGA",
+        "USB Hub: 3 x USB 3.2 Gen 1 downstream, 1 x USB 2.0, and 1 x USB-B 3.2 Gen 1 upstream",
+        "Adjustable stand: Height lift, tilt, swivel, and pivot",
+        "T\u00dcV Rheinland Eye Comfort, Flicker Free, and Eyesafe 2.0 certifications",
+        "VESA mount compatible"
+      ],
+      "colors": [
+        {
+          "hex": "#2c3168",
+          "percentage": 0.2129
+        },
+        {
+          "hex": "#060b0c",
+          "percentage": 0.2098
+        },
+        {
+          "hex": "#959594",
+          "percentage": 0.1455
+        },
+        {
+          "hex": "#372f2a",
+          "percentage": 0.1362
+        },
+        {
+          "hex": "#bdd4db",
+          "percentage": 0.134
+        },
+        {
+          "hex": "#5a5455",
+          "percentage": 0.0766
+        },
+        {
+          "hex": "#1e2030",
+          "percentage": 0.0592
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/JXFS6iC-LPzf-8tFxDf?o=01M5KAVN9Q3VM2K2K559JGCWWV&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "newegg.com",
+          "price": {
+            "price": 254.03,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Country/Region",
+            "label": "US"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED",
+          "LCD"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "Built-in camera",
+          "Frameless",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight",
+          "Anti-glare"
+        ],
+        "device-interface": [
+          "VGA",
+          "HDMI",
+          "Display port",
+          "USB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "CISKkQ4",
+      "title": "ThinkVision T24D-40 23.8 inch Monitor",
+      "description": "Lenovo ThinkVision T24D-40 is a 23.8-inch Full HD IPS monitor featuring a 48-120 Hz dynamic refresh rate, USB-C docking, HDMI and DisplayPort connectivity, ergonomic stand, and Eye Comfort technologies. It is designed for efficient workspaces with modular support and energy-friendly features.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d41b3e74-7ccd-4c7a-8848-2e929ac866b3?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d41b3e74-7ccd-4c7a-8848-2e929ac866b3?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor on a black stand with a desktop display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0d425a72-6629-4360-b777-5e6e7beb3f09?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0d425a72-6629-4360-b777-5e6e7beb3f09?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor on a black stand with a desktop display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3795f385-7dd0-4c44-ace7-36fde8404858?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3795f385-7dd0-4c44-ace7-36fde8404858?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with stand shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/88cd9f96-c15f-4e93-9a69-4e48161e4618?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88cd9f96-c15f-4e93-9a69-4e48161e4618?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with stand shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/75b159fa-b619-49e3-b0c8-0cb8ed61b47f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/75b159fa-b619-49e3-b0c8-0cb8ed61b47f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor with stand shown from the front."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4027336f-0959-43e8-88ea-a8feb2a3f9dc?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4027336f-0959-43e8-88ea-a8feb2a3f9dc?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor shown from the side profile."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e76b9973-ddb7-4c5f-926a-4a67de17540a?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e76b9973-ddb7-4c5f-926a-4a67de17540a?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo monitor on a black stand with a desktop display."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8\" Full HD IPS display",
+        "120Hz refresh rate",
+        "USB-C one cable docking monitor",
+        "LADM control and LDFM remote manageability",
+        "ergonomic stand with tilt, lift, swivel, and pivot",
+        "Eyesafe Display 2.0 and Low Blue Light technology",
+        "USB-C, HDMI, and DisplayPort connectivity",
+        "T\u00dcV Rheinland Eye Comfort certification"
+      ],
+      "colors": [
+        {
+          "hex": "#7f4994",
+          "percentage": 0.414
+        },
+        {
+          "hex": "#fcfcfc",
+          "percentage": 0.153
+        },
+        {
+          "hex": "#251e33",
+          "percentage": 0.1473
+        },
+        {
+          "hex": "#dfd6e5",
+          "percentage": 0.106
+        },
+        {
+          "hex": "#9c75a1",
+          "percentage": 0.0824
+        },
+        {
+          "hex": "#553c69",
+          "percentage": 0.0558
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/CISKkQ4-T9Fg-8tFxDf?o=01KNMAN0MYAST9WHDRB0NPCWZZ&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "adorama.com",
+          "price": {
+            "price": 274.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "color-accuracy-standards": [
+          "sRGB",
+          "Rec. 709"
+        ],
+        "device-interface": [
+          "USB",
+          "HDMI",
+          "Display port"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "4BqnRSI",
+      "title": "Lenovo ThinkVision S24e-20 23.8 Full HD Monitor 2-Pack Bundle",
+      "description": "Bundle includes 2-pack Lenovo ThinkVision S24e-20 23.8\u201d LED backlit monitors dual monitor mount FreeSync & Mini Glow speaker. Display Quantity / Interfaces: 2 / 1 x HDMI 1 x VGA 1 x 3.5 mm Display Max Resolution / Contrast Ratio: 1920 x 1080 / 3000:1 Display Refresh Rate / Response Time: 60Hz / 4 ms Display Screen Mode / Brightness: FHD / 250 Nit or cd/m2 Display Dimensions / Input Power: (W x D x H): 25.1 x 16 x 4.8 in / 100-240 VAC Display Features: Vertical alignment 16:9 aspect ratio clear picture with deeper darks/brighter lights VGA/HDMI 1.4 ports 100 x 100mm VESA mounting pattern & integrated power adapter. Accessories: Dual monitor stand with heavy duty desk clamp mounting detachable VESA bracket plates & adjustable arms. Mini Speaker is one of the smallest speakers weighing 2.46 oz. with 1.4 in. diameter & comes with Micro USB charging cord. Speaker Dimensions: 45.45 mm x 33 mm (1.75\u201d x 1.3\u201d) Speaker Battery Capacity: 400mAh Speaker Playback Time: up to 4 hours",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/d38e4341-79c7-400d-b7a4-da65379f3648?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=BsaX",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dual monitor setup displaying a cityscape, with a yellow object in front."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD 1920 x 1080",
+        "250 Nit brightness",
+        "FreeSync",
+        "HDMI-VGA interfaces",
+        "3000:1 Contrast Ratio",
+        "60Hz Refresh Rate",
+        "4ms Response Time",
+        "16:9 aspect ratio",
+        "100 x 100mm VESA mounting pattern",
+        "Integrated power adapter"
+      ],
+      "colors": [
+        {
+          "hex": "#f0e92d",
+          "percentage": 0.4442
+        },
+        {
+          "hex": "#2a2925",
+          "percentage": 0.1869
+        },
+        {
+          "hex": "#d1d028",
+          "percentage": 0.1765
+        },
+        {
+          "hex": "#efe65c",
+          "percentage": 0.0967
+        },
+        {
+          "hex": "#ccc948",
+          "percentage": 0.07
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/4BqnRSI-BsaX-8tFxDf?o=01M5ZPJ5EY3S6KX04G7C7REFAR&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "walmart.com",
+          "price": {
+            "price": 499.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": {
+            "length": {
+              "number": 25.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 16.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 4.8,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.46,
+              "unit": "oz"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA",
+          "3.5 mm"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "3000:1"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "LED backlight",
+          "Suitable for gaming"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "XJeGODj",
+      "title": "Lenovo ThinkCentre TIO24 GEN6 24\" Class Webcam LED Touchscreen Monitor",
+      "description": "The Lenovo ThinkCentre TIO24 GEN6 is a 23.8-inch Full HD LED touchscreen monitor designed for professional and commercial use. It features an IPS panel for wide viewing angles, 1920 x 1080 resolution, and a 20-point multi-touch screen for intuitive interaction. The monitor includes an integrated webcam and delivers 250 nits of brightness with 16.7 million colors, all housed in a sleek Eclipse Black chassis.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/fded41de-62bb-497b-87ce-3212b40b1165?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkCentre TIO24 24 inch monitor on a stand with a dark screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7d07392e-9399-470e-aa28-bde9954b9609?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7d07392e-9399-470e-aa28-bde9954b9609?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkCentre TIO24 24 inch monitor on a stand with a dark screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/52d55c6e-ace3-4fa9-981e-b29282894df0?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a Lenovo ThinkCentre monitor showing ventilation and ports."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8\" Viewable IPS Screen",
+        "20 Points Multi-touch Touchscreen",
+        "Full HD Resolution (1920 x 1080)",
+        "Integrated Webcam",
+        "250 Nit Brightness",
+        "16.7M Colors",
+        "4 ms Response Time",
+        "16:9 Aspect Ratio"
+      ],
+      "colors": [
+        {
+          "hex": "#05060f",
+          "percentage": 0.3789
+        },
+        {
+          "hex": "#231e2d",
+          "percentage": 0.2285
+        },
+        {
+          "hex": "#373638",
+          "percentage": 0.1756
+        },
+        {
+          "hex": "#140b24",
+          "percentage": 0.131
+        },
+        {
+          "hex": "#6c6a6d",
+          "percentage": 0.086
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/XJeGODj-LPzf-8tFxDf?o=01M4HS0X6JDDG3DJ89HZRR5G27&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "newegg.com",
+          "price": {
+            "price": 380.03,
+            "compare_at_price": 380.96,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Built-in camera",
+          "LED backlight",
+          "Touchscreen"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "YoFUDd7",
+      "title": "ThinkVision Monitor",
+      "description": "The Lenovo ThinkVision E24q-20 is a professional 23.8-inch QHD IPS monitor designed for productivity. It features a sharp 2560 x 1440 resolution with a 75Hz refresh rate, 99% sRGB color coverage, and 178-degree wide viewing angles. To ensure user comfort during long work hours, it includes a fully ergonomic stand supporting height, tilt, swivel, and pivot adjustments, alongside T\u00dcV Rheinland and Eyesafe certified low-blue-light and flicker-free technology. Connectivity is provided via HDMI 1.4 and DisplayPort 1.2, and it includes integrated 2W dual speakers and VESA mount compatibility.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b80951a9-5909-4dd3-9077-477719177743?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b80951a9-5909-4dd3-9077-477719177743?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying abstract colorful graphics on a dark screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/68cee588-85a4-46e6-ae8c-4a88aeaffa46?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor specifications highlighting QHD, IPS, 75Hz, and Low Blue Light."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fbeb81ff-292e-4d01-9a71-86999c33d13b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic comparing QHD and FHD resolutions."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1af9299c-9846-455f-9a2a-8d964539d3c2?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1af9299c-9846-455f-9a2a-8d964539d3c2?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Three monitors showcasing wide viewing angle and vibrant colors."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eea66056-69de-4d7d-bc4a-f662db36a61c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/a664911e-4de1-49a0-a834-e79e586993e9?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor on a desk setup with low blue light features highlighted."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7c4cf978-5fd5-4d55-889b-eff3384556a3?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor with connectivity options and external audio device."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8-inch QHD IPS Display with 2560 x 1440 resolution",
+        "99% sRGB color coverage and 178\u00b0 wide-viewing angles",
+        "Full Ergonomic Stand (height, tilt, swivel, and pivot)",
+        "T\u00dcV Rheinland and Eyesafe certified low-blue-light & flicker-free technology",
+        "Integrated dual 2W speakers",
+        "Connectivity: HDMI 1.4, DisplayPort 1.2, and 3.5 mm audio-out",
+        "Supports 100 mm VESA wall mounting"
+      ],
+      "colors": [
+        {
+          "hex": "#41657d",
+          "percentage": 0.3078
+        },
+        {
+          "hex": "#1e1a1a",
+          "percentage": 0.1752
+        },
+        {
+          "hex": "#edbb4d",
+          "percentage": 0.1645
+        },
+        {
+          "hex": "#9f1c13",
+          "percentage": 0.1319
+        },
+        {
+          "hex": "#c18365",
+          "percentage": 0.0916
+        },
+        {
+          "hex": "#706769",
+          "percentage": 0.057
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/YoFUDd7-p1PB-8tFxDf?o=01M16C9SK114DGKSMFWNVRR9AZ&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 249.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "JH5KZbB",
+      "title": "ThinkVision Monitor",
+      "description": "Experience smooth, clear, and distortion-free visuals with the Lenovo ThinkVision monitor. This 23.8-inch IPS LED display offers Full HD resolution and a versatile refresh rate range of 48Hz to 120Hz, delivering better image quality and highly accurate colors from any viewing angle. It reduces flicker for a more comfortable viewing experience. The adjustable stand allows for full range of adjustments (lift, tilt, pivot, and swivel) to create the perfect screen position. Integrated cable management keeps your desk organized. Connect easily with VGA, HDMI, and DP ports. Built-in 2 x 2W speakers provide convenient, all-in-one audio.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e7f5b017-fc9d-47ba-8dbe-bf34bd508e15?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e7f5b017-fc9d-47ba-8dbe-bf34bd508e15?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkvision 23.8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cca3d3b0-7a3f-4a9e-9669-84b1a0b95b30?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cca3d3b0-7a3f-4a9e-9669-84b1a0b95b30?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkvision 23.8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b064cd2a-14ab-4a1c-97de-5091fd5cd063?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b064cd2a-14ab-4a1c-97de-5091fd5cd063?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo Thinkvision 23.8 monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/980621bc-44b1-417f-b27d-68e1de6c82d5?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/980621bc-44b1-417f-b27d-68e1de6c82d5?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile of a black Lenovo monitor with a stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "23.8\" IPS LED FHD display",
+        "48Hz-120Hz refresh rate",
+        "HDMI, VGA, DP ports",
+        "Built-in 2 x 2W speakers",
+        "Adjustable stand (lift, tilt, pivot, swivel)",
+        "Improved cable management",
+        "178\u02da/178\u02da viewing angle",
+        "1300:1 contrast ratio",
+        "250 nits brightness"
+      ],
+      "colors": [
+        {
+          "hex": "#f9f5f6",
+          "percentage": 0.6596
+        },
+        {
+          "hex": "#55575c",
+          "percentage": 0.1786
+        },
+        {
+          "hex": "#b2c2d3",
+          "percentage": 0.1618
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/JH5KZbB-p1PB-8tFxDf?o=01KYC70ANPD2YSTB3QGY26RJ6P&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 144.74,
+            "compare_at_price": 149.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "contrast-ratio-typical": [
+          "15000:1"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support",
+          "LED backlight"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "y3dG0kl",
+      "title": "Lenovo ThinkCentre M920Q Tiny All in One",
+      "description": "The Lenovo ThinkCentre M920Q Tiny All in One is a compact desktop computing solution featuring a 24-inch Full HD monitor and an integrated 6-Core Intel Core i5-8500T processor. This system is equipped with 16GB of DDR4 RAM and a 512GB NVMe SSD for efficient performance. It includes a built-in Full HD webcam with a privacy shutter, 3W stereo speakers, and a microphone, making it ideal for professional meetings and productivity. The display supports a 1000:1 static contrast ratio and is adjustable in height, tilt, swivel, and rotation. Connectivity options include HDMI, DisplayPort, and USB 3.1, and it comes pre-installed with Windows 11 Pro and Office 2021.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/35d84b23-a116-4156-82ca-ef4477c2bc47?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/35d84b23-a116-4156-82ca-ef4477c2bc47?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkCentre monitor display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d12cbcad-6bcc-4449-995e-7dd220a03c14?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo ThinkCentre Tiny All in One monitor with a stand."
+        }
+      ],
+      "category": {
+        "slug": "all-in-one-computers",
+        "title": "All-in-One Computers",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "all-in-one-computers",
+            "title": "All-in-One Computers"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" FHD Monitor",
+        "6-Core Intel Core i5-8500T processor",
+        "16GB DDR4 RAM",
+        "512GB NVMe SSD",
+        "Full HD webcam with privacy shutter",
+        "Built-in 3W stereo speakers and microphone",
+        "Windows 11 Pro and Office 2021 pre-installed",
+        "Adjustable height, tilt, swivel, and 90\u00b0 rotation"
+      ],
+      "colors": [
+        {
+          "hex": "#303030",
+          "percentage": 0.4031
+        },
+        {
+          "hex": "#141414",
+          "percentage": 0.3609
+        },
+        {
+          "hex": "#595959",
+          "percentage": 0.1206
+        },
+        {
+          "hex": "#9b9b9b",
+          "percentage": 0.1153
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/y3dG0kl-LPzf-8tFxDf?o=01M59AT6MTZQZZ0C88457K1DKR&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "newegg.com",
+          "price": {
+            "price": 349.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-form": [
+          "All-in-one"
+        ],
+        "processor-family": [
+          "Intel core i5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Hexa"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "AC-powered"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "xmiI3I7",
+      "title": "ThinkVision 21.5 inch IPS FHD 100Hz Monitor - E22-40",
+      "description": "ThinkVision E22-40 monitor with 21.5-inch IPS display, Full HD resolution, 100 Hz refresh rate, and ergonomic LTPS stand. Features include 99% sRGB, 1300:1 contrast, low blue light, flicker-free technology, VGA/HDMI/DP inputs, and built-in 2W x 2 speakers. Supports VESA mounting.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/bb860d42-53ab-48e7-80aa-039d0ea9f36e?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor in a modern office lifestyle setting"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7a45dbb3-1027-4113-b1be-14ae1b287968?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup in a presentation environment"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/51b8f3b4-87c0-460e-9f88-d4bf6cf01a21?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/b33f1578-a880-4315-8a06-158e5c7684b6?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor viewed from front and side with stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bbcb0b98-8bed-49c3-933d-0565b95262ec?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/4038d343-7bf6-4fa0-8864-2e8334523d7c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing monitor ports and features"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b3f2c385-2653-4e92-a41c-65ee4108555b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/fae28158-a884-47fd-887d-af2f5485ab70?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Rear view of the monitor showing ports"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17e2217a-74d6-4689-8b01-6d0d4ad777de?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/17e2217a-74d6-4689-8b01-6d0d4ad777de?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor standing on its adjustable stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/77257c21-e3f8-42e0-b098-6ac4160634c4?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/77257c21-e3f8-42e0-b098-6ac4160634c4?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor standing on its adjustable stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f16b392-c634-4afd-99f5-619671b9a4d4?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup in a presentation environment"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/576080ed-ffd1-49ca-8e5f-2a73574de2fd?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Text graphic showing FHD resolution"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3eaefa5a-0453-4ee7-aeb5-1da9f7198ea4?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic showing screen refresh rate range"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7eee51c3-e0f5-4880-808f-737fcdb0dc07?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic depicting a screen with three dots"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/770a52dc-53bb-4957-a6b8-eb0b0afd3f86?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/770a52dc-53bb-4957-a6b8-eb0b0afd3f86?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor with a flat screen and stand"
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f47d2acd-0392-4484-ad89-f7b526265b4d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f47d2acd-0392-4484-ad89-f7b526265b4d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor shown from the side with adjustable stand"
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "21.5-inch IPS Display",
+        "1920x1080 (FullHD) Resolution",
+        "100Hz refresh rate with 4ms response time",
+        "2W x 2 Speakers",
+        "Tiny Support",
+        "99% sRGB",
+        "1x HDMI 1.4, 1x DP 1.2, 1x VGA",
+        "Tilt, Swivel, Pivot, Height Adjust Stand"
+      ],
+      "colors": [
+        {
+          "hex": "#2f2f2f",
+          "percentage": 0.9464
+        },
+        {
+          "hex": "#575757",
+          "percentage": 0.0536
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/xmiI3I7-hl1t-8tFxDf?o=01KS4GG47KRPDV61JMFFRAJDQE&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 104.0,
+            "compare_at_price": 195.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD",
+          "1080p"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "LED backlight",
+          "Blue light filter",
+          "Flicker-free",
+          "Adjustable viewing angle",
+          "Matte finish"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "contrast-ratio-typical": [
+          "1300:1"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 7,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "jnyWuPe",
+      "title": "ThinkVision 27 inch IPS FHD 100Hz Monitor",
+      "description": "This Lenovo ThinkVision E27-40 monitor is designed for a modern work environment, offering smooth and sharp visuals from any angle. With a 27-inch IPS display and a 100Hz refresh rate, it provides excellent image quality and accurate colors, while reducing flicker for comfortable viewing. The monitor includes built-in 2 x 2W speakers for convenient audio and supports VGA, HDMI, and DP ports for easy connectivity. Its versatile stand allows for lift, tilt, pivot, and swivel adjustments, and includes efficient cable management to keep your desk tidy.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/2af0a3e3-ce25-4d14-bf2b-f81447061deb?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup in a Gmail interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/570a23bb-a0d5-4e53-9326-19be13b4d6a3?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup in a Gmail interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f54cab71-9a0b-4b5f-88b3-5dcb8a078359?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/1a638bd5-ea4e-4365-b5f2-e62ecf0ac779?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of a Lenovo monitor setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4016c030-1e53-451d-afeb-fc93481e6a5b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/f62d9727-45c4-407f-a666-2674dc0f54d3?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of monitor connection ports and lock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d50048da-91d7-46bb-b745-97b249590701?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/6ec6ef33-85f0-4c6e-a8a3-ac848efd05dc?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram of monitor connection ports and lock."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/292de219-4940-4f04-9c1f-c27ef4ca7a8f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/292de219-4940-4f04-9c1f-c27ef4ca7a8f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor stand and display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3f497686-1a70-4a55-851b-0e4f0517ef92?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3f497686-1a70-4a55-851b-0e4f0517ef92?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a Lenovo monitor stand and display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f6627910-13d8-43a1-bbed-2e8ce2957fd7?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/9a40d741-3115-4ee2-94f8-608e8eb51a67?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup in a Gmail interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a57e74df-ff17-4d3f-8c61-519220ab37f1?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of FHD text on a monitor screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7de2ce26-12de-433e-8e58-453ee9a8ec02?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic showing monitor refresh rate selection 48-100Hz."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ffbf0878-aeea-470f-a684-486b2a005628?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Icon showing a stylized monitor shape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/58e5349b-dee3-4516-93ec-1f8bcf2a1f82?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/58e5349b-dee3-4516-93ec-1f8bcf2a1f82?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White monitor setup with a second screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/413a959b-17ed-4b54-9226-7f7a61882e2c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/413a959b-17ed-4b54-9226-7f7a61882e2c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor stand and display panel viewed from the side."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch IPS Display",
+        "1920x1080 (FullHD) Resolution",
+        "100Hz refresh rate with 4ms response time",
+        "2W x 2 Speakers",
+        "99% sRGB",
+        "1x HDMI 1.4, 1x DP 1.2, 1x VGA",
+        "Tilt, Swivel, Pivot, Height Adjust Stand",
+        "Hardware Low Blue Light",
+        "Flicker-free technology",
+        "Ergonomic LTPS stand"
+      ],
+      "colors": [
+        {
+          "hex": "#262626",
+          "percentage": 0.7481
+        },
+        {
+          "hex": "#ffffff",
+          "percentage": 0.2519
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/jnyWuPe-hl1t-8tFxDf?o=01KXDT1HR4693Z6E9H5PC27MG2&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 135.0,
+            "compare_at_price": 238.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/jnyWuPe-TgS4-8tFxDf?o=01M4W2GMPH6VJ11DA7BK2WZ3CW&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 174.99,
+            "compare_at_price": 184.15,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "15000:1",
+          "1500:1"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-specialized-features": [
+          "Built-in speakers",
+          "HDR support",
+          "Blue light filter",
+          "Flicker-free",
+          "Adjustable viewing angle"
+        ],
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB",
+          "VGA"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD",
+          "1080p"
+        ],
+        "energy-efficiency-class-sdr": [
+          "G"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ]
+      },
+      "ratings": {
+        "value": 4.8,
+        "count": 5,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "IwfBHyc",
+      "title": "27 inch Monitor",
+      "description": "This 27-inch ThinkVision T27QD-4v monitor is designed for seamless online collaboration. It features a QHD resolution, a 48-120Hz variable refresh rate, and 99% sRGB/BT.709 color coverage for sharp, color-accurate visuals. Equipped with a 5MP webcam, noise-canceling microphones, and 5W stereo speakers, it offers a full VoIP solution. The monitor includes a one-cable docking solution with up to 100W power delivery, data, and internet connectivity. Additional features include Windows Hello quick login, AI-powered collaboration tools, and Natural Low Blue Light technology for eye comfort. The LTPS stand allows for flexible ergonomic adjustments, and an integrated smart sensor enhances user experience by providing proximity alerts, movement reminders, and auto-screen off functionality. It also supports daisy-chaining for expanded screen real estate and modular Lenovo Tiny PC mounting.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e035dc46-bb0a-4060-8b55-d4285a8e78c2?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman presenting on a Lenovo monitor setup in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce438721-c2ae-4e5a-8bb3-2165b9be3ff1?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman presenting on a Lenovo monitor setup in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2fbc8497-b3ab-4da3-af78-9115adf3273b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2fbc8497-b3ab-4da3-af78-9115adf3273b?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fc784552-4b82-44fe-91ef-c94d69e34d1f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Back view of a Lenovo monitor showing ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d8ae3ccb-5f2a-4a1a-b07e-85e7390cfe5c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d8ae3ccb-5f2a-4a1a-b07e-85e7390cfe5c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2e394396-6046-4e24-9a19-d47966a56c10?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2e394396-6046-4e24-9a19-d47966a56c10?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bade8d69-f010-4f47-853f-62eb51557588?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman presenting on a Lenovo monitor setup in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b12fc45b-f56c-4d3d-b425-947f03eb7969?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman presenting on a Lenovo monitor setup in an office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/acfb8b9f-6cc7-4f0e-9b5f-dfda386cf34f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/acfb8b9f-6cc7-4f0e-9b5f-dfda386cf34f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2553d2b3-4399-45d8-8bf2-d6bdd699652d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2553d2b3-4399-45d8-8bf2-d6bdd699652d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor stand and arm in black with red accents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/926a9858-ed67-47a7-a4f0-fd7e8a9adcfa?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up detail of the back panel ports on a monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a2919206-249a-4b9a-83aa-648951364899?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a2919206-249a-4b9a-83aa-648951364899?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor arm assembly in black."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27\" IPS panel, 48-120Hz variable refresh rate",
+        "VOIP Monitor with 5MP webcam and 2*5W built-in speaker",
+        "LADM control and LDFM remote manageability"
+      ],
+      "colors": [
+        {
+          "hex": "#363636",
+          "percentage": 0.9595
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/IwfBHyc-hl1t-8tFxDf?o=01KS54S5TMTCR69ZH8GQ4NMAVX&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 302.0,
+            "compare_at_price": 459.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "Rec. 709",
+          "sRGB"
+        ],
+        "device-interface": [
+          "Display port",
+          "Ethernet",
+          "HDMI",
+          "USB"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "display-resolution": [
+          "Quad HD"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "AI-powered",
+          "Blue light filter",
+          "Built-in camera",
+          "Built-in speakers"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 4,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "0lcWqCL",
+      "title": "ThinkVision 27 inch Monitor - T27hv-30",
+      "description": "The Lenovo ThinkVision T27hv-30 is a 27-inch QHD LED-backlit LCD monitor designed for professional remote collaboration. It features an In-Plane Switching (IPS) panel with a 2560 x 1440 resolution, offering wide viewing angles and high clarity. Integrated for video conferencing, it includes a 5MP IR camera with Windows Hello facial recognition, dual noise-canceling microphones, and two 5W stereo speakers. The monitor is highly versatile with a wide range of connectivity, including USB-C (supporting up to 90W power delivery), HDMI, DisplayPort with DP-out for daisy-chaining, and an RJ45 LAN port. Its LTPS stand allows for height, pivot, swivel, and tilt adjustments for optimal ergonomics, while Natural Low Blue Light technology helps reduce eye strain.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/580c4aa3-9cc6-43c8-b2df-dca522d9bfda?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor mounted on a stand showing a video conference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a31476b0-803a-4bae-8ce9-84ebc91fde7a?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a31476b0-803a-4bae-8ce9-84ebc91fde7a?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor showing a video call on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/639a45d5-218c-4ff0-b1f3-c8b56e2a57a5?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/639a45d5-218c-4ff0-b1f3-c8b56e2a57a5?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo monitor stand with adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ebf54c4a-3a2c-4a29-8a54-c607b89ecc26?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ebf54c4a-3a2c-4a29-8a54-c607b89ecc26?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a5cf4a1d-c4c0-49dd-b8d7-4b37c09de5e0?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a5cf4a1d-c4c0-49dd-b8d7-4b37c09de5e0?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f572079f-cab0-429b-a8b6-1e638db83f2e?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f572079f-cab0-429b-a8b6-1e638db83f2e?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor mounted on a stand showing a video conference."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/17820512-6d2d-4265-98b4-4c9464a202b9?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/17820512-6d2d-4265-98b4-4c9464a202b9?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7832a486-8e2c-47a4-9f3f-113ec3927aac?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7832a486-8e2c-47a4-9f3f-113ec3927aac?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo monitor stand with adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/660ea205-7c03-4f76-b263-98a9630ab8c8?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/660ea205-7c03-4f76-b263-98a9630ab8c8?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor showing a video call on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6a1b40ed-8cbe-4b20-8af3-18e405eb4e0f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6a1b40ed-8cbe-4b20-8af3-18e405eb4e0f?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor showing a video call on a desk."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7540313c-d518-4ff8-b4ec-5d0739981b52?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7540313c-d518-4ff8-b4ec-5d0739981b52?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo monitor stand with adjustable arm on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/64775a16-b71d-49fc-8a66-f43c605b06c6?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/64775a16-b71d-49fc-8a66-f43c605b06c6?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black Lenovo monitor stand with adjustable arm on a white background."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Plastic"
+      ],
+      "key_features": [
+        "27\" WQHD (2560 x 1440) IPS Panel",
+        "Built-in 5MP IR+RGB camera with Windows Hello Facial Recognition",
+        "VoIP functionality with 2x5W integrated speakers and noise-cancellation microphones",
+        "Connectivity: HDMI, DisplayPort, and USB Type-C",
+        "DP Out port for daisy-chaining monitors",
+        "Adjustable stand (Pivot, Swivel, Tilt)",
+        "Natural Low Blue Light and Flicker-free technology",
+        "VESA mount compatible",
+        "USB-C 3.2 Gen 1 upstream with up to 90W power delivery",
+        "LTPS stand supporting height, pivot, swivel, and tilt adjustments"
+      ],
+      "colors": [
+        {
+          "hex": "#dddfe1",
+          "percentage": 0.2587
+        },
+        {
+          "hex": "#3a3535",
+          "percentage": 0.2579
+        },
+        {
+          "hex": "#c1c2c3",
+          "percentage": 0.136
+        },
+        {
+          "hex": "#181617",
+          "percentage": 0.1207
+        },
+        {
+          "hex": "#6e6f6c",
+          "percentage": 0.1147
+        },
+        {
+          "hex": "#a4a3a2",
+          "percentage": 0.112
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/0lcWqCL-LPzf-8tFxDf?o=01M4HN5T9T4DRQJMTEPR3JNANT&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "newegg.com",
+          "price": {
+            "price": 624.42,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/0lcWqCL-TgS4-8tFxDf?o=01M38YE9CTFBE0DV54VB5SVDHW&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "cdw.com",
+          "price": {
+            "price": 652.99,
+            "compare_at_price": 688.85,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 8.1,
+              "unit": "in"
+            },
+            "width": {
+              "number": 24.2,
+              "unit": "in"
+            },
+            "height": {
+              "number": 23.0,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 17.42,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/0lcWqCL-p1PB-8tFxDf?o=01KY2139E46TPWT7HJYC5VJF4J&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 698.52,
+            "compare_at_price": 702.58,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "pattern": [
+          "Solid"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "monitor-specialized-features": [
+          "LED backlight",
+          "Built-in speakers",
+          "AI-powered",
+          "Blue light filter",
+          "Built-in camera",
+          "Anti-glare",
+          "Flicker-free",
+          "Glossy finish"
+        ],
+        "display-technology": [
+          "LCD",
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000000:1",
+          "1000:1"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "HDMI",
+          "USB",
+          "Display port",
+          "Micro USB",
+          "Ethernet"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 4.46,
+        "count": 13,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "Df8JnPK",
+      "title": "Thinkvision Fhd Monitor",
+      "description": "The Lenovo ThinkVision S27-4e is a 27-inch monitor designed to enhance productivity with its vibrant visuals and smooth performance. It features a Full HD (1920x1080) IPS display with a 100Hz refresh rate and 4ms response time, ideal for both work and casual use. The monitor boasts 99% sRGB color coverage for accurate color representation and hardware-level low blue light and flicker-free technology to reduce eye strain. Connectivity is made simple with HDMI and VGA ports. The monitor is also designed with sustainability in mind, featuring recyclable packaging and EPEAT Gold and Energy Star 8.0 certifications. It comes with an easy-to-assemble tilt stand and VESA mount compatibility for flexible positioning.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/087c8aea-ce1e-41d4-b805-7807fd73672d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/84aeafb9-3637-4b77-93ba-b1302af41e0c?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": true,
+          "shot_type": "lifestyle",
+          "alt_text": "Computer screen displaying a detailed map in a lifestyle setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d483cc4a-e170-4ab0-ba5c-10d6ee25faf9?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Computer screen displaying a detailed map in a lifestyle setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cd334bae-90aa-4e0a-8a06-97f6e76fbf8d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cd334bae-90aa-4e0a-8a06-97f6e76fbf8d?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black Lenovo monitor with a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4ca85cf2-24b6-4a27-87e3-37a35e5e6879?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing ports and locks on the back of a monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d60ad484-be09-4ee1-b190-a548e0389154?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Diagram showing ports and locks on the back of a monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4ab4c8f8-629d-402e-9b17-5e8e48d106ef?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4ab4c8f8-629d-402e-9b17-5e8e48d106ef?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b804ea77-4f3e-4ece-85e3-95a3882dd045?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b804ea77-4f3e-4ece-85e3-95a3882dd045?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a Lenovo monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f113f126-c9d1-4299-80a6-2921d9de4711?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Computer screen displaying a detailed map in a lifestyle setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/caa9e0dd-3443-4fff-bd07-5f58f92d4727?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/caa9e0dd-3443-4fff-bd07-5f58f92d4727?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Illustration of a computer monitor setup with a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c9346bf2-0639-4c9c-a420-d69611ce3cbb?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Graphic showing refresh rate range 48-100Hz on a dial."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b99ad400-d387-4c14-8645-9597dd3f7e43?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b99ad400-d387-4c14-8645-9597dd3f7e43?aid=01M66D9B9GVS5KHPNJ0BP6Y02B&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor stand and screen details."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "27-inch IPS Display",
+        "1920x1080 (FullHD) Resolution",
+        "100Hz refresh rate with 4ms response time",
+        "99% sRGB",
+        "1x HDMI 1.4, 1x VGA",
+        "Tilt Stand",
+        "Hardware Low Blue Light",
+        "Ergonomic LTPS stand",
+        "Slim bezel design"
+      ],
+      "colors": [
+        {
+          "hex": "#2c2828",
+          "percentage": 0.2785
+        },
+        {
+          "hex": "#0b0e10",
+          "percentage": 0.2463
+        },
+        {
+          "hex": "#e2e1dc",
+          "percentage": 0.164
+        },
+        {
+          "hex": "#7d7d6b",
+          "percentage": 0.1194
+        },
+        {
+          "hex": "#384845",
+          "percentage": 0.0995
+        },
+        {
+          "hex": "#a5c3bb",
+          "percentage": 0.0922
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Df8JnPK-hl1t-8tFxDf?o=01KS5PYNZ8XX66GES82D6M7HV1&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 112.0,
+            "compare_at_price": 199.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/Df8JnPK-p1PB-8tFxDf?o=01KY2DNP6JCMBM371BD88WMT2Y&aid=01M66D9B9GVS5KHPNJ0BP6Y02B",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 144.99,
+            "compare_at_price": 149.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [],
+        "selected": [
+          {
+            "name": "Region/Locale",
+            "label": "US (en) - /us/en/p/accessories-and-software/monitors/office/64bekar1uz"
+          }
+        ]
+      },
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "adaptive-sync-technology": [
+          "None"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD",
+          "1080p"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "monitor-specialized-features": [
+          "Adjustable viewing angle",
+          "Blue light filter",
+          "Flicker-free",
+          "LED backlight",
+          "Anti-glare",
+          "Frameless"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA"
+        ],
+        "pattern": [
+          "Solid"
+        ]
+      },
+      "ratings": {
+        "value": 4.4,
+        "count": 9,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjI5MDU2NzQ1ZTdhYjYyNDAiLCAib2Zmc2V0IjogMjB9"
+}

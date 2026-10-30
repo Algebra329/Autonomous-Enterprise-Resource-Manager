@@ -1,0 +1,4093 @@
+{
+  "products": [
+    {
+      "id": "sJAkhDd",
+      "title": "ASUS Vivobook 16 HIGH PERFORMANCE Laptop",
+      "description": "The ASUS Vivobook 16 is a high-performance business and work laptop featuring a 16.0-inch IPS WUXGA (1920x1200) display. Powered by a Qualcomm Snapdragon X X1-26-100 processor and integrated Qualcomm Adreno graphics, it comes equipped with 16GB of LPDDR5X RAM and a massive 2TB PCIe NVMe SSD for ample storage. This silver-colored laptop includes a backlit keyboard, Windows 11 Pro, and modern connectivity including 802.11ax Wi-Fi and Bluetooth 5.3. This specific bundle also includes an authorized Dockztorm wireless mouse.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1938e084-55c5-4b00-8de5-80b923d548ef?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1938e084-55c5-4b00-8de5-80b923d548ef?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 showing backlit keyboard, IPS, and Wi-Fi 6E features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/97758e26-43e2-4dff-b3ae-d063692f950e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 laptop with keyboard and accessories."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7a27dc53-5b6e-4fed-95a1-1e2bb98e4df5?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 showcasing the Snapdragon X1-26-100 processor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9596654f-6636-4487-a16f-5e1438974717?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 front view showing the keyboard and screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/94be8596-7278-4445-bfbb-13eecaaead04?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 laptop showing the backlit keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d4a43cfb-9081-4e30-af7a-a2f698a2239a?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 laptop displayed from two angles."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c437f09-0bed-4fc3-b2bf-d43cbb2e464f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Laptop specifications and portability details with display specs."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16.0\" IPS WUXGA (1920x1200) 60Hz Display",
+        "Qualcomm Snapdragon X X1-26-100 3.00GHz Processor",
+        "16GB OnBoard LPDDR5X RAM",
+        "2TB PCIe NVMe SSD",
+        "Qualcomm Adreno Integrated Graphics",
+        "Backlit Standard Keyboard",
+        "Windows 11 Pro-64",
+        "802.11ax Wifi and Bluetooth 5.3",
+        "Includes Authorized Dockztorm Wireless Mouse",
+        "1024 gigabytes Total Storage Capacity"
+      ],
+      "colors": [
+        {
+          "hex": "#100102",
+          "percentage": 0.2535
+        },
+        {
+          "hex": "#280f0f",
+          "percentage": 0.2349
+        },
+        {
+          "hex": "#cfd6dc",
+          "percentage": 0.1677
+        },
+        {
+          "hex": "#3d0604",
+          "percentage": 0.1436
+        },
+        {
+          "hex": "#60585a",
+          "percentage": 0.1134
+        },
+        {
+          "hex": "#b3b1b3",
+          "percentage": 0.0868
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/sJAkhDd-LPzf-8tFxDf?o=01M4PSYS8WSA0JAKVTY725MQ2S&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 717.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.15,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.2,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/sJAkhDd-p1PB-8tFxDf?o=01KXZB2M00D1CCV0KH23KPVRJJ&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 869.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "2560\u2009x\u20091440"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-type": [
+          "Backlit",
+          "Standard"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD"
+        ],
+        "memory-technology": [
+          "DDR5",
+          "DDR4"
+        ],
+        "processor-family": [
+          "Qualcomm snapdragon",
+          "Qualcomm Snapdragon X2 Elite Extreme"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)",
+          "M.2 SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "SATA SSD",
+          "M.2 SSD"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "processor-cores": [
+          "Multi"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "H7FantH",
+      "title": "ThinkPad T1g Gen 9",
+      "description": "The Lenovo ThinkPad T1g Gen 9 (16\" Intel) is a high-performance AI laptop designed for demanding creative and development workflows. It features Intel Core Ultra Series 3 processors with built-in AI acceleration, optional NVIDIA GeForce RTX Blackwell graphics for real-time ray tracing, and Copilot+ integration. The device is built for durability, meeting MIL-STD-810H standards, and offers a wide 16-inch display with options up to a Tandem OLED screen. It includes enterprise-grade security via ThinkShield and a tactile ThinkPad keyboard with TrackPoint.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/eec4c45e-a391-44c4-9e64-66330b6163f8?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop with blue digital interface background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7720382e-1afc-4b56-9a04-5e62cd7b8833?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop open showing a nature background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/07260836-8179-40e2-b500-54c856437bc9?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/07260836-8179-40e2-b500-54c856437bc9?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop open showing a 3D design interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ddd8e9b6-4129-4833-80b5-773425aa45cb?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop open showing a river and forest scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/45e020ad-28af-4d64-863b-12477f40fada?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Marketing graphic for Copilot+ PC features in Swedish."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/01251ae8-5791-4067-9041-3fded71d9b19?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Screenshot of 3D model manipulation software on a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e84a0ecd-6403-4276-91c0-91456b0be772?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e84a0ecd-6403-4276-91c0-91456b0be772?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop showing a topographical map screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4d3109c3-52d3-468d-b536-77aaac4a384c?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Thin profile view of the ThinkPad T1g Gen 9 laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/deaecdc0-7157-4b35-b83b-719351198179?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/deaecdc0-7157-4b35-b83b-719351198179?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the ThinkPad T1g Gen 9 laptop with Lenovo branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5f2fd913-e508-4c16-9fc9-f508ca5741a4?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop shown open with closed screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b8f2e784-a3a5-46c2-b24a-cdda392af59d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=hl1t",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ThinkPad T1g Gen 9 laptop open displaying a scenic wallpaper."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Core Ultra Series 3 processor with AI acceleration",
+        "Optional NVIDIA GeForce RTX Blackwell graphics",
+        "16-inch high-resolution display (options include Tandem OLED)",
+        "Copilot+ PC with dedicated NPU (50+ TOPS)",
+        "MIL-STD-810H durability tested",
+        "ThinkShield security with dTPM and optional Intel vPro",
+        "Advanced thermal management for sustained performance",
+        "Backlit ThinkPad keyboard with TrackPoint"
+      ],
+      "colors": [
+        {
+          "hex": "#2c404c",
+          "percentage": 0.4075
+        },
+        {
+          "hex": "#5c7d8b",
+          "percentage": 0.1561
+        },
+        {
+          "hex": "#2e5869",
+          "percentage": 0.1225
+        },
+        {
+          "hex": "#7da6b3",
+          "percentage": 0.108
+        },
+        {
+          "hex": "#505f67",
+          "percentage": 0.1058
+        },
+        {
+          "hex": "#14222c",
+          "percentage": 0.1003
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/H7FantH-hl1t-8tFxDf?o=01M2K983VHZSS7NT06RCFM3XQY&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "lenovo.com",
+          "price": {
+            "price": 3599.0,
+            "compare_at_price": 5179.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": null
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Storage",
+            "values": [
+              {
+                "label": "1 TB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "2 TB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Memory",
+            "values": [
+              {
+                "label": "32 GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "64 GB",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Processor",
+            "values": [
+              {
+                "label": "Intel\u00ae Core\u2122 Ultra 7",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Intel\u00ae Core\u2122 Ultra 9 vPro\u00ae",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5",
+          "Intel Core Ultra 9",
+          "Intel xeon"
+        ],
+        "storage-capacity": [
+          "512 GB",
+          "1 TB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Quiet operation",
+          "TPM (trusted platform module)"
+        ],
+        "ram": [
+          "16 GB",
+          "32 GB"
+        ],
+        "display-technology": [
+          "IPS",
+          "OLED"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ]
+      },
+      "ratings": {
+        "value": 4.7,
+        "count": 7,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "kBbkkJF",
+      "title": "ASUS Vivobook 16 Laptop",
+      "description": "The ASUS Vivobook 16 is a high-performance laptop featuring a 16-inch WUXGA (1920 x 1200) display and an Intel Core i7-1355U 10-core processor. Designed for efficiency and responsiveness, it is equipped with 16GB of DDR4 memory and a generous 2TB PCIe SSD for ample storage. The system is powered by Intel Iris Xe Graphics and comes pre-installed with Windows 11 and an Office 2024 license. Its feature set includes a numeric keypad, webcam, Wi-Fi, Bluetooth, and a fingerprint reader, all housed in a professional black chassis.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1e6fe558-ac97-4690-8e24-6b60589553ab?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1e6fe558-ac97-4690-8e24-6b60589553ab?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ASUS Vivobook 16 laptop screen showing Windows 11 and Office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a417a2e7-f694-4646-87be-93dc8936da83?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS Vivobook 16 laptop screen showing abstract colorful graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4ffe9823-3d73-4546-9f5e-61a831c38184?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS Vivobook 16 laptop screen showing abstract colorful graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/039bfeba-050f-4672-aca6-9eb591b1204b?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/039bfeba-050f-4672-aca6-9eb591b1204b?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS Vivobook 16 laptop display showing abstract graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd92746f-4810-4d44-99ef-fd5b401935d8?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bd92746f-4810-4d44-99ef-fd5b401935d8?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS Vivobook 16 laptop shown from a three-quarter angle."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0628e507-22c7-4e4d-8f81-cec3e573159e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black ASUS Vivobook 16 laptop keyboard layout shown with the lid open."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16\" WUXGA (1920 x 1200) 60Hz Display",
+        "Intel Core i7-1355U 10 Cores Processor",
+        "Intel Iris Xe Graphics",
+        "16GB DDR4 RAM",
+        "2TB PCIe SSD",
+        "Windows 11 Home",
+        "Office 2024 License",
+        "Numeric Keypad",
+        "Webcam",
+        "Wi-Fi & Bluetooth",
+        "Fingerprint Reader"
+      ],
+      "colors": [
+        {
+          "hex": "#847b63",
+          "percentage": 0.1579
+        },
+        {
+          "hex": "#151518",
+          "percentage": 0.1562
+        },
+        {
+          "hex": "#353130",
+          "percentage": 0.1511
+        },
+        {
+          "hex": "#eee5d9",
+          "percentage": 0.14
+        },
+        {
+          "hex": "#4e4f3f",
+          "percentage": 0.1223
+        },
+        {
+          "hex": "#387490",
+          "percentage": 0.1218
+        },
+        {
+          "hex": "#a0b893",
+          "percentage": 0.0821
+        },
+        {
+          "hex": "#202e36",
+          "percentage": 0.0686
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/kBbkkJF-LPzf-8tFxDf?o=01M4PWH75ER15PD8MPABTV9JP4&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1209.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.12,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.82,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.78,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.55,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "2 TB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "gPRlXgh",
+      "title": "Acer Aspire 16 AI Laptop",
+      "description": "The Acer Aspire 16 is a high-performance AI-ready laptop featuring a 16-inch WUXGA (1920 x 1200) IPS touchscreen with a smooth 120Hz refresh rate. Powered by an Intel Octa-core Ultra 9 288V processor and Intel Arc 140V graphics, it is equipped with 32GB of DDR4 memory and a 512GB PCIe SSD. This professional-grade machine includes Windows 11 Pro, an Office 2021 license, and modern connectivity options like Wi-Fi 7 and dual USB-C 4.0 ports.",
+      "brands": [
+        {
+          "id": "oLNv",
+          "name": "Acer"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/859ac4e9-c0eb-4424-a36c-2c0392b52cfa?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "product_information",
+          "alt_text": "Laptop specifications showing RAM, SSD, processor, and OS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/26b853fb-6839-4396-a234-ec254342570d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/26b853fb-6839-4396-a234-ec254342570d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying specs like 16\" WUXGA, 32GB RAM, 512GB SSD, and Intel Arc graphics."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae9b8daf-b07c-46ae-9ae8-5e89ee8e2b5a?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen displaying vibrant colors and 120Hz refresh rate."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3c73d4be-2153-41d4-b6e0-73d60e039068?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the white backlit keyboard on the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2d155315-4c86-4429-aeb2-c682b05a350e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of laptop ports indicating various connectivity options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f5826b82-3e29-427f-a8be-cfdc2f8620ea?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f5826b82-3e29-427f-a8be-cfdc2f8620ea?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop shown with dimensions 13.97\" x 9.85\" x 0.63\"."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16\" WUXGA (1920 x 1200) IPS 120Hz Touchscreen",
+        "Intel Octa-core Ultra 9 288V processor (up to 5.1GHz boost)",
+        "Intel Arc 140V Graphics",
+        "32GB DDR4 RAM",
+        "512GB PCIe SSD",
+        "Wi-Fi 7 connectivity",
+        "Backlit keyboard",
+        "Windows 11 Pro and Office 2021 License",
+        "Dual USB-C 4.0 ports (40Gbps, 100W charging)"
+      ],
+      "colors": [
+        {
+          "hex": "#50474f",
+          "percentage": 0.2742
+        },
+        {
+          "hex": "#e1e7eb",
+          "percentage": 0.2577
+        },
+        {
+          "hex": "#146196",
+          "percentage": 0.1367
+        },
+        {
+          "hex": "#157ab3",
+          "percentage": 0.1364
+        },
+        {
+          "hex": "#889299",
+          "percentage": 0.1124
+        },
+        {
+          "hex": "#232e47",
+          "percentage": 0.0826
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/gPRlXgh-LPzf-8tFxDf?o=01M63835BAGG03KSEHBVRXA8KZ&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1699.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 13.97,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.85,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.63,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.4,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 9"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock",
+          "Touchscreen"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "processor-cores": [
+          "Octa"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "m1mJKIQ",
+      "title": "ACEMAGIC RX16 16\" Laptop",
+      "description": "The ACEMAGIC RX16 is a high-performance 16-inch laptop designed for work, study, and entertainment. It is powered by the Intel Core Ultra X7 358H processor with 16 cores and 16 threads, complemented by Intel Arc B390 integrated graphics and a dedicated NPU for AI applications. The device features 24GB of LPDDR5 memory and a fast 1TB PCIe 4.0 NVMe SSD. Its 16-inch Full HD+ display (1920 x 1200) offers a 16:10 aspect ratio and a 180\u00b0 opening angle. Connectivity is modernized with Wi-Fi 7, Bluetooth 5.4, USB4 Type-C, and HDMI 2.1. The laptop is constructed with metal top and bottom covers, weighing 1.85kg, and comes with Windows 11 Pro preinstalled.",
+      "brands": [
+        {
+          "id": "d2nM",
+          "name": "ACEMAGIC"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1da5b5d3-873b-4ffd-afd4-df39492ff365?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1da5b5d3-873b-4ffd-afd4-df39492ff365?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop screen showing blue abstract light, Wi-Fi 7 branding, dark gray laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "Intel Core Ultra X7 358H processor (16C/16T, up to 4.8GHz)",
+        "Intel Arc B390 integrated graphics",
+        "24GB LPDDR5 memory (7467 MT/s)",
+        "1TB PCIe 4.0 NVMe SSD (Dual M.2 slots supporting up to 4TB)",
+        "16-inch 1920 x 1200 (Full HD+) display with 16:10 aspect ratio",
+        "Wi-Fi 7 and Bluetooth 5.4 connectivity",
+        "USB4 Type-C, HDMI 2.1, and three USB-A ports",
+        "Metal top and bottom covers with backlit keyboard",
+        "1MP camera with physical privacy switch",
+        "Windows 11 Pro preinstalled"
+      ],
+      "colors": [
+        {
+          "hex": "#0b4cce",
+          "percentage": 0.2377
+        },
+        {
+          "hex": "#041058",
+          "percentage": 0.206
+        },
+        {
+          "hex": "#0b1f82",
+          "percentage": 0.196
+        },
+        {
+          "hex": "#4a4d6a",
+          "percentage": 0.1499
+        },
+        {
+          "hex": "#71c6e6",
+          "percentage": 0.1113
+        },
+        {
+          "hex": "#4479bc",
+          "percentage": 0.0666
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/m1mJKIQ-p1PB-8tFxDf?o=01M4C628WCD5551RSTMMPTVX3H&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1199.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": {
+              "number": 19.9,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 1.85,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "ram": [
+          "24 GB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "processor-cores": [
+          "Multi"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-family": [
+          "Intel Core Ultra X7"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ZFWCfbq",
+      "title": "Dell Pro 16 Laptop",
+      "description": "The Dell Pro 16 is a professionally upgraded laptop designed for on-the-go professionals, meeting MIL-STD 810H durability standards. It is powered by an AMD Ryzen 5 220 Processor with 6 cores and 12 threads, paired with AMD Radeon 740M graphics, 16GB of DDR5 RAM, and a 512GB PCIe SSD for high-performance multitasking. The device features a 16-inch WUXGA (1920x1200) anti-glare display with 300 nits of brightness. Connectivity is extensive, including two Thunderbolt 4 ports, two USB-A 3.2 Gen 1 ports, HDMI 2.1, Ethernet, Wi-Fi 6E, and Bluetooth 5.3. Additional professional features include an FHD IR camera for secure facial recognition, a backlit keyboard with a number pad, and Windows 11 Pro. This specific unit is customized by IST Computers.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/169549a1-1319-4e49-a4d4-d7d8363d2e4f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro 16 laptop screen showing model and specs."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "AMD Ryzen 5 220 Processor (6 cores, 12 threads, up to 4.9 GHz)",
+        "AMD Radeon 740M graphics",
+        "16GB DDR5 RAM",
+        "512GB PCIe SSD",
+        "16-inch WUXGA (1920x1200) anti-glare display",
+        "MIL-STD 810H durability standards",
+        "Thunderbolt 4 connectivity",
+        "Windows 11 Pro",
+        "FHD IR camera with temporal noise reduction",
+        "Backlit keyboard with number pad"
+      ],
+      "colors": [
+        {
+          "hex": "#41484f",
+          "percentage": 0.5216
+        },
+        {
+          "hex": "#616367",
+          "percentage": 0.1626
+        },
+        {
+          "hex": "#26292b",
+          "percentage": 0.1149
+        },
+        {
+          "hex": "#0e1011",
+          "percentage": 0.1076
+        },
+        {
+          "hex": "#a2a7ab",
+          "percentage": 0.0933
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ZFWCfbq-p1PB-8tFxDf?o=01M4R9PJAWDMEJ899Z7XBS2DPY&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "computer-specialized-features": [
+          "RGB lighting"
+        ],
+        "processor-cores": [
+          "Hexa"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "processor-family": [
+          "AMD Ryzen 5"
+        ],
+        "operating-system": [
+          "Windows"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "1TItlL8",
+      "title": "HyperX OMEN Laptop Computer 16\"",
+      "description": "The HyperX OMEN 16 is a high-performance gaming laptop designed for power and precision. It features a stunning 16-inch 2.5K (2560 x 1600) display and is powered by an AMD Ryzen 9 9955HX processor with a max boost clock of up to 5.4 GHz. With 32 GB of memory and a massive 2 TB SSD, this laptop provides ample speed and storage for demanding games and multitasking. Finished in shadow black aluminum, it runs on Windows 11 Home and is built for gaming enthusiasts seeking a premium experience.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        },
+        {
+          "id": "xQ4E",
+          "name": "HyperX"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/20739db2-30d9-4acb-b4e8-4a755ac43b2d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/20739db2-30d9-4acb-b4e8-4a755ac43b2d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black HyperX OMEN gaming laptop displaying Xbox Game Pass on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/77bb5fd2-1adb-4dbd-81c4-2598e3ced9f6?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/77bb5fd2-1adb-4dbd-81c4-2598e3ced9f6?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view of the black laptop chassis showing ventilation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f78a9882-04f2-49d9-b672-f16bdf5e554e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f78a9882-04f2-49d9-b672-f16bdf5e554e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black O16 gaming laptop open showing the screen and keyboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3ee53e2c-0d06-4c3e-9300-830d987d7034?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3ee53e2c-0d06-4c3e-9300-830d987d7034?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view of the black laptop chassis showing ventilation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c12e3c33-6412-4803-b9aa-45c6ec48b6ec?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c12e3c33-6412-4803-b9aa-45c6ec48b6ec?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black O16 gaming laptop closed with X HyperX logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a78aa013-59c5-4999-9ce3-8d97129f4b4b?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a78aa013-59c5-4999-9ce3-8d97129f4b4b?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black O16 gaming laptop open showing vibrant gaming screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/771e0e15-cea6-4234-a891-b94d4a52ce17?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/771e0e15-cea6-4234-a891-b94d4a52ce17?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side view of the laptop chassis showing ventilation."
+        }
+      ],
+      "category": {
+        "slug": "gaming-laptops",
+        "title": "Gaming Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "gaming-computers",
+            "title": "Gaming Computers"
+          },
+          {
+            "slug": "gaming-laptops",
+            "title": "Gaming Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "16-inch 2.5K (2560 x 1600) display",
+        "AMD Ryzen 9 9955HX Processor (up to 5.4 GHz max boost clock)",
+        "32 GB RAM",
+        "2 TB SSD storage",
+        "Windows 11 Home operating system",
+        "Shadow black aluminum chassis"
+      ],
+      "colors": [
+        {
+          "hex": "#1b1b1c",
+          "percentage": 0.3863
+        },
+        {
+          "hex": "#767278",
+          "percentage": 0.1476
+        },
+        {
+          "hex": "#3d3e47",
+          "percentage": 0.1258
+        },
+        {
+          "hex": "#5f5152",
+          "percentage": 0.1197
+        },
+        {
+          "hex": "#3a2925",
+          "percentage": 0.1151
+        },
+        {
+          "hex": "#b3acaa",
+          "percentage": 0.1055
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/1TItlL8-LPzf-8tFxDf?o=01M54A51TEEP3PFAW944PW7EQ1&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 4249.98,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 14.07,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.59,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.06,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 5.47,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "AMD Ryzen 9"
+        ],
+        "computer-form": [
+          "Notebook"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "5wIBHQc",
+      "title": "Pro 16 Laptop",
+      "description": "This Dell Pro 16 laptop, upgraded by IST Computers, is designed for professionals on the go. It features a 16-inch WUXGA display, a powerful AMD Ryzen 5 220 processor with AMD Radeon 740M graphics, 32GB of DDR5 RAM, and a 1TB PCIe SSD for seamless multitasking and ample storage. The laptop meets MIL-STD 810H durability standards and offers ExpressCharge capability. Connectivity options include Thunderbolt 4, USB-A 3.2 Gen 1, HDMI 2.1, Ethernet, Wi-Fi 6E, and Bluetooth 5.3. It also boasts an FHD IR camera with facial recognition and a backlit keyboard with a number pad. Preloaded with Windows 11 Pro and AI-powered Copilot, this laptop is ideal for remote work, content creation, and educational applications. It comes with a 1-year warranty from IST Computers.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c4d672e1-1dcb-4842-a9a2-1ad4500b1bb9?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Dell Pro 16 laptop with power cord."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4b03c36e-081c-477e-b9d4-9412e4a1f978?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro 16 laptop display specs and branding on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6ecc5204-e1da-4be3-9217-e6c23a9b46d5?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/eb215e67-c83b-4060-a2b2-4a2b99af9d8f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Keyboard and internal specs of the Dell laptop showing processor and memory details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cec42de0-69ca-4f34-aae1-567efc8fb3d1?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop showing camera, keyboard, and connectivity features on a white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b246e24f-aa6a-4d66-b21f-5e1466a23a19?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell laptop screen displaying software interface and creativity features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b153bd58-d0eb-4243-aaab-c552862baad9?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working with the Dell laptop on a desk setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/367b3766-a1f5-4bdb-bfd8-276b91f1edfb?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/9a54c962-64a9-44b5-9001-1ff6c744ef47?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Close-up of the laptop I/O ports and connection options."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a090d119-a906-4868-9fb9-d680c4dd85b6?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Diagram showing the physical dimensions and weight of the Dell laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a745819-58d5-4619-b437-2e2664e41ff0?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Dell laptop screen displaying a high-resolution, abstract visual."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9f98214b-56cb-4899-bcb9-b0ec7ecfa9d0?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using the Dell laptop for video conferencing and communication."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16\" Display",
+        "32GB RAM",
+        "1024GB SSD",
+        "Windows 11 Pro",
+        "AMD Ryzen 5",
+        "AMD Radeon Graphics",
+        "Professional Upgrade",
+        "Engineered for Mobility",
+        "MIL-STD 810H durability standards",
+        "ExpressCharge capability"
+      ],
+      "colors": [
+        {
+          "hex": "#41494f",
+          "percentage": 0.5246
+        },
+        {
+          "hex": "#5e6063",
+          "percentage": 0.1512
+        },
+        {
+          "hex": "#0f1112",
+          "percentage": 0.1215
+        },
+        {
+          "hex": "#282c2e",
+          "percentage": 0.1148
+        },
+        {
+          "hex": "#838e95",
+          "percentage": 0.0879
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5wIBHQc-p1PB-8tFxDf?o=01KXPRBK3EYWP4MT4ME6151TVT&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1499.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Notebook"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "RGB lighting",
+          "Touchscreen"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "2560\u2009x\u20091440"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "graphics-card-type": [
+          "Dedicated"
+        ],
+        "processor-family": [
+          "AMD Ryzen 5"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Hexa"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "vga5jMl",
+      "title": "Dell Pro 16 16\" LCD AI Laptop",
+      "description": "Boost your workflow with the Dell Pro 16 Laptop featuring a 16-inch LCD display, AMD Ryzen 5 processor, 16GB DDR5 RAM, and a 256GB SSD. It includes a backlit keyboard, Windows 11 Pro, and up to 11 hours of battery life for productivity on the go. The sleek dark aluminum chassis and slim profile offer a modern, portable design suitable for professionals.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/1e0d47c0-52c8-47dc-bf37-72df276c81a4?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/bf139fe9-3d3c-4108-8047-9f0358430547?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop with abstract watercolor background displayed."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c35f5655-0d2c-4dc6-a230-189bd8b4930f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/cd80a01d-3324-4f44-9daa-7acf1ff7da44?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop viewed from an angle with abstract screen art."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8340090e-2171-48a5-8ad9-c3fac5f4ee3e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/f4de8e7c-9170-4163-936d-3d0eb872229b?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver laptop from the side with abstract screen art."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Windows 11 Pro",
+        "16-inch 1920 x 1200 display",
+        "Backlit keyboard",
+        "512GB SSD",
+        "16GB DDR5 RAM",
+        "Intel Core 7 150U processor",
+        "Wi-Fi 6E and Bluetooth 5.3",
+        "10.3 Hour battery life",
+        "AMD Ryzen 5 processor"
+      ],
+      "colors": [
+        {
+          "hex": "#a3a1a2",
+          "percentage": 0.3743
+        },
+        {
+          "hex": "#c2c2c0",
+          "percentage": 0.2598
+        },
+        {
+          "hex": "#444447",
+          "percentage": 0.1247
+        },
+        {
+          "hex": "#202022",
+          "percentage": 0.1225
+        },
+        {
+          "hex": "#6c6a6d",
+          "percentage": 0.1187
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/vga5jMl-LFnL-8tFxDf?o=01KK003TEVKR6KV83APXQHX85K&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "staples.com",
+          "price": {
+            "price": 1754.49,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "processor-family": [
+          "Intel core i7"
+        ],
+        "processor-cores": [
+          "Quad"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ]
+      },
+      "ratings": {
+        "value": 4.62,
+        "count": 3,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "777NoeV",
+      "title": "XPS 16\" Laptop",
+      "description": "The Dell XPS 16 is a high-performance, ultra-thin laptop designed for creators and professionals. It features a 16-inch 3.2K OLED touchscreen for vivid color accuracy and an immersive viewing experience. Powered by the Intel Core Ultra X7 Series 3 processor and Intel Arc graphics, it is optimized for AI-driven tasks via Copilot+. Its premium build consists of CNC aluminum and Gorilla Glass 3, offering a sleek, durable unibody design that remains portable at just 3.65 lbs.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/70fd9bbb-58aa-44bc-b918-4032ca323039?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/70fd9bbb-58aa-44bc-b918-4032ca323039?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Graphite Dell XPS 16 laptop with vibrant screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/10478f90-75a2-44bc-9be3-efe23e7aee56?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing color grading and cinematic quality display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b429b665-0ac1-4681-906a-3b3a96dc8671?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b429b665-0ac1-4681-906a-3b3a96dc8671?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Graphite Dell XPS 16 laptop open, showcasing sleek design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d5cd124c-fbff-49ca-9a73-0c9bab3b8037?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman using Dell XPS laptop on a wooden table."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/541a50c7-a9f6-44c1-a1b7-aaf32350216a?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/541a50c7-a9f6-44c1-a1b7-aaf32350216a?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Hand holding a thin Dell XPS laptop displaying the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8a0bd47a-421e-4cbd-8a90-ffa8e53b5804?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8a0bd47a-421e-4cbd-8a90-ffa8e53b5804?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 16 laptop with sleep screen display."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "Aluminum",
+        "Gorilla Glass 3"
+      ],
+      "key_features": [
+        "3.2K OLED Touchscreen with 120Hz refresh rate",
+        "Intel Core Ultra X7 Series 3 processor",
+        "32GB LPDDR5x RAM and 1TB NVMe SSD",
+        "Copilot+ PC with on-device AI for noise reduction and lighting",
+        "CNC aluminum unibody design with Gorilla Glass 3",
+        "Thunderbolt 4 connectivity",
+        "8MP camera and hidden quad-speakers"
+      ],
+      "colors": [
+        {
+          "hex": "#3a393e",
+          "percentage": 0.2749
+        },
+        {
+          "hex": "#73bed9",
+          "percentage": 0.169
+        },
+        {
+          "hex": "#abc9db",
+          "percentage": 0.1412
+        },
+        {
+          "hex": "#108cb9",
+          "percentage": 0.1277
+        },
+        {
+          "hex": "#0a1132",
+          "percentage": 0.0975
+        },
+        {
+          "hex": "#573b4b",
+          "percentage": 0.0733
+        },
+        {
+          "hex": "#223651",
+          "percentage": 0.0612
+        },
+        {
+          "hex": "#8ea0b3",
+          "percentage": 0.0552
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/777NoeV-p1PB-8tFxDf?o=01M1N2Z374DTE9VY1ZPCPAN5KD&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 3099.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": {
+              "number": 14.6,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 3.65,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "OLED"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Quiet operation",
+          "Touchscreen"
+        ],
+        "memory-technology": [
+          "DDR"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "processor-family": [
+          "Intel Core Ultra X7"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "ram": [
+          "32 GB"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "power-source": [
+          "Rechargeable"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "0lOiIGF",
+      "title": "Vivobook 16 Intel Core 9 270H 16\" Laptop",
+      "description": "The ASUS Vivobook 16 is a high-performance laptop featuring a 16-inch FHD+ (1920x1200) non-touch display with a 16:10 aspect ratio. Powered by an Intel Core 9 270H processor with 14 cores and 20 threads, it is designed for multitasking and creative projects. The laptop comes equipped with 24GB of DDR5 RAM, a 512GB PCIe M.2 SSD, and runs on Windows 11 Pro. Additional features include a backlit keyboard, a physical webcam privacy shield, AI noise-canceling technology, and Wi-Fi SmartConnect connectivity.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/28111bd7-5a70-42b4-9e50-97a517569850?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=K6RA",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/28111bd7-5a70-42b4-9e50-97a517569850?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=K6RA",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Vivobook 16 laptop open showing colorful display and branding."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16\" FHD+ (1920x1200) non-touch 60Hz 16:10 display",
+        "Intel Core 9 270H Processor (14 cores, 20 threads, 24 MB cache, up to 5.8 GHz)",
+        "24GB DDR5 SODIMM",
+        "512GB PCIe M.2 SSD",
+        "Windows 11 Pro",
+        "Backlit keyboard",
+        "Physical webcam privacy shield",
+        "AI noise-canceling technology",
+        "Wi-Fi SmartConnect",
+        "Intel Graphics integrated"
+      ],
+      "colors": [
+        {
+          "hex": "#eaeeef",
+          "percentage": 0.2158
+        },
+        {
+          "hex": "#c4a479",
+          "percentage": 0.1486
+        },
+        {
+          "hex": "#99c5de",
+          "percentage": 0.1399
+        },
+        {
+          "hex": "#747c86",
+          "percentage": 0.1354
+        },
+        {
+          "hex": "#6099c3",
+          "percentage": 0.1077
+        },
+        {
+          "hex": "#c8d2db",
+          "percentage": 0.1076
+        },
+        {
+          "hex": "#363f4b",
+          "percentage": 0.1054
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/0lOiIGF-K6RA-8tFxDf?o=01M47QKZ8J6W5HS26TS2XV0RYR&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "macys.com",
+          "price": {
+            "price": 1559.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": {
+            "length": {
+              "number": 14.12,
+              "unit": "in"
+            },
+            "width": {
+              "number": 9.82,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.78,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.14,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "ram": [
+          "24 GB"
+        ],
+        "processor-family": [
+          "Intel core i9"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "Scw0zr0",
+      "title": "MacBook Pro 16-inch Laptop",
+      "description": "Experience unparalleled performance with the 16-inch MacBook Pro, powered by the Apple M4 Max chip. Built for Apple Intelligence, this powerhouse laptop features a breathtaking Liquid Retina XDR display with up to 1600 nits peak brightness and an incredible battery life of up to 24 hours, making it the ultimate professional tool. Its sleek, space black design houses advanced features like a 12MP Center Stage camera, studio-quality microphones, six speakers with Spatial Audio, and a comprehensive array of ports including Thunderbolt 5, HDMI, and an SDXC card slot. With robust privacy and security features built-in, and seamless integration with other Apple devices, this MacBook Pro is designed to enhance your productivity and creativity.",
+      "brands": [
+        {
+          "id": "k8qh",
+          "name": "Apple"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/c53424fa-ea53-413f-ba32-714babe150cf?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/5ca80772-5fcd-4245-b561-f6d3533c0488?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Apple MacBook Pro laptop with a dark, wavy design."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f6c116c5-aa4c-45d9-b954-e7eeded5949b?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Computer buying guide featuring a computer tower and monitor setup."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7bace4b7-8271-4605-bb87-13f22631a77c?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7bace4b7-8271-4605-bb87-13f22631a77c?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Keyboard and palm rest of an Apple MacBook Pro laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/23cae686-2fe2-4bcc-947c-b1cd1d62ef48?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Comparison between the Apple M4 Pro and M4 Max chips."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/66111eaa-ada0-4be0-9f10-9d2b9a48960d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Apple MacBook Pro displaying a vibrant red and purple abstract image on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f32e2496-9465-4bb7-86b8-9c8a102ae3f1?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Person using a laptop outdoors at night with a tripod."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/7ec9d2bc-62a9-49de-a4fe-28fb824fa945?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ec9d2bc-62a9-49de-a4fe-28fb824fa945?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Apple MacBook Pro with a vibrant, colorful abstract display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6e45062f-6231-4d57-8ba3-0f4a28756d30?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6e45062f-6231-4d57-8ba3-0f4a28756d30?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Ports and external connection points on the side of the MacBook Pro."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b3393132-31c0-42dc-a15c-95d9db758350?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b3393132-31c0-42dc-a15c-95d9db758350?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "What's in the box for the 16-inch MacBook Pro."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "Apple M5 Max 18-core Chip",
+        "36GB Unified Memory",
+        "Apple M5 Max Chip 32-Core GPU",
+        "2TB SSD",
+        "16.2\" Liquid Retina XDR Display",
+        "Wireless LAN WiFi 7 (802.1be), Bluetooth 6.0",
+        "MacOS",
+        "SDXC Card Slot",
+        "ProMotion 120Hz",
+        "3x Thunderbolt 4 Ports"
+      ],
+      "colors": [
+        {
+          "hex": "#0e0d0f",
+          "percentage": 0.7546
+        },
+        {
+          "hex": "#323136",
+          "percentage": 0.1334
+        },
+        {
+          "hex": "#5d5e64",
+          "percentage": 0.112
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/Scw0zr0-p1PB-8tFxDf?o=01KY78TVRMGX42Y1N7NCD3RZPS&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 2499.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 4.74,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/Scw0zr0-xO6g-8tFxDf?o=01M11QC96FV0PJ0TZMQZZPGEGB&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "quickshipelectronics.com",
+          "price": {
+            "price": 2999.0,
+            "compare_at_price": 3099.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "used",
+          "max_commission_rate": 0.018,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-resolution": [
+          "4K ultra HD"
+        ],
+        "processor-family": [
+          "Apple M5 Pro",
+          "Apple M4 Max",
+          "Apple M3 Max",
+          "Apple M1"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "removable-storage-formats-supported": [
+          "SDXC",
+          "SD",
+          "SDHC"
+        ],
+        "storage-capacity": [
+          "1 TB",
+          "2 TB"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "display-technology": [
+          "LCD",
+          "Mini-LED"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "operating-system": [
+          "macOS"
+        ],
+        "cosmetic-condition": [
+          "Opened-never used",
+          "New"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "RGB lighting"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "memory-technology": [
+          "DRAM",
+          "DDR"
+        ],
+        "processor-cores": [
+          "Multi",
+          "Hexadeca"
+        ]
+      },
+      "ratings": {
+        "value": 4.8,
+        "count": 795,
+        "source_count": 2
+      }
+    },
+    {
+      "id": "SIdtAVh",
+      "title": "HP ProBook Laptop Computer 16\"",
+      "description": "The HP ProBook 4 G2i 16-inch Notebook is a professional laptop designed for hybrid work and AI-enhanced performance. It features a 16-inch WUXGA anti-glare display, an Intel Core Ultra 5 325 processor with integrated AI Boost NPU, and is constructed with a Pike Silver aluminum chassis incorporating recycled materials. The device is equipped with 16GB of DDR5 RAM, a 256GB PCIe M.2 SSD, and runs Windows 11 Pro, offering enterprise-grade security through HP Wolf Security.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b38e661b-0b68-4d8c-bc08-36d6918b6258?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b38e661b-0b68-4d8c-bc08-36d6918b6258?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Laptop with colorful wallpaper on a dark background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a36472bb-7804-41b4-8ca6-b0cd398f5f1f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a36472bb-7804-41b4-8ca6-b0cd398f5f1f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop with colorful wallpaper on a dark background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/91817af8-1ff2-4e73-a2cc-9d092cdaf882?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/91817af8-1ff2-4e73-a2cc-9d092cdaf882?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop with colorful wallpaper open, showing interior."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0bfb7232-3364-472e-af39-63e1c0203221?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0bfb7232-3364-472e-af39-63e1c0203221?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Laptop with silver exterior open, showing interior and logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fa8b48e4-eae1-4a39-9950-94b4260b196d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fa8b48e4-eae1-4a39-9950-94b4260b196d?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop side profile showing vents."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d7d2e5bf-e4b6-4236-bf45-7027d1af3e29?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d7d2e5bf-e4b6-4236-bf45-7027d1af3e29?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of laptop side profile showing vents."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum"
+      ],
+      "key_features": [
+        "16-inch 1920 x 1200 display",
+        "16GB Memory",
+        "256GB SSD",
+        "Integrated graphics",
+        "HDMI output",
+        "Built-in webcam",
+        "Bluetooth connectivity",
+        "Clamshell design",
+        "Intel Core Ultra 5 325 8-Core processor with AI Boost NPU",
+        "Enterprise-grade security with HP Wolf Security and HP Sure Start"
+      ],
+      "colors": [
+        {
+          "hex": "#010413",
+          "percentage": 0.289
+        },
+        {
+          "hex": "#625862",
+          "percentage": 0.1757
+        },
+        {
+          "hex": "#060c26",
+          "percentage": 0.1373
+        },
+        {
+          "hex": "#989494",
+          "percentage": 0.1287
+        },
+        {
+          "hex": "#457ca2",
+          "percentage": 0.1029
+        },
+        {
+          "hex": "#32172a",
+          "percentage": 0.0938
+        },
+        {
+          "hex": "#1e487d",
+          "percentage": 0.0727
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/SIdtAVh-p1PB-8tFxDf?o=01M5JZH247NQQR7VX22YYWF6FX&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1249.0,
+            "compare_at_price": 2344.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/SIdtAVh-LPzf-8tFxDf?o=01M5KKFWZAP45YDZBCST17QHH0&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1454.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/SIdtAVh-TgS4-8tFxDf?o=01M44SAQS0XZB2RGEV7XVC6KMZ&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "cdw.com",
+          "price": {
+            "price": 1465.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 9.9,
+              "unit": "in"
+            },
+            "width": {
+              "number": 14.1,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.67,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.81,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "BIOS security",
+          "Kensington lock",
+          "Touchscreen"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "power-source": [
+          "Battery-powered",
+          "Rechargeable"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "pattern": [
+          "Solid",
+          "Abstract"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "M5TSDdH",
+      "title": "New Xps 16 Laptop",
+      "description": "The Dell XPS 16 is a premium, lightweight laptop designed for creators, featuring a thin bezel and a modern chassis in Graphite. It is powered by an Intel Core Ultra 7 processor, 16GB of LPDDR5x memory, and a 1TB SSD. The device boasts a 16-inch Non-Touch FHD display (1920x1200) with a 120Hz refresh rate and 500 nits brightness. Built for high performance and exceptional battery life, it includes three Thunderbolt 4 ports and a Corning Gorilla Glass 3 palm rest for enhanced durability.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        },
+        {
+          "id": "Kufq",
+          "name": "Intel"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/b73e551b-e660-4460-9d3d-609f82c7d634?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/803a86ca-88d5-4ce8-a8ff-d49cef0b6ca5?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Ny XPS 16 laptop showing Copilot+PC logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/37a39785-acf0-4a1e-942c-3809adcd6118?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/d86c9c55-452f-4a73-95cf-200c55b37216?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Ny XPS 16 laptop showing Copilot+PC logo."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3d78b06c-2e22-46d9-8445-20771b006052?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Ny XPS 16 laptop with screen display on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fec35b88-2643-4a11-ab95-f8130808c1a4?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fec35b88-2643-4a11-ab95-f8130808c1a4?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Ny XPS 16 laptop with screen display on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5a351935-c566-4ae4-97ab-bf44a9f0d4af?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/603f8a35-bd0a-4174-b68b-ceb53e2ff2ff?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman working on a laptop in a bright home office."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/27171d99-2c51-4bff-8bb5-39a4e5273915?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/27171d99-2c51-4bff-8bb5-39a4e5273915?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Ny XPS 16 laptop with screen display on a plain background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6da7cdec-7ee5-46c4-978d-c7260266ae1e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6da7cdec-7ee5-46c4-978d-c7260266ae1e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop keyboard and keys."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Corning Gorilla\u00ae Glass 3"
+      ],
+      "key_features": [
+        "Intel\u00ae Core\u2122 Ultra 7 355 processor",
+        "16\" Non-Touch FHD (1920x1200) display",
+        "16 GB LPDDR5X memory",
+        "1 TB SSD storage",
+        "3x Thunderbolt\u2122 4 ports",
+        "Intel\u00ae Wi-Fi 7 BE211 2x2 + Bluetooth 6.0",
+        "Corning Gorilla\u00ae Glass 3 palm rest"
+      ],
+      "colors": [
+        {
+          "hex": "#3e3d4b",
+          "percentage": 0.3252
+        },
+        {
+          "hex": "#04040c",
+          "percentage": 0.2409
+        },
+        {
+          "hex": "#7d7191",
+          "percentage": 0.1487
+        },
+        {
+          "hex": "#cac5c8",
+          "percentage": 0.1208
+        },
+        {
+          "hex": "#1d1d41",
+          "percentage": 0.1022
+        },
+        {
+          "hex": "#3d2e45",
+          "percentage": 0.0622
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/M5TSDdH-Bteb-8tFxDf?o=01M3J0DSW78FWVMRA52MW4FTME&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "dell.com",
+          "price": {
+            "price": 1999.99,
+            "compare_at_price": 2299.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 9.35,
+              "unit": "in"
+            },
+            "width": {
+              "number": 13.88,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.6,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 3.85,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Processor",
+            "values": [
+              {
+                "label": "Series 3 Intel\u00ae Core\u2122 Ultra 5 325",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Series 3 Intel\u00ae Core\u2122 Ultra 7 355",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Series 3 Intel\u00ae Core\u2122 Ultra X7 358H",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Series 3 Intel\u00ae Core\u2122 Ultra X9 388H",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Series 3 Intel\u00ae Core\u2122 Ultra X7 358H (16 cores, up to 4.8 GHz)",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Operating System Language Pack",
+            "values": [
+              {
+                "label": "English",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "French",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Spanish",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Brazilian Portuguese",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Graphics",
+            "values": [
+              {
+                "label": "Intel\u00ae Graphics",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "Intel\u00ae Arc\u2122 Graphics",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "Memory",
+            "values": [
+              {
+                "label": "16GB LPDDR5x Dual Channel at 7467 MT/s",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "32GB LPDDR5x Dual Channel at 9600 MT/s",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "64GB LPDDR5x Dual Channel at 9600 MT/s",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock",
+          "Touchscreen"
+        ],
+        "pattern": [
+          "Abstract"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "processor-cores": [
+          "Octa",
+          "Hexadeca"
+        ],
+        "power-source": [
+          "Rechargeable",
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Ultrabook"
+        ],
+        "graphics-card-type": [
+          "Integrated",
+          "Dedicated",
+          "Professional"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "Intel Core Ultra X9",
+          "Intel Core Ultra 9"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "display-technology": [
+          "OLED",
+          "LCD"
+        ]
+      },
+      "ratings": {
+        "value": 4.12,
+        "count": 245,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "m6SGIXY",
+      "title": "Dell Pro 16 PC16255 Laptop",
+      "description": "The Dell Pro 16 is a high\u2011performance laptop featuring a 16\u2011inch FHD+ display, AMD Ryzen 7 PRO 3500U processor, 16\u202fGB DDR4 RAM, 512\u202fGB SSD, Windows\u202f11 Pro, and Dell\u2019s AI CoPilot+ for enhanced productivity.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/905c9d41-33f7-449f-97a9-e8e97448cee0?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/6a2ac8c0-17e7-475c-8139-b5705f53ffb9?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell Pro 16 laptop displaying abstract landscape on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/978c0fac-a4de-4d58-903a-87f2c0b12cca?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/bece9b5b-4559-4321-92eb-ae496b48bd19?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a white Dell Pro 16 laptop chassis."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5b42f4c8-b321-4e1e-9263-6cecddea65d0?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "cleaned_url": "https://cdn.trychannel3.com/bf392c4f-a9c9-4822-927c-1e54ab2ea287?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=LFnL",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Open Dell Pro 16 laptop showing screen and keyboard."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [
+        "Aluminum alloy",
+        "Plastic",
+        "Display glass"
+      ],
+      "key_features": [
+        "80 Hz display refresh rate",
+        "5\u2011hours battery",
+        "Dolby Vision color space",
+        "AMD Ryzen 7 PRO 3500U processor",
+        "80W power adapter",
+        "FHD+ (1920\u00d71080) screen"
+      ],
+      "colors": [
+        {
+          "hex": "#b9b7b6",
+          "percentage": 0.408
+        },
+        {
+          "hex": "#959192",
+          "percentage": 0.2511
+        },
+        {
+          "hex": "#1b1b1c",
+          "percentage": 0.1336
+        },
+        {
+          "hex": "#d7d6d5",
+          "percentage": 0.109
+        },
+        {
+          "hex": "#5c5b5f",
+          "percentage": 0.0983
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/m6SGIXY-LFnL-8tFxDf?o=01KJWYWKN424GM0C1H98ZNWDRX&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "staples.com",
+          "price": {
+            "price": 1810.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD",
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "2560\u2009x\u20091440",
+          "Full HD"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "computer-form": [
+          "Notebook",
+          "Workstation"
+        ],
+        "processor-family": [
+          "AMD Ryzen AI 7"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Rechargeable"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "graphics-card-type": [
+          "Professional"
+        ],
+        "display-technology": [
+          "LCD",
+          "LED"
+        ],
+        "storage-types-supported": [
+          "Hard disk drive (HDD)",
+          "M.2 SSD",
+          "PCIe/NVMe SSD",
+          "SATA SSD",
+          "Solid-state drive (SSD)"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "uWLNrCg",
+      "title": "Dell 16\" Pro Max 16 Laptop",
+      "description": "The Dell 16\" Pro Max 16 Laptop is a high-performance professional notebook designed for AI-accelerated workflows. It is powered by an AMD Ryzen AI 5 PRO 340 6-core processor with a dedicated NPU offering up to 50 TOPS for local AI processing. The laptop features a 16-inch anti-glare display with a 1920 x 1200 resolution and 300 nits of brightness, driven by integrated AMD Radeon 840M graphics. It comes equipped with 16GB of LPDDR5x RAM and a 256GB M.2 NVMe SSD. For connectivity, it offers dual Thunderbolt 4 ports, two USB-A ports, HDMI 2.1, Gigabit Ethernet, Wi-Fi 7, and Bluetooth 5.4. The device runs Windows 11 Pro and includes a 1080p webcam with a privacy shutter, a backlit chiclet-style keyboard with a number pad, and a 6-cell 96 Wh battery.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ec5cadb5-c82c-4d1c-8da6-bccb8ae7b923?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=oHaU",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 Pro Max laptop showing energy simulation on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/11f54138-6a75-4678-a7ab-2e5f26313835?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/11f54138-6a75-4678-a7ab-2e5f26313835?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 Pro Max laptop showing energy simulation on screen."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "AMD Ryzen AI 5 PRO 340 6-Core processor with dedicated NPU",
+        "16GB LPDDR5x RAM and 256GB M.2 NVMe SSD",
+        "16\" 1920 x 1200 Anti-Glare display (300 nits)",
+        "Integrated AMD Radeon 840M Graphics",
+        "Dual Thunderbolt 4 ports and Wi-Fi 7 support",
+        "1080p Webcam with Privacy Shutter",
+        "Windows 11 Pro preinstalled"
+      ],
+      "colors": [
+        {
+          "hex": "#1b2539",
+          "percentage": 0.2307
+        },
+        {
+          "hex": "#646a78",
+          "percentage": 0.1805
+        },
+        {
+          "hex": "#34353c",
+          "percentage": 0.1685
+        },
+        {
+          "hex": "#1c315a",
+          "percentage": 0.1362
+        },
+        {
+          "hex": "#50515e",
+          "percentage": 0.102
+        },
+        {
+          "hex": "#8790a4",
+          "percentage": 0.0943
+        },
+        {
+          "hex": "#394766",
+          "percentage": 0.0878
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/uWLNrCg-oHaU-8tFxDf?o=01M3CJ40WJ4026P0A0Q44ERFE0&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 1692.5,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 4.59,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "processor-family": [
+          "AMD Ryzen AI 5"
+        ],
+        "storage-capacity": [
+          "256 GB"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "AI-powered",
+          "Kensington lock"
+        ],
+        "display-technology": [
+          "LCD",
+          "VA"
+        ],
+        "ram": [
+          "16 GB"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "power-source": [
+          "AC-powered"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD",
+          "microSDHC",
+          "microSDXC"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD",
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "GZh2PCZ",
+      "title": "Gateway 16 FHD IPS Laptop",
+      "description": "Experience powerful performance and stunning visuals with the Gateway 16 FHD IPS Laptop featuring an AMD Ryzen 5 7430U processor and 16GB of RAM. This laptop offers a vibrant 16-inch Full HD IPS display with a resolution of 1920 x 1200 perfect for work streaming and creative tasks. Equipped with a fast 512GB SSD it ensures quick boot-up and ample storage for your files and applications. Enjoy enhanced security with a built-in fingerprint scanner and privacy shutter on the 2MP webcam. Preloaded with Windows 11 Home and offering up to 10 hours of battery life this sleek and portable laptop is designed for everyday productivity and seamless multitasking.",
+      "brands": [
+        {
+          "id": "MS1w",
+          "name": "Gateway"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/e1ebd5b6-c0d7-4bb2-9a44-455d0ba04cd3?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e1ebd5b6-c0d7-4bb2-9a44-455d0ba04cd3?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=BsaX",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Gray laptop displaying a blue abstract design on a white background."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "16-inch Full HD IPS display",
+        "1920 x 1200 resolution",
+        "AMD Ryzen 5 7430U processor",
+        "16GB RAM",
+        "512GB SSD",
+        "Fingerprint scanner",
+        "Privacy shutter",
+        "2MP webcam",
+        "Windows 11 Home",
+        "Up to 10 hours of battery life"
+      ],
+      "colors": [
+        {
+          "hex": "#a1c0d9",
+          "percentage": 0.2811
+        },
+        {
+          "hex": "#7a7a7a",
+          "percentage": 0.2197
+        },
+        {
+          "hex": "#1e232f",
+          "percentage": 0.1602
+        },
+        {
+          "hex": "#dee7f7",
+          "percentage": 0.1299
+        },
+        {
+          "hex": "#739ec1",
+          "percentage": 0.076
+        },
+        {
+          "hex": "#2d3952",
+          "percentage": 0.0742
+        },
+        {
+          "hex": "#536885",
+          "percentage": 0.0589
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/GZh2PCZ-BsaX-8tFxDf?o=01M5ZPKGKYE3BRQCTNS7612DD3&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "walmart.com",
+          "price": {
+            "price": 494.99,
+            "compare_at_price": 549.0,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.07,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "processor-family": [
+          "AMD Ryzen 5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "ram": [
+          "16 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "jgNxhkB",
+      "title": "Dell 16 Inch Laptop With Amd Ryzen 5",
+      "description": "The Dell 16 Laptop is a compact 16-inch laptop featuring a modern design and powered by AMD Ryzen\u2122 processors for effortless productivity and entertainment. It comes in Carbon Black and is equipped with a 16-inch Non-Touch FHD display, AMD Radeon\u2122 Graphics, and a slim, portable build.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/711b9ffd-dd18-433a-a13f-c71e935afc29?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/711b9ffd-dd18-433a-a13f-c71e935afc29?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 laptop open showing quarterly review dashboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2a15548c-f436-41fb-9b58-55206f2e29ad?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2a15548c-f436-41fb-9b58-55206f2e29ad?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 laptop open with quarterly review dashboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0581262c-b551-49fa-a0f8-74e781995c22?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0581262c-b551-49fa-a0f8-74e781995c22?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 laptop open with quarterly review dashboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9a7b1688-3a4a-42a3-a7fb-117e69f22a05?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "merchant_information",
+          "alt_text": "Dell Technologies Expert Support banner with city skyline."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1a4ea94d-607b-490e-8208-e63729d068ee?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1a4ea94d-607b-490e-8208-e63729d068ee?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell 16 laptop open, showing dashboard."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6445e616-4c5a-45d4-b3c7-732761fd1483?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6445e616-4c5a-45d4-b3c7-732761fd1483?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=Bteb",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side view of a dark grey Dell laptop."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "metal"
+      ],
+      "key_features": [
+        "AMD Ryzen\u2122 5 processor with 6 cores",
+        "16\" Non-Touch FHD (1920x1200) display",
+        "8 GB DDR5 memory",
+        "512 GB SSD storage",
+        "Windows 11 Home operating system",
+        "AMD Radeon\u2122 Graphics",
+        "Integrated 3-Cell 41Whr Battery",
+        "Realtek Wi-Fi 6 and Bluetooth wireless card"
+      ],
+      "colors": [
+        {
+          "hex": "#083c76",
+          "percentage": 0.1995
+        },
+        {
+          "hex": "#bbc6d1",
+          "percentage": 0.1709
+        },
+        {
+          "hex": "#232426",
+          "percentage": 0.169
+        },
+        {
+          "hex": "#646a73",
+          "percentage": 0.155
+        },
+        {
+          "hex": "#e6e6e5",
+          "percentage": 0.1066
+        },
+        {
+          "hex": "#949090",
+          "percentage": 0.0807
+        },
+        {
+          "hex": "#06244d",
+          "percentage": 0.06
+        },
+        {
+          "hex": "#3a465d",
+          "percentage": 0.0583
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/jgNxhkB-Bteb-8tFxDf?o=01M5YY40BWHZ9B9KEDGH83JENF&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "dell.com",
+          "price": {
+            "price": 799.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.013,
+          "dimensions": {
+            "length": {
+              "number": 245.6,
+              "unit": "mm"
+            },
+            "width": {
+              "number": 357.3,
+              "unit": "mm"
+            },
+            "height": {
+              "number": 18.23,
+              "unit": "mm"
+            },
+            "weight": {
+              "number": 2.14,
+              "unit": "kg"
+            }
+          }
+        }
+      ],
+      "variants": {
+        "options": [
+          {
+            "name": "Storage",
+            "values": [
+              {
+                "label": "1TB M.2 2230 SSD Gen4x4",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "256GB M.2 2230 SSD Gen4x4 TLC",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "512GB M.2 2230 SSD Gen4x4",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          },
+          {
+            "name": "System Driver",
+            "values": [
+              {
+                "label": "System Driver for Ubuntu",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "System Driver for Windows",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              },
+              {
+                "label": "System Driver for Windows S",
+                "exists": true,
+                "available": null,
+                "thumbnail_url": null,
+                "product_id": null
+              }
+            ]
+          }
+        ],
+        "selected": []
+      },
+      "structured_attributes": {
+        "processor-cores": [
+          "Quad"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "computer-specialized-features": [
+          "Kensington lock"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "storage-capacity": [
+          "512 GB"
+        ],
+        "processor-family": [
+          "AMD Ryzen 5"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "storage-types-supported": [
+          "M.2 SSD"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "ram": [
+          "8 GB"
+        ],
+        "keyboard-type": [
+          "Standard"
+        ],
+        "storage-drive-type-installed": [
+          "M.2 SSD"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": {
+        "value": 4.25,
+        "count": 133,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "nBagvtY",
+      "title": "HP OmniBook 3 Windows Laptop 16\"",
+      "description": "The HP OmniBook 3 is a modern 16-inch Windows laptop featuring a slim clamshell design in black. It is powered by an Intel Ultra 7-255U processor, 24GB of memory, and a 1TB SSD, running Windows 11 Home. The device includes a 16-inch display with a 1920 x 1200 resolution and a 60Hz refresh rate.",
+      "brands": [
+        {
+          "id": "NdmC",
+          "name": "HP"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/55dd218b-2d41-4a8d-95f2-634124d0dc0e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/55dd218b-2d41-4a8d-95f2-634124d0dc0e?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black HP OmniBook 3 laptop with colorful abstract graphics on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6e588edb-70ec-4c03-85b9-d2132b5c7807?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6e588edb-70ec-4c03-85b9-d2132b5c7807?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP OmniBook 3 laptop with colorful abstract graphics on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e899d7ee-e110-4c4f-a3f1-d65dddb47b14?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e899d7ee-e110-4c4f-a3f1-d65dddb47b14?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black HP OmniBook 3 laptop with colorful abstract graphics on screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ae3ce1fc-c04b-41b2-b96d-3f1cbd73138f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ae3ce1fc-c04b-41b2-b96d-3f1cbd73138f?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile view of the HP OmniBook 3 laptop chassis and ports."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Intel Ultra 7-255U CPU",
+        "24GB Memory",
+        "1TB SSD Capacity",
+        "16\" Display (1920 x 1200)",
+        "Windows 11 Home Operating System",
+        "Clamshell Notebook Chassis"
+      ],
+      "colors": [
+        {
+          "hex": "#0d0a09",
+          "percentage": 0.4095
+        },
+        {
+          "hex": "#282828",
+          "percentage": 0.2151
+        },
+        {
+          "hex": "#b95a45",
+          "percentage": 0.1406
+        },
+        {
+          "hex": "#d69469",
+          "percentage": 0.1233
+        },
+        {
+          "hex": "#550d11",
+          "percentage": 0.0577
+        },
+        {
+          "hex": "#603534",
+          "percentage": 0.0538
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/nBagvtY-CCJD-8tFxDf?o=01M3Y2PDKFSK24PC4DVZW3S9NV&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "canadacomputers.com",
+          "price": {
+            "price": 1199.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-capacity": [
+          "1 TB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 7"
+        ],
+        "ram": [
+          "24 GB"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "wFdTuVj",
+      "title": "Vivobook 16 Laptop",
+      "description": "This ASUS Vivobook 16 laptop features a 16.0-inch WUXGA IPS display with a 16:10 aspect ratio, perfect for work and entertainment. It's powered by the Snapdragon X X1-26-100 processor and comes with 16GB of RAM for smooth multitasking. The 1TB PCIe SSD provides ample storage for all your files and applications. Enjoy a premium typing experience with the backlit keyboard and stay connected with Wi-Fi 6E. The laptop comes in a sleek silver finish and includes a Dockztorm wireless mouse.",
+      "brands": [
+        {
+          "id": "93q8",
+          "name": "ASUS"
+        },
+        {
+          "id": "DeYD",
+          "name": "Snapdragon"
+        },
+        {
+          "id": "0JET",
+          "name": "Qualcomm"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/89380091-0e95-4921-8ddc-4fe420dafaaa?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/89380091-0e95-4921-8ddc-4fe420dafaaa?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Asus Vivobook 16 laptop with mouse and keyboard featuring Snapdragon X1-26-100."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/64ee2533-b216-442b-b080-8760fe30d039?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Views of the Asus Vivobook 16 laptop, keyboard, and tablet."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/475ae728-22b8-4dfe-9584-ea6730b3c434?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/475ae728-22b8-4dfe-9584-ea6730b3c434?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Silver Asus Vivobook 16 laptop displaying specs on a dark background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f8d7f349-2204-41c7-9b7d-ddd05261a995?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Vivobook 16 laptop screen with vibrant wallpaper and Snapdragon X1-26-100."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1c6d05dd-e934-401c-9bac-796c8cb004a3?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Vivobook 16 laptop and keyboard with screen display."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1ff196d4-c696-4a87-b611-b1da6fd8c6e5?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Vivobook 16 laptop and Backlit Keyboard on a dark surface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/4cbbce97-48bf-496b-bcfc-7d59b0218317?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Vivobook 16 laptop with Bluetooth and WiFi details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/00108301-b43d-41e7-aaac-28a4375f5214?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic showing specs like battery life, weight, and display details."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e774c0b9-5016-47c8-a14d-72d40bb013ca?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Infographic detailing Windows 11, processor, display, and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1b1f5894-045d-4057-9eab-782abf28c484?aid=01M66DAJYB1F1GPXBH0KFXT64D&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Asus Vivobook 16 laptop shown from a side angle."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Upgraded Snapdragon X X1-26-100 3.00GHz Processor (upto 3 GHz, 30MB Cache, 8-Cores, 8-Threads, )",
+        "Qualcomm Adreno Integrated Graphics",
+        "Powerful 16GB OnBoard RAM",
+        "802.11ax Wifi, Bluetooth 5.3, Webcam, Backlit KB Standard Keyboard",
+        "High Speed 16.0 IPS WUXGA (1920x1200) 60Hz Display",
+        "65W PSU, Type-C Power-In, 3-Cell 50 WHr Battery",
+        "Silver Color",
+        "Enormous Storage 1TB PCIe NVMe SSD",
+        "HDMI, Headphone/Microphone Combo Jack, Windows 11 Home-64",
+        "1 Year Manufacturer warranty from Velztorm (Professionally upgraded by Velztorm)"
+      ],
+      "colors": [
+        {
+          "hex": "#130102",
+          "percentage": 0.2648
+        },
+        {
+          "hex": "#dad2d3",
+          "percentage": 0.1427
+        },
+        {
+          "hex": "#290202",
+          "percentage": 0.141
+        },
+        {
+          "hex": "#6c6365",
+          "percentage": 0.1233
+        },
+        {
+          "hex": "#470304",
+          "percentage": 0.118
+        },
+        {
+          "hex": "#afbfc7",
+          "percentage": 0.1115
+        },
+        {
+          "hex": "#322121",
+          "percentage": 0.0987
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/wFdTuVj-p1PB-8tFxDf?o=01KXW04WKRKSWZ15PT2KBD9PJ9&aid=01M66DAJYB1F1GPXBH0KFXT64D",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 689.99,
+            "compare_at_price": 897.48,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": {
+            "length": {
+              "number": 14.15,
+              "unit": "in"
+            },
+            "width": {
+              "number": 10.0,
+              "unit": "in"
+            },
+            "height": {
+              "number": 1.2,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 4.2,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "operating-system": [
+          "Windows"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "memory-technology": [
+          "DDR4"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "display-technology": [
+          "LCD"
+        ],
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "display-resolution": [
+          "2560\u2009x\u20091440"
+        ],
+        "processor-cores": [
+          "Octa"
+        ],
+        "keyboard-type": [
+          "Backlit"
+        ],
+        "processor-family": [
+          "Qualcomm Snapdragon X Elite",
+          "Qualcomm snapdragon"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ]
+      },
+      "ratings": {
+        "value": 5.0,
+        "count": 1,
+        "source_count": 1
+      }
+    }
+  ],
+  "next_page_token": "eyJjYWNoZV9rZXkiOiAic2VhcmNoOjllYzk3YTUwYjM2MjY5MzEiLCAib2Zmc2V0IjogMjB9"
+}
