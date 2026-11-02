@@ -13,11 +13,21 @@
     "demo:reset": "tsx src/scripts/reset.ts"
   },
   "dependencies": {
-    "@rm/shared": "workspace:*",
-    "@rm/guard": "workspace:*",
-    "@rm/ledger": "workspace:*",
+    "@fastify/cookie": "^10.0.1",
+    "@fastify/cors": "^10.0.2",
     "@rm/agent": "workspace:*",
     "@rm/channel3": "workspace:*",
-    "@rm/paypal": "workspace:*"
+    "@rm/guard": "workspace:*",
+    "@rm/ledger": "workspace:*",
+    "@rm/paypal": "workspace:*",
+    "@rm/shared": "workspace:*",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "pg": "^8.13.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.10",
+    "tsx": "^4.19.2"
   }
 }

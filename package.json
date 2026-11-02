@@ -12,6 +12,7 @@
     "build": "pnpm -r --if-present build",
     "typecheck": "pnpm -r --if-present typecheck",
     "test": "pnpm -r --if-present test",
+    "test:channel3:live": "tsx scripts/test_live_channel3.ts",
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
@@ -19,5 +20,11 @@
     "db:migrate": "pnpm --filter @rm/api db:migrate",
     "db:seed": "pnpm --filter @rm/api db:seed",
     "demo:reset": "pnpm --filter @rm/api demo:reset"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
   }
 }
