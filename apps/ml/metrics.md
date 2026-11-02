@@ -3,47 +3,47 @@
 > **All numbers are on SYNTHETIC data from our own generator** (`ml/seedgen/generate.py`), on seeds the models never trained on.
 > Treat them as upper bounds. The generator creates cleanly separable classes, so a model can learn the generator's habits.
 
-Seeds: train [101, 102, 103, 104, 105, 106], validation [107, 108] (thresholds only), test [20261028, 202, 203].
+Seeds: train [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112], validation [113, 114, 115, 116] (thresholds only), test [20261028, 202, 203, 204, 205].
 
 ## /score/seat-idle: no HR offboarding feed (honest default)
 
-2544 seats, 603 should be pruned (pooled over test seeds).
+4272 seats, 1031 should be pruned (pooled over test seeds).
 
 | method | precision | recall | F1 | false positives | recall: idle / drifting / offboarded |
 |---|---|---|---|---|---|
-| baseline_30_day_rule | 0.938 | 0.96 | 0.949 | 38 ({'periodic': 38}) | 1.0 / 0.905 / 0.923 |
-| logistic_regression | 0.995 | 0.99 | 0.993 | 3 ({'periodic': 3}) | 0.994 / 1.0 / 0.976 |
-| gradient_boosting | 0.995 | 0.995 | 0.995 | 3 ({'casual': 3}) | 0.997 / 1.0 / 0.988 |
+| baseline_30_day_rule | 0.949 | 0.966 | 0.957 | 54 ({'periodic': 54}) | 1.0 / 0.885 / 0.956 |
+| logistic_regression | 0.994 | 0.991 | 0.993 | 6 ({'periodic': 6}) | 0.995 / 1.0 / 0.98 |
+| gradient_boosting | 0.998 | 0.997 | 0.998 | 2 ({'casual': 2}) | 1.0 / 1.0 / 0.99 |
 
 ## /score/seat-idle: with an HR offboarding feed
 
-2544 seats, 603 should be pruned (pooled over test seeds).
+4272 seats, 1031 should be pruned (pooled over test seeds).
 
 | method | precision | recall | F1 | false positives | recall: idle / drifting / offboarded |
 |---|---|---|---|---|---|
-| baseline_30_day_rule | 0.938 | 0.96 | 0.949 | 38 ({'periodic': 38}) | 1.0 / 0.905 / 0.923 |
-| logistic_regression | 0.998 | 0.997 | 0.998 | 1 ({'periodic': 1}) | 0.994 / 1.0 / 1.0 |
-| gradient_boosting | 1.0 | 0.995 | 0.998 | 0 ({}) | 0.997 / 1.0 / 0.988 |
+| baseline_30_day_rule | 0.949 | 0.966 | 0.957 | 54 ({'periodic': 54}) | 1.0 / 0.885 / 0.956 |
+| logistic_regression | 0.997 | 0.997 | 0.997 | 3 ({'periodic': 3}) | 0.995 / 1.0 / 1.0 |
+| gradient_boosting | 1.0 | 0.998 | 0.999 | 0 ({}) | 1.0 / 1.0 / 0.993 |
 
 ## /score/anomaly: planted anomaly types only
 
-285 purchases, 45 anomalies (**base rate 16%**, far above real life, so precision is flattered).
+175 purchases, 55 anomalies (**base rate 31%**, far above real life, so precision is flattered).
 
 | method | precision | recall | F1 | AUROC | recall by type |
 |---|---|---|---|---|---|
-| baseline_ratio_rule | 1.0 | 0.333 | 0.5 | 0.697 | cap_structuring 0/18, currency_mismatch 3/3, duplicate_order 0/3, first_time_vendor 0/3, price_inflation 12/12, quantity_outlier 0/6, too_good_to_be_true 0/3, velocity_burst 0/18 |
-| hand_written_rules | 0.662 | 0.956 | 0.782 | - | cap_structuring 18/18, currency_mismatch 3/3, duplicate_order 3/3, first_time_vendor 3/3, price_inflation 12/12, quantity_outlier 4/6, too_good_to_be_true 3/3, velocity_burst 18/18 |
-| isolation_forest | 0.82 | 0.911 | 0.863 | 0.974 | cap_structuring 17/18, currency_mismatch 3/3, duplicate_order 3/3, first_time_vendor 3/3, price_inflation 12/12, quantity_outlier 3/6, too_good_to_be_true 3/3, velocity_burst 17/18 |
+| baseline_ratio_rule | 1.0 | 0.273 | 0.429 | 0.663 | cap_structuring 0/25, currency_mismatch 5/5, duplicate_order 0/5, first_time_vendor 0/5, price_inflation 10/10, quantity_outlier 0/5, too_good_to_be_true 0/5, velocity_burst 0/25 |
+| hand_written_rules | 0.93 | 0.964 | 0.946 | - | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, velocity_burst 25/25 |
+| isolation_forest | 0.93 | 0.964 | 0.946 | 0.987 | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, velocity_burst 25/25 |
 
 ## /score/anomaly: plus two NOVEL types the rules were not written for
 
-309 purchases, 69 anomalies (**base rate 22%**, far above real life, so precision is flattered).
+215 purchases, 95 anomalies (**base rate 44%**, far above real life, so precision is flattered).
 
 | method | precision | recall | F1 | AUROC | recall by type |
 |---|---|---|---|---|---|
-| baseline_ratio_rule | 1.0 | 0.217 | 0.357 | 0.628 | cap_structuring 0/18, currency_mismatch 3/3, duplicate_order 0/3, first_time_vendor 0/3, mild_inflation 0/12, price_inflation 12/12, quantity_outlier 0/6, too_good_to_be_true 0/3, underpriced_known_vendor 0/12, velocity_burst 0/18 |
-| hand_written_rules | 0.676 | 0.667 | 0.672 | - | cap_structuring 18/18, currency_mismatch 3/3, duplicate_order 3/3, first_time_vendor 3/3, mild_inflation 1/12, price_inflation 12/12, quantity_outlier 4/6, too_good_to_be_true 3/3, underpriced_known_vendor 2/12, velocity_burst 18/18 |
-| isolation_forest | 0.862 | 0.812 | 0.836 | 0.963 | cap_structuring 18/18, currency_mismatch 3/3, duplicate_order 3/3, first_time_vendor 3/3, mild_inflation 2/12, price_inflation 12/12, quantity_outlier 3/6, too_good_to_be_true 3/3, underpriced_known_vendor 12/12, velocity_burst 18/18 |
+| baseline_ratio_rule | 1.0 | 0.158 | 0.273 | 0.595 | cap_structuring 0/25, currency_mismatch 5/5, duplicate_order 0/5, first_time_vendor 0/5, mild_inflation 0/20, price_inflation 10/10, quantity_outlier 0/5, too_good_to_be_true 0/5, underpriced_known_vendor 0/20, velocity_burst 0/25 |
+| hand_written_rules | 0.891 | 0.6 | 0.717 | - | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, mild_inflation 1/20, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, underpriced_known_vendor 3/20, velocity_burst 25/25 |
+| isolation_forest | 0.875 | 0.811 | 0.842 | 0.952 | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, mild_inflation 4/20, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, underpriced_known_vendor 20/20, velocity_burst 25/25 |
 
 ## /score/price (simulated offers, 15% contaminated with bait/gouge prices)
 

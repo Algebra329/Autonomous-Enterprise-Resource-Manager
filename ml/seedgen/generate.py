@@ -42,6 +42,7 @@ AS_OF_DEFAULT = "2026-10-28"
 NS = uuid.UUID("6f1c2a52-0000-4000-8000-000000000001")  # fixed => stable ids
 COMPANY_DOMAIN = "brightwave.example"
 IDLE_THRESHOLD_DAYS = 30  # default used by the naive baseline; policy can override
+N_NORMAL_PURCHASES = 24   # ~ $9-10k/month, consistent with the $8k demo policy (v1 had 80: ~5x too active)
 
 # --------------------------------------------------------------------------- #
 # Reference data
@@ -342,15 +343,16 @@ def make_history(rng, as_of: date):
     sku_w = [("LAP-14", 28), ("LAP-13", 12), ("LAP-16", 8), ("MON-24", 18), ("MON-27", 18), ("DOCK-TB", 16)]
 
     def qty_for(sku):
+        # Volumes sized to a 150-person company on 3-year laptop cycles (~4 laptops a month).
         if sku.startswith("LAP"):
-            return rng.choice([1, 1, 1, 2, 2, 3])
+            return rng.choice([1, 1, 1, 1, 2])
         if sku.startswith("MON"):
-            return rng.choice([1, 2, 2, 3, 4, 6])
-        return rng.choice([1, 2, 3, 4])
+            return rng.choice([1, 1, 2, 2, 3])
+        return rng.choice([1, 2, 2, 3])
 
     # --- normal human purchasing: habitually picks the pricier vendor ----------
     normal = []
-    for _ in range(80):
+    for _ in range(N_NORMAL_PURCHASES):
         t = business_time()
         sku = weighted(rng, sku_w)
         vendor = "vendor_a" if (rng.random() < 0.65 or sku == "LAP-16") else "vendor_b"
@@ -361,23 +363,23 @@ def make_history(rng, as_of: date):
         normal.append(push(t, vendor, sku, qty_for(sku), unit, bench=bench))
 
     # --- injected anomalies ----------------------------------------------------
-    for _ in range(4):  # price inflation: 28-60% above market
+    for _ in range(2):  # price inflation: 28-60% above market
         t, sku = business_time(), weighted(rng, sku_w)
         vendor = rng.choice(["vendor_a", "vendor_b"])
         frac = (t - start).total_seconds() / (90 * 86400)
         bench = benchmark_at(sku, frac, rng)
         push(t, vendor, sku, qty_for(sku), bench * rng.uniform(1.28, 1.60), bench=bench, labels=["price_inflation"])
 
-    for sku, q in (("MON-24", rng.randint(18, 25)), ("LAP-14", rng.randint(11, 14))):  # quantity outliers
+    for sku, q in (("MON-24", rng.randint(18, 25)),):  # quantity outlier
         push(business_time(), "vendor_a", sku, q, CAT_BY_SKU[sku]["market_price"] * 1.05, labels=["quantity_outlier"])
 
-    # velocity burst / cap structuring: 6 single-unit orders in <45 minutes
+    # velocity burst / cap structuring: 5 single-unit orders in <45 minutes
     while True:
         t0 = business_time()
         if t0.hour < 15:
             break
     who = requesters[0]
-    for k in range(6):
+    for k in range(5):
         push(t0 + timedelta(minutes=k * rng.randint(4, 8)), "vendor_a", "LAP-14", 1,
              CAT_BY_SKU["LAP-14"]["market_price"] * 1.08, requester=who,
              labels=["velocity_burst", "cap_structuring"])

@@ -18,9 +18,9 @@ from core import seats as S  # noqa: E402
 from core.common import parse_ts  # noqa: E402
 import numpy as np  # noqa: E402
 
-TRAIN_SEEDS = [101, 102, 103, 104, 105, 106]
-VAL_SEEDS = [107, 108]
-TEST_SEEDS = [G.SEED, 202, 203]
+TRAIN_SEEDS = list(range(101, 113))   # 12 seeds: purchase history is small (~35 rows/seed)
+VAL_SEEDS = [113, 114, 115, 116]
+TEST_SEEDS = [G.SEED, 202, 203, 204, 205]
 AS_OF = datetime.fromisoformat(G.AS_OF_DEFAULT).replace(hour=12, tzinfo=timezone.utc)
 
 

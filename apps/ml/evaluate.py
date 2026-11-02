@@ -3,6 +3,7 @@
 ALL numbers are on synthetic data from our own generator: treat them as upper bounds, never as field results."""
 import json
 import random
+from pathlib import Path
 from collections import Counter, defaultdict
 from datetime import timedelta
 
@@ -21,6 +22,7 @@ from core import seats as S
 from core.common import parse_ts
 
 R = {}
+MODELS = Path(__file__).resolve().parent / "models"
 
 
 def prf(y, pred):
@@ -31,7 +33,7 @@ def prf(y, pred):
 
 # ------------------------------------------------------------------ seats
 def eval_seats():
-    seat = joblib.load("models/seat_gbm.joblib")
+    seat = joblib.load(MODELS / "seat_gbm.joblib")
     Xs, ys = [], []
     for s in data.TRAIN_SEEDS:
         f, y, _ = data.seats_xy(s, "mixed"); Xs.append(S.matrix(f)); ys.append(y)
@@ -83,7 +85,7 @@ def novel(batch, types, seed):
 
 
 def eval_anomaly():
-    bundle = joblib.load("models/anomaly_iforest.joblib")
+    bundle = joblib.load(MODELS / "anomaly_iforest.joblib")
     res = {}
     for label, extra in (("planted_types_only", None), ("with_novel_types", novel)):
         ys, types_all, naive, hand, iso, iso_s, naive_s = [], [], [], [], [], [], []
