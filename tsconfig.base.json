@@ -13,6 +13,17 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "noEmit": true,
-    "types": ["node"]
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": {
+      "@rm/shared": ["packages/shared/src/index.ts"],
+      "@rm/guard": ["packages/guard/src/index.ts"],
+      "@rm/ledger": ["packages/ledger/src/index.ts"],
+      "@rm/agent": ["packages/agent/src/index.ts"],
+      "@rm/channel3": ["packages/channel3/src/index.ts"],
+      "@rm/paypal": ["packages/paypal/src/index.ts"],
+      "@rm/vendor-kit": ["packages/vendor-kit/src/index.ts"],
+      "@rm/workflows": ["apps/workflows/src/index.ts"]
+    }
   }
 }
