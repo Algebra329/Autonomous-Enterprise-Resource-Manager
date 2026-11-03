@@ -32,7 +32,7 @@ BAI owns the money-guarding verifier, backend API, schemas, ledger, autonomous a
 | **B8** | Milestone | Golden Path v0 | In-policy auto-execution & out-of-policy approval | **COMPLETED** | <ul><li>[x] End-to-end flow operating against sandbox, Channel3, and fixtures</li><li>[x] In-policy purchases auto-executed and recorded in ledger</li><li>[x] Out-of-policy and SaaS cancellations routed to Approval Queue</li></ul> |
 | **B9** | Hardening | Circuit Breaker & Safety | Velocity checks, spend limits, kill switch | **COMPLETED** | <ul><li>[x] Breaker and kill switch endpoints in `apps/api`</li><li>[x] ML advisory client with 2s timeout and deterministic fallback</li></ul> |
 | **B10** | Hardening | Arena Defenses & Security | Prompt injection defense & rate limits | **NOT STARTED** | <ul><li>[ ] Arena isolation & rate limiting</li><li>[ ] CI integration for 50+ abuse cases</li></ul> |
-| **B11** | Polish | Demo scripts | `demo:reset` and rehearsal runbook | **NOT STARTED** | <ul><li>[ ] `< 90s` end-to-end reset and demo script</li></ul> |
+| **B11** | Polish | Demo scripts | `demo:reset` and rehearsal runbook | **COMPLETED** | <ul><li>[x] `< 90s` end-to-end reset and golden path pipeline script (`pnpm demo:reset`)</li><li>[x] Ingests fresh synthetic datasets and populates ledger & approval queue</li></ul> |
 | **B12** | Stretch (P1) | Vendor Verification | Vendor-side mandate verification | **NOT STARTED** | <ul><li>[ ] Vendor validates cart hash and mandate signature against `/v1/keys/:issuer`</li></ul> |
 
 ---

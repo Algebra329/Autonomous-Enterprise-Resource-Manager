@@ -13,6 +13,7 @@
     "typecheck": "pnpm -r --if-present typecheck",
     "test": "pnpm -r --if-present test",
     "test:channel3:live": "tsx scripts/test_live_channel3.ts",
+    "test:llm": "tsx scripts/test_llm_key.ts",
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
