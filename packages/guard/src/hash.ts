@@ -15,7 +15,8 @@ export function base64url(input: Buffer | string): string {
  * Computes payload_hash = sha256(canonicalize(mandate without signature))
  */
 export function hashMandatePayload(mandate: IntentMandate | CartMandate): string {
-  const { signature, ...payloadWithoutSignature } = mandate;
+  const payloadWithoutSignature: Record<string, unknown> = { ...mandate };
+  delete payloadWithoutSignature.signature;
   const canonical = canonicalize(payloadWithoutSignature);
   return sha256(canonical);
 }

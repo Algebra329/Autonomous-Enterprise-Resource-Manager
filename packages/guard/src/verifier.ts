@@ -18,7 +18,7 @@ export interface VerificationContext {
   killSwitchActive?: boolean;
   currentMarketPrice?: number;
   priceDriftTolerancePct?: number; // default 2%
-  verifySignature?: (hash: string, signature: any, issuer: string) => boolean;
+  verifySignature?: (hash: string, signature: unknown, issuer: string) => boolean;
   itemCategory?: string;
   expectedCartHash?: string;
 }
@@ -73,10 +73,13 @@ export function verifyMandate(
     }
   } else {
     // Default signature simulation check
+    const sigPayload = mandate.signature.payload;
     if (
-      mandate.signature.payload === 'invalid' ||
-      (typeof mandate.signature.payload === 'object' &&
-        (mandate.signature.payload as any).valid === false)
+      sigPayload === 'invalid' ||
+      (typeof sigPayload === 'object' &&
+        sigPayload !== null &&
+        'valid' in sigPayload &&
+        (sigPayload as Record<string, unknown>).valid === false)
     ) {
       failingRules.push('SIGNATURE_INVALID');
     }
@@ -102,7 +105,6 @@ export function verifyMandate(
   // 3. Cart Hash Verification
   if (mandate.type === 'cart') {
     const computedCartHash = hashCart(mandate.cart);
-    const expectedHash = context.expectedCartHash || proposal.payload.quote_id;
     if (context.expectedCartHash && computedCartHash !== context.expectedCartHash) {
       failingRules.push('CART_HASH_MISMATCH');
     }
@@ -130,7 +132,8 @@ export function verifyMandate(
   // 5. Policy Constraint Checks (for Intent Mandates)
   if (mandate.type === 'intent') {
     const policy: Policy = mandate.constraints;
-    const category = context.itemCategory || (proposal.payload as any).category;
+    const payload = proposal.payload as Record<string, unknown>;
+    const category = context.itemCategory || (payload.category as string | undefined);
 
     if (category && !policy.categories.includes(category)) {
       failingRules.push('CATEGORY_NOT_ALLOWED');

@@ -1,5 +1,5 @@
 import { randomUUID } from 'node:crypto';
-import type { Policy, Proposal, ProposalKind } from '@rm/shared';
+import type { Policy, Proposal } from '@rm/shared';
 import { verifyMandate } from '@rm/guard';
 import { AgentTools } from './tools.js';
 

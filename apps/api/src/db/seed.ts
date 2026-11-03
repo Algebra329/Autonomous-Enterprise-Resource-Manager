@@ -99,6 +99,53 @@ async function seedDatabase() {
       console.log('[db:seed] Seats seeded.');
     }
 
+    // 4. Seed Purchase History (history-90d.json)
+    const historyFile = path.join(seedDir, 'history-90d.json');
+    if (fs.existsSync(historyFile)) {
+      const history = JSON.parse(fs.readFileSync(historyFile, 'utf8'));
+      console.log(`[db:seed] Seeding ${history.length} purchase history records...`);
+      await client.query(`
+        CREATE TABLE IF NOT EXISTS purchase_history (
+          id UUID PRIMARY KEY,
+          ordered_at TIMESTAMPTZ NOT NULL,
+          vendor_id TEXT NOT NULL,
+          sku TEXT,
+          category TEXT NOT NULL,
+          quantity INT NOT NULL,
+          unit_price NUMERIC(12, 2) NOT NULL,
+          total NUMERIC(12, 2) NOT NULL,
+          currency TEXT NOT NULL DEFAULT 'USD',
+          benchmark_price NUMERIC(12, 2),
+          benchmark_currency TEXT DEFAULT 'USD',
+          requested_by TEXT,
+          channel TEXT
+        );
+      `);
+      for (const h of history) {
+        await client.query(
+          `INSERT INTO purchase_history (id, ordered_at, vendor_id, sku, category, quantity, unit_price, total, currency, benchmark_price, benchmark_currency, requested_by, channel)
+           VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)
+           ON CONFLICT (id) DO NOTHING`,
+          [
+            h.id,
+            h.ordered_at,
+            h.vendor_id,
+            h.sku || null,
+            h.category,
+            h.quantity,
+            h.unit_price,
+            h.total,
+            h.currency || 'USD',
+            h.benchmark_price || null,
+            h.benchmark_currency || 'USD',
+            h.requested_by || null,
+            h.channel || 'manual',
+          ]
+        );
+      }
+      console.log('[db:seed] Purchase history seeded.');
+    }
+
     await client.query('COMMIT');
     console.log('[db:seed] Seeding completed successfully.');
   } catch (err) {

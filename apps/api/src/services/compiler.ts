@@ -78,7 +78,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
 
   // 3. Currency & Warnings
   const warnings: string[] = [];
-  let currency = 'USD';
+  const currency = 'USD';
   if (lower.includes('euro') || lower.includes('€') || lower.includes('gbp') || lower.includes('£')) {
     return {
       policy: null,

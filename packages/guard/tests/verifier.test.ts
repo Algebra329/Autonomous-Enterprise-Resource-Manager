@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { canonicalize } from '../src/canonicalize.js';
-import { hashMandatePayload, hashCart } from '../src/hash.js';
+import { hashCart } from '../src/hash.js';
 import { verifyMandate } from '../src/verifier.js';
 import type { IntentMandate, CartMandate, Proposal } from '@rm/shared';
 

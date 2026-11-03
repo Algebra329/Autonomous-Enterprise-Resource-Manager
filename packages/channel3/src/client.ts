@@ -27,6 +27,22 @@ export interface Channel3Offer {
   url?: string;
 }
 
+export interface FixtureOffer {
+  merchant: string;
+  price: number;
+  currency?: string;
+  in_stock?: boolean;
+  url?: string;
+}
+
+export interface FixtureItem {
+  query?: string;
+  product_title?: string;
+  median_price?: number;
+  currency?: string;
+  offers?: FixtureOffer[];
+}
+
 export interface Channel3Benchmark {
   productId?: string;
   sku?: string;
@@ -44,7 +60,7 @@ export class Channel3Client {
   private baseUrl: string;
   private cache: Map<string, { data: Channel3Benchmark; expiresAt: number }> = new Map();
   private cacheTtlMs: number;
-  private fixtureData?: Record<string, any>;
+  private fixtureData?: Record<string, FixtureItem>;
 
   constructor(options?: { apiKey?: string; baseUrl?: string; cacheTtlMs?: number }) {
     this.apiKey = options?.apiKey || process.env.CHANNEL3_API_KEY;
@@ -95,7 +111,7 @@ export class Channel3Client {
         });
 
         if (res.ok) {
-          const json = (await res.json()) as any;
+          const json = (await res.json()) as Record<string, unknown>;
           const benchmark = this.normalizeApiResponse(json, query);
           this.setCache(cacheKey, benchmark);
           return benchmark;
@@ -121,7 +137,7 @@ export class Channel3Client {
 
     if (this.fixtureData && this.fixtureData[sku]) {
       const item = this.fixtureData[sku];
-      const offers: Channel3Offer[] = (item.offers || []).map((o: any) => ({
+      const offers: Channel3Offer[] = (item.offers || []).map((o) => ({
         merchant: o.merchant,
         price: o.price,
         currency: o.currency || 'USD',
@@ -178,7 +194,7 @@ export class Channel3Client {
           item.query?.toLowerCase().includes(q) ||
           item.product_title?.toLowerCase().includes(q)
         ) {
-          const offers: Channel3Offer[] = (item.offers || []).map((o: any) => ({
+          const offers: Channel3Offer[] = (item.offers || []).map((o) => ({
             merchant: o.merchant,
             price: o.price,
             currency: o.currency || 'USD',
@@ -224,13 +240,14 @@ export class Channel3Client {
     };
   }
 
-  private normalizeApiResponse(json: any, query: string): Channel3Benchmark {
-    const offers: Channel3Offer[] = (json.offers || json.results || []).map((o: any) => ({
-      merchant: o.merchant_domain || o.merchant || 'merchant.example',
-      price: typeof o.price === 'number' ? o.price : parseFloat(o.price || '0'),
-      currency: o.currency || 'USD',
-      in_stock: o.in_stock ?? true,
-      url: o.buy_url || o.url,
+  private normalizeApiResponse(json: Record<string, unknown>, query: string): Channel3Benchmark {
+    const rawOffers = (json.offers || json.results || []) as Array<Record<string, unknown>>;
+    const offers: Channel3Offer[] = rawOffers.map((o) => ({
+      merchant: String(o.merchant_domain || o.merchant || 'merchant.example'),
+      price: typeof o.price === 'number' ? o.price : parseFloat(String(o.price || '0')),
+      currency: String(o.currency || 'USD'),
+      in_stock: (o.in_stock as boolean | undefined) ?? true,
+      url: (o.buy_url || o.url) as string | undefined,
     }));
 
     const validPrices = offers.filter((o) => o.in_stock && o.price > 0).map((o) => o.price);
@@ -241,11 +258,11 @@ export class Channel3Client {
         : bestPrice;
 
     return {
-      productId: json.product_id || json.id,
-      title: json.title || query,
+      productId: (json.product_id || json.id) as string | undefined,
+      title: String(json.title || query),
       bestPrice,
       medianPrice,
-      currency: json.currency || 'USD',
+      currency: String(json.currency || 'USD'),
       offers,
       checked_at: new Date().toISOString(),
       source: 'live',

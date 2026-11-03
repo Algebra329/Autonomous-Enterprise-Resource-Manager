@@ -28,7 +28,19 @@ export async function scanAssets(asOfDate: Date = new Date()): Promise<OverdueAs
     path.resolve(__dirname, '../../../../seed/assets.json'),
   ];
 
-  let rawAssets: any[] = [];
+  interface RawAsset {
+    id: string;
+    asset_tag?: string;
+    name: string;
+    category: string;
+    sku?: string;
+    purchased_at: string;
+    replace_after_months?: number;
+    assigned_to?: string;
+    status?: string;
+  }
+
+  let rawAssets: RawAsset[] = [];
   for (const p of candidates) {
     if (fs.existsSync(p)) {
       rawAssets = JSON.parse(fs.readFileSync(p, 'utf8'));

@@ -6,17 +6,32 @@ import type {
   LedgerEntry,
 } from '@rm/shared';
 
+export interface OrderRecord {
+  id: string;
+  proposal_id: string;
+  mandate: CartMandate;
+  vendor_id: string;
+  sku: string;
+  quantity: number;
+  unit_price: number;
+  amount: number;
+  currency: string;
+  paypal_order_id: string;
+  status: string;
+  created_at: string;
+}
+
 export interface AppState {
   mandates: Map<string, (IntentMandate | CartMandate) & { id: string; status: string; created_at: string }>;
   proposals: Map<string, Proposal>;
-  orders: Map<string, any>;
+  orders: Map<string, OrderRecord>;
   ledger: LedgerEntry[];
   usedNonces: Set<string>;
   revokedMandateIds: Set<string>;
   circuitBreakerOpen: boolean;
   killSwitchActive: boolean;
   lastBreakerTripped: string | null;
-  runs: Map<string, any>;
+  runs: Map<string, Record<string, unknown>>;
 }
 
 export const state: AppState = {

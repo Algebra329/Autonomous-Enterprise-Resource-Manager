@@ -2,7 +2,7 @@
  * RFC 8785 JSON Canonicalization Scheme (JCS)
  * Pure TypeScript implementation without external dependencies.
  */
-export function canonicalize(val: any): string {
+export function canonicalize(val: unknown): string {
   if (val === null || typeof val !== 'object') {
     return JSON.stringify(val);
   }
@@ -13,11 +13,12 @@ export function canonicalize(val: any): string {
   }
 
   // Object keys must be sorted by Unicode code points
-  const keys = Object.keys(val).sort();
+  const obj = val as Record<string, unknown>;
+  const keys = Object.keys(obj).sort();
   const pairs: string[] = [];
 
   for (const key of keys) {
-    const value = val[key];
+    const value = obj[key];
     if (value !== undefined) {
       pairs.push(`${JSON.stringify(key)}:${canonicalize(value)}`);
     }

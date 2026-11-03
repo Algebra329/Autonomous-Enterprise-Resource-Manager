@@ -55,13 +55,16 @@ export const dashboardRoutes: FastifyPluginAsync = async (app) => {
       }
 
       case 'mandate_usage': {
-        const usage = Array.from(state.mandates.values()).map((m) => ({
-          mandate_id: m.id,
-          cap: (m as any).constraints?.monthly_cap || 5000,
-          used: 1450,
-          remaining: ((m as any).constraints?.monthly_cap || 5000) - 1450,
-          expires: m.expires,
-        }));
+        const usage = Array.from(state.mandates.values()).map((m) => {
+          const cap = 'constraints' in m && m.constraints ? m.constraints.monthly_cap : 5000;
+          return {
+            mandate_id: m.id,
+            cap,
+            used: 1450,
+            remaining: cap - 1450,
+            expires: m.expires,
+          };
+        });
         return reply.send(usage);
       }
 
@@ -90,7 +93,25 @@ export const dashboardRoutes: FastifyPluginAsync = async (app) => {
           },
         ]);
 
-      case 'backtest':
+      case 'backtest': {
+        try {
+          const fs = await import('fs');
+          const path = await import('path');
+          const candidates = [
+            path.resolve(process.cwd(), 'seed/backtest-demo.json'),
+            path.resolve(process.cwd(), '../../seed/backtest-demo.json'),
+          ];
+          for (const p of candidates) {
+            if (fs.existsSync(p)) {
+              const demo = JSON.parse(fs.readFileSync(p, 'utf8'));
+              if (demo.backtest?.weekly) {
+                return reply.send(demo.backtest.weekly);
+              }
+            }
+          }
+        } catch {
+          // fall through to fallback
+        }
         return reply.send([
           {
             week: 'Week 1',
@@ -107,6 +128,7 @@ export const dashboardRoutes: FastifyPluginAsync = async (app) => {
             blocked: 2,
           },
         ]);
+      }
 
       default:
         return reply.status(404).send({

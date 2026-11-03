@@ -198,6 +198,7 @@ export const VendorCounterResponseSchema = z.object({
   valid_until: z.string(),
 });
 export type VendorCounterResponse = z.infer<typeof VendorCounterResponseSchema>;
+export type VendorCounter = VendorCounterResponse;
 
 export const VendorOrderRequestSchema = z.object({
   quote_id: z.string(),

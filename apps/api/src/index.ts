@@ -11,6 +11,7 @@ import { dashboardRoutes } from './routes/dashboard.js';
 import { safetyRoutes } from './routes/safety.js';
 import { runRoutes } from './routes/runs.js';
 import { webhookRoutes } from './routes/webhooks.js';
+import { backtestRoutes } from './routes/backtest.js';
 
 export async function buildApp() {
   const app = Fastify({
@@ -35,6 +36,7 @@ export async function buildApp() {
   await app.register(safetyRoutes);
   await app.register(runRoutes);
   await app.register(webhookRoutes);
+  await app.register(backtestRoutes);
 
   return app;
 }
