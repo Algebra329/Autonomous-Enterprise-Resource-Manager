@@ -7,6 +7,11 @@
   # B) straight to a model with prompt_v1.txt (needs network + key)
   ANTHROPIC_API_KEY=... python run_eval.py --provider anthropic --model <model-id> --out responses.json
 
+  # C) any OpenAI-compatible provider (OpenAI, Google Gemini, Groq, Together, Mistral...). Key in LLM_API_KEY.
+  #    Gemini example (free tier is ~5-15 requests/min, so add a delay):
+  LLM_API_KEY=... python run_eval.py --provider openai --model <gemini-flash-model-id> \
+      --base-url https://generativelanguage.googleapis.com/v1beta/openai --delay 6 --split dev --out dev.json
+
 Use --split dev while tuning the prompt. Run --split test once when you are done.
 Standard library only.
 """
@@ -29,8 +34,8 @@ def parse_json(text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--provider", choices=["api", "anthropic"], required=True)
-    ap.add_argument("--url"); ap.add_argument("--token"); ap.add_argument("--model")
+    ap.add_argument("--provider", choices=["api", "anthropic", "openai"], required=True)
+    ap.add_argument("--url"); ap.add_argument("--token"); ap.add_argument("--model"); ap.add_argument("--base-url")
     ap.add_argument("--prompt", default=str(HERE / "prompt_v1.txt"))
     ap.add_argument("--split", choices=["all", "dev", "test"], default="all")
     ap.add_argument("--out", default="responses.json")
@@ -44,6 +49,21 @@ def main():
             if a.provider == "api":
                 h = {"Authorization": f"Bearer {a.token}"} if a.token else {}
                 r = post(a.url.rstrip("/") + "/v1/policies/compile", {"text": c["text"]}, h)
+            elif a.provider == "openai":
+                key = os.environ.get("LLM_API_KEY")
+                if not (a.model and a.base_url and key):
+                    sys.exit("need --model, --base-url and LLM_API_KEY")
+                body = {"model": a.model, "temperature": 0, "messages": [
+                    {"role": "system", "content": system},
+                    {"role": "user", "content": f"<policy_text>\n{c['text']}\n</policy_text>"}]}
+                url, hdr = a.base_url.rstrip("/") + "/chat/completions", {"Authorization": f"Bearer {key}"}
+                try:
+                    resp = post(url, {**body, "response_format": {"type": "json_object"}}, hdr)
+                except urllib.error.HTTPError as e:      # some providers reject response_format: retry without it
+                    if e.code != 400:
+                        raise
+                    resp = post(url, body, hdr)
+                r = parse_json(resp["choices"][0]["message"]["content"])
             else:
                 if not a.model or not os.environ.get("ANTHROPIC_API_KEY"):
                     sys.exit("need --model and ANTHROPIC_API_KEY")

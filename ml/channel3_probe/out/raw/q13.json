@@ -1,210 +1,57 @@
 {
   "products": [
     {
-      "id": "3AokFsA",
-      "title": "SAMSUNG T35F 24\" FHD 1920x1080 IPS 75Hz 5ms (GTG) Office Monitor",
-      "description": "The SAMSUNG T35F is a 24-inch Full HD (1920x1080) office monitor designed for a clean, modern workspace with a 3-sided borderless display. It features an IPS panel for consistent color accuracy from any angle, a 75Hz refresh rate for smooth visuals, and a 5ms (GTG) response time. To enhance the user experience, it includes AMD Radeon FreeSync\u2122 to reduce image tearing, Game Mode for optimized contrast, and eye care technology featuring Flicker-Free and Eye Saver Mode. Connectivity options include one HDMI 1.4 port and one VGA (D-sub) port, and it is VESA mount compatible.",
+      "id": "jEjcw5t",
+      "title": "HP Series 7 Pro 724pf 24\" FHD IPS Monitor, Anti-Glare",
+      "description": "The HP Series 7 Pro 724pf is a 24-inch flat monitor designed for professional workflows, featuring a Full HD (1920 x 1080) IPS panel with an enhanced 1500:1 contrast ratio for deeper blacks. It ensures high color accuracy with 99% sRGB and 85% DCI-P3 coverage, supported by a factory calibration report. The monitor is built for comfort with a TUV Rheinland-certified HP Eye Ease low blue light screen and a 100Hz refresh rate to reduce motion blur. It offers extensive ergonomic flexibility with a 4-way adjustable stand (height, pivot, swivel, and tilt) and VESA mount compatibility. Connectivity is robust, including HDMI, DisplayPort with daisy-chaining capability, and a built-in USB hub, and it comes bundled with a Dockztorm USB Hub.",
       "brands": [
         {
-          "id": "Mbqx",
-          "name": "Samsung"
+          "id": "NdmC",
+          "name": "HP"
         }
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/b65bd111-1c2f-4d1e-80cd-7b7653531d03?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b65bd111-1c2f-4d1e-80cd-7b7653531d03?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
+          "url": "https://cdn.trychannel3.com/539e29f3-1059-4132-9845-ea46d159fdb2?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/539e29f3-1059-4132-9845-ea46d159fdb2?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
-          "alt_text": "Samsung LED monitor on a black stand showing a sunset."
+          "alt_text": "Front view of a 24-inch HP Series 7 Pro monitor."
         },
         {
-          "url": "https://cdn.trychannel3.com/63cc3666-ad2a-4e0e-92cb-d23bc0d028a7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/63cc3666-ad2a-4e0e-92cb-d23bc0d028a7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Samsung LED monitor on a black stand showing a sunset."
-        }
-      ],
-      "category": {
-        "slug": "computer-monitors",
-        "title": "Computer Monitors",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "video",
-            "title": "Video"
-          },
-          {
-            "slug": "computer-monitors",
-            "title": "Computer Monitors"
-          }
-        ],
-        "has_children": true
-      },
-      "gender": null,
-      "age": null,
-      "materials": [
-        "LCD"
-      ],
-      "key_features": [
-        "24\" In-Plane Switching (IPS) Panel",
-        "1920 x 1080 FHD Resolution @ 75 Hz",
-        "AMD FreeSync Technology",
-        "3-Side Borderless Design",
-        "HDMI 1.4 + VGA Inputs",
-        "Flicker-free technology and Eye Saver mode",
-        "100 x 100mm VESA mounting support",
-        "75Hz refresh rate with 5ms (GTG) response time"
-      ],
-      "colors": [
-        {
-          "hex": "#564d8b",
-          "percentage": 0.2062
-        },
-        {
-          "hex": "#7c80d2",
-          "percentage": 0.1929
-        },
-        {
-          "hex": "#aba1cd",
-          "percentage": 0.1584
-        },
-        {
-          "hex": "#2b243c",
-          "percentage": 0.1359
-        },
-        {
-          "hex": "#cc8192",
-          "percentage": 0.109
-        },
-        {
-          "hex": "#cfc7dc",
-          "percentage": 0.1045
-        },
-        {
-          "hex": "#915f86",
-          "percentage": 0.0931
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/3AokFsA-CCJD-8tFxDf?o=01M3V0A1ZJTJJ8N7ZGQKBNSX8E&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "canadacomputers.com",
-          "price": {
-            "price": 94.89,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.0,
-          "dimensions": null
-        },
-        {
-          "url": "https://buy.trychannel3.com/3AokFsA-n0yg-8tFxDf?o=01M37V91EQ1YMYN4RH6RRQBAGZ&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "backmarket.com",
-          "price": {
-            "price": 161.0,
-            "compare_at_price": 199.0,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": null,
-          "max_commission_rate": 0.035,
-          "dimensions": {
-            "length": {
-              "number": 21.2,
-              "unit": "in"
-            },
-            "width": {
-              "number": 9.1,
-              "unit": "in"
-            },
-            "height": {
-              "number": 16.7,
-              "unit": "in"
-            },
-            "weight": {
-              "number": 8.4,
-              "unit": "lb"
-            }
-          }
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "display-resolution": [
-          "1920 x 1080"
-        ],
-        "adaptive-sync-technology": [
-          "AMD FreeSync"
-        ],
-        "monitor-shape": [
-          "Flat"
-        ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "native-aspect-ratio": [
-          "16:9"
-        ],
-        "display-technology": [
-          "IPS",
-          "LED"
-        ],
-        "monitor-specialized-features": [
-          "Blue light filter",
-          "Flicker-free",
-          "Frameless",
-          "LED backlight",
-          "Suitable for gaming",
-          "Anti-glare",
-          "Glossy finish"
-        ],
-        "device-interface": [
-          "HDMI",
-          "VGA"
-        ],
-        "color-accuracy-standards": [
-          "NTSC"
-        ],
-        "contrast-ratio-typical": [
-          "1000:1"
-        ],
-        "vesa-mounting-pattern": [
-          "100 x 100 mm"
-        ]
-      },
-      "ratings": null
-    },
-    {
-      "id": "fR9X8MD",
-      "title": "24 Inch FHD IPS 100Hz Monitor with Slim Stand",
-      "description": "The LG 24BA650-I is a 23.8-inch Full HD monitor designed for productivity and versatility. It features an IPS panel with a 1920 x 1080 resolution, a smooth 100 Hz refresh rate to minimize motion blur, and a 5 ms response time. The monitor is equipped with a variety of connectivity options, including HDMI, DisplayPort 1.4, and a USB-C port that supports video, data, and up to 65W power delivery. For enhanced comfort, it includes a Reader Mode to reduce blue light and a fully adjustable stand (height, tilt, pivot, and swivel), making it ideal for multi-monitor setups.",
-      "brands": [
-        {
-          "id": "WmyR",
-          "name": "LG"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/aad27cef-0eda-42bd-8938-143fdca8bd94?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": null,
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Front view of a 24-inch LG FHD IPS monitor with a slim stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/d1f8c17f-550f-4a6a-b353-fbb36bb16cf7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
+          "url": "https://cdn.trychannel3.com/b6fc49ec-defc-4fdc-9111-f39dd3149463?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "cleaned_url": null,
           "is_main_image": false,
-          "shot_type": "merchant_information",
-          "alt_text": "Graphic showing a headset icon and a SAVE promotion for monitors."
+          "shot_type": "hero",
+          "alt_text": "Two 24-inch HP Series 7 Pro monitors displayed together."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b7e6bb53-c064-4fe0-842f-c7218218fc37?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b7e6bb53-c064-4fe0-842f-c7218218fc37?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "24-inch HP Series 7 Pro monitor detached from its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cac9c793-0483-4e56-8887-0c869206ba0a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cac9c793-0483-4e56-8887-0c869206ba0a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "HP monitor mounted on an arm with a laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/77bc6039-dd8c-47fd-b110-824bfd98803f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/77bc6039-dd8c-47fd-b110-824bfd98803f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "23.8-inch HP Series 7 Pro monitor displaying specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5981002d-3e0d-43d4-891c-ef775ed978a6?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Minimalist desk setup with a monitor, laptop, and desk."
         }
       ],
       "category": {
@@ -230,90 +77,104 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "23.8\" 16:9 IPS Panel",
-        "Full HD (1080p) 1920 x 1080 resolution",
-        "100 Hz refresh rate",
-        "USB-C (65W) power delivery, video, and data",
-        "HDMI and DisplayPort 1.4 connectivity",
-        "5 ms (GtG) response time",
-        "Fully adjustable stand (height, tilt, pivot, swivel)",
-        "Integrated stereo speakers and microphone",
-        "Reader Mode for reduced blue light",
-        "100 x 100mm VESA mounting pattern"
+        "24-inch Full HD (1920 x 1080) IPS panel",
+        "1500:1 contrast ratio for deeper blacks",
+        "99% sRGB and 85% DCI-P3 color gamut with factory calibration",
+        "100Hz refresh rate and 5ms (GTG) response time",
+        "TUV Rheinland-certified HP Eye Ease low blue light technology",
+        "4-way ergonomic stand: 150mm height adjustment, pivot, swivel, and tilt",
+        "Native DisplayPort-out for dual-monitor daisy-chaining",
+        "Connectivity: 1x HDMI, 2x DisplayPort, 4x USB Type-A, 1x USB Type-B",
+        "Anti-glare screen surface",
+        "Includes Dockztorm USB Hub (Special Edition Portable Data Hub)"
       ],
       "colors": [
         {
-          "hex": "#f0af95",
-          "percentage": 0.2996
+          "hex": "#32353c",
+          "percentage": 0.3329
         },
         {
-          "hex": "#f2260f",
-          "percentage": 0.1735
+          "hex": "#3e6770",
+          "percentage": 0.1535
         },
         {
-          "hex": "#f65d2b",
-          "percentage": 0.13
+          "hex": "#eee2c2",
+          "percentage": 0.1227
         },
         {
-          "hex": "#ec8c72",
-          "percentage": 0.1211
+          "hex": "#8fb9ba",
+          "percentage": 0.1065
         },
         {
-          "hex": "#f8d7cd",
-          "percentage": 0.1013
+          "hex": "#201d20",
+          "percentage": 0.1036
         },
         {
-          "hex": "#d0210e",
-          "percentage": 0.089
+          "hex": "#917462",
+          "percentage": 0.0999
         },
         {
-          "hex": "#d95a3d",
-          "percentage": 0.0854
+          "hex": "#4a3739",
+          "percentage": 0.0809
         }
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/fR9X8MD-oHaU-8tFxDf?o=01M3Q48M518EYG6SG7DRMGN5C5&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "bhphotovideo.com",
+          "url": "https://buy.trychannel3.com/jEjcw5t-p1PB-8tFxDf?o=01KXZ8SWAFSQ75JRZ55XA0J1CB&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bestbuy.com",
           "price": {
-            "price": 249.99,
-            "compare_at_price": null,
+            "price": 319.99,
+            "compare_at_price": 399.99,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
-          "max_commission_rate": 0.021,
+          "max_commission_rate": 0.005,
           "dimensions": {
-            "length": {
-              "number": 21.2,
-              "unit": "in"
-            },
+            "length": null,
             "width": {
-              "number": 20.4,
+              "number": 7.67,
               "unit": "in"
             },
             "height": {
-              "number": 9.8,
+              "number": 19.26,
               "unit": "in"
             },
             "weight": {
-              "number": 14.6,
+              "number": 10.36,
               "unit": "lb"
             }
           }
         },
         {
-          "url": "https://buy.trychannel3.com/fR9X8MD-g0qz-8tFxDf?o=01M2DDPAJTXJ4CZTT4HXMXH7W8&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "lg.com",
+          "url": "https://buy.trychannel3.com/jEjcw5t-K6RA-8tFxDf?o=01M63H4HTQB54C92WZMARPE21K&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "macys.com",
           "price": {
-            "price": 255.0,
+            "price": 639.99,
             "compare_at_price": null,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
-          "max_commission_rate": 0.063,
-          "dimensions": null
+          "max_commission_rate": 0.056,
+          "dimensions": {
+            "length": {
+              "number": 21.19,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.67,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.26,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 10.36,
+              "unit": "lb"
+            }
+          }
         }
       ],
       "variants": null,
@@ -321,47 +182,43 @@
         "screen-curvature-rating": [
           "Flat (0R)"
         ],
-        "color-accuracy-standards": [
-          "sRGB"
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Frameless",
+          "LED backlight",
+          "Blue light filter"
         ],
         "monitor-shape": [
           "Flat"
         ],
-        "monitor-specialized-features": [
-          "Blue light filter",
-          "Built-in speakers",
-          "Frameless",
-          "Anti-glare",
-          "HDR support"
-        ],
-        "display-resolution": [
-          "1920 x 1080"
+        "device-interface": [
+          "HDMI",
+          "Display port",
+          "USB"
         ],
         "native-aspect-ratio": [
           "16:9"
         ],
-        "device-interface": [
-          "USB",
-          "HDMI",
-          "Display port",
-          "3.5 mm",
-          "VGA"
+        "pattern": [
+          "Solid"
         ],
         "display-technology": [
+          "LCD",
           "IPS"
         ],
         "contrast-ratio-typical": [
-          "1300:1"
+          "1500:1"
         ],
-        "vesa-mounting-pattern": [
-          "100 x 100 mm"
+        "color-accuracy-standards": [
+          "DCI-P3",
+          "sRGB"
         ]
       },
-      "ratings": {
-        "value": 3.18,
-        "count": 5,
-        "source_count": 2
-      }
+      "ratings": null
     },
     {
       "id": "5RF8KaT",
@@ -375,36 +232,36 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/89e60aa4-1240-43d7-a0d4-efc0c5b931fc?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/89e60aa4-1240-43d7-a0d4-efc0c5b931fc?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/89e60aa4-1240-43d7-a0d4-efc0c5b931fc?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/89e60aa4-1240-43d7-a0d4-efc0c5b931fc?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "A 24-inch HP Series 5 524sh monitor displaying motion graphics."
         },
         {
-          "url": "https://cdn.trychannel3.com/b58021af-f79a-4a4c-8746-be6c87bf088e?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b58021af-f79a-4a4c-8746-be6c87bf088e?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/b58021af-f79a-4a4c-8746-be6c87bf088e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b58021af-f79a-4a4c-8746-be6c87bf088e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Front view of a white HP monitor showing colorful display."
         },
         {
-          "url": "https://cdn.trychannel3.com/88e57812-6659-4af4-abd6-4228e6b6726f?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88e57812-6659-4af4-abd6-4228e6b6726f?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/88e57812-6659-4af4-abd6-4228e6b6726f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88e57812-6659-4af4-abd6-4228e6b6726f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Front view of a white HP monitor showing colorful display."
         },
         {
-          "url": "https://cdn.trychannel3.com/327eab07-a88f-4998-bf8b-ef3e3ef40633?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/327eab07-a88f-4998-bf8b-ef3e3ef40633?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/327eab07-a88f-4998-bf8b-ef3e3ef40633?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/327eab07-a88f-4998-bf8b-ef3e3ef40633?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Side view of an HP monitor and its stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/6ad20b36-c48a-4cd3-bb1e-10a70cb88fa5?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6ad20b36-c48a-4cd3-bb1e-10a70cb88fa5?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/6ad20b36-c48a-4cd3-bb1e-10a70cb88fa5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6ad20b36-c48a-4cd3-bb1e-10a70cb88fa5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Side view of a black HP monitor and its stand."
@@ -468,7 +325,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/5RF8KaT-p1PB-8tFxDf?o=01KY79FZ0FDJDQN5PJNYNYQN7F&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/5RF8KaT-p1PB-8tFxDf?o=01KY79FZ0FDJDQN5PJNYNYQN7F&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "bestbuy.com",
           "price": {
             "price": 269.99,
@@ -534,22 +391,57 @@
       "ratings": null
     },
     {
-      "id": "E3W5o6k",
-      "title": "24\" FHD IPS Monitor",
-      "description": "Experience stunning visuals with the HP Series 5 Pro 524pf 24\" FHD IPS Monitor. Boasting a 100Hz refresh rate and a rapid 5ms response time, this monitor delivers smooth, fluid motion for work and play. The FHD (1920x1080) resolution combined with IPS SuperClear technology provides vibrant colors and wide viewing angles, while the anti-glare screen ensures comfortable viewing in any lighting condition. With its tilt, pivot, and swivel capabilities, you can easily adjust the display to your preferred position for optimal ergonomics. This monitor also features HP Eye Ease, a low-blue light filter that protects your eyes during long sessions without compromising color accuracy.",
+      "id": "vj3ohDo",
+      "title": "ViewSonic VG2448A-2_H2 24\" Dual Pack Head-Only IPS Monitor",
+      "description": "Two-monitor dual-pack ViewSonic VG2448A-2_H2 with 24-inch Full HD IPS panels, offers two monitor heads in one box, stand-free. Features include Full HD 1920x1080p resolution, SuperClear IPS panel, 5ms response, HDMI, DisplayPort, VGA inputs, USB, VESA mount compatibility, and eco-friendly packaging. Suitable for home and office multitasking with dual-monitor setup.",
       "brands": [
         {
-          "id": "NdmC",
-          "name": "HP"
+          "id": "7Ncd",
+          "name": "ViewSonic"
         }
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/db6e8d34-688e-4753-a8f7-bfde2a596c27?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": null,
+          "url": "https://cdn.trychannel3.com/e305dac7-542d-429d-92a4-e1f462214f03?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/67076ef9-10d3-49bd-9892-ab9bb00065a3?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
           "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of a ViewSonic IPS monitor displaying the ViewSonic logo and IPS text."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/47f719f9-be70-4ad4-9a89-867cc5de31e0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Two monitors set up on a desk with people working."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2699e676-1d79-4487-afb2-a4528c057ca2?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "ViewSonic monitor packaging showing two monitors in green."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/543c8bf4-52f0-42fd-aee6-9f14b1af2c54?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "size_chart",
+          "alt_text": "Monitor size and dimension specifications."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3782c9d3-b3a1-4c38-ba33-1d8e2bd0ca52?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
           "shot_type": "product_information",
-          "alt_text": "HP Series 5 Pro 524pf 24-inch FHD IPS Monitor with a silver stand and black bezel."
+          "alt_text": "Rear view of the monitor showing ports and features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8c053e15-de85-4a72-a812-82e2c571da52?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": null,
+          "alt_text": "Monitor front panel showing connection ports and cable types."
         }
       ],
       "category": {
@@ -575,36 +467,258 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "24\" FHD IPS (1920 x 1080)",
-        "1 x HDMI, 1 x Displayport, 4 x USB Type-A, 1 x USB Type-B",
-        "Adjustable Tilt (-5 to +23 degrees)",
-        "Anti-glare",
-        "Flicker free",
-        "Low blue light",
-        "Brightness 350 nits",
-        "3-sided borderless with micro-edge bezel design",
-        "100% sRGB Color Gamut",
-        "Includes Dockztorm Dock (Special Edition Portable Dockztorm Data Hub; Super Speedy Data Sync Rate upto 5Gbps)"
+        "Experience crisp visuals on this 24-inch Full HD monitor",
+        "IPS panel with wide viewing angles",
+        "HDMI, DisplayPort, and VGA inputs for versatile connectivity",
+        "5ms response time for reduced blur",
+        "Built-in speakers for audio",
+        "VESA mount compatibility and flexible setup"
       ],
-      "colors": [],
+      "colors": [
+        {
+          "hex": "#07030a",
+          "percentage": 0.3035
+        },
+        {
+          "hex": "#801ea8",
+          "percentage": 0.2477
+        },
+        {
+          "hex": "#300a3e",
+          "percentage": 0.2335
+        },
+        {
+          "hex": "#6d238e",
+          "percentage": 0.0821
+        },
+        {
+          "hex": "#9e78ab",
+          "percentage": 0.0768
+        },
+        {
+          "hex": "#4e0d65",
+          "percentage": 0.0565
+        }
+      ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/E3W5o6k-p1PB-8tFxDf?o=01KZ94CHK6T3TTYSFXJ2YW5A92&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "bestbuy.com",
+          "url": "https://buy.trychannel3.com/vj3ohDo-T9Fg-8tFxDf?o=01KNMHWED53SKBKC33CYQWD191&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "adorama.com",
           "price": {
-            "price": 229.99,
+            "price": 309.99,
             "compare_at_price": null,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
-          "max_commission_rate": 0.004,
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-specialized-features": [
+          "Built-in speakers"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "ryguXps",
+      "title": "LG 24\" IPS FHD Monitor with Adjustable Stand & Wall Mountable 24BP450Y-I",
+      "description": "The LG 24BP450Y-I is a 24-inch Full HD (FHD) monitor featuring an IPS panel for consistent image quality. Designed for productivity and casual gaming, it offers an ergonomic adjustable stand with height, pivot, swivel, and tilt functions, and is VESA wall-mountable. It supports AMD FreeSync for smoother visuals and provides versatile connectivity with HDMI 2.0, DisplayPort 1.2, and D-Sub inputs.",
+      "brands": [
+        {
+          "id": "WmyR",
+          "name": "LG"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/4675bf28-47d5-476a-82d1-8da2f530a321?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4675bf28-47d5-476a-82d1-8da2f530a321?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black LG monitor on a plain white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6ec28009-8bd7-4076-bb76-bad895150f77?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6ec28009-8bd7-4076-bb76-bad895150f77?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor displaying a sunset landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/456e78d7-7347-4e3d-a252-f869d78797da?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/456e78d7-7347-4e3d-a252-f869d78797da?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor displaying a sunset landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e3f9097a-043f-4516-baca-e798d86e01a5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Back view of the LG monitor showing ports and mount."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/606ec69d-8edb-42bc-8e59-0b188c5cc9ca?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/606ec69d-8edb-42bc-8e59-0b188c5cc9ca?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black LG monitor with stand and mount."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d306d4e7-6ccc-4a34-9697-d98429000bb8?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor showing a mountain landscape scene."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/bd08e2f9-0563-494d-a91d-b3122ccf1416?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bd08e2f9-0563-494d-a91d-b3122ccf1416?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black LG monitor on a plain white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/5ad47f40-15b2-4ebe-98ec-52a609c60e7e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Monitor screen showing picture mode settings."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c9b909a9-2f04-4c3c-a2eb-a5d7d72ef5be?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c9b909a9-2f04-4c3c-a2eb-a5d7d72ef5be?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black LG monitor on a plain white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/56ee7bae-ff9c-4fc0-8ff3-2d3a40b22ed9?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/56ee7bae-ff9c-4fc0-8ff3-2d3a40b22ed9?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor displaying a sunset landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/0581e86e-b0c4-4e2d-82cf-a669701d34ac?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0581e86e-b0c4-4e2d-82cf-a669701d34ac?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black LG monitor on a plain white background."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/21144668-36ee-4719-b3b2-aa30fabe90bd?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/21144668-36ee-4719-b3b2-aa30fabe90bd?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "LG monitor displaying a sunset landscape."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" IPS FHD display",
+        "AMD FreeSync (Adaptive Sync)",
+        "Adjustable stand (Height, Pivot, Swivel, Tilt)",
+        "Wall mountable (VESA)",
+        "Inputs: 1 x HDMI 2.0, 1 x DisplayPort 1.2, 1 x D-Sub",
+        "1,000:1 contrast ratio",
+        "16.7 Million colors",
+        "Reader Mode and Flicker Safe"
+      ],
+      "colors": [
+        {
+          "hex": "#383838",
+          "percentage": 0.6327
+        },
+        {
+          "hex": "#797979",
+          "percentage": 0.1493
+        },
+        {
+          "hex": "#5e5e5e",
+          "percentage": 0.1144
+        },
+        {
+          "hex": "#afafaf",
+          "percentage": 0.1036
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/ryguXps-LPzf-8tFxDf?o=01M5ZTGFWP20RNPF7Y4QD1YCSZ&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "newegg.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
           "dimensions": {
-            "length": null,
-            "width": null,
-            "height": null,
+            "length": {
+              "number": 19.92,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.26,
+              "unit": "in"
+            },
+            "height": {
+              "number": 9.82,
+              "unit": "in"
+            },
             "weight": {
-              "number": 10.8,
+              "number": 9.48,
               "unit": "lb"
             }
           }
@@ -612,42 +726,35 @@
       ],
       "variants": null,
       "structured_attributes": {
-        "color-accuracy-standards": [
-          "sRGB"
-        ],
-        "contrast-ratio-typical": [
-          "1500:1"
-        ],
         "device-interface": [
           "Display port",
           "HDMI",
-          "USB"
-        ],
-        "display-resolution": [
-          "1920 x 1080"
-        ],
-        "display-technology": [
-          "IPS"
-        ],
-        "monitor-shape": [
-          "Flat"
+          "VGA"
         ],
         "monitor-specialized-features": [
-          "Anti-glare",
-          "Blue light filter",
           "Flicker-free",
-          "Frameless",
-          "HDR support",
-          "LED backlight"
+          "Suitable for gaming"
         ],
         "native-aspect-ratio": [
           "16:9"
         ],
-        "pattern": [
-          "Solid"
+        "adaptive-sync-technology": [
+          "AMD FreeSync"
+        ],
+        "monitor-shape": [
+          "Flat"
         ],
         "screen-curvature-rating": [
           "Flat (0R)"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1000:1"
+        ],
+        "display-resolution": [
+          "Full HD"
         ]
       },
       "ratings": null
@@ -664,50 +771,50 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/e2928793-28ec-4019-9275-b5534320eb8a?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e2928793-28ec-4019-9275-b5534320eb8a?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/e2928793-28ec-4019-9275-b5534320eb8a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e2928793-28ec-4019-9275-b5534320eb8a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Acer 24 inch FHD IPS monitor with stand and cables."
         },
         {
-          "url": "https://cdn.trychannel3.com/5481fbea-b41d-482b-b15c-4498c58cc092?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5481fbea-b41d-482b-b15c-4498c58cc092?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/5481fbea-b41d-482b-b15c-4498c58cc092?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5481fbea-b41d-482b-b15c-4498c58cc092?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Front view of the Acer monitor with dynamic blue graphic."
         },
         {
-          "url": "https://cdn.trychannel3.com/2ba74eba-53f6-47e7-9672-ad92fabdcf22?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2ba74eba-53f6-47e7-9672-ad92fabdcf22?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/2ba74eba-53f6-47e7-9672-ad92fabdcf22?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2ba74eba-53f6-47e7-9672-ad92fabdcf22?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Front view of the Acer monitor displaying dynamic graphics."
         },
         {
-          "url": "https://cdn.trychannel3.com/d5c8852e-1fa4-4f27-8629-973175fb7c99?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5c8852e-1fa4-4f27-8629-973175fb7c99?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/d5c8852e-1fa4-4f27-8629-973175fb7c99?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5c8852e-1fa4-4f27-8629-973175fb7c99?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Front view of the Acer monitor."
         },
         {
-          "url": "https://cdn.trychannel3.com/b317a8e2-6d18-488f-991c-bb3ff43a61b0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b317a8e2-6d18-488f-991c-bb3ff43a61b0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/b317a8e2-6d18-488f-991c-bb3ff43a61b0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b317a8e2-6d18-488f-991c-bb3ff43a61b0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Side view of the black Acer monitor with its stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/4c5c0bf7-18f7-4cc7-b725-b2247d8ea059?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4c5c0bf7-18f7-4cc7-b725-b2247d8ea059?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/4c5c0bf7-18f7-4cc7-b725-b2247d8ea059?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4c5c0bf7-18f7-4cc7-b725-b2247d8ea059?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Monitor with adjustable stand on a desk."
         },
         {
-          "url": "https://cdn.trychannel3.com/dc554bac-7dff-4295-be2b-fbe40ca90347?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc554bac-7dff-4295-be2b-fbe40ca90347?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/dc554bac-7dff-4295-be2b-fbe40ca90347?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/dc554bac-7dff-4295-be2b-fbe40ca90347?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Side view of the monitor and its stand."
@@ -782,7 +889,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/G8zd0p8-p1PB-8tFxDf?o=01KY1VTA6S258KAG8AR5HYNHSV&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/G8zd0p8-p1PB-8tFxDf?o=01KY1VTA6S258KAG8AR5HYNHSV&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "bestbuy.com",
           "price": {
             "price": 349.99,
@@ -840,57 +947,29 @@
       "ratings": null
     },
     {
-      "id": "vj3ohDo",
-      "title": "ViewSonic VG2448A-2_H2 24\" Dual Pack Head-Only IPS Monitor",
-      "description": "Two-monitor dual-pack ViewSonic VG2448A-2_H2 with 24-inch Full HD IPS panels, offers two monitor heads in one box, stand-free. Features include Full HD 1920x1080p resolution, SuperClear IPS panel, 5ms response, HDMI, DisplayPort, VGA inputs, USB, VESA mount compatibility, and eco-friendly packaging. Suitable for home and office multitasking with dual-monitor setup.",
+      "id": "fR9X8MD",
+      "title": "24 Inch FHD IPS 100Hz Monitor with Slim Stand",
+      "description": "The LG 24BA650-I is a 23.8-inch Full HD monitor designed for productivity and versatility. It features an IPS panel with a 1920 x 1080 resolution, a smooth 100 Hz refresh rate to minimize motion blur, and a 5 ms response time. The monitor is equipped with a variety of connectivity options, including HDMI, DisplayPort 1.4, and a USB-C port that supports video, data, and up to 65W power delivery. For enhanced comfort, it includes a Reader Mode to reduce blue light and a fully adjustable stand (height, tilt, pivot, and swivel), making it ideal for multi-monitor setups.",
       "brands": [
         {
-          "id": "7Ncd",
-          "name": "ViewSonic"
+          "id": "WmyR",
+          "name": "LG"
         }
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/e305dac7-542d-429d-92a4-e1f462214f03?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
-          "cleaned_url": "https://cdn.trychannel3.com/67076ef9-10d3-49bd-9892-ab9bb00065a3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
+          "url": "https://cdn.trychannel3.com/aad27cef-0eda-42bd-8938-143fdca8bd94?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": null,
           "is_main_image": true,
           "shot_type": "hero",
-          "alt_text": "Front view of a ViewSonic IPS monitor displaying the ViewSonic logo and IPS text."
+          "alt_text": "Front view of a 24-inch LG FHD IPS monitor with a slim stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/47f719f9-be70-4ad4-9a89-867cc5de31e0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
+          "url": "https://cdn.trychannel3.com/d1f8c17f-550f-4a6a-b353-fbb36bb16cf7?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "cleaned_url": null,
           "is_main_image": false,
-          "shot_type": "lifestyle",
-          "alt_text": "Two monitors set up on a desk with people working."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/2699e676-1d79-4487-afb2-a4528c057ca2?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "packaging",
-          "alt_text": "ViewSonic monitor packaging showing two monitors in green."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/543c8bf4-52f0-42fd-aee6-9f14b1af2c54?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "size_chart",
-          "alt_text": "Monitor size and dimension specifications."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/3782c9d3-b3a1-4c38-ba33-1d8e2bd0ca52?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "product_information",
-          "alt_text": "Rear view of the monitor showing ports and features."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/8c053e15-de85-4a72-a812-82e2c571da52?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=T9Fg",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": null,
-          "alt_text": "Monitor front panel showing connection ports and cable types."
+          "shot_type": "merchant_information",
+          "alt_text": "Graphic showing a headset icon and a SAVE promotion for monitors."
         }
       ],
       "category": {
@@ -916,84 +995,125 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "Experience crisp visuals on this 24-inch Full HD monitor",
-        "IPS panel with wide viewing angles",
-        "HDMI, DisplayPort, and VGA inputs for versatile connectivity",
-        "5ms response time for reduced blur",
-        "Built-in speakers for audio",
-        "VESA mount compatibility and flexible setup"
+        "23.8\" 16:9 IPS Panel",
+        "Full HD (1080p) 1920 x 1080 resolution",
+        "100 Hz refresh rate",
+        "USB-C (65W) power delivery, video, and data",
+        "HDMI and DisplayPort 1.4 connectivity",
+        "5 ms (GtG) response time",
+        "Fully adjustable stand (height, tilt, pivot, swivel)",
+        "Integrated stereo speakers and microphone",
+        "Reader Mode for reduced blue light",
+        "100 x 100mm VESA mounting pattern"
       ],
       "colors": [
         {
-          "hex": "#07030a",
-          "percentage": 0.3035
+          "hex": "#f0af95",
+          "percentage": 0.2996
         },
         {
-          "hex": "#801ea8",
-          "percentage": 0.2477
+          "hex": "#f2260f",
+          "percentage": 0.1735
         },
         {
-          "hex": "#300a3e",
-          "percentage": 0.2335
+          "hex": "#f65d2b",
+          "percentage": 0.13
         },
         {
-          "hex": "#6d238e",
-          "percentage": 0.0821
+          "hex": "#ec8c72",
+          "percentage": 0.1211
         },
         {
-          "hex": "#9e78ab",
-          "percentage": 0.0768
+          "hex": "#f8d7cd",
+          "percentage": 0.1013
         },
         {
-          "hex": "#4e0d65",
-          "percentage": 0.0565
+          "hex": "#d0210e",
+          "percentage": 0.089
+        },
+        {
+          "hex": "#d95a3d",
+          "percentage": 0.0854
         }
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/vj3ohDo-T9Fg-8tFxDf?o=01KNMHWED53SKBKC33CYQWD191&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "adorama.com",
+          "url": "https://buy.trychannel3.com/fR9X8MD-oHaU-8tFxDf?o=01M3Q48M518EYG6SG7DRMGN5C5&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bhphotovideo.com",
           "price": {
-            "price": 309.99,
+            "price": 249.99,
             "compare_at_price": null,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
-          "max_commission_rate": 0.025,
-          "dimensions": null
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 21.2,
+              "unit": "in"
+            },
+            "width": {
+              "number": 20.4,
+              "unit": "in"
+            },
+            "height": {
+              "number": 9.8,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 14.6,
+              "unit": "lb"
+            }
+          }
         }
       ],
       "variants": null,
       "structured_attributes": {
-        "monitor-specialized-features": [
-          "Built-in speakers"
+        "screen-curvature-rating": [
+          "Flat (0R)"
         ],
-        "display-resolution": [
-          "1920 x 1080",
-          "Full HD"
-        ],
-        "display-technology": [
-          "IPS",
-          "LED"
+        "color-accuracy-standards": [
+          "sRGB"
         ],
         "monitor-shape": [
           "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in speakers",
+          "Frameless",
+          "Anti-glare",
+          "HDR support"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
         ],
         "native-aspect-ratio": [
           "16:9"
         ],
         "device-interface": [
-          "Display port",
+          "USB",
           "HDMI",
-          "VGA",
-          "USB"
+          "Display port",
+          "3.5 mm",
+          "VGA"
         ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
+        "display-technology": [
+          "IPS"
+        ],
+        "contrast-ratio-typical": [
+          "1300:1"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
         ]
       },
-      "ratings": null
+      "ratings": {
+        "value": 3.18,
+        "count": 5,
+        "source_count": 2
+      }
     },
     {
       "id": "tmapjqN",
@@ -1007,8 +1127,8 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/a8c502a8-d5ef-405c-b167-55e1d8f9ce19?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a8c502a8-d5ef-405c-b167-55e1d8f9ce19?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
+          "url": "https://cdn.trychannel3.com/a8c502a8-d5ef-405c-b167-55e1d8f9ce19?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a8c502a8-d5ef-405c-b167-55e1d8f9ce19?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "ViewSonic 24-inch FHD 1080P monitor on a black stand."
@@ -1068,7 +1188,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/tmapjqN-CCJD-8tFxDf?o=01M3Y7CX1SW67N0R95P2D6T5EN&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/tmapjqN-CCJD-8tFxDf?o=01M3Y7CX1SW67N0R95P2D6T5EN&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "canadacomputers.com",
           "price": {
             "price": 75.89,
@@ -1105,679 +1225,6 @@
       "ratings": null
     },
     {
-      "id": "r3oFUXn",
-      "title": "Dell Pro P 24\" Full HD IPS Monitor & Monitor Arm Kit",
-      "description": "The Dell Pro P 24\" Full HD IPS Monitor & Monitor Arm Kit is a professional workstation bundle designed for productivity and ergonomic comfort. It features a 24-inch IPS panel with a 1920 x 1080 resolution, a 120 Hz refresh rate, and a 99% sRGB color gamut. The monitor is equipped with versatile connectivity, including HDMI, DisplayPort, and USB-C downstream ports with 15W power delivery. The kit includes the Dell MSA20 Single Monitor Arm, which allows for fluid height, tilt, swivel, and rotation adjustments, keeping the desk clutter-free and enabling an optimized viewing angle.",
-      "brands": [
-        {
-          "id": "4fnY",
-          "name": "Dell"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/c81a88f9-3d8c-4ea3-b8ac-d7d3bf2cb161?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": null,
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Full HD monitor with monitor arm on a stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/d8b22d8a-c1f6-4c49-a42d-fc608350ac34?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d8b22d8a-c1f6-4c49-a42d-fc608350ac34?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Full HD monitor and monitor arm on a stand."
-        }
-      ],
-      "category": {
-        "slug": "ham",
-        "title": "Ham",
-        "path": [
-          {
-            "slug": "food-beverages-tobacco",
-            "title": "Food, Beverages & Tobacco"
-          },
-          {
-            "slug": "food-items",
-            "title": "Food Items"
-          },
-          {
-            "slug": "meat-seafood-eggs",
-            "title": "Meat, Seafood & Eggs"
-          },
-          {
-            "slug": "meat",
-            "title": "Meat"
-          },
-          {
-            "slug": "lunch-deli-meats",
-            "title": "Lunch & Deli Meats"
-          },
-          {
-            "slug": "ham",
-            "title": "Ham"
-          }
-        ],
-        "has_children": false
-      },
-      "gender": null,
-      "age": null,
-      "materials": [],
-      "key_features": [
-        "24\" 16:9 IPS Panel",
-        "FHD 1920 x 1080 resolution at 120 Hz",
-        "HDMI 1.4 and DisplayPort 1.4 connectivity",
-        "Dell MSA20 Single Monitor Arm for flexible adjustment",
-        "99% sRGB color gamut with 16.7 million colors",
-        "4-star certified for eye-comfort (blocks 35% of blue light)",
-        "USB-C 3.2 Gen 1 downstream ports with 15W power delivery",
-        "1500:1 static contrast ratio and 300 nits brightness"
-      ],
-      "colors": [
-        {
-          "hex": "#62cdd0",
-          "percentage": 0.2669
-        },
-        {
-          "hex": "#a2ecef",
-          "percentage": 0.2502
-        },
-        {
-          "hex": "#1c3f42",
-          "percentage": 0.1398
-        },
-        {
-          "hex": "#0c1f22",
-          "percentage": 0.1251
-        },
-        {
-          "hex": "#177379",
-          "percentage": 0.1093
-        },
-        {
-          "hex": "#4b8c8f",
-          "percentage": 0.1087
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/r3oFUXn-oHaU-8tFxDf?o=01M3JBNCCA3YE7NJ7RNES2NREA&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "bhphotovideo.com",
-          "price": {
-            "price": 343.99,
-            "compare_at_price": 393.99,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.021,
-          "dimensions": {
-            "length": {
-              "number": 21.2,
-              "unit": "in"
-            },
-            "width": {
-              "number": 7.2,
-              "unit": "in"
-            },
-            "height": {
-              "number": 19.6,
-              "unit": "in"
-            },
-            "weight": {
-              "number": 10.74,
-              "unit": "lb"
-            }
-          }
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "device-interface": [
-          "Display port",
-          "HDMI",
-          "USB"
-        ],
-        "vesa-mounting-pattern": [
-          "100 x 100 mm"
-        ]
-      },
-      "ratings": null
-    },
-    {
-      "id": "FD3b9zV",
-      "title": "24\" IPS 3-Side Borderless FHD 100Hz AMD 100Hz FreeSync Monitor (HDMI)",
-      "description": "This 24-inch LG monitor features a Full HD (1920 x 1080) IPS display with a 100Hz refresh rate and AMD FreeSync\u2122 for smooth, tear-free visuals. The 3-side virtually borderless design enhances immersion, while Reader Mode and Flicker Safe provide comfortable viewing. It includes features like Dynamic Action Sync, Black Stabilizer, and OnScreen Control for an optimized user experience, making it suitable for both productivity and gaming.",
-      "brands": [
-        {
-          "id": "WmyR",
-          "name": "LG"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/7372b829-daf3-46d2-b95f-308c0a3b3ed4?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7372b829-daf3-46d2-b95f-308c0a3b3ed4?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "LG Monitor displaying abstract colorful shapes on a stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/1435d466-542d-4d8a-810f-14997b28c3f3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1435d466-542d-4d8a-810f-14997b28c3f3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "LG Monitor displaying vibrant abstract colors."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/bc4a25f7-bf88-4789-b5ec-c96434776d37?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bc4a25f7-bf88-4789-b5ec-c96434776d37?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Black LG monitor on a desk with keyboard and files."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/8ea4cd06-5dce-4273-be38-6d7ac9263096?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "lifestyle",
-          "alt_text": "Man working at a desk with a computer monitor."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/ec2333a5-9a13-4259-a3b5-0b49df2e6f20?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ec2333a5-9a13-4259-a3b5-0b49df2e6f20?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=g0qz",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Black gaming monitor with colorful screen texture."
-        }
-      ],
-      "category": {
-        "slug": "computer-monitors",
-        "title": "Computer Monitors",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "video",
-            "title": "Video"
-          },
-          {
-            "slug": "computer-monitors",
-            "title": "Computer Monitors"
-          }
-        ],
-        "has_children": true
-      },
-      "gender": null,
-      "age": null,
-      "materials": [],
-      "key_features": [
-        "24\" FHD (1920 x 1080) IPS Display",
-        "100Hz Refresh Rate & AMD FreeSync\u2122",
-        "Dynamic Action Sync & Black Stabilizer",
-        "Reader Mode & Flicker Safe",
-        "OnScreen Control & Auto Input Switch",
-        "3-Side Virtually Borderless Display",
-        "5ms (GtG) response time",
-        "Black Stabilizer, Crosshair, and Dynamic Action Sync",
-        "OnScreen Control"
-      ],
-      "colors": [
-        {
-          "hex": "#f3e9eb",
-          "percentage": 0.373
-        },
-        {
-          "hex": "#312f30",
-          "percentage": 0.1637
-        },
-        {
-          "hex": "#d2a0b3",
-          "percentage": 0.1531
-        },
-        {
-          "hex": "#f06f74",
-          "percentage": 0.1459
-        },
-        {
-          "hex": "#be3838",
-          "percentage": 0.0991
-        },
-        {
-          "hex": "#936d75",
-          "percentage": 0.0653
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/FD3b9zV-g0qz-8tFxDf?o=01KR7P2T9GDJT21JGCAY3VBR4G&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "lg.com",
-          "price": {
-            "price": 99.99,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.063,
-          "dimensions": {
-            "length": null,
-            "width": null,
-            "height": null,
-            "weight": {
-              "number": 5.7,
-              "unit": "lb"
-            }
-          }
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "color-accuracy-standards": [
-          "NTSC"
-        ],
-        "vesa-mounting-pattern": [
-          "75 x 75 mm"
-        ],
-        "device-interface": [
-          "HDMI"
-        ],
-        "display-technology": [
-          "IPS"
-        ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "native-aspect-ratio": [
-          "16:9"
-        ],
-        "pattern": [
-          "Abstract",
-          "Graphic"
-        ],
-        "monitor-specialized-features": [
-          "Anti-glare",
-          "Blue light filter",
-          "Flicker-free",
-          "Frameless",
-          "Adjustable viewing angle"
-        ],
-        "monitor-shape": [
-          "Flat"
-        ],
-        "display-resolution": [
-          "HD",
-          "Full HD",
-          "1920 x 1080"
-        ],
-        "contrast-ratio-typical": [
-          "1000:1"
-        ]
-      },
-      "ratings": {
-        "value": 4.3,
-        "count": 238,
-        "source_count": 1
-      }
-    },
-    {
-      "id": "0BclDTq",
-      "title": "MSI PRO 24.5\" 1920 x 1080 FHD IPS 100Hz Monitor",
-      "description": "The MSI PRO MP253 is a 24.5-inch Full HD (1920 x 1080) business monitor designed for productivity and eye comfort. It features an IPS panel for wide 178\u00b0 viewing angles and accurate colors, paired with a 100Hz refresh rate and 1ms response time to ensure smooth visuals. The monitor is TUV Rheinland certified and incorporates EyesErgo technology to reduce eye strain. Connectivity options include HDMI 1.4, DisplayPort 1.2, and VGA ports. Additional features include built-in speakers, VESA mount compatibility, and the MSI Display Kit software for customized display settings.",
-      "brands": [
-        {
-          "id": "yJK9",
-          "name": "MSI"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/da0ee942-7073-4812-b14e-72f52eb59b99?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/da0ee942-7073-4812-b14e-72f52eb59b99?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Monitor displaying a family making a funny face with hands over the screen."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/eb0bf0fb-529e-4329-a186-218442f65ca7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/eb0bf0fb-529e-4329-a186-218442f65ca7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Monitor displaying a family making a funny face with hands over the screen."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/c5a8aa83-b5f5-4394-8f8e-fa0d1f748d6b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c5a8aa83-b5f5-4394-8f8e-fa0d1f748d6b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Monitor displaying a family making a funny face with hands over the screen."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/9e7d20bd-7e60-4e6a-bb7f-02c480b45b44?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9e7d20bd-7e60-4e6a-bb7f-02c480b45b44?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Side profile view of a black monitor on a stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/e067fe07-e34d-4bd1-9ed5-b85710d0b4c9?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e067fe07-e34d-4bd1-9ed5-b85710d0b4c9?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=CCJD",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Front view of a black monitor with brand logo."
-        }
-      ],
-      "category": {
-        "slug": "computer-monitors",
-        "title": "Computer Monitors",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "video",
-            "title": "Video"
-          },
-          {
-            "slug": "computer-monitors",
-            "title": "Computer Monitors"
-          }
-        ],
-        "has_children": true
-      },
-      "gender": null,
-      "age": null,
-      "materials": [],
-      "key_features": [
-        "24.5-inch FHD (1920 x 1080) IPS display",
-        "100Hz refresh rate and 1ms response time",
-        "TUV Rheinland certified with EyesErgo technology for eye care",
-        "Wide 178\u00b0 viewing angles",
-        "Connectivity: 1 x DisplayPort 1.2, 1 x HDMI 1.4, 1 x VGA",
-        "Built-in speakers",
-        "VESA mount compatible",
-        "Adaptive Sync support",
-        "300 nits brightness"
-      ],
-      "colors": [
-        {
-          "hex": "#6f8ba4",
-          "percentage": 0.5019
-        },
-        {
-          "hex": "#5f6d79",
-          "percentage": 0.1725
-        },
-        {
-          "hex": "#3e434b",
-          "percentage": 0.135
-        },
-        {
-          "hex": "#191617",
-          "percentage": 0.12
-        },
-        {
-          "hex": "#b3c1cc",
-          "percentage": 0.0707
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/0BclDTq-CCJD-8tFxDf?o=01M3T3DCFEEYXM86F8HVH3PM05&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "canadacomputers.com",
-          "price": {
-            "price": 178.12,
-            "compare_at_price": 187.5,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.0,
-          "dimensions": null
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "display-resolution": [
-          "1920 x 1080"
-        ],
-        "adaptive-sync-technology": [
-          "VESA Adaptive Sync"
-        ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "native-aspect-ratio": [
-          "16:9"
-        ],
-        "monitor-shape": [
-          "Flat"
-        ],
-        "display-technology": [
-          "IPS"
-        ],
-        "monitor-specialized-features": [
-          "Built-in speakers",
-          "Flicker-free",
-          "LED backlight"
-        ],
-        "device-interface": [
-          "Display port",
-          "HDMI",
-          "VGA"
-        ]
-      },
-      "ratings": null
-    },
-    {
-      "id": "WS2L3OR",
-      "title": "EK241Y P6 Monitor",
-      "description": "The Acer EK241Y P6 is a 23.8-inch Full HD widescreen monitor designed for everyday computing and gaming. It features a 1920 x 1080 IPS display with a fast refresh rate of up to 144Hz and AMD FreeSync technology to eliminate screen tearing and stuttering. The monitor boasts a ZeroFrame near bezel-less design, a 1ms (VRB) response time, and AcerVisionCare technology to reduce eye strain during prolonged use. It is VESA mounting compliant and includes an ergonomic stand with adjustable tilt.",
-      "brands": [
-        {
-          "id": "oLNv",
-          "name": "Acer"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/6c08ff98-af88-4562-970c-dc40d52b6a92?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6c08ff98-af88-4562-970c-dc40d52b6a92?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Acer 23.8-inch Full HD IPS monitor with vibrant screen."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/9cea52eb-4d10-47ec-a788-0d671f294ddd?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9cea52eb-4d10-47ec-a788-0d671f294ddd?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Acer 23.8-inch Full HD IPS monitor with vibrant screen."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/0c680b22-0135-478c-aef5-71160a4b391b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c680b22-0135-478c-aef5-71160a4b391b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Acer 23.8-inch Full HD IPS monitor with vibrant screen."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/1279011a-9370-4923-9283-723c59c7af81?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1279011a-9370-4923-9283-723c59c7af81?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Black monitor stand and slim monitor design."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/375a182d-6e52-4bc5-bc56-ef82471553ac?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/375a182d-6e52-4bc5-bc56-ef82471553ac?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Black monitor stand and slim monitor design."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/5c56e9f4-d226-4ca9-8ad8-21f8ceae6e62?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5c56e9f4-d226-4ca9-8ad8-21f8ceae6e62?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Rear view of a black Acer monitor with ports."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/e4726eff-4556-42cd-90b7-a24f612261c2?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4726eff-4556-42cd-90b7-a24f612261c2?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Rear view of a black Acer monitor with ports."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/0462bfab-ab51-46ae-a8ad-cb3a270357fd?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0462bfab-ab51-46ae-a8ad-cb3a270357fd?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ZO25",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Rear view of a black Acer monitor with ports."
-        }
-      ],
-      "category": {
-        "slug": "computer-monitors",
-        "title": "Computer Monitors",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "video",
-            "title": "Video"
-          },
-          {
-            "slug": "computer-monitors",
-            "title": "Computer Monitors"
-          }
-        ],
-        "has_children": true
-      },
-      "gender": null,
-      "age": null,
-      "materials": [],
-      "key_features": [
-        "23.8\" Full HD (1920 x 1080) Widescreen IPS Display",
-        "Refresh Rate: Up to 144Hz",
-        "AMD FreeSync Technology",
-        "1ms (VRB) Response Time",
-        "VESA Mounting Compliant (100 x 100mm)",
-        "Ergonomic Tilt: -5\u00b0 to 20\u00b0",
-        "Color Gamut: 99% sRGB",
-        "ZeroFrame near bezel-less design",
-        "AcerVisionCare technology"
-      ],
-      "colors": [
-        {
-          "hex": "#202a34",
-          "percentage": 0.2997
-        },
-        {
-          "hex": "#f8d1b1",
-          "percentage": 0.1424
-        },
-        {
-          "hex": "#0d0d18",
-          "percentage": 0.1351
-        },
-        {
-          "hex": "#d87465",
-          "percentage": 0.1347
-        },
-        {
-          "hex": "#b2c5ca",
-          "percentage": 0.1102
-        },
-        {
-          "hex": "#636875",
-          "percentage": 0.0919
-        },
-        {
-          "hex": "#8a2733",
-          "percentage": 0.0861
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/WS2L3OR-ZO25-8tFxDf?o=01M1FTAEC0FJ2E186C6EPQ0YXV&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "costco.com",
-          "price": {
-            "price": 69.99,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.0,
-          "dimensions": {
-            "length": {
-              "number": 21.06,
-              "unit": "in"
-            },
-            "width": {
-              "number": 7.56,
-              "unit": "in"
-            },
-            "height": {
-              "number": 15.8,
-              "unit": "in"
-            },
-            "weight": {
-              "number": 6.01,
-              "unit": "lb"
-            }
-          }
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "monitor-shape": [
-          "Flat"
-        ],
-        "adaptive-sync-technology": [
-          "AMD FreeSync"
-        ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "display-technology": [
-          "IPS"
-        ],
-        "monitor-specialized-features": [
-          "Frameless",
-          "Suitable for gaming"
-        ],
-        "native-aspect-ratio": [
-          "16:9"
-        ],
-        "vesa-mounting-pattern": [
-          "100 x 100 mm"
-        ],
-        "device-interface": [
-          "HDMI",
-          "VGA"
-        ],
-        "display-resolution": [
-          "1920 x 1080"
-        ],
-        "color-accuracy-standards": [
-          "sRGB"
-        ]
-      },
-      "ratings": {
-        "value": 5.0,
-        "count": 2,
-        "source_count": 1
-      }
-    },
-    {
       "id": "eT5lgBj",
       "title": "Dell P2425H Monitor",
       "description": "This professional workspace bundle includes two Dell 24-inch P2425H monitors, each featuring Full HD (1920 x 1080) resolution and a smooth 100Hz refresh rate. The IPS panels ensure vibrant colors and consistent viewing angles, making them ideal for graphic design, photo editing, and data analysis. These monitors are designed for comfort with an adjustable stand (tilt, swivel, pivot, and height) and eye-comfort certification to reduce blue light emissions. The bundle is complete with necessary connectivity cables and an LCD cleaning kit.",
@@ -1789,63 +1236,63 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/4031839b-cba6-4745-9f9c-c7c89c1e8216?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/4031839b-cba6-4745-9f9c-c7c89c1e8216?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Two black Dell monitors with blue light effects and cables."
         },
         {
-          "url": "https://cdn.trychannel3.com/54609b31-5cfa-4a5b-b75f-3af438f350e6?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/54609b31-5cfa-4a5b-b75f-3af438f350e6?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell monitor displaying vibrant purple and blue abstract waves."
         },
         {
-          "url": "https://cdn.trychannel3.com/0b56bd49-19f1-4a56-840f-dcea2aeafc85?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/0b56bd49-19f1-4a56-840f-dcea2aeafc85?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell monitor displaying vibrant purple and blue abstract waves."
         },
         {
-          "url": "https://cdn.trychannel3.com/f9c07ab6-b4b7-41f4-bee4-5c93cb60a34b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/f9c07ab6-b4b7-41f4-bee4-5c93cb60a34b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell monitor displaying vibrant purple and blue abstract waves."
         },
         {
-          "url": "https://cdn.trychannel3.com/52aeaaa1-8b42-4343-b61e-4bba7a3bb6ae?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/52aeaaa1-8b42-4343-b61e-4bba7a3bb6ae?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Back view of a Dell monitor with silver stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/e5f5e3bd-0b8e-47ba-8c7b-566a6a5f36c7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/e5f5e3bd-0b8e-47ba-8c7b-566a6a5f36c7?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Close-up of the back panel of a black Dell monitor."
         },
         {
-          "url": "https://cdn.trychannel3.com/51e58130-a2d8-4d45-b0b2-bc4051d7b482?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/51e58130-a2d8-4d45-b0b2-bc4051d7b482?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell monitor on an adjustable silver H-shaped stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/1048ae7e-cef3-4494-ae2e-b0324c17934f?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1048ae7e-cef3-4494-ae2e-b0324c17934f?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/1048ae7e-cef3-4494-ae2e-b0324c17934f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1048ae7e-cef3-4494-ae2e-b0324c17934f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell monitor on an adjustable silver H-shaped stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/b1888b63-ad8b-4b32-bee7-ef8271b1215b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=hFQq",
+          "url": "https://cdn.trychannel3.com/b1888b63-ad8b-4b32-bee7-ef8271b1215b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=hFQq",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
@@ -1912,7 +1359,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/eT5lgBj-hFQq-8tFxDf?o=01M25TGTR0ARA3MKHC360E393B&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/eT5lgBj-hFQq-8tFxDf?o=01M25TGTR0ARA3MKHC360E393B&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "6ave.com",
           "price": {
             "price": 259.95,
@@ -1979,9 +1426,186 @@
       "ratings": null
     },
     {
-      "id": "JcGlRTx",
-      "title": "Series 7 Pro Monitor",
-      "description": "This HP Series 7 Pro 724pn is a 24-inch flat IPS monitor designed for both work and entertainment. It features a 16:10 aspect ratio and a sharp 1920 x 1200 WUXGA resolution for clear, detailed images and an expanded vertical workspace. With a 100 Hz refresh rate and a 5ms response time, motion appears fluid and blur is reduced. The monitor boasts a 1500:1 contrast ratio and 350 nits brightness for vibrant visuals and good depth. It supports 16.7 million colors and covers 99% sRGB for accurate color reproduction across wide 178\u00b0 viewing angles. The anti-glare, flicker-free screen enhances comfort during extended use. Connectivity options include 1 HDMI, 2 DisplayPort, 4 USB Type-A, and 1 USB-B port. The monitor is VESA mount compatible and features an adjustable tilt for ergonomic comfort. It also includes an integrated Dockztorm hub and an Ergoflexy single mount arm.",
+      "id": "5ttYmaD",
+      "title": "Frameless IPS PC Monitor",
+      "description": "This Element monitor features a 24-inch LCD screen with crisp full-HD (1920 x 1080) resolution, utilizing In-Plane Switching (IPS) technology for wide viewing angles. It is designed with a nearly frameless bezel for a modern aesthetic. Connectivity options include HDMI and VGA, and the monitor supports VESA mounting for space-saving desk arrangements. It is tilt-adjustable for optimal viewing comfort.",
+      "brands": [
+        {
+          "id": "e82h",
+          "name": "Element Electronics"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/448bb0ef-c07b-44c2-81c3-9549ab9d6939?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Front view of Element 24\" IPS monitor with a flower image on the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3910e567-18aa-4c6a-8d33-40763faaf052?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of Element 24\" IPS monitor displaying a business presentation."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/87a9140c-c670-4a79-8c12-81de7f0e2819?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Side view diagram showing the monitor's tilt angle range from -5 to 15 degrees."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ce8c0a08-330b-4e8c-9d97-ff5c9ab23352?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ce8c0a08-330b-4e8c-9d97-ff5c9ab23352?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Back view of the Element 24\" monitor showing the logo and ports."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e89df005-8c65-41bc-8e1f-dcb4986ba73a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Lifestyle shot of the monitor on a wooden desk with a grey chair."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dcfb9480-9746-4be7-a32a-cd3e9f6b4264?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=6Uzl",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up detail of the monitor's rear connectivity ports."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24\" LCD with LED backlighting offers beautiful 1920 x 1080 resolution.",
+        "IPS panel and a 3-sided, frameless bezel offer generous viewing.",
+        "HDMI\u2122 and VGA ports allow easy connections (HDMI cable included).",
+        "Tilts between -5 and 15\u00b0 to help you see.",
+        "Features 75 mm x 75 mm VESA mounting holes to save desk space.",
+        "Backed by the manufacturer's 2-year limited warranty."
+      ],
+      "colors": [
+        {
+          "hex": "#0489ba",
+          "percentage": 0.224
+        },
+        {
+          "hex": "#0eaedc",
+          "percentage": 0.1746
+        },
+        {
+          "hex": "#4e2619",
+          "percentage": 0.1487
+        },
+        {
+          "hex": "#102247",
+          "percentage": 0.125
+        },
+        {
+          "hex": "#095c7e",
+          "percentage": 0.1153
+        },
+        {
+          "hex": "#685556",
+          "percentage": 0.0996
+        },
+        {
+          "hex": "#8dd0dd",
+          "percentage": 0.0724
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/5ttYmaD-6Uzl-8tFxDf?o=01KTSA81Y3ZRSKEZS7B0AYDHY6&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "officedepot.com",
+          "price": {
+            "price": 79.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.035,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "contrast-ratio-typical": [
+          "3000:1",
+          "10000000:1"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "monitor-specialized-features": [
+          "Frameless",
+          "Built-in speakers",
+          "LED backlight",
+          "Adjustable viewing angle"
+        ],
+        "vesa-mounting-pattern": [
+          "75 x 75 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "1080p"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA",
+          "Display port",
+          "USB"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "display-technology": [
+          "LCD",
+          "IPS"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 376,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "5ljSptu",
+      "title": "HP Series 7 Pro Monitor",
+      "description": "This HP Series 7 Pro 724pn monitor features a 24-inch WUXGA IPS display with a resolution of 1920 x 1200, offering sharp visuals and wide viewing angles. With a 5ms response time and anti-glare coating, it provides a smooth and comfortable viewing experience for both work and entertainment. The monitor supports multiple inputs including HDMI and DisplayPort, and is VESA mount compatible for flexible setup.",
       "brands": [
         {
           "id": "NdmC",
@@ -1990,39 +1614,11 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/a96f938f-2ba3-4c9c-abeb-070f9be575e6?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a96f938f-2ba3-4c9c-abeb-070f9be575e6?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/21a882b0-7fba-4679-8df9-2cc679650af0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/21a882b0-7fba-4679-8df9-2cc679650af0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
-          "alt_text": "HP monitor with a stand and arm mount on a white background."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/613d3357-0eae-4d0a-b1a6-30fc66f76d60?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/613d3357-0eae-4d0a-b1a6-30fc66f76d60?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Monitor displaying colorful abstract digital art on a stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/f7663915-20a5-4872-b7f6-625333e85995?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "in_use",
-          "alt_text": "Monitor in use displaying a software interface on a stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/083e1ec6-0f70-4024-9029-284fd2e880ce?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/083e1ec6-0f70-4024-9029-284fd2e880ce?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Black monitor stand with a flat-screen monitor base."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/0b1f1ab4-bcf2-46d5-b227-9bfdb5c7eea5?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0b1f1ab4-bcf2-46d5-b227-9bfdb5c7eea5?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "detail",
-          "alt_text": "Close-up detail of a monitor's swivel and tilt mechanism."
+          "alt_text": "HP Series 7 Pro 24-inch monitor on a stand."
         }
       ],
       "category": {
@@ -2048,159 +1644,140 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "24-inch WUXGA IPS (1920x1200)",
-        "1 x HDMI, 2 x Displayport, 4 x USB Type-A, 1 x USB-B",
-        "-5 to +20 degrees Adjustable Tilt",
-        "Anti Glare, Flicker free, VESA Mount, Low blue light",
-        "Brightness 350 nits",
-        "IPS Technology for wide viewing angles",
-        "Improved Ergonomics of Monitor Arm",
-        "Versatility and Flexibility",
-        "Includes Dockztorm Dock (Special Edition Portable Dockztorm Data Hub; Super Speedy Data Sync Rate upto 5Gbps)"
+        "24-inch display",
+        "WUXGA resolution (1920 x 1200)",
+        "IPS panel",
+        "5ms response time",
+        "Anti-glare",
+        "Pivot",
+        "DisplayPort",
+        "HDMI",
+        "DKZ"
       ],
       "colors": [
         {
-          "hex": "#3b3f45",
-          "percentage": 0.3154
+          "hex": "#324e65",
+          "percentage": 0.1638
         },
         {
-          "hex": "#4d6d7f",
-          "percentage": 0.1525
+          "hex": "#ae856c",
+          "percentage": 0.1521
         },
         {
-          "hex": "#a17562",
-          "percentage": 0.1362
+          "hex": "#568194",
+          "percentage": 0.1473
         },
         {
-          "hex": "#25272a",
-          "percentage": 0.11
+          "hex": "#22272e",
+          "percentage": 0.131
         },
         {
-          "hex": "#d2e2d8",
-          "percentage": 0.1088
+          "hex": "#f1dec0",
+          "percentage": 0.1163
         },
         {
-          "hex": "#98a498",
-          "percentage": 0.1085
+          "hex": "#7c605c",
+          "percentage": 0.1069
         },
         {
-          "hex": "#84403e",
-          "percentage": 0.0686
+          "hex": "#8ec0c6",
+          "percentage": 0.0932
+        },
+        {
+          "hex": "#943b39",
+          "percentage": 0.0894
         }
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/JcGlRTx-p1PB-8tFxDf?o=01KXQ7C8JETF8GKE30JZBPWWC4&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/5ljSptu-p1PB-8tFxDf?o=01KXQ2BZZ7AZ56S310Q18GE6A9&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "bestbuy.com",
           "price": {
-            "price": 424.99,
-            "compare_at_price": 531.99,
+            "price": 769.99,
+            "compare_at_price": 961.99,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
           "max_commission_rate": 0.004,
-          "dimensions": null
+          "dimensions": {
+            "length": {
+              "number": 20.53,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.68,
+              "unit": "in"
+            },
+            "height": {
+              "number": 20.93,
+              "unit": "in"
+            },
+            "weight": null
+          }
         }
       ],
       "variants": null,
       "structured_attributes": {
-        "monitor-shape": [
-          "Flat"
+        "contrast-ratio-typical": [
+          "1500:1"
         ],
-        "monitor-specialized-features": [
-          "Anti-glare",
-          "Flicker-free",
-          "Frameless"
-        ],
-        "native-aspect-ratio": [
-          "16:9"
-        ],
-        "device-interface": [
-          "Display port",
-          "HDMI"
-        ],
-        "display-resolution": [
-          "1920 x 1080"
-        ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
+        "pattern": [
+          "Abstract"
         ],
         "display-technology": [
           "IPS"
         ],
-        "pattern": [
-          "Solid"
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "color-accuracy-standards": [
+          "sRGB"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Flicker-free",
+          "HDR support",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB"
         ]
       },
       "ratings": null
     },
     {
-      "id": "mDxmRLi",
-      "title": "PRO MP242LE Monitor",
-      "description": "This MSI PRO MP242LE monitor features a 24-inch Full HD (1920 x 1080) IPS display with a 100Hz refresh rate, offering smooth visuals for both productivity and light gaming. It boasts a 4-sided frameless design for an immersive viewing experience and seamless multi-display setups. Designed with eye comfort in mind, it includes T\u00dcV-certified Less Blue Light and Anti-Flicker technologies, along with an Eye-Q Check feature to remind users to take breaks. The monitor supports Adaptive-Sync, HDR Ready, and comes with MSI's Display Kit app for enhanced functionality.",
+      "id": "h2Uwrrm",
+      "title": "Series 5 Pro 545pn Monitor",
+      "description": "This HP Series 5 Pro 545pn monitor features a 24-inch WUXGA (1920 x 1200) IPS display with a 16:10 aspect ratio for increased vertical workspace. It boasts a 100Hz refresh rate, a 1500:1 contrast ratio, and a 5ms GtG response time for smooth visuals. The IPS panel ensures wide 178\u00b0 viewing angles and 100% sRGB color coverage. Connectivity includes HDMI, DisplayPort, and multiple USB ports. The monitor is designed with a sleek black and silver finish, a three-sided borderless display, and offers ergonomic adjustments including tilt, swivel, pivot, and height adjustment. It also features flicker-free technology and an Eye Saver Mode. Additionally, it comes with a Docztorm USB Hub.",
       "brands": [
         {
-          "id": "yJK9",
-          "name": "MSI"
+          "id": "NdmC",
+          "name": "HP"
         }
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/5ce9b67f-67b3-452b-b9a6-d73434ef77d7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": "https://cdn.trychannel3.com/f8012a30-44a4-444e-9faa-44bbb413c797?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
+          "url": "https://cdn.trychannel3.com/a32a0cc1-ea61-4f9a-90d0-6ffc2439cb97?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": null,
           "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Msi Pro Mp242le 24 inch FHD monitor displaying vibrant abstract colors."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/8dcc964e-4786-48d0-80ec-26a731f2360a?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": "https://cdn.trychannel3.com/96c807f5-da46-49ef-bfc9-7e62313111b0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Msi Pro Mp242le 24 inch FHD monitor with a black bezel."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/4d64ad96-af44-4bce-bfae-93a32e0b16b6?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": "https://cdn.trychannel3.com/13438fab-daea-4b21-b1c2-9732b2f0e8e5?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Msi Pro Mp242le 24 inch FHD monitor."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/97e9a93e-ea10-4be5-b415-0a32406c9e8e?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": "https://cdn.trychannel3.com/a7cabe8b-d145-4744-aebc-e53a9f957790?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Msi Pro Mp242le 24 inch FHD monitor."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/edecf3be-8f49-4ed0-9012-681ce89e7293?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": "https://cdn.trychannel3.com/5338f461-28a7-46b3-ae5f-48a8a4b39959?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Msi Pro Mp242le monitor with stand."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/760ba591-d9fd-44b8-8ac3-f92021df6a25?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": "https://cdn.trychannel3.com/9b410a14-0d5b-461b-beeb-799c335748d7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Back view of the Msi Pro Mp242le monitor."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/93c1038d-7137-400a-8247-5b63b62ffa23?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Monitor arm mount."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/bcabb152-998f-46e3-86c9-6d03d2cdd0b6?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=5MTd",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Monitor desk mount."
+          "shot_type": "lifestyle",
+          "alt_text": "HP Series 5 Pro 24 inch WUXGA IPS monitor with a mounting arm and connectivity hub."
         }
       ],
       "category": {
@@ -2226,67 +1803,36 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "24\" Flat display",
-        "1920 x 1080 (FHD) resolution",
-        "1ms Respond Time and 100Hz Refresh Rate",
-        "Adaptive-Sync support",
-        "In-Plane Switching (IPS) technology",
-        "16:9 Aspect ratio",
-        "T\u00dcV-certified display helps protect vision and eye health",
-        "EyesErgo Anti-Flicker reduces strain and fatigue",
-        "Eye-Q Check reminds breaks for healthier viewing",
-        "HDMI and DisplayPort support multiple devices",
-        "Removable cable design keeps setup neat and tidy",
-        "HDR enhances images with richer detail and clarity"
+        "24-inch WUXGA IPS (1920 x 1200)",
+        "100Hz refresh rate",
+        "1500:1 contrast ratio",
+        "178\u00b0 viewing angle",
+        "100% sRGB color gamut",
+        "Flicker-free",
+        "Eye Saver Mode",
+        "HDMI 1.4, DisplayPort 1.2, 4x USB-A 3.2, 1x USB-B",
+        "Ergonomic adjustments (tilt, swivel, pivot, height)",
+        "Includes Docztorm USB Hub"
       ],
-      "colors": [
-        {
-          "hex": "#fd6643",
-          "percentage": 0.1888
-        },
-        {
-          "hex": "#f5493d",
-          "percentage": 0.1789
-        },
-        {
-          "hex": "#ff7c5a",
-          "percentage": 0.1557
-        },
-        {
-          "hex": "#ed7e6c",
-          "percentage": 0.126
-        },
-        {
-          "hex": "#4e1b27",
-          "percentage": 0.1246
-        },
-        {
-          "hex": "#aeabb4",
-          "percentage": 0.1033
-        },
-        {
-          "hex": "#feab94",
-          "percentage": 0.0888
-        }
-      ],
+      "colors": [],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/mDxmRLi-5MTd-8tFxDf?o=01KXJX8Q994WV31XZDGM3J36H4&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "us-store.msi.com",
+          "url": "https://buy.trychannel3.com/h2Uwrrm-p1PB-8tFxDf?o=01KXTHVG7J8NF8EY8W566TYFQ2&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bestbuy.com",
           "price": {
-            "price": 89.99,
-            "compare_at_price": null,
+            "price": 244.99,
+            "compare_at_price": 306.24,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
-          "max_commission_rate": 0.014,
+          "max_commission_rate": 0.004,
           "dimensions": {
             "length": null,
             "width": null,
             "height": null,
             "weight": {
-              "number": 3.97,
+              "number": 11.2,
               "unit": "lb"
             }
           }
@@ -2294,17 +1840,20 @@
       ],
       "variants": null,
       "structured_attributes": {
-        "adaptive-sync-technology": [
-          "AMD FreeSync"
+        "color-accuracy-standards": [
+          "sRGB"
         ],
         "contrast-ratio-typical": [
           "1000:1"
         ],
         "device-interface": [
           "HDMI",
-          "Display port"
+          "Display port",
+          "USB",
+          "Micro USB"
         ],
         "display-resolution": [
+          "2560\u2009x\u20091440",
           "1920 x 1080"
         ],
         "display-technology": [
@@ -2314,392 +1863,24 @@
           "Flat"
         ],
         "monitor-specialized-features": [
-          "HDR support",
-          "Anti-glare",
+          "Quantum dot technology",
+          "Flicker-free",
           "Blue light filter",
           "LED backlight",
+          "Anti-glare",
           "Frameless"
         ],
         "native-aspect-ratio": [
           "16:9"
         ],
         "pattern": [
-          "Abstract"
+          "Solid"
         ],
         "screen-curvature-rating": [
           "Flat (0R)"
         ],
         "vesa-mounting-pattern": [
           "100 x 100 mm"
-        ]
-      },
-      "ratings": null
-    },
-    {
-      "id": "UeOikVN",
-      "title": "PRO MP243W E14 Monitor",
-      "description": "The MSI PRO MP243W E14 is a 23.8-inch Full HD business and productivity monitor designed for work, study, and entertainment. It features an IPS panel with a 1920 x 1080 resolution, a fast 144Hz refresh rate, and a 1ms MPRT response time for smooth visuals. The monitor is HDR Ready, includes Adaptive-Sync technology, and features built-in stereo speakers. To protect user vision during long sessions, it incorporates EyesErgo technologies such as Anti-Flicker and Low Blue Light. Its sleek white design includes a tilt-adjustable stand and a 4-sided PerfectEdge bezel, making it suitable for multi-monitor configurations.",
-      "brands": [
-        {
-          "id": "yJK9",
-          "name": "MSI"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/5b563ea2-57f2-4f54-b4c7-e2a410a97700?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/ca0adb27-204d-4c6a-bcb5-f9823682876a?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Flat business and productivity monitor with vibrant abstract wallpaper."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/c721673e-05f6-4248-b203-6eb0a921a3da?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/952da780-093f-409b-a330-7385310b8cd1?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Flat business and productivity monitor with vibrant abstract wallpaper."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/05d4052e-7d94-44e9-ac79-6ea96d32e6e8?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/beb3c8af-fb8f-4f0c-8921-92e1faeb10eb?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Flat business and productivity monitor with vibrant abstract wallpaper."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/65eadfaa-d3e6-4441-9536-335f906a58d7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/1669f84c-4a56-4d71-a267-f3f727ced55d?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Flat business and productivity monitor with vibrant abstract wallpaper."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/7f497bfc-c6f4-4516-bfe9-5ec63dca06d0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/b8823fe4-93af-4097-ae95-4dea2cd1ae66?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Rear view of the white business monitor casing."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/a9b3bd00-26ed-4f33-ac3d-5f4b5474d63f?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "cleaned_url": "https://cdn.trychannel3.com/80479a3c-ec85-48bf-9247-257cdecf014b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=oHaU",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Rear view of the white business monitor casing."
-        }
-      ],
-      "category": {
-        "slug": "computer-monitors",
-        "title": "Computer Monitors",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "video",
-            "title": "Video"
-          },
-          {
-            "slug": "computer-monitors",
-            "title": "Computer Monitors"
-          }
-        ],
-        "has_children": true
-      },
-      "gender": null,
-      "age": "adult",
-      "materials": [],
-      "key_features": [
-        "1920 x 1080 (FHD) resolution",
-        "144Hz refresh rate",
-        "Adaptive-Sync technology",
-        "Built-in speakers",
-        "DisplayPort",
-        "HDMI",
-        "IPS panel",
-        "178\u00b0 viewing angle",
-        "4ms response time",
-        "HDR Ready"
-      ],
-      "colors": [
-        {
-          "hex": "#317aa3",
-          "percentage": 0.2089
-        },
-        {
-          "hex": "#f39b58",
-          "percentage": 0.1686
-        },
-        {
-          "hex": "#becbc7",
-          "percentage": 0.1373
-        },
-        {
-          "hex": "#da794e",
-          "percentage": 0.1175
-        },
-        {
-          "hex": "#c54b34",
-          "percentage": 0.1066
-        },
-        {
-          "hex": "#fcebb8",
-          "percentage": 0.1012
-        },
-        {
-          "hex": "#739aaa",
-          "percentage": 0.0923
-        },
-        {
-          "hex": "#2d3d59",
-          "percentage": 0.0675
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/UeOikVN-oHaU-8tFxDf?o=01M3BB3BTK5X3DRGP8A7SQ7NZE&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "bhphotovideo.com",
-          "price": {
-            "price": 94.99,
-            "compare_at_price": 119.99,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.021,
-          "dimensions": {
-            "length": {
-              "number": 21.26,
-              "unit": "in"
-            },
-            "width": {
-              "number": 7.4,
-              "unit": "in"
-            },
-            "height": {
-              "number": 16.09,
-              "unit": "in"
-            },
-            "weight": {
-              "number": 6.8,
-              "unit": "lb"
-            }
-          }
-        },
-        {
-          "url": "https://buy.trychannel3.com/UeOikVN-LFnL-8tFxDf?o=01KZZKN6G9MXXF6NZDDC33E2CZ&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "staples.com",
-          "price": {
-            "price": 120.99,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.03,
-          "dimensions": null
-        },
-        {
-          "url": "https://buy.trychannel3.com/UeOikVN-p1PB-8tFxDf?o=01KYGPHFX5ZRJA41REWAY3Z07P&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "bestbuy.com",
-          "price": {
-            "price": 134.99,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.005,
-          "dimensions": null
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "monitor-shape": [
-          "Flat"
-        ],
-        "display-technology": [
-          "IPS",
-          "LCD",
-          "LED"
-        ],
-        "monitor-specialized-features": [
-          "Anti-glare",
-          "Blue light filter",
-          "Built-in speakers",
-          "Flicker-free",
-          "HDR support",
-          "LED backlight",
-          "Frameless",
-          "Suitable for gaming"
-        ],
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "color-accuracy-standards": [
-          "Adobe RGB",
-          "DCI-P3",
-          "sRGB"
-        ],
-        "native-aspect-ratio": [
-          "16:9"
-        ],
-        "display-resolution": [
-          "1920 x 1080",
-          "Full HD"
-        ],
-        "adaptive-sync-technology": [
-          "AMD FreeSync",
-          "VESA Adaptive Sync"
-        ],
-        "vesa-mounting-pattern": [
-          "100 x 100 mm"
-        ],
-        "contrast-ratio-typical": [
-          "1500:1"
-        ],
-        "device-interface": [
-          "3.5 mm",
-          "Display port",
-          "HDMI"
-        ],
-        "pattern": [
-          "Graphic"
-        ],
-        "energy-efficiency-class-sdr": [
-          "E"
-        ]
-      },
-      "ratings": {
-        "value": 4.71,
-        "count": 7,
-        "source_count": 2
-      }
-    },
-    {
-      "id": "2PIwrE4",
-      "title": "BL2491P Business Monitor",
-      "description": "The BenQ BL2491P is a 23.8-inch business monitor designed for long-term productivity and eye comfort. It features a Full HD (1080p) IPS panel with a 120Hz refresh rate and 99% sRGB color coverage for vivid, true-to-life visuals. The monitor is TUV-certified for its Low Blue Light and Flicker-free technologies, which help reduce eye strain and fatigue. It includes a frameless ultrathin bezel for a seamless view and provides connectivity via HDMI and DisplayPort.",
-      "brands": [
-        {
-          "id": "H7Q8",
-          "name": "BenQ"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/645617f3-b944-4f33-b166-a9a8bf45bca1?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=S5BM",
-          "cleaned_url": null,
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Business monitor displaying a bar chart on a white desk."
-        }
-      ],
-      "category": {
-        "slug": "computer-monitors",
-        "title": "Computer Monitors",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "video",
-            "title": "Video"
-          },
-          {
-            "slug": "computer-monitors",
-            "title": "Computer Monitors"
-          }
-        ],
-        "has_children": true
-      },
-      "gender": null,
-      "age": null,
-      "materials": [
-        "IPS panel"
-      ],
-      "key_features": [
-        "23.8\" 1080p Full HD IPS display",
-        "120Hz refresh rate for seamless flow",
-        "99% sRGB color coverage for vivid visuals",
-        "T\u00dcV-certified Low Blue Light and Flicker-free technology",
-        "Ultrathin bezel for maximum focus",
-        "HDMI and DisplayPort connectivity",
-        "Adaptive brightness for comfortable viewing"
-      ],
-      "colors": [
-        {
-          "hex": "#fcfff8",
-          "percentage": 0.1926
-        },
-        {
-          "hex": "#ccec8e",
-          "percentage": 0.1642
-        },
-        {
-          "hex": "#3d7e2e",
-          "percentage": 0.1563
-        },
-        {
-          "hex": "#223f17",
-          "percentage": 0.1556
-        },
-        {
-          "hex": "#7a9843",
-          "percentage": 0.1079
-        },
-        {
-          "hex": "#a3d162",
-          "percentage": 0.1009
-        },
-        {
-          "hex": "#464f2d",
-          "percentage": 0.0725
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/2PIwrE4-S5BM-8tFxDf?o=01M2FYCNG0F3J2W1CB8NKJRS3E&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "benq.eu",
-          "price": {
-            "price": 1210.0,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.0,
-          "dimensions": null
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "monitor-specialized-features": [
-          "Blue light filter",
-          "Built-in speakers",
-          "Flicker-free"
-        ],
-        "device-interface": [
-          "Display port",
-          "HDMI"
-        ],
-        "color-accuracy-standards": [
-          "sRGB"
-        ],
-        "monitor-shape": [
-          "Flat"
-        ],
-        "display-resolution": [
-          "Full HD"
-        ],
-        "display-technology": [
-          "IPS"
         ]
       },
       "ratings": null
@@ -2716,43 +1897,43 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/3f61eca1-59be-4008-834f-639a32f479d3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3f61eca1-59be-4008-834f-639a32f479d3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
+          "url": "https://cdn.trychannel3.com/3f61eca1-59be-4008-834f-639a32f479d3?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3f61eca1-59be-4008-834f-639a32f479d3?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Monitor displaying a professional monitor graphic with a brand badge."
         },
         {
-          "url": "https://cdn.trychannel3.com/c8b15d2a-46ca-4d2d-b5af-0406dc3f07d0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c8b15d2a-46ca-4d2d-b5af-0406dc3f07d0?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
+          "url": "https://cdn.trychannel3.com/c8b15d2a-46ca-4d2d-b5af-0406dc3f07d0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c8b15d2a-46ca-4d2d-b5af-0406dc3f07d0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Black Samsung monitor with tall stand on a white background."
         },
         {
-          "url": "https://cdn.trychannel3.com/f787b5ef-e938-4037-bc2a-27d398938085?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f787b5ef-e938-4037-bc2a-27d398938085?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
+          "url": "https://cdn.trychannel3.com/f787b5ef-e938-4037-bc2a-27d398938085?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f787b5ef-e938-4037-bc2a-27d398938085?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Monitor displaying a professional monitor graphic over a city skyline."
         },
         {
-          "url": "https://cdn.trychannel3.com/fefc6eb3-1254-4f86-9664-fcf527f7608d?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fefc6eb3-1254-4f86-9664-fcf527f7608d?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
+          "url": "https://cdn.trychannel3.com/fefc6eb3-1254-4f86-9664-fcf527f7608d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/fefc6eb3-1254-4f86-9664-fcf527f7608d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Monitor displaying a professional monitor graphic over a city skyline."
         },
         {
-          "url": "https://cdn.trychannel3.com/97ce56a6-d3b0-4d2f-b0f1-1eb798493ada?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
+          "url": "https://cdn.trychannel3.com/97ce56a6-d3b0-4d2f-b0f1-1eb798493ada?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "Close-up of the back panel ports and inputs of a monitor."
         },
         {
-          "url": "https://cdn.trychannel3.com/c0d1c81e-7049-4446-b9f7-4cc371b4dda1?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c0d1c81e-7049-4446-b9f7-4cc371b4dda1?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=ckmS",
+          "url": "https://cdn.trychannel3.com/c0d1c81e-7049-4446-b9f7-4cc371b4dda1?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c0d1c81e-7049-4446-b9f7-4cc371b4dda1?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=ckmS",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Monitor displaying a vibrant pink and orange sunset cityscape."
@@ -2824,7 +2005,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/yfGXvvB-ckmS-8tFxDf?o=01M1AA7JC3ZTG0233ZZDKXNPFV&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/yfGXvvB-ckmS-8tFxDf?o=01M1AA7JC3ZTG0233ZZDKXNPFV&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "samsung.com",
           "price": {
             "price": 199.99,
@@ -2906,113 +2087,78 @@
       }
     },
     {
-      "id": "puUoSkK",
-      "title": "Lenovo ThinkVision E24-40 - LED monitor - Full HD (1080p) - 24\"",
-      "description": "The Lenovo ThinkVision E24-40 is a 23.8-inch professional monitor designed for productivity and comfort. It features a Full HD (1920 x 1080) IPS panel that delivers consistent colors and wide viewing angles, combined with a smooth 100Hz refresh rate for reduced motion blur. The monitor is highly ergonomic, offering a versatile stand with height, pivot, swivel, and tilt adjustments to optimize the user's viewing position. Connectivity options include HDMI, VGA, and DisplayPort, and it is VESA mount compatible for flexible setup options. Its sleek 'Raven Black' finish makes it a professional addition to any workspace.",
+      "id": "sjvwslE",
+      "title": "MSI PRO MP243 E14 23.8\" Full HD HDR 144 Hz Monitor",
+      "description": "The MSI PRO MP243 E14 is a 23.8-inch Full HD monitor designed for professional and everyday tasks. It features an IPS panel with a 1920 x 1080 resolution, a smooth 144 Hz refresh rate, and a 1 ms (MPRT) response time, making it suitable for fluid graphics and fast scrolling. The monitor is HDR-ready with a 1500:1 static contrast ratio and 300 nits brightness, supporting a wide color gamut (121% sRGB). It includes EyesErgo eye care technology to reduce blue light and flicker, integrated 2W stereo speakers, and a space-saving stand with an accessory slot. Connectivity options include HDMI 1.4b and DisplayPort 1.2a, and it is VESA mount compatible.",
       "brands": [
         {
-          "id": "NKbC",
-          "name": "Lenovo"
+          "id": "yJK9",
+          "name": "MSI"
         }
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/60d3e1cb-bf2a-4a66-8329-3ff2f95fa50f?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
+          "url": "https://cdn.trychannel3.com/44561d17-cc73-4959-a00f-5447985c865b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/90bcc17e-c3cf-4a8d-ba05-2223e2ab160a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": true,
-          "shot_type": "in_use",
-          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+          "shot_type": "hero",
+          "alt_text": "Monitor showing vibrant abstract wallpaper and specs."
         },
         {
-          "url": "https://cdn.trychannel3.com/ed7e3982-b070-433e-a84a-81feec39ae22?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ed7e3982-b070-433e-a84a-81feec39ae22?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/8b69cb1b-39ec-41b9-b397-d1f430b78093?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/11cb03b1-0c3a-4b2f-aaa8-80097b99fde0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
           "shot_type": "hero",
-          "alt_text": "Black monitor stand with an adjustable arm and base."
+          "alt_text": "Back view of a black monitor."
         },
         {
-          "url": "https://cdn.trychannel3.com/f5b68067-9797-47f7-8106-f6736916db3d?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
+          "url": "https://cdn.trychannel3.com/93b389b7-5eff-4ead-85c9-8539e4a87c86?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/bde3fd2e-a1e0-45eb-b9d9-bce22f573897?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
           "shot_type": "hero",
-          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+          "alt_text": "Side profile of a black computer monitor."
         },
         {
-          "url": "https://cdn.trychannel3.com/ecce6abf-9c5b-4ac6-87a6-86e7fe58517e?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "in_use",
-          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/ef60ba24-2aa3-4850-ac78-920ad8096a38?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
+          "url": "https://cdn.trychannel3.com/4fe15643-2110-4301-b05d-6d49a2788ad5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/042720a1-243a-4c73-8a34-511191ce7513?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
           "shot_type": "hero",
-          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+          "alt_text": "Side view of a monitor with an adjustable stand."
         },
         {
-          "url": "https://cdn.trychannel3.com/8998a967-75a6-4455-8302-53252bc5c526?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
+          "url": "https://cdn.trychannel3.com/0e9d4b58-00bb-4492-98b0-81603a79d0b0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/bd2c61c6-98d9-471b-9057-1b0144fb5156?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
-          "shot_type": "in_use",
-          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+          "shot_type": "detail",
+          "alt_text": "Close-up of the monitor stand base."
         },
         {
-          "url": "https://cdn.trychannel3.com/96bf66c5-55ef-42f8-96ab-085e7e17a4f3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/96bf66c5-55ef-42f8-96ab-085e7e17a4f3?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/ef3f43f8-8306-4ff2-8c2a-46c4298d8098?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "in_use",
-          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/f79d783c-2c3d-49ff-b2be-cf1de883cc9a?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "in_use",
-          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/6f784f85-b77e-48c3-98ce-530fd9f74d18?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "in_use",
-          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/cf6ef039-fa17-4d90-b597-3b38132ad326?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cf6ef039-fa17-4d90-b597-3b38132ad326?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/38f79dcf-b34d-4944-a0f5-b6e273743f4a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/afbb342d-ac37-49d4-88c2-908ce0d33463?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
           "shot_type": "hero",
-          "alt_text": "Black monitor stand with an adjustable arm and base."
+          "alt_text": "Front view of a monitor with colorful wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/382f78f2-05bf-4070-8736-a28c41681338?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/382f78f2-05bf-4070-8736-a28c41681338?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4d12bd2e-fa50-402c-8b53-5f83041d7956?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/088627cd-c39b-43e9-9e5c-64428dda7f32?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
           "shot_type": "hero",
-          "alt_text": "Black monitor stand with an adjustable arm and base."
+          "alt_text": "Front view of a monitor with colorful wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/67b91990-ef3a-46de-8c81-4629281bf9fc?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/67b91990-ef3a-46de-8c81-4629281bf9fc?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/03f443f1-24df-4571-803b-7c7a65a7ad94?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/b488b80b-23b4-46c6-a892-5eb6186cc8b2?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
           "shot_type": "hero",
-          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+          "alt_text": "Front view of a monitor with colorful wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/fbc13672-8d34-4aec-a632-35528bb2414b?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=LPzf",
-          "cleaned_url": null,
+          "url": "https://cdn.trychannel3.com/9fef55ea-a642-4852-821b-fb6dd8a2ead6?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/f5f3236e-7de4-4e76-bf9e-61510aaf1336?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
           "is_main_image": false,
-          "shot_type": "product_information",
-          "alt_text": "Monitor connection ports and features displayed."
+          "shot_type": "hero",
+          "alt_text": "Front view of a monitor with colorful wallpaper."
         }
       ],
       "category": {
@@ -3038,71 +2184,108 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "Full HD (1920 x 1080) resolution",
-        "100Hz refresh rate",
-        "IPS panel with 1300:1 contrast ratio",
-        "3-side NearEdgeless design",
-        "Integrated stereo speakers (2W)",
-        "Connectivity: HDMI, DisplayPort 1.2, and VGA",
-        "Adjustable stand: Height, Pivot, Swivel, and Tilt",
-        "Natural Low Blue Light technology",
-        "23.8\" Viewable IPS Display",
-        "WLED Backlight with 250 Nit Brightness"
+        "1920 x 1080 Resolution",
+        "144 Hz Refresh Rate",
+        "1ms Response Time",
+        "IPS Panel",
+        "Adaptive Sync Compatible",
+        "HDR Ready",
+        "Built-In Speakers",
+        "EyesErgo Eye-care technology",
+        "DisplayPort 1.2a and HDMI 1.4b",
+        "100 x 100mm VESA mount compatible"
       ],
       "colors": [
         {
-          "hex": "#363636",
-          "percentage": 0.8158
+          "hex": "#ed8048",
+          "percentage": 0.2385
         },
         {
-          "hex": "#1f1f1f",
-          "percentage": 0.0971
+          "hex": "#1d2124",
+          "percentage": 0.1738
         },
         {
-          "hex": "#7e7e7e",
-          "percentage": 0.0871
+          "hex": "#607a82",
+          "percentage": 0.1563
+        },
+        {
+          "hex": "#224456",
+          "percentage": 0.1354
+        },
+        {
+          "hex": "#e3d9b0",
+          "percentage": 0.093
+        },
+        {
+          "hex": "#985747",
+          "percentage": 0.0747
+        },
+        {
+          "hex": "#c3a37b",
+          "percentage": 0.0653
+        },
+        {
+          "hex": "#6e2923",
+          "percentage": 0.0631
         }
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/puUoSkK-LPzf-8tFxDf?o=01M4Q5GW7G087ZDS3WDCBKCG4E&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "newegg.com",
+          "url": "https://buy.trychannel3.com/sjvwslE-oHaU-8tFxDf?o=01M3ASMR66S2CVA8RCZMDD7ES5&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bhphotovideo.com",
           "price": {
-            "price": 149.99,
-            "compare_at_price": 159.99,
+            "price": 109.99,
+            "compare_at_price": null,
             "currency": "USD"
           },
           "availability": "InStock",
           "condition": "new",
-          "max_commission_rate": 0.007,
-          "dimensions": null
-        },
-        {
-          "url": "https://buy.trychannel3.com/puUoSkK-TgS4-8tFxDf?o=01M4JJFGPFQ08R4NEB7W6MKVWX&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
-          "domain": "cdw.com",
-          "price": {
-            "price": 167.99,
-            "compare_at_price": 176.83,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.0,
+          "max_commission_rate": 0.021,
           "dimensions": {
             "length": {
-              "number": 7.0,
+              "number": 21.26,
               "unit": "in"
             },
             "width": {
-              "number": 21.3,
+              "number": 7.4,
               "unit": "in"
             },
             "height": {
-              "number": 19.6,
+              "number": 16.09,
               "unit": "in"
             },
             "weight": {
-              "number": 9.92,
+              "number": 6.8,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/sjvwslE-5MTd-8tFxDf?o=01M0Z0CT6VP4PD88ZGZ8FSNQRF&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "us-store.msi.com",
+          "price": {
+            "price": 109.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.014,
+          "dimensions": {
+            "length": {
+              "number": 21.26,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.41,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.09,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 6.83,
               "unit": "lb"
             }
           }
@@ -3110,48 +2293,327 @@
       ],
       "variants": null,
       "structured_attributes": {
-        "screen-curvature-rating": [
-          "Flat (0R)"
-        ],
-        "contrast-ratio-typical": [
-          "1300:1"
-        ],
-        "device-interface": [
-          "Display port",
-          "HDMI",
-          "VGA"
-        ],
-        "display-technology": [
-          "IPS"
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "Frameless",
+          "HDR support",
+          "LED backlight",
+          "Suitable for gaming"
         ],
         "native-aspect-ratio": [
           "16:9"
         ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "3.5 mm"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
         "monitor-shape": [
           "Flat"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "sRGB"
+        ]
+      },
+      "ratings": {
+        "value": 4.33,
+        "count": 30,
+        "source_count": 1
+      }
+    },
+    {
+      "id": "UeOikVN",
+      "title": "PRO MP243W E14 Monitor",
+      "description": "The MSI PRO MP243W E14 is a 23.8-inch Full HD business and productivity monitor designed for work, study, and entertainment. It features an IPS panel with a 1920 x 1080 resolution, a fast 144Hz refresh rate, and a 1ms MPRT response time for smooth visuals. The monitor is HDR Ready, includes Adaptive-Sync technology, and features built-in stereo speakers. To protect user vision during long sessions, it incorporates EyesErgo technologies such as Anti-Flicker and Low Blue Light. Its sleek white design includes a tilt-adjustable stand and a 4-sided PerfectEdge bezel, making it suitable for multi-monitor configurations.",
+      "brands": [
+        {
+          "id": "yJK9",
+          "name": "MSI"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/ecc0620f-5ed4-4441-b5ac-0bd8c1b8649b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ecc0620f-5ed4-4441-b5ac-0bd8c1b8649b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying vibrant orange and blue fluid art on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e6a644a8-a1ca-4b84-9454-f7f85e5e0d1e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e6a644a8-a1ca-4b84-9454-f7f85e5e0d1e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "White monitor stand and base for a computer monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/02eb2192-cad7-4f9e-adf7-1bd11ece8466?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/02eb2192-cad7-4f9e-adf7-1bd11ece8466?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor mounted on a white stand."
+        },
+        {
+          "url": "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Monitor/2025/MP243WE14/MP243WE14-8-400x400.png",
+          "cleaned_url": "https://asset-us-store.msi.com/image/cache/catalog/Pd_page/Monitor/2025/MP243WE14/MP243WE14-8-1024x1024.png",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor mounted on an angled white arm."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/31bc1b4c-08b6-45e6-8c7d-0dc61289bdc1?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/31bc1b4c-08b6-45e6-8c7d-0dc61289bdc1?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor on a white adjustable stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aff4b6fd-4610-4aaa-85e6-251531b3ed3d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/aff4b6fd-4610-4aaa-85e6-251531b3ed3d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Top view of a monitor and its stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f406f3c3-ac21-4033-a897-cd48e38825a6?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f406f3c3-ac21-4033-a897-cd48e38825a6?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying vibrant orange and blue fluid art on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/427f4598-379a-4275-bc6f-aa771333fc03?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/427f4598-379a-4275-bc6f-aa771333fc03?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying vibrant orange and blue fluid art on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3fb76c25-fb3f-469e-bd7a-d5f13ddb44ea?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/3fb76c25-fb3f-469e-bd7a-d5f13ddb44ea?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying vibrant orange and blue fluid art on a white stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/d40ebd02-2dd1-44a5-b180-0fda2842f801?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d40ebd02-2dd1-44a5-b180-0fda2842f801?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=oHaU",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying vibrant orange and blue fluid art on a white stand."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": "adult",
+      "materials": [],
+      "key_features": [
+        "1920 x 1080 (FHD) resolution",
+        "144Hz refresh rate",
+        "Adaptive-Sync technology",
+        "Built-in speakers",
+        "DisplayPort",
+        "HDMI",
+        "IPS panel",
+        "178\u00b0 viewing angle",
+        "4ms response time",
+        "HDR Ready"
+      ],
+      "colors": [
+        {
+          "hex": "#347aa2",
+          "percentage": 0.2042
+        },
+        {
+          "hex": "#f0985a",
+          "percentage": 0.163
+        },
+        {
+          "hex": "#b5c4c2",
+          "percentage": 0.1565
+        },
+        {
+          "hex": "#c95238",
+          "percentage": 0.115
+        },
+        {
+          "hex": "#d97a50",
+          "percentage": 0.1089
+        },
+        {
+          "hex": "#6b97ab",
+          "percentage": 0.0937
+        },
+        {
+          "hex": "#f4e2b2",
+          "percentage": 0.0877
+        },
+        {
+          "hex": "#3c4962",
+          "percentage": 0.0709
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/UeOikVN-oHaU-8tFxDf?o=01M3BB3BTK5X3DRGP8A7SQ7NZE&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 94.99,
+            "compare_at_price": 119.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": {
+              "number": 21.26,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.4,
+              "unit": "in"
+            },
+            "height": {
+              "number": 16.09,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 6.8,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/UeOikVN-LFnL-8tFxDf?o=01KZZKN6G9MXXF6NZDDC33E2CZ&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "staples.com",
+          "price": {
+            "price": 120.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.03,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/UeOikVN-p1PB-8tFxDf?o=01KYGPHFX5ZRJA41REWAY3Z07P&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 134.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS",
+          "LCD",
+          "LED"
         ],
         "monitor-specialized-features": [
           "Anti-glare",
           "Blue light filter",
           "Built-in speakers",
           "Flicker-free",
-          "LED backlight"
+          "HDR support",
+          "LED backlight",
+          "Frameless",
+          "Suitable for gaming"
         ],
-        "vesa-mounting-pattern": [
-          "100 x 100 mm"
+        "screen-curvature-rating": [
+          "Flat (0R)"
         ],
-        "energy-efficiency-class-sdr": [
-          "C"
+        "color-accuracy-standards": [
+          "Adobe RGB",
+          "DCI-P3",
+          "sRGB"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
         ],
         "display-resolution": [
           "1920 x 1080",
           "Full HD"
         ],
+        "adaptive-sync-technology": [
+          "AMD FreeSync",
+          "VESA Adaptive Sync"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "device-interface": [
+          "3.5 mm",
+          "Display port",
+          "HDMI"
+        ],
         "pattern": [
-          "Solid"
+          "Graphic"
+        ],
+        "energy-efficiency-class-sdr": [
+          "E"
         ]
       },
-      "ratings": null
+      "ratings": {
+        "value": 4.71,
+        "count": 7,
+        "source_count": 2
+      }
     },
     {
       "id": "q5757KW",
@@ -3165,8 +2627,8 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/95e9cc55-5571-4016-84a6-edcd6aa6511d?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/95e9cc55-5571-4016-84a6-edcd6aa6511d?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/95e9cc55-5571-4016-84a6-edcd6aa6511d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/95e9cc55-5571-4016-84a6-edcd6aa6511d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Flat view of an HP monitor displaying a blue abstract wave pattern."
@@ -3231,10 +2693,10 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/q5757KW-p1PB-8tFxDf?o=01KXPGDW7JSA6TAT2AWZYEXFBB&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/q5757KW-p1PB-8tFxDf?o=01KXPGDW7JSA6TAT2AWZYEXFBB&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "bestbuy.com",
           "price": {
-            "price": 168.49,
+            "price": 164.4,
             "compare_at_price": null,
             "currency": "USD"
           },
@@ -3300,22 +2762,22 @@
       }
     },
     {
-      "id": "ycI9e5E",
-      "title": "ASUS VU249HFI-W LED Monitor",
-      "description": "The ASUS VU249HFI-W is a 24-inch LED-backlit LCD monitor featuring a vivid Full HD (1080p) resolution and a high refresh rate of 100Hz. Designed for both clarity and comfort, it boasts an IPS panel with a 1300:1 contrast ratio, anti-glare coating, and a brightness of 250 cd/m\u00b2. The monitor incorporates ASUS EyeCare+ technology, including Flicker-Free and Low Blue Light solutions to reduce eye strain. Its ergonomic design allows for height and tilt adjustments, and it provides connectivity via two HDMI ports. The sleek white chassis features a 3-sided bezeless design, making it suitable for multi-monitor setups.",
+      "id": "gxaEhEi",
+      "title": "Full HD LED Monitor",
+      "description": "This BenQ Business BL2490T is a 24-inch Full HD LED monitor with In-plane Switching (IPS) technology. It offers a 16:9 aspect ratio and a 24-inch viewable screen. The monitor is black and features HDMI and DisplayPort connectivity. It is also VESA mount compatible and includes built-in speakers.",
       "brands": [
         {
-          "id": "93q8",
-          "name": "ASUS"
+          "id": "H7Q8",
+          "name": "BenQ"
         }
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/5c5c7a0a-406a-4805-8663-0f86092905f7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=TgS4",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5c5c7a0a-406a-4805-8663-0f86092905f7?aid=01M66D9684MSSMEXXB3ZQPJQ6A&mid=TgS4",
+          "url": "https://cdn.trychannel3.com/abac8a88-b05c-4d9b-8f94-0a8c1e8e7a16?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/7a69998c-9fd6-46df-bf4e-a7a8a86e325b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
-          "alt_text": "Front view of a white ASUS 24-inch LED monitor displaying a blue gradient."
+          "alt_text": "BenQ BL2490T 24-inch Full HD LED Monitor displaying a market share evaluation graphic."
         }
       ],
       "category": {
@@ -3341,51 +2803,255 @@
       "age": null,
       "materials": [],
       "key_features": [
-        "Full HD (1080p) resolution",
-        "100 Hz refresh rate",
-        "IPS panel with 1300:1 contrast ratio",
-        "ASUS EyeCare+ Technology (Flicker-Free, Low Blue Light)",
-        "3-sided bezeless design",
-        "Adjustable height and tilt",
-        "Two HDMI ports"
+        "LED",
+        "IPS",
+        "Full HD"
       ],
       "colors": [
         {
-          "hex": "#bac6f5",
-          "percentage": 0.2421
+          "hex": "#2c414b",
+          "percentage": 0.7529
         },
         {
-          "hex": "#445cc9",
-          "percentage": 0.1397
+          "hex": "#535b61",
+          "percentage": 0.1499
         },
         {
-          "hex": "#d9e7fc",
-          "percentage": 0.1396
-        },
-        {
-          "hex": "#7fb2fa",
-          "percentage": 0.138
-        },
-        {
-          "hex": "#998fd7",
-          "percentage": 0.1235
-        },
-        {
-          "hex": "#5f89e7",
-          "percentage": 0.1123
-        },
-        {
-          "hex": "#233397",
-          "percentage": 0.1049
+          "hex": "#89abb2",
+          "percentage": 0.0972
         }
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/ycI9e5E-TgS4-8tFxDf?o=01M3YX5D22831C9XAFXCES186R&aid=01M66D9684MSSMEXXB3ZQPJQ6A",
+          "url": "https://buy.trychannel3.com/gxaEhEi-p1PB-8tFxDf?o=01KYH05827W75673T3H9XF8DZP&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 170.82,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.004,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "adaptive-sync-technology": [
+          "NVIDIA G-Sync",
+          "NVIDIA G-Sync Compatible"
+        ],
+        "device-interface": [
+          "HDMI"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "1080p",
+          "Full HD"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "monitor-specialized-features": [
+          "Frameless",
+          "LED backlight"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "MJFAoLQ",
+      "title": "VG2441V Monitor",
+      "description": "The ViewSonic VG2441V is a 24-inch Full HD (1920 x 1080) video conferencing monitor featuring an IPS panel for vivid colors and wide 178\u00b0 viewing angles. Designed for productivity and remote work, it includes an integrated 5MP IR webcam with a privacy shutter, dual microphones, and a 2W stereo speaker system. It offers versatile connectivity with HDMI, DisplayPort, and USB-C inputs, along with a USB 3.1 Gen 1 hub for peripherals. The monitor is highly ergonomic, allowing for height adjustment, tilt, swivel, and 90\u00b0 rotation for portrait mode. Additionally, it features Eye ProTech+ technology (flicker-free and blue light filtering) to reduce eyestrain and is Windows Hello-certified for secure facial recognition login.",
+      "brands": [
+        {
+          "id": "7Ncd",
+          "name": "ViewSonic"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/7d8ddcd5-edbf-4902-8352-50fa3b0e35a0?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/19b96c75-68d2-4da9-930a-040dd520e41c?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Black Viewsonic 24 inch monitor with stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/2294e2d2-ce7c-49fd-92a0-66fb268972f2?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor specifications and connectivity features."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/60cd2545-a70c-441d-9cf5-cff3e2632ef3?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/b06a19a3-02d9-4a13-b3df-cebb9252ab85?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Woman adjusting monitor height and adjustment settings."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/207ebae3-8d5a-4469-b595-2163b1aa79bc?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/ee1a05c6-050d-4b65-84b2-1fec37b81c2e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Man using a Windows Hello certified monitor for video calls."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/aa1fea06-349c-4ea8-8883-264daadd08a7?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cb0e5fdf-0524-4cda-96ca-98aed0caf3c5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Monitor setup with built-in camera and speakers for video calls."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/979df4ee-c372-4e29-bff4-e13ca71c0a62?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/ce268956-a651-402e-9f9e-13c99984f880?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of the Viewsonic 24 inch monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ecb88593-27f5-4c80-ba55-0d29521099d5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/11eacbf7-6c7d-4c83-88f5-000527379388?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Graphic emphasizing 120Hz refresh rate."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/a83b9534-4d32-4770-b770-11aa3d4cc590?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/d972f7e8-a499-4e23-822b-a82f4d8d53d5?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Diagram showing dimensions and I/O ports of the monitor."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/3e40afe9-d055-4d79-a1d4-8489f5c83d79?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/ef64d83b-2827-4098-b51d-512a4b198b9e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "packaging",
+          "alt_text": "Contents list for the Viewsonic monitor box."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "VERSATILE MONITOR: 24 Inch Full HD (1920x1080p) IPS webcam monitor with 120Hz refresh rate",
+        "VIDEO CONFERENCING MONITOR: Built-in microphone, speakers and 5MP camera with privacy shutter and 5 degree tilt adjustment",
+        "Windows Hello-Certified: Facial recognition with IR-integrated camera",
+        "ERGONOMIC STAND: Tilt, swivel, rotate, and height adjustment",
+        "ENHANCED VIEWING COMFORT: Flicker-Free technology and Blue Light Filter",
+        "FLEXIBLE CONNECTIVITY: HDMI, USB-C, DisplayPort inputs with USB hub",
+        "4 ms response time",
+        "VESA mount compatible",
+        "23.8\" Full HD (1920x1080) IPS display",
+        "Built-in microphone and dual 2W internal speakers"
+      ],
+      "colors": [
+        {
+          "hex": "#3f5eac",
+          "percentage": 0.1878
+        },
+        {
+          "hex": "#49a8e8",
+          "percentage": 0.1795
+        },
+        {
+          "hex": "#397cd7",
+          "percentage": 0.1572
+        },
+        {
+          "hex": "#315bbd",
+          "percentage": 0.1407
+        },
+        {
+          "hex": "#202c46",
+          "percentage": 0.133
+        },
+        {
+          "hex": "#9ecee6",
+          "percentage": 0.0989
+        },
+        {
+          "hex": "#394a85",
+          "percentage": 0.0542
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/MJFAoLQ-LPzf-8tFxDf?o=01M61869PEN9XCYGQ5MWG4GT76&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "newegg.com",
+          "price": {
+            "price": 199.69,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/MJFAoLQ-oHaU-8tFxDf?o=01M32SFTH3N1F0RSCDMNQGYAQM&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bhphotovideo.com",
+          "price": {
+            "price": 199.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.021,
+          "dimensions": {
+            "length": null,
+            "width": null,
+            "height": null,
+            "weight": {
+              "number": 9.9,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/MJFAoLQ-TgS4-8tFxDf?o=01M4MJBDX2Y4A3AZ2DPA5VA5E7&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
           "domain": "cdw.com",
           "price": {
-            "price": 129.0,
-            "compare_at_price": null,
+            "price": 199.99,
+            "compare_at_price": 275.0,
             "currency": "USD"
           },
           "availability": "InStock",
@@ -3393,29 +3059,71 @@
           "max_commission_rate": 0.0,
           "dimensions": {
             "length": {
-              "number": 7.5,
+              "number": 21.3,
               "unit": "in"
             },
             "width": {
-              "number": 21.2,
+              "number": 21.26,
               "unit": "in"
             },
             "height": {
-              "number": 17.5,
+              "number": 20.83,
               "unit": "in"
             },
             "weight": {
-              "number": 8.82,
+              "number": 9.92,
               "unit": "lb"
             }
           }
+        },
+        {
+          "url": "https://buy.trychannel3.com/MJFAoLQ-K6RA-8tFxDf?o=01M1PS5PEPN0SCG6D36ES8VAR9&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "macys.com",
+          "price": {
+            "price": 213.7,
+            "compare_at_price": 235.19,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.056,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/MJFAoLQ-p1PB-8tFxDf?o=01KY78SAZNHSP19FS82T6MNAEV&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 245.17,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
         }
       ],
       "variants": null,
       "structured_attributes": {
-        "display-resolution": [
-          "1080p",
-          "Full HD"
+        "monitor-specialized-features": [
+          "Blue light filter",
+          "Built-in camera",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight",
+          "Adjustable viewing angle",
+          "Anti-glare"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "USB",
+          "3.5 mm"
+        ],
+        "display-technology": [
+          "IPS",
+          "LED",
+          "LCD"
         ],
         "monitor-shape": [
           "Flat"
@@ -3423,23 +3131,584 @@
         "screen-curvature-rating": [
           "Flat (0R)"
         ],
+        "display-resolution": [
+          "Full HD",
+          "1920 x 1080"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "adaptive-sync-technology": [
+          "None",
+          "VESA Adaptive Sync"
+        ],
+        "contrast-ratio-typical": [
+          "1500:1"
+        ],
+        "pattern": [
+          "Solid",
+          "Abstract"
+        ],
+        "color-accuracy-standards": [
+          "NTSC",
+          "sRGB"
+        ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ]
+      },
+      "ratings": {
+        "value": 4.5,
+        "count": 4,
+        "source_count": 3
+      }
+    },
+    {
+      "id": "0BclDTq",
+      "title": "MSI PRO 24.5\" 1920 x 1080 FHD IPS 100Hz Monitor",
+      "description": "The MSI PRO MP253 is a 24.5-inch Full HD (1920 x 1080) business monitor designed for productivity and eye comfort. It features an IPS panel for wide 178\u00b0 viewing angles and accurate colors, paired with a 100Hz refresh rate and 1ms response time to ensure smooth visuals. The monitor is TUV Rheinland certified and incorporates EyesErgo technology to reduce eye strain. Connectivity options include HDMI 1.4, DisplayPort 1.2, and VGA ports. Additional features include built-in speakers, VESA mount compatibility, and the MSI Display Kit software for customized display settings.",
+      "brands": [
+        {
+          "id": "yJK9",
+          "name": "MSI"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/da0ee942-7073-4812-b14e-72f52eb59b99?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/da0ee942-7073-4812-b14e-72f52eb59b99?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying a family making a funny face with hands over the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eb0bf0fb-529e-4329-a186-218442f65ca7?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/eb0bf0fb-529e-4329-a186-218442f65ca7?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying a family making a funny face with hands over the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c5a8aa83-b5f5-4394-8f8e-fa0d1f748d6b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/c5a8aa83-b5f5-4394-8f8e-fa0d1f748d6b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Monitor displaying a family making a funny face with hands over the screen."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9e7d20bd-7e60-4e6a-bb7f-02c480b45b44?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/9e7d20bd-7e60-4e6a-bb7f-02c480b45b44?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Side profile view of a black monitor on a stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e067fe07-e34d-4bd1-9ed5-b85710d0b4c9?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e067fe07-e34d-4bd1-9ed5-b85710d0b4c9?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=CCJD",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Front view of a black monitor with brand logo."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "24.5-inch FHD (1920 x 1080) IPS display",
+        "100Hz refresh rate and 1ms response time",
+        "TUV Rheinland certified with EyesErgo technology for eye care",
+        "Wide 178\u00b0 viewing angles",
+        "Connectivity: 1 x DisplayPort 1.2, 1 x HDMI 1.4, 1 x VGA",
+        "Built-in speakers",
+        "VESA mount compatible",
+        "Adaptive Sync support",
+        "300 nits brightness"
+      ],
+      "colors": [
+        {
+          "hex": "#6f8ba4",
+          "percentage": 0.5019
+        },
+        {
+          "hex": "#5f6d79",
+          "percentage": 0.1725
+        },
+        {
+          "hex": "#3e434b",
+          "percentage": 0.135
+        },
+        {
+          "hex": "#191617",
+          "percentage": 0.12
+        },
+        {
+          "hex": "#b3c1cc",
+          "percentage": 0.0707
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/0BclDTq-CCJD-8tFxDf?o=01M3T3DCFEEYXM86F8HVH3PM05&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "canadacomputers.com",
+          "price": {
+            "price": 178.12,
+            "compare_at_price": 187.5,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "adaptive-sync-technology": [
+          "VESA Adaptive Sync"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
+        "display-technology": [
+          "IPS"
+        ],
         "monitor-specialized-features": [
-          "Anti-glare",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight"
+        ],
+        "device-interface": [
+          "Display port",
+          "HDMI",
+          "VGA"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "IMKJLwt",
+      "title": "ViewSonic VA2448-MHJ 23.8\" 16:9 Full HD 120Hz IPS LED Monitor",
+      "description": "ViewSonic VA2448-MHJ is a 24-inch IPS LED monitor featuring 1080p resolution, 120Hz refresh rate, 1ms response time, blue light filter, flicker-free technology, and an ergonomic stand with adjustable height, tilt, swivel, and pivot. It offers HDMI and VGA connectivity suitable for home and office use, with a frameless design for versatile multi-monitor setups.",
+      "brands": [
+        {
+          "id": "7Ncd",
+          "name": "ViewSonic"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/76f1768e-e6e4-4898-9c7a-b60b9f4006ca?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/52a52aff-eff6-4771-a019-d670e6eb9664?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic 24-inch 120Hz IPS LED monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/b432f9bb-2d24-45b2-be60-1c706964198b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic 24-inch 120Hz IPS LED monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/01b8eddc-0842-489b-8a8d-f48ff098b024?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "ViewSonic 24-inch 120Hz IPS LED monitor with a black stand."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e4b34326-6d34-4197-b7df-929e8322275c?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e4b34326-6d34-4197-b7df-929e8322275c?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "ViewSonic monitor with a black stand and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/e5db46c3-35de-4854-a1c7-96e42d0e80eb?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "ViewSonic monitor with a black stand and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/adf19361-0d5b-4cd3-8d6f-74a7484e4821?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=T9Fg",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "angle_view",
+          "alt_text": "ViewSonic monitor with a black stand and base."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Experience crisp, clear visuals with the 23.8\" Full HD (1920x1080) IPS display, perfect for everyday tasks.",
+        "Enjoy smooth, fluid motion thanks to the 120Hz refresh rate, enhancing your gaming and video experience.",
+        "Benefit from an ultra-fast 1ms response time, reducing ghosting and blur for competitive gaming and fast-paced action.",
+        "Connect effortlessly with versatile HDMI and VGA inputs, ensuring compatibility with all your devices.",
+        "Immerse yourself in vibrant colors and wide viewing angles with the advanced IPS panel technology.",
+        "Optimize your workspace with the ergonomic design, featuring tilt, swivel, pivot, and height adjustments for comfort."
+      ],
+      "colors": [
+        {
+          "hex": "#020101",
+          "percentage": 0.2895
+        },
+        {
+          "hex": "#910e29",
+          "percentage": 0.2243
+        },
+        {
+          "hex": "#5e0919",
+          "percentage": 0.1714
+        },
+        {
+          "hex": "#30020a",
+          "percentage": 0.1615
+        },
+        {
+          "hex": "#a69a93",
+          "percentage": 0.0807
+        },
+        {
+          "hex": "#77293e",
+          "percentage": 0.0726
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/IMKJLwt-T9Fg-8tFxDf?o=01KNMHRKAF6BC7W7XR9MFK84PF&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "adorama.com",
+          "price": {
+            "price": 139.99,
+            "compare_at_price": 144.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.025,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-technology": [
+          "IPS",
+          "LED"
+        ],
+        "monitor-specialized-features": [
           "Blue light filter",
           "Flicker-free",
           "Frameless",
-          "LED backlight"
+          "Adjustable viewing angle"
         ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "device-interface": [
+          "HDMI",
+          "VGA"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ]
+      },
+      "ratings": null
+    },
+    {
+      "id": "puUoSkK",
+      "title": "Lenovo ThinkVision E24-40 - LED monitor - Full HD (1080p) - 24\"",
+      "description": "The Lenovo ThinkVision E24-40 is a 24-inch LED-backlit IPS monitor designed for productivity and creativity. It features Full HD (1080p) resolution with a 100Hz refresh rate, offering crisp visuals and smooth motion. The monitor includes integrated speakers, multiple connectivity options (HDMI, DisplayPort, and VGA), and a flexible stand that supports height adjustment, pivot, swivel, and tilt. Its 3-side NearEdgeless design and Natural Low Blue Light technology help maximize screen real estate while reducing eye strain.",
+      "brands": [
+        {
+          "id": "NKbC",
+          "name": "Lenovo"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/60d3e1cb-bf2a-4a66-8329-3ff2f95fa50f?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ed7e3982-b070-433e-a84a-81feec39ae22?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ed7e3982-b070-433e-a84a-81feec39ae22?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand with an adjustable arm and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f5b68067-9797-47f7-8106-f6736916db3d?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ecce6abf-9c5b-4ac6-87a6-86e7fe58517e?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ef60ba24-2aa3-4850-ac78-920ad8096a38?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/8998a967-75a6-4455-8302-53252bc5c526?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/96bf66c5-55ef-42f8-96ab-085e7e17a4f3?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/96bf66c5-55ef-42f8-96ab-085e7e17a4f3?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ef3f43f8-8306-4ff2-8c2a-46c4298d8098?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/f79d783c-2c3d-49ff-b2be-cf1de883cc9a?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/6f784f85-b77e-48c3-98ce-530fd9f74d18?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "in_use",
+          "alt_text": "Lenovo ThinkVision monitor displaying presentation software."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/cf6ef039-fa17-4d90-b597-3b38132ad326?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cf6ef039-fa17-4d90-b597-3b38132ad326?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand with an adjustable arm and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/382f78f2-05bf-4070-8736-a28c41681338?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/382f78f2-05bf-4070-8736-a28c41681338?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Black monitor stand with an adjustable arm and base."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/67b91990-ef3a-46de-8c81-4629281bf9fc?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/67b91990-ef3a-46de-8c81-4629281bf9fc?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Lenovo ThinkVision monitor on its stand, front view."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/fbc13672-8d34-4aec-a632-35528bb2414b?aid=01M6ECWXK4CRGRJKKXWN94NXNX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Monitor connection ports and features displayed."
+        }
+      ],
+      "category": {
+        "slug": "computer-monitors",
+        "title": "Computer Monitors",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "video",
+            "title": "Video"
+          },
+          {
+            "slug": "computer-monitors",
+            "title": "Computer Monitors"
+          }
+        ],
+        "has_children": true
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Full HD (1920 x 1080) resolution",
+        "100Hz refresh rate",
+        "IPS panel with 1300:1 contrast ratio",
+        "3-side NearEdgeless design",
+        "Integrated stereo speakers (2W)",
+        "Connectivity: HDMI, DisplayPort 1.2, and VGA",
+        "Adjustable stand: Height, Pivot, Swivel, and Tilt",
+        "Natural Low Blue Light technology"
+      ],
+      "colors": [
+        {
+          "hex": "#363636",
+          "percentage": 0.8158
+        },
+        {
+          "hex": "#1f1f1f",
+          "percentage": 0.0971
+        },
+        {
+          "hex": "#7e7e7e",
+          "percentage": 0.0871
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/puUoSkK-LPzf-8tFxDf?o=01M4Q5GW7G087ZDS3WDCBKCG4E&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "newegg.com",
+          "price": {
+            "price": 149.99,
+            "compare_at_price": 159.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": null
+        },
+        {
+          "url": "https://buy.trychannel3.com/puUoSkK-TgS4-8tFxDf?o=01M4JJFGPFQ08R4NEB7W6MKVWX&aid=01M6ECWXK4CRGRJKKXWN94NXNX",
+          "domain": "cdw.com",
+          "price": {
+            "price": 167.99,
+            "compare_at_price": 176.83,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.0,
+          "dimensions": {
+            "length": {
+              "number": 7.0,
+              "unit": "in"
+            },
+            "width": {
+              "number": 21.3,
+              "unit": "in"
+            },
+            "height": {
+              "number": 19.6,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 9.92,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
         "contrast-ratio-typical": [
           "1300:1"
         ],
+        "vesa-mounting-pattern": [
+          "100 x 100 mm"
+        ],
+        "display-resolution": [
+          "1920 x 1080",
+          "Full HD"
+        ],
+        "native-aspect-ratio": [
+          "16:9"
+        ],
+        "monitor-shape": [
+          "Flat"
+        ],
         "display-technology": [
-          "IPS",
-          "LCD",
-          "LED"
+          "IPS"
+        ],
+        "screen-curvature-rating": [
+          "Flat (0R)"
+        ],
+        "monitor-specialized-features": [
+          "Anti-glare",
+          "Blue light filter",
+          "Built-in speakers",
+          "Flicker-free",
+          "LED backlight"
         ],
         "device-interface": [
-          "HDMI"
+          "Display port",
+          "HDMI",
+          "VGA"
+        ],
+        "energy-efficiency-class-sdr": [
+          "C"
+        ],
+        "pattern": [
+          "Solid"
         ]
       },
       "ratings": null
