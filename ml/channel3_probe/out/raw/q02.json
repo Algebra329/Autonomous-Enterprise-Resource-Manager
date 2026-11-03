@@ -12,14 +12,14 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/cb84f80a-6f05-4096-972c-aeef186e5a98?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cb84f80a-6f05-4096-972c-aeef186e5a98?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/cb84f80a-6f05-4096-972c-aeef186e5a98?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cb84f80a-6f05-4096-972c-aeef186e5a98?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Silver laptop displaying abstract, glowing, translucent spherical objects."
         },
         {
-          "url": "https://cdn.trychannel3.com/13ddcc12-1611-4a29-9958-48c3d283b15f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/13ddcc12-1611-4a29-9958-48c3d283b15f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
@@ -95,7 +95,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/8OFXAE9-LPzf-8tFxDf?o=01M5XF4CPBTJWCPVZS6V8V9KK5&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/8OFXAE9-LPzf-8tFxDf?o=01M5XF4CPBTJWCPVZS6V8V9KK5&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 1099.99,
@@ -185,6 +185,224 @@
       }
     },
     {
+      "id": "qQcDXte",
+      "title": "Dell XPS 13 9345 Laptop, Copilot+ AI PC",
+      "description": "The Dell XPS 13 9345 is a high-performance Copilot+ AI PC designed for efficiency and portability. Featuring the Qualcomm Snapdragon X Elite 12-core processor and a dedicated Hexagon NPU (45 TOPS), it handles demanding multitasking and AI-powered workflows with ease. The laptop boasts a 13.4-inch FHD+ InfinityEdge display with a 120Hz refresh rate and an anti-glare finish. Built with CNC aluminum and Gorilla Glass 3, it is exceptionally thin and light, offering up to 27 hours of streaming battery life. It comes equipped with 16GB of LPDDR5X RAM, a 2TB PCIe NVMe SSD, Wi-Fi 7, and Windows 11 Pro.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/f81f1f86-37a2-47b1-be33-7a13277ea8cd?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 screen showing 2025 AI and Copilot+ PC branding."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/9dca48d8-0e80-48fe-a177-20285ae8e517?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Specifications for Dell XPS 13 laptop CPU, SSD, and RAM."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/ee631eda-2489-4bfa-814a-892b68985fe7?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the keyboard and function row of the laptop."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/75f0ff37-09b4-4923-9903-102aa0ee286d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop keyboard and Copilot key."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/30f68a1c-c031-463f-bb77-e27b2672e74e?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "lifestyle",
+          "alt_text": "Laptop screen showing vivid colors and immersive display quality."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/dc984e40-d6ed-4cda-8301-f2b17213dcfa?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Side profile of the Dell XPS 13 laptop showing the USB-C port."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/169c4166-2cc0-4ff7-9a44-42474c630d73?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 laptop screen showing the Copilot+PC logo."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [
+        "aluminum",
+        "Gorilla Glass 3"
+      ],
+      "key_features": [
+        "Copilot+ AI PC with on-device AI",
+        "Qualcomm Snapdragon X Elite 12-Core Processor",
+        "13.4\" FHD+ (1920x1200) 120Hz InfinityEdge Display",
+        "16GB LPDDR5X 8448MT/s RAM",
+        "2TB PCIe NVMe M.2 SSD",
+        "Up to 27 hours of streaming battery life",
+        "Qualcomm Adreno GPU",
+        "Qualcomm Hexagon NPU (45 TOPS)",
+        "Wi-Fi 7 and Bluetooth 5.4",
+        "Windows 11 Professional 64-bit"
+      ],
+      "colors": [
+        {
+          "hex": "#b7b7bb",
+          "percentage": 0.5164
+        },
+        {
+          "hex": "#707074",
+          "percentage": 0.1704
+        },
+        {
+          "hex": "#333335",
+          "percentage": 0.1315
+        },
+        {
+          "hex": "#8e8e91",
+          "percentage": 0.1029
+        },
+        {
+          "hex": "#57575a",
+          "percentage": 0.0789
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/qQcDXte-LPzf-8tFxDf?o=01M5XF232Y15Q6X5GTC7JQWC4E&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1649.99,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 11.62,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.84,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.58,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.6,
+              "unit": "lb"
+            }
+          }
+        },
+        {
+          "url": "https://buy.trychannel3.com/qQcDXte-p1PB-8tFxDf?o=01M5DMJZBDKX69TYB3HC571PXD&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
+          "domain": "bestbuy.com",
+          "price": {
+            "price": 1999.99,
+            "compare_at_price": 2999.99,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.005,
+          "dimensions": null
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "computer-form": [
+          "Notebook"
+        ],
+        "memory-technology": [
+          "DDR",
+          "DDR5"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-cores": [
+          "Deca"
+        ],
+        "storage-types-supported": [
+          "PCIe/NVMe SSD"
+        ],
+        "storage-capacity": [
+          "4 TB",
+          "2 TB"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "ram": [
+          "32 GB",
+          "16 GB"
+        ],
+        "storage-drive-type-installed": [
+          "PCIe/NVMe SSD"
+        ],
+        "processor-family": [
+          "Qualcomm Snapdragon X Elite"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ]
+      },
+      "ratings": null
+    },
+    {
       "id": "DOE57Wq",
       "title": "Dell XPS 13.4\" Laptop",
       "description": "This Dell XPS 13 laptop features a 13.4-inch 2.8K OLED touchscreen display with a 16:10 aspect ratio. It is powered by a Qualcomm Snapdragon X Elite X1E-80 processor and comes with 16GB of LPDDR5X RAM and a 2TB PCIe SSD for storage. The laptop runs Windows 11 Pro and includes a backlit keyboard and a fingerprint reader. It also comes bundled with a Dockztorm wireless mouse.",
@@ -200,43 +418,43 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/5103b1d3-9668-417f-995c-1774f79a621e?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5103b1d3-9668-417f-995c-1774f79a621e?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/5103b1d3-9668-417f-995c-1774f79a621e?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/5103b1d3-9668-417f-995c-1774f79a621e?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Laptop screen showing an abstract wallpaper with AI and Copilot interface."
         },
         {
-          "url": "https://cdn.trychannel3.com/182f2327-ca0e-4851-bef4-23e05925572c?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/182f2327-ca0e-4851-bef4-23e05925572c?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/182f2327-ca0e-4851-bef4-23e05925572c?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/182f2327-ca0e-4851-bef4-23e05925572c?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Laptop screen showing a vibrant green textured wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/086a079e-9264-4f41-a0b7-1dcdb5ff8403?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/086a079e-9264-4f41-a0b7-1dcdb5ff8403?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/086a079e-9264-4f41-a0b7-1dcdb5ff8403?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/086a079e-9264-4f41-a0b7-1dcdb5ff8403?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Laptop shown from a three-quarter angle, showing the keyboard."
         },
         {
-          "url": "https://cdn.trychannel3.com/bef9e071-db5c-4e25-9486-936b75f6cd55?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bef9e071-db5c-4e25-9486-936b75f6cd55?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/bef9e071-db5c-4e25-9486-936b75f6cd55?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bef9e071-db5c-4e25-9486-936b75f6cd55?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Laptop shown with the screen open, focusing on the display and keyboard."
         },
         {
-          "url": "https://cdn.trychannel3.com/e0900416-9d3b-4452-b77d-c338be2f5fba?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e0900416-9d3b-4452-b77d-c338be2f5fba?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/e0900416-9d3b-4452-b77d-c338be2f5fba?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e0900416-9d3b-4452-b77d-c338be2f5fba?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Top view of a silver Dell laptop lid with the Dell logo."
         },
         {
-          "url": "https://cdn.trychannel3.com/0c3b3b78-b824-400f-8408-237479b85457?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c3b3b78-b824-400f-8408-237479b85457?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/0c3b3b78-b824-400f-8408-237479b85457?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/0c3b3b78-b824-400f-8408-237479b85457?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Side view of a silver Dell XPS 13 laptop."
@@ -307,7 +525,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/DOE57Wq-p1PB-8tFxDf?o=01KY1V3Z3FD113645DED91QJGB&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/DOE57Wq-p1PB-8tFxDf?o=01KY1V3Z3FD113645DED91QJGB&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "bestbuy.com",
           "price": {
             "price": 1289.99,
@@ -472,42 +690,42 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/e7d1f245-ffa4-4d81-8b16-f76ae6f26622?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e7d1f245-ffa4-4d81-8b16-f76ae6f26622?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/e7d1f245-ffa4-4d81-8b16-f76ae6f26622?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/e7d1f245-ffa4-4d81-8b16-f76ae6f26622?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Silver laptop on a plain background with abstract glowing design."
         },
         {
-          "url": "https://cdn.trychannel3.com/8f7ad9f3-3f26-4a16-b212-1dd99dcb10f9?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8f7ad9f3-3f26-4a16-b212-1dd99dcb10f9?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/8f7ad9f3-3f26-4a16-b212-1dd99dcb10f9?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/8f7ad9f3-3f26-4a16-b212-1dd99dcb10f9?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver laptop on a plain background with abstract glowing design."
         },
         {
-          "url": "https://cdn.trychannel3.com/b6cd206b-d650-42d0-af52-f3829ad4499d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b6cd206b-d650-42d0-af52-f3829ad4499d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/b6cd206b-d650-42d0-af52-f3829ad4499d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b6cd206b-d650-42d0-af52-f3829ad4499d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver laptop on a plain background with abstract glowing design."
         },
         {
-          "url": "https://cdn.trychannel3.com/e902977c-d3d5-4664-b4fa-5873232183e6?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/e902977c-d3d5-4664-b4fa-5873232183e6?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver laptop on a plain background with abstract glowing design."
         },
         {
-          "url": "https://cdn.trychannel3.com/4727fc80-7478-428b-8a89-eab66c11c0b4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4727fc80-7478-428b-8a89-eab66c11c0b4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/4727fc80-7478-428b-8a89-eab66c11c0b4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4727fc80-7478-428b-8a89-eab66c11c0b4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver laptop on a plain background with abstract glowing design."
         },
         {
-          "url": "https://cdn.trychannel3.com/e7a77468-a820-4ee5-a431-3ab76efda150?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/e7a77468-a820-4ee5-a431-3ab76efda150?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
@@ -575,7 +793,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/hNqHXVX-p1PB-8tFxDf?o=01KZSWD61D9D8VV6K69FFHH7XH&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/hNqHXVX-p1PB-8tFxDf?o=01KZSWD61D9D8VV6K69FFHH7XH&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "bestbuy.com",
           "price": {
             "price": 1599.99,
@@ -626,35 +844,10 @@
         ]
       },
       "structured_attributes": {
-        "keyboard-layout": [
-          "QWERTY"
-        ],
-        "computer-form": [
-          "Ultrabook"
-        ],
-        "processor-cores": [
-          "Octa",
-          "Quad"
-        ],
-        "storage-drive-type-installed": [
+        "storage-types-supported": [
           "M.2 SSD",
           "PCIe/NVMe SSD",
           "Solid-state drive (SSD)"
-        ],
-        "processor-family": [
-          "Intel Core Ultra 5",
-          "Intel Core Ultra 7"
-        ],
-        "power-source": [
-          "AC-powered",
-          "Battery-powered"
-        ],
-        "memory-technology": [
-          "DDR",
-          "DDR5"
-        ],
-        "operating-system": [
-          "Windows"
         ],
         "display-technology": [
           "OLED"
@@ -662,30 +855,54 @@
         "keyboard-type": [
           "Backlit"
         ],
-        "storage-types-supported": [
+        "power-source": [
+          "AC-powered",
+          "Battery-powered"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "memory-technology": [
+          "DDR",
+          "DDR5"
+        ],
+        "computer-form": [
+          "Ultrabook"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "processor-family": [
+          "Intel Core Ultra 5",
+          "Intel Core Ultra 7"
+        ],
+        "storage-drive-type-installed": [
           "M.2 SSD",
           "PCIe/NVMe SSD",
           "Solid-state drive (SSD)"
         ],
         "display-resolution": [
-          "1920 x 1080",
-          "2560\u2009x\u20091440"
-        ],
-        "graphics-card-type": [
-          "Integrated"
-        ],
-        "cosmetic-condition": [
-          "New"
+          "1920 x 1080"
         ],
         "computer-specialized-features": [
           "AI-powered",
           "Touchscreen"
         ],
-        "storage-capacity": [
-          "1 TB"
+        "cosmetic-condition": [
+          "New"
+        ],
+        "keyboard-layout": [
+          "QWERTY"
+        ],
+        "processor-cores": [
+          "Octa",
+          "Quad"
         ],
         "ram": [
           "16 GB"
+        ],
+        "storage-capacity": [
+          "1 TB"
         ]
       },
       "ratings": {
@@ -706,35 +923,35 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/07f18b4f-0f80-4a9a-9da8-cf32b30b3e2d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/07f18b4f-0f80-4a9a-9da8-cf32b30b3e2d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
+          "url": "https://cdn.trychannel3.com/07f18b4f-0f80-4a9a-9da8-cf32b30b3e2d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/07f18b4f-0f80-4a9a-9da8-cf32b30b3e2d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop with a red liquid design on screen."
         },
         {
-          "url": "https://cdn.trychannel3.com/ff8971d2-3742-4614-8543-485c037aff53?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
+          "url": "https://cdn.trychannel3.com/ff8971d2-3742-4614-8543-485c037aff53?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 screen showing key specs and features."
         },
         {
-          "url": "https://cdn.trychannel3.com/1cb408b4-9a86-49a4-97c8-242da20c49df?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1cb408b4-9a86-49a4-97c8-242da20c49df?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
+          "url": "https://cdn.trychannel3.com/1cb408b4-9a86-49a4-97c8-242da20c49df?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1cb408b4-9a86-49a4-97c8-242da20c49df?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Close-up of the keyboard of a silver laptop."
         },
         {
-          "url": "https://cdn.trychannel3.com/ae14f0b6-4754-49ae-ad45-69c2ed6ff665?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
+          "url": "https://cdn.trychannel3.com/ae14f0b6-4754-49ae-ad45-69c2ed6ff665?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell logo on the lid of a silver laptop."
         },
         {
-          "url": "https://cdn.trychannel3.com/cebab90e-4a40-4e07-878f-44a9272fffb4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=n0yg",
+          "url": "https://cdn.trychannel3.com/cebab90e-4a40-4e07-878f-44a9272fffb4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=n0yg",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
@@ -811,7 +1028,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/Lv9YsbW-n0yg-8tFxDf?o=01M5V1RVC7216G9V4TGWYKRQQG&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/Lv9YsbW-n0yg-8tFxDf?o=01M5V1RVC7216G9V4TGWYKRQQG&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "backmarket.com",
           "price": {
             "price": 1063.0,
@@ -832,7 +1049,7 @@
           }
         },
         {
-          "url": "https://buy.trychannel3.com/Lv9YsbW-LPzf-8tFxDf?o=01M5XF4QPXC15YB4SVT12SPD42&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/Lv9YsbW-LPzf-8tFxDf?o=01M5XF4QPXC15YB4SVT12SPD42&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 1989.0,
@@ -936,35 +1153,35 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/086b5753-7885-4524-87c5-f1eb70e35636?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/086b5753-7885-4524-87c5-f1eb70e35636?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/086b5753-7885-4524-87c5-f1eb70e35636?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/086b5753-7885-4524-87c5-f1eb70e35636?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS laptop displaying specs and a red liquid design."
         },
         {
-          "url": "https://cdn.trychannel3.com/ae653f13-2633-4d7c-a25d-872f79a35898?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/ae653f13-2633-4d7c-a25d-872f79a35898?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 screen displaying model name and specs."
         },
         {
-          "url": "https://cdn.trychannel3.com/4005eb68-d95b-47d4-8608-4ad20fa7e270?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4005eb68-d95b-47d4-8608-4ad20fa7e270?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4005eb68-d95b-47d4-8608-4ad20fa7e270?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4005eb68-d95b-47d4-8608-4ad20fa7e270?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 keyboard and palm rest view."
         },
         {
-          "url": "https://cdn.trychannel3.com/fab2eaa7-bc1e-480b-a035-f413f0651aa7?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/fab2eaa7-bc1e-480b-a035-f413f0651aa7?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Side view of the silver Dell laptop with the logo."
         },
         {
-          "url": "https://cdn.trychannel3.com/58c38021-6986-42c7-8163-ebfa0a597b8f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/58c38021-6986-42c7-8163-ebfa0a597b8f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
@@ -1041,7 +1258,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/8ippmHi-LPzf-8tFxDf?o=01M5XNVF3EWBQWKKM3PYA87YWH&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/8ippmHi-LPzf-8tFxDf?o=01M5XNVF3EWBQWKKM3PYA87YWH&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 2309.0,
@@ -1142,35 +1359,35 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/d26139fe-2255-4cc6-b894-56de9aed806c?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d26139fe-2255-4cc6-b894-56de9aed806c?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/d26139fe-2255-4cc6-b894-56de9aed806c?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d26139fe-2255-4cc6-b894-56de9aed806c?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop showing specs and a red fluid design on screen."
         },
         {
-          "url": "https://cdn.trychannel3.com/ca2605cc-ac12-4e37-8e79-c02925532f4f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/ca2605cc-ac12-4e37-8e79-c02925532f4f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 screen showing model name and specs."
         },
         {
-          "url": "https://cdn.trychannel3.com/7ccfff8b-0b7f-460d-a324-ffd5645dbf4d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ccfff8b-0b7f-460d-a324-ffd5645dbf4d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/7ccfff8b-0b7f-460d-a324-ffd5645dbf4d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7ccfff8b-0b7f-460d-a324-ffd5645dbf4d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 keyboard and screen showing colorful wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/bdb8ed21-6959-4b8f-9283-ca831a4f534b?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/bdb8ed21-6959-4b8f-9283-ca831a4f534b?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Top-down view of the silver Dell XPS 13 laptop top."
         },
         {
-          "url": "https://cdn.trychannel3.com/a9f325bf-81a8-4809-aef1-ccf54ffbb290?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/a9f325bf-81a8-4809-aef1-ccf54ffbb290?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
@@ -1239,7 +1456,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/MPtbLqm-LPzf-8tFxDf?o=01M5XNXGE31GGKVE3116N8TGWG&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/MPtbLqm-LPzf-8tFxDf?o=01M5XNXGE31GGKVE3116N8TGWG&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 2309.0,
@@ -1328,49 +1545,49 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/171cf9b5-4cf9-444d-9c66-661c43c45ea2?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/171cf9b5-4cf9-444d-9c66-661c43c45ea2?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/171cf9b5-4cf9-444d-9c66-661c43c45ea2?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/171cf9b5-4cf9-444d-9c66-661c43c45ea2?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen showing RAM and storage details."
         },
         {
-          "url": "https://cdn.trychannel3.com/46e7462d-c345-441e-a64f-a8a177db717d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/46e7462d-c345-441e-a64f-a8a177db717d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "Product accessories including dock, cables, and cleaning cloth for a laptop."
         },
         {
-          "url": "https://cdn.trychannel3.com/98c13247-ed6e-444a-a6c7-a4ced91bb4f9?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/98c13247-ed6e-444a-a6c7-a4ced91bb4f9?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop with Snapdragon X Elite processor in a studio setting."
         },
         {
-          "url": "https://cdn.trychannel3.com/183c3199-2d61-4657-8c49-58d16d317a94?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/183c3199-2d61-4657-8c49-58d16d317a94?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen showing a detailed wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/e44efa8e-c3e5-4309-be4a-c69f02a0d848?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/e44efa8e-c3e5-4309-be4a-c69f02a0d848?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
           "alt_text": "Close-up of the webcam and fingerprint reader on a laptop."
         },
         {
-          "url": "https://cdn.trychannel3.com/be7fd7c6-f5e3-4e49-97ab-380880c170f6?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/be7fd7c6-f5e3-4e49-97ab-380880c170f6?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop showing its compact size and design."
         },
         {
-          "url": "https://cdn.trychannel3.com/eaf94230-6905-494d-958a-8587fd838a45?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/eaf94230-6905-494d-958a-8587fd838a45?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
@@ -1446,7 +1663,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/SK4HbAc-LPzf-8tFxDf?o=01M5XEZK57PRAF6CWGM0FYVXS0&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/SK4HbAc-LPzf-8tFxDf?o=01M5XEZK57PRAF6CWGM0FYVXS0&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 1649.0,
@@ -1535,49 +1752,49 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/accc1413-8da9-44cf-a24c-56c701a4f04f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/accc1413-8da9-44cf-a24c-56c701a4f04f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/accc1413-8da9-44cf-a24c-56c701a4f04f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/accc1413-8da9-44cf-a24c-56c701a4f04f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell laptop screen showing 16GB RAM and 2TB Storage specifications."
         },
         {
-          "url": "https://cdn.trychannel3.com/de6f5b87-ba1c-4c61-998f-afacf1ffd592?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/de6f5b87-ba1c-4c61-998f-afacf1ffd592?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "Accessories for a laptop including cables, dock, and cleaning cloth."
         },
         {
-          "url": "https://cdn.trychannel3.com/12f19aa8-7cfa-48ff-9f04-2426289ee0c1?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/12f19aa8-7cfa-48ff-9f04-2426289ee0c1?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver Dell XPS 13 laptop showcasing Snapdragon X Elite processor."
         },
         {
-          "url": "https://cdn.trychannel3.com/b0c3fbf4-7b11-4790-8e4c-5c1815eccb7b?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/b0c3fbf4-7b11-4790-8e4c-5c1815eccb7b?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell laptop screen displaying a high-resolution desert landscape."
         },
         {
-          "url": "https://cdn.trychannel3.com/1b47d147-251d-4ade-ad0a-a798dea14ed5?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/1b47d147-251d-4ade-ad0a-a798dea14ed5?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
           "alt_text": "Close-up of laptop ports showing webcam, WiFi 7, and fingerprint reader."
         },
         {
-          "url": "https://cdn.trychannel3.com/db216ceb-8ba9-4f80-b1df-100103997cf1?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/db216ceb-8ba9-4f80-b1df-100103997cf1?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop shown from above highlighting its compact design."
         },
         {
-          "url": "https://cdn.trychannel3.com/42e5fa85-3563-4e76-a329-802b341a5cbd?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/42e5fa85-3563-4e76-a329-802b341a5cbd?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
@@ -1654,7 +1871,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/SNbmodt-LPzf-8tFxDf?o=01M5XPN36786TKYXZGTGFJRKJC&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/SNbmodt-LPzf-8tFxDf?o=01M5XPN36786TKYXZGTGFJRKJC&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 1449.0,
@@ -1752,98 +1969,98 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/b85b4778-8419-42d4-a3e8-36bea20efa22?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b85b4778-8419-42d4-a3e8-36bea20efa22?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/b85b4778-8419-42d4-a3e8-36bea20efa22?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b85b4778-8419-42d4-a3e8-36bea20efa22?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Silver Dell XPS 13 laptop with a colorful screen display on a plain background."
         },
         {
-          "url": "https://cdn.trychannel3.com/08c26943-be09-4641-a646-09e2f25c9a13?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/08c26943-be09-4641-a646-09e2f25c9a13?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "Diagram showing power adapter requirement and 65W charger compatibility."
         },
         {
-          "url": "https://cdn.trychannel3.com/f04285e6-568f-4314-937f-65a2fa7e6b1b?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/f04285e6-568f-4314-937f-65a2fa7e6b1b?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
           "alt_text": "Dell XPS 13 laptop next to a sleeve and headphones on a blue background."
         },
         {
-          "url": "https://cdn.trychannel3.com/b1467eb4-196c-427c-acfb-ba354f10a1c5?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b1467eb4-196c-427c-acfb-ba354f10a1c5?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/b1467eb4-196c-427c-acfb-ba354f10a1c5?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b1467eb4-196c-427c-acfb-ba354f10a1c5?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver Dell XPS 13 laptop opened with colorful screen display on a plain background."
         },
         {
-          "url": "https://cdn.trychannel3.com/ac9a5a3d-0848-43f0-8108-8e82b316717f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ac9a5a3d-0848-43f0-8108-8e82b316717f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/ac9a5a3d-0848-43f0-8108-8e82b316717f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/ac9a5a3d-0848-43f0-8108-8e82b316717f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen angled open showing a vibrant blue abstract graphic."
         },
         {
-          "url": "https://cdn.trychannel3.com/287cdd2f-1d7b-496c-b267-671b07afc50a?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/287cdd2f-1d7b-496c-b267-671b07afc50a?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/287cdd2f-1d7b-496c-b267-671b07afc50a?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/287cdd2f-1d7b-496c-b267-671b07afc50a?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "detail",
           "alt_text": "Side profile view of the silver Dell XPS 13 laptop chassis."
         },
         {
-          "url": "https://cdn.trychannel3.com/b4ee1242-73e4-4d3c-a659-710d4c2b8d47?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4ee1242-73e4-4d3c-a659-710d4c2b8d47?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/b4ee1242-73e4-4d3c-a659-710d4c2b8d47?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b4ee1242-73e4-4d3c-a659-710d4c2b8d47?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop angled view showing the screen and thin design."
         },
         {
-          "url": "https://cdn.trychannel3.com/4e643d29-2be3-40ff-a921-5d08b06394a9?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4e643d29-2be3-40ff-a921-5d08b06394a9?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4e643d29-2be3-40ff-a921-5d08b06394a9?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/4e643d29-2be3-40ff-a921-5d08b06394a9?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop displaying a video call on the screen."
         },
         {
-          "url": "https://cdn.trychannel3.com/a0974752-14b9-4257-a5c3-1166bcbed6b4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a0974752-14b9-4257-a5c3-1166bcbed6b4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/a0974752-14b9-4257-a5c3-1166bcbed6b4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a0974752-14b9-4257-a5c3-1166bcbed6b4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Silver Dell XPS 13 laptop viewed from above (flat lay)."
         },
         {
-          "url": "https://cdn.trychannel3.com/37b10ca3-8e51-4849-8344-6e5231820616?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/37b10ca3-8e51-4849-8344-6e5231820616?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/37b10ca3-8e51-4849-8344-6e5231820616?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/37b10ca3-8e51-4849-8344-6e5231820616?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Close-up of the keyboard and touchpad of the silver Dell XPS 13 laptop."
         },
         {
-          "url": "https://cdn.trychannel3.com/86f465db-f7da-4016-b12b-99121f53a068?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/86f465db-f7da-4016-b12b-99121f53a068?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/86f465db-f7da-4016-b12b-99121f53a068?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/86f465db-f7da-4016-b12b-99121f53a068?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Top-down view of the silver Dell XPS 13 laptop surface with 'XPS' logo."
         },
         {
-          "url": "https://cdn.trychannel3.com/78d86783-a483-4110-958b-f1afe570a870?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/78d86783-a483-4110-958b-f1afe570a870?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop displaying a blue fluid wave wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/c613bae2-3f79-4808-ba87-dc6d53482cc4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/c613bae2-3f79-4808-ba87-dc6d53482cc4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "Diagram showing USB Type-C with DisplayPort 2.1 connection details."
         },
         {
-          "url": "https://cdn.trychannel3.com/4c67a4a3-f8c4-459b-93f3-3f82b0c00b80?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4c67a4a3-f8c4-459b-93f3-3f82b0c00b80?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
@@ -1918,7 +2135,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/jWkSriQ-LPzf-8tFxDf?o=01M5E5ZSZFJGP6VGPMCKRGKDMF&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/jWkSriQ-LPzf-8tFxDf?o=01M5E5ZSZFJGP6VGPMCKRGKDMF&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 899.99,
@@ -2021,49 +2238,49 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/bc58bdeb-2721-4298-b528-6f78f593aaeb?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bc58bdeb-2721-4298-b528-6f78f593aaeb?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/bc58bdeb-2721-4298-b528-6f78f593aaeb?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bc58bdeb-2721-4298-b528-6f78f593aaeb?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen displaying 32GB RAM and 2TB storage."
         },
         {
-          "url": "https://cdn.trychannel3.com/4049c571-e5f6-4116-aabf-b03d39bd61a7?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4049c571-e5f6-4116-aabf-b03d39bd61a7?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "View of various connectivity cables and docking station components."
         },
         {
-          "url": "https://cdn.trychannel3.com/59689cf8-5e28-4efa-8699-3da0aa663a31?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/59689cf8-5e28-4efa-8699-3da0aa663a31?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 Laptop showcasing Snapdragon X Elite performance."
         },
         {
-          "url": "https://cdn.trychannel3.com/6e8d0d76-81cd-40de-8b82-7712aab423b3?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/6e8d0d76-81cd-40de-8b82-7712aab423b3?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Close-up of the Dell XPS 13 laptop screen displaying a vibrant landscape."
         },
         {
-          "url": "https://cdn.trychannel3.com/91705402-1afc-4029-908e-109b76b2a474?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/91705402-1afc-4029-908e-109b76b2a474?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop demonstrating high-speed connectivity features."
         },
         {
-          "url": "https://cdn.trychannel3.com/aced2186-3957-4b2b-8835-3cab9444461a?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/aced2186-3957-4b2b-8835-3cab9444461a?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop showing its compact size and weight."
         },
         {
-          "url": "https://cdn.trychannel3.com/a52484d8-a1aa-4121-94c8-89d6d28ea0d6?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/a52484d8-a1aa-4121-94c8-89d6d28ea0d6?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
@@ -2132,7 +2349,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/Hm38TOm-LPzf-8tFxDf?o=01M5XF303C7FNCKGE81QV36GPX&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/Hm38TOm-LPzf-8tFxDf?o=01M5XF303C7FNCKGE81QV36GPX&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 1799.0,
@@ -2227,8 +2444,8 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/991bdcb0-dd55-45cb-8a54-2d23260280c0?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=BsaX",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/991bdcb0-dd55-45cb-8a54-2d23260280c0?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=BsaX",
+          "url": "https://cdn.trychannel3.com/991bdcb0-dd55-45cb-8a54-2d23260280c0?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=BsaX",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/991bdcb0-dd55-45cb-8a54-2d23260280c0?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=BsaX",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Silver Dell XPS 13 laptop on a plain white background, viewed from the front."
@@ -2279,7 +2496,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/TjnyMao-BsaX-8tFxDf?o=01M5ZPX7PZYT6WRJYN9Y8VDP8P&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/TjnyMao-BsaX-8tFxDf?o=01M5ZPX7PZYT6WRJYN9Y8VDP8P&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "walmart.com",
           "price": {
             "price": 1049.97,
@@ -2342,29 +2559,29 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/91b052db-a70a-4840-8c48-5d38d9af545b?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/91b052db-a70a-4840-8c48-5d38d9af545b?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen displaying an abstract wallpaper with a web browser."
         },
         {
-          "url": "https://cdn.trychannel3.com/8a5d12fe-32a1-49c6-a5f9-58c5e33df291?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/8a5d12fe-32a1-49c6-a5f9-58c5e33df291?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop exterior view showing the metallic grey chassis."
         },
         {
-          "url": "https://cdn.trychannel3.com/c1a7ab81-f7b8-47da-8e1c-3598152e235c?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/c1a7ab81-f7b8-47da-8e1c-3598152e235c?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop keyboard and palm rest view."
         },
         {
-          "url": "https://cdn.trychannel3.com/d848faa0-69a3-4830-a080-f0e3f79eb066?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d848faa0-69a3-4830-a080-f0e3f79eb066?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/d848faa0-69a3-4830-a080-f0e3f79eb066?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d848faa0-69a3-4830-a080-f0e3f79eb066?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen displaying a colorful abstract wallpaper."
@@ -2444,7 +2661,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/WR7iMph-LPzf-8tFxDf?o=01M4YFSHW4T1G291Y2AM58ZPGQ&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/WR7iMph-LPzf-8tFxDf?o=01M4YFSHW4T1G291Y2AM58ZPGQ&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 2097.0,
@@ -2525,50 +2742,50 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/6b7c4b0e-5170-45fc-bafe-90aa687ff91a?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6b7c4b0e-5170-45fc-bafe-90aa687ff91a?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/6b7c4b0e-5170-45fc-bafe-90aa687ff91a?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/6b7c4b0e-5170-45fc-bafe-90aa687ff91a?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop showing Backlit Keyboard and connectivity icons."
         },
         {
-          "url": "https://cdn.trychannel3.com/69a37541-1a79-4874-996d-6003ab3e32df?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/69a37541-1a79-4874-996d-6003ab3e32df?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop, screen, and keyboard displayed side by side."
         },
         {
-          "url": "https://cdn.trychannel3.com/d50f4e09-9259-47eb-b3e5-6f55dee68608?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/d50f4e09-9259-47eb-b3e5-6f55dee68608?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop with AI Copilot theme on screen."
         },
         {
-          "url": "https://cdn.trychannel3.com/53b64b63-03aa-4966-af1a-aa4a0ad8e9d8?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/53b64b63-03aa-4966-af1a-aa4a0ad8e9d8?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop open showing screen and keyboard."
         },
         {
-          "url": "https://cdn.trychannel3.com/9ef4d9e2-dc2a-41da-8a47-0cc93440b5bf?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/9ef4d9e2-dc2a-41da-8a47-0cc93440b5bf?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop on a dark background with nature theme."
         },
         {
-          "url": "https://cdn.trychannel3.com/7bb9ccc5-4988-4109-aa40-6ada5d5389fd?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7bb9ccc5-4988-4109-aa40-6ada5d5389fd?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/7bb9ccc5-4988-4109-aa40-6ada5d5389fd?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/7bb9ccc5-4988-4109-aa40-6ada5d5389fd?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Close-up of the Dell XPS 13 screen and keyboard."
         },
         {
-          "url": "https://cdn.trychannel3.com/cad27687-dc0a-4ca9-b61b-49787d65fcc4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cad27687-dc0a-4ca9-b61b-49787d65fcc4?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/cad27687-dc0a-4ca9-b61b-49787d65fcc4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/cad27687-dc0a-4ca9-b61b-49787d65fcc4?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 screen showing a vibrant nature graphic."
@@ -2620,7 +2837,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/Cw0vCr1-LPzf-8tFxDf?o=01M5XEZPBSPRV6K64M5R2C5DFA&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/Cw0vCr1-LPzf-8tFxDf?o=01M5XEZPBSPRV6K64M5R2C5DFA&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 1766.99,
@@ -2704,6 +2921,213 @@
       "ratings": null
     },
     {
+      "id": "heyrULm",
+      "title": "Dell XPS 13 9345 Laptop",
+      "description": "The Dell XPS 13 9345 is a high-performance Copilot+ PC designed for professional productivity. It features a 13.4-inch FHD+ non-touch display with 1920 x 1200 resolution and 500 nits brightness. Powered by the Qualcomm Snapdragon X Elite X1E-80-100 processor and integrated Qualcomm Adreno graphics, this ultra-thin laptop is equipped with 32GB of DDR5 memory and a total of 3TB of storage (comprising a 2TB internal SSD and a 1TB external docking station). It runs Windows 11 Pro and offers modern connectivity with Wi-Fi 7 and Bluetooth 5.4.",
+      "brands": [
+        {
+          "id": "4fnY",
+          "name": "Dell"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.trychannel3.com/a5c2bae8-66c1-4ae0-bae8-a96204174e4f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a5c2bae8-66c1-4ae0-bae8-a96204174e4f?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "is_main_image": true,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 laptop displaying storage specifications and OS."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/81c8187b-3f50-4690-9274-208c2f8d5eda?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "product_information",
+          "alt_text": "Set of Dell XPS accessories including cables, dock, and cleaning cloth."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c2cdcb37-e300-41a3-a6d0-fa77c03e5653?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 laptop in a professional setting."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/1da61921-b1b5-44e1-9508-8906f8e1e9e0?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 laptop screen displaying a detailed landscape."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/eaf872f7-41be-48cd-bdea-e8108ac7f009?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 laptop showing a video call interface."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/950be7fd-a63e-446e-b08c-eb5f72c531d7?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "hero",
+          "alt_text": "Dell XPS 13 laptop showing its compact size and weight."
+        },
+        {
+          "url": "https://cdn.trychannel3.com/c2d959d0-3025-4ee2-9968-9dfaefe42701?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": null,
+          "is_main_image": false,
+          "shot_type": "detail",
+          "alt_text": "Close-up of the laptop's side ports showing connectivity."
+        }
+      ],
+      "category": {
+        "slug": "laptops",
+        "title": "Laptops",
+        "path": [
+          {
+            "slug": "electronics",
+            "title": "Electronics"
+          },
+          {
+            "slug": "computers",
+            "title": "Computers"
+          },
+          {
+            "slug": "laptops",
+            "title": "Laptops"
+          }
+        ],
+        "has_children": false
+      },
+      "gender": null,
+      "age": null,
+      "materials": [],
+      "key_features": [
+        "Copilot+ PC with advanced AI acceleration",
+        "13.4\" FHD+ (1920 x 1200) display",
+        "Qualcomm Snapdragon X Elite X1E-80-100 Processor",
+        "32GB DDR5 RAM",
+        "Total 3TB Storage (2TB SSD + 1TB Docking Station)",
+        "Windows 11 Pro Operating System",
+        "Wi-Fi 7 and Bluetooth 5.4 connectivity",
+        "Ultra-thin and lightweight design (2.6 lbs)",
+        "Bonus 7-in-1 Docking Station set included"
+      ],
+      "colors": [
+        {
+          "hex": "#b88d49",
+          "percentage": 0.1742
+        },
+        {
+          "hex": "#335987",
+          "percentage": 0.1463
+        },
+        {
+          "hex": "#242328",
+          "percentage": 0.1292
+        },
+        {
+          "hex": "#5e8695",
+          "percentage": 0.1256
+        },
+        {
+          "hex": "#8f704e",
+          "percentage": 0.124
+        },
+        {
+          "hex": "#dfd3ab",
+          "percentage": 0.1144
+        },
+        {
+          "hex": "#8dafac",
+          "percentage": 0.1132
+        },
+        {
+          "hex": "#8c5938",
+          "percentage": 0.0731
+        }
+      ],
+      "offers": [
+        {
+          "url": "https://buy.trychannel3.com/heyrULm-LPzf-8tFxDf?o=01M5XF686K0233JZPZPT9H8JV8&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
+          "domain": "newegg.com",
+          "price": {
+            "price": 1949.0,
+            "compare_at_price": null,
+            "currency": "USD"
+          },
+          "availability": "InStock",
+          "condition": "new",
+          "max_commission_rate": 0.007,
+          "dimensions": {
+            "length": {
+              "number": 11.62,
+              "unit": "in"
+            },
+            "width": {
+              "number": 7.84,
+              "unit": "in"
+            },
+            "height": {
+              "number": 0.6,
+              "unit": "in"
+            },
+            "weight": {
+              "number": 2.6,
+              "unit": "lb"
+            }
+          }
+        }
+      ],
+      "variants": null,
+      "structured_attributes": {
+        "computer-form": [
+          "Ultrabook"
+        ],
+        "display-resolution": [
+          "1920 x 1080"
+        ],
+        "cosmetic-condition": [
+          "New"
+        ],
+        "pattern": [
+          "Solid"
+        ],
+        "removable-storage-formats-supported": [
+          "microSD"
+        ],
+        "storage-types-supported": [
+          "Solid-state drive (SSD)"
+        ],
+        "memory-technology": [
+          "DDR5"
+        ],
+        "power-source": [
+          "Battery-powered"
+        ],
+        "processor-family": [
+          "Qualcomm Snapdragon X Elite"
+        ],
+        "operating-system": [
+          "Windows"
+        ],
+        "graphics-card-type": [
+          "Integrated"
+        ],
+        "storage-drive-type-installed": [
+          "Solid-state drive (SSD)"
+        ],
+        "computer-specialized-features": [
+          "AI-powered"
+        ],
+        "ram": [
+          "32 GB"
+        ]
+      },
+      "ratings": null
+    },
+    {
       "id": "Hl6xvph",
       "title": "Dell XPS 13 9345 Laptop",
       "description": "The Dell XPS 13 9345 is a powerful and ultra-thin Copilot+ PC designed for business and professional productivity. This Graphite-colored laptop features a 13.4-inch FHD+ non-touch screen and is powered by the Snapdragon X Elite X1E-80-100 processor with Qualcomm Adreno integrated graphics. It comes equipped with 32GB of DDR5 memory and a massive total storage solution of 5TB, consisting of a 4TB internal SSD and a bonus 1TB docking station set. Running Windows 11 Pro, it offers advanced AI acceleration and modern connectivity with Wi-Fi 7 and Bluetooth 5.4.",
@@ -2715,49 +3139,49 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/40be092b-6241-45c5-b7c9-ffcaf5dfd750?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/40be092b-6241-45c5-b7c9-ffcaf5dfd750?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/40be092b-6241-45c5-b7c9-ffcaf5dfd750?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/40be092b-6241-45c5-b7c9-ffcaf5dfd750?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop displaying Windows 11 Pro and storage specs."
         },
         {
-          "url": "https://cdn.trychannel3.com/e31eed33-7c51-4177-a68d-0919e024316c?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/e31eed33-7c51-4177-a68d-0919e024316c?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "product_information",
           "alt_text": "Product contents including cables, dock station, and cleaning cloth."
         },
         {
-          "url": "https://cdn.trychannel3.com/4f789c9e-12f0-4283-9beb-db39910401f9?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4f789c9e-12f0-4283-9beb-db39910401f9?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Graphite Dell XPS 13 laptop showcasing Snapdragon X Elite performance."
         },
         {
-          "url": "https://cdn.trychannel3.com/302a38d2-2c7b-45be-bf01-bf858991c74d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/302a38d2-2c7b-45be-bf01-bf858991c74d?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop screen showing a desert landscape wallpaper."
         },
         {
-          "url": "https://cdn.trychannel3.com/6650475b-1d48-4f44-bf06-b464f344f811?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/6650475b-1d48-4f44-bf06-b464f344f811?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
           "alt_text": "Dell XPS 13 laptop in use for a video call with webcam."
         },
         {
-          "url": "https://cdn.trychannel3.com/2bf47dd9-627c-495d-a25c-0027ae9b3902?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/2bf47dd9-627c-495d-a25c-0027ae9b3902?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop dimensions and weight reference."
         },
         {
-          "url": "https://cdn.trychannel3.com/025251ea-deae-426b-944a-2074971c13a2?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/025251ea-deae-426b-944a-2074971c13a2?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
@@ -2833,7 +3257,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/Hl6xvph-LPzf-8tFxDf?o=01M5XPNCG7S9QAX3PVDERD8F6H&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/Hl6xvph-LPzf-8tFxDf?o=01M5XPNCG7S9QAX3PVDERD8F6H&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 2269.0,
@@ -2919,42 +3343,42 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/1963f2f2-04d6-49c6-86c5-f28161f68c50?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1963f2f2-04d6-49c6-86c5-f28161f68c50?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/1963f2f2-04d6-49c6-86c5-f28161f68c50?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/1963f2f2-04d6-49c6-86c5-f28161f68c50?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop displaying specifications for RAM and storage."
         },
         {
-          "url": "https://cdn.trychannel3.com/a29839d9-5d58-44ec-b53c-e3721c273066?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/a29839d9-5d58-44ec-b53c-e3721c273066?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop showcasing Snapdragon X Elite performance."
         },
         {
-          "url": "https://cdn.trychannel3.com/fd8e5a3b-afff-4c27-9028-8cecb965b0f8?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/fd8e5a3b-afff-4c27-9028-8cecb965b0f8?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Close-up of the Dell XPS 13 laptop screen displaying a desert landscape."
         },
         {
-          "url": "https://cdn.trychannel3.com/4af187c5-83e3-4260-b13c-dfb6bf572105?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/4af187c5-83e3-4260-b13c-dfb6bf572105?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "lifestyle",
           "alt_text": "Laptop used for a video call with a person on screen."
         },
         {
-          "url": "https://cdn.trychannel3.com/b3d03edc-57cf-4141-a4f3-f20e4de70aaf?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/b3d03edc-57cf-4141-a4f3-f20e4de70aaf?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop shown from the front view with dimensions."
         },
         {
-          "url": "https://cdn.trychannel3.com/dc877b75-70fa-49ea-bbe2-7f895ca89568?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
+          "url": "https://cdn.trychannel3.com/dc877b75-70fa-49ea-bbe2-7f895ca89568?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=LPzf",
           "cleaned_url": null,
           "is_main_image": false,
           "shot_type": "detail",
@@ -3025,7 +3449,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/7Xr3de4-LPzf-8tFxDf?o=01M5XF8VAE14NETD0FTMK1E2HX&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/7Xr3de4-LPzf-8tFxDf?o=01M5XF8VAE14NETD0FTMK1E2HX&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "newegg.com",
           "price": {
             "price": 2259.0,
@@ -3100,213 +3524,6 @@
       "ratings": null
     },
     {
-      "id": "heyrULm",
-      "title": "Dell XPS 13 9345 Laptop",
-      "description": "The Dell XPS 13 9345 is a high-performance Copilot+ PC designed for professional productivity. It features a 13.4-inch FHD+ non-touch display with 1920 x 1200 resolution and 500 nits brightness. Powered by the Qualcomm Snapdragon X Elite X1E-80-100 processor and integrated Qualcomm Adreno graphics, this ultra-thin laptop is equipped with 32GB of DDR5 memory and a total of 3TB of storage (comprising a 2TB internal SSD and a 1TB external docking station). It runs Windows 11 Pro and offers modern connectivity with Wi-Fi 7 and Bluetooth 5.4.",
-      "brands": [
-        {
-          "id": "4fnY",
-          "name": "Dell"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/a5c2bae8-66c1-4ae0-bae8-a96204174e4f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/a5c2bae8-66c1-4ae0-bae8-a96204174e4f?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop displaying storage specifications and OS."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/81c8187b-3f50-4690-9274-208c2f8d5eda?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "product_information",
-          "alt_text": "Set of Dell XPS accessories including cables, dock, and cleaning cloth."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/c2cdcb37-e300-41a3-a6d0-fa77c03e5653?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop in a professional setting."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/1da61921-b1b5-44e1-9508-8906f8e1e9e0?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop screen displaying a detailed landscape."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/eaf872f7-41be-48cd-bdea-e8108ac7f009?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop showing a video call interface."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/950be7fd-a63e-446e-b08c-eb5f72c531d7?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop showing its compact size and weight."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/c2d959d0-3025-4ee2-9968-9dfaefe42701?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=LPzf",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "detail",
-          "alt_text": "Close-up of the laptop's side ports showing connectivity."
-        }
-      ],
-      "category": {
-        "slug": "laptops",
-        "title": "Laptops",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "computers",
-            "title": "Computers"
-          },
-          {
-            "slug": "laptops",
-            "title": "Laptops"
-          }
-        ],
-        "has_children": false
-      },
-      "gender": null,
-      "age": null,
-      "materials": [],
-      "key_features": [
-        "Copilot+ PC with advanced AI acceleration",
-        "13.4\" FHD+ (1920 x 1200) display",
-        "Qualcomm Snapdragon X Elite X1E-80-100 Processor",
-        "32GB DDR5 RAM",
-        "Total 3TB Storage (2TB SSD + 1TB Docking Station)",
-        "Windows 11 Pro Operating System",
-        "Wi-Fi 7 and Bluetooth 5.4 connectivity",
-        "Ultra-thin and lightweight design (2.6 lbs)",
-        "Bonus 7-in-1 Docking Station set included"
-      ],
-      "colors": [
-        {
-          "hex": "#b88d49",
-          "percentage": 0.1742
-        },
-        {
-          "hex": "#335987",
-          "percentage": 0.1463
-        },
-        {
-          "hex": "#242328",
-          "percentage": 0.1292
-        },
-        {
-          "hex": "#5e8695",
-          "percentage": 0.1256
-        },
-        {
-          "hex": "#8f704e",
-          "percentage": 0.124
-        },
-        {
-          "hex": "#dfd3ab",
-          "percentage": 0.1144
-        },
-        {
-          "hex": "#8dafac",
-          "percentage": 0.1132
-        },
-        {
-          "hex": "#8c5938",
-          "percentage": 0.0731
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/heyrULm-LPzf-8tFxDf?o=01M5XF686K0233JZPZPT9H8JV8&aid=01M66D87WVPGS5P20FS2DWQRJM",
-          "domain": "newegg.com",
-          "price": {
-            "price": 1949.0,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.007,
-          "dimensions": {
-            "length": {
-              "number": 11.62,
-              "unit": "in"
-            },
-            "width": {
-              "number": 7.84,
-              "unit": "in"
-            },
-            "height": {
-              "number": 0.6,
-              "unit": "in"
-            },
-            "weight": {
-              "number": 2.6,
-              "unit": "lb"
-            }
-          }
-        }
-      ],
-      "variants": null,
-      "structured_attributes": {
-        "computer-form": [
-          "Ultrabook"
-        ],
-        "display-resolution": [
-          "1920 x 1080"
-        ],
-        "cosmetic-condition": [
-          "New"
-        ],
-        "pattern": [
-          "Solid"
-        ],
-        "removable-storage-formats-supported": [
-          "microSD"
-        ],
-        "storage-types-supported": [
-          "Solid-state drive (SSD)"
-        ],
-        "memory-technology": [
-          "DDR5"
-        ],
-        "power-source": [
-          "Battery-powered"
-        ],
-        "processor-family": [
-          "Qualcomm Snapdragon X Elite"
-        ],
-        "operating-system": [
-          "Windows"
-        ],
-        "graphics-card-type": [
-          "Integrated"
-        ],
-        "storage-drive-type-installed": [
-          "Solid-state drive (SSD)"
-        ],
-        "computer-specialized-features": [
-          "AI-powered"
-        ],
-        "ram": [
-          "32 GB"
-        ]
-      },
-      "ratings": null
-    },
-    {
       "id": "cxSxHlr",
       "title": "Dell XPS 13 13.4\" FHD+ Laptop",
       "description": "Experience AI\u2011powered productivity with this Dell XPS 13 9345 Copilot+ PC, professionally upgraded by PC Heaven. Driven by a Snapdragon X Elite X1E\u201180\u2011100 processor and 32GB of RAM, this thin-and-light platinum laptop features a 13.4\u2011inch FHD+ Infinity-Edge display and is paired with a 1TB SSD and an additional 1TB Dock Set. It includes a backlit keyboard, a fingerprint reader for secure login, and ultra-fast Wi-Fi 7 connectivity, making it an ideal tool for on-the-go work and creation.",
@@ -3318,8 +3535,8 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/d5ac5855-721c-4e10-a74e-593ddbf4248e?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5ac5855-721c-4e10-a74e-593ddbf4248e?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/d5ac5855-721c-4e10-a74e-593ddbf4248e?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/d5ac5855-721c-4e10-a74e-593ddbf4248e?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop display showing specs and features."
@@ -3393,7 +3610,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/cxSxHlr-p1PB-8tFxDf?o=01M40FB3Q3FB0SH806R2DXSVQ9&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/cxSxHlr-p1PB-8tFxDf?o=01M40FB3Q3FB0SH806R2DXSVQ9&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "bestbuy.com",
           "price": {
             "price": 1699.0,
@@ -3468,8 +3685,8 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/f3749376-2fef-42d5-af7d-3b6ec132ccb5?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f3749376-2fef-42d5-af7d-3b6ec132ccb5?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/f3749376-2fef-42d5-af7d-3b6ec132ccb5?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/f3749376-2fef-42d5-af7d-3b6ec132ccb5?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Dell XPS 13 laptop displaying specs screen with Windows 11."
@@ -3542,7 +3759,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/yLC4PPZ-p1PB-8tFxDf?o=01M40GYGB4R43QG7C2WN6GKR83&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/yLC4PPZ-p1PB-8tFxDf?o=01M40GYGB4R43QG7C2WN6GKR83&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "bestbuy.com",
           "price": {
             "price": 2129.0,
@@ -3608,8 +3825,8 @@
       ],
       "images": [
         {
-          "url": "https://cdn.trychannel3.com/88e70db7-fd23-4519-b156-064353c9c224?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88e70db7-fd23-4519-b156-064353c9c224?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
+          "url": "https://cdn.trychannel3.com/88e70db7-fd23-4519-b156-064353c9c224?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
+          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/88e70db7-fd23-4519-b156-064353c9c224?aid=01M6ECT8WNJVJPNRFTF3X9YWKX&mid=p1PB",
           "is_main_image": true,
           "shot_type": "hero",
           "alt_text": "Laptop screen and specs display on a white background."
@@ -3682,7 +3899,7 @@
       ],
       "offers": [
         {
-          "url": "https://buy.trychannel3.com/TVNAJX9-p1PB-8tFxDf?o=01M40GY4NGF3RE8JTKH3SQSQA3&aid=01M66D87WVPGS5P20FS2DWQRJM",
+          "url": "https://buy.trychannel3.com/TVNAJX9-p1PB-8tFxDf?o=01M40GY4NGF3RE8JTKH3SQSQA3&aid=01M6ECT8WNJVJPNRFTF3X9YWKX",
           "domain": "bestbuy.com",
           "price": {
             "price": 1839.0,
@@ -3735,233 +3952,6 @@
         ],
         "display-technology": [
           "IPS"
-        ]
-      },
-      "ratings": null
-    },
-    {
-      "id": "ciDVWsE",
-      "title": "Dell XPS 13 9350 Laptops",
-      "description": "This Dell XPS 13 laptop features a 13.4-inch WUXGA display with a 120Hz refresh rate and an Ultra 7-258V processor. It comes with 32GB of RAM, a 1TB SSD, and Ubuntu Linux 24.04 LTS. Additional features include a backlit keyboard, fingerprint reader, and Wi-Fi 7 connectivity. The laptop is presented in a platinum finish and includes a Dockztorm wireless mouse.",
-      "brands": [
-        {
-          "id": "4fnY",
-          "name": "Dell"
-        },
-        {
-          "id": "ONjS",
-          "name": "Best Buy"
-        }
-      ],
-      "images": [
-        {
-          "url": "https://cdn.trychannel3.com/234a82ed-1823-4050-b3cd-23ff2f41ccbf?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": null,
-          "is_main_image": true,
-          "shot_type": "hero",
-          "alt_text": "XPS 13 laptop, screen, and wireless mouse shown together."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/290a42f9-f390-4446-a80c-935f833f7131?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/290a42f9-f390-4446-a80c-935f833f7131?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop on a black background showing the display."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/c2195f56-1b1b-4654-8561-44d9e52b93c5?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop displaying Ultra 7-258V specifications."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/088aee82-9d90-4cea-87f7-060f7a4da639?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop screen showing 13.4"
-        },
-        {
-          "url": "https://cdn.trychannel3.com/de0699f3-dd52-4fb0-b461-efb78c5dd45d?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": null,
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Dell XPS 13 laptop showing features like Fingerprint and Wi-Fi."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/bba9fdac-bedd-4840-aeb0-8af2661e079e?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/bba9fdac-bedd-4840-aeb0-8af2661e079e?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Close-up of the XPS 13 laptop keyboard and palm rest."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/21e69e41-64b4-4ebe-954f-a36e7e38dcbe?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/21e69e41-64b4-4ebe-954f-a36e7e38dcbe?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "XPS 13 laptop screen shown with a vibrant nature graphic."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/b0414464-d869-4759-9807-163abe397b9b?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/b0414464-d869-4759-9807-163abe397b9b?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Back view of the Dell XPS 13 laptop."
-        },
-        {
-          "url": "https://cdn.trychannel3.com/2c1d84cb-d76f-4f09-b073-6aa902b7c741?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "cleaned_url": "https://cdn.trychannel3.com/cleaned/v1/2c1d84cb-d76f-4f09-b073-6aa902b7c741?aid=01M66D87WVPGS5P20FS2DWQRJM&mid=p1PB",
-          "is_main_image": false,
-          "shot_type": "hero",
-          "alt_text": "Side view of the Dell XPS 13 laptop."
-        }
-      ],
-      "category": {
-        "slug": "laptops",
-        "title": "Laptops",
-        "path": [
-          {
-            "slug": "electronics",
-            "title": "Electronics"
-          },
-          {
-            "slug": "computers",
-            "title": "Computers"
-          },
-          {
-            "slug": "laptops",
-            "title": "Laptops"
-          }
-        ],
-        "has_children": false
-      },
-      "gender": null,
-      "age": null,
-      "materials": [],
-      "key_features": [
-        "Backlit Keyboard",
-        "Fingerprint Reader",
-        "Wi-Fi 7",
-        "13.4 WUXGA 120Hz Display",
-        "Ultra 7-258V Processor",
-        "32GB RAM",
-        "1TB SSD",
-        "Ubuntu Linux 24.04 LTS",
-        "Includes Dockztorm Wireless Mouse"
-      ],
-      "colors": [
-        {
-          "hex": "#d3d0c8",
-          "percentage": 0.3476
-        },
-        {
-          "hex": "#c9a695",
-          "percentage": 0.2251
-        },
-        {
-          "hex": "#bdac8c",
-          "percentage": 0.1866
-        },
-        {
-          "hex": "#383d18",
-          "percentage": 0.1229
-        },
-        {
-          "hex": "#737c45",
-          "percentage": 0.1178
-        }
-      ],
-      "offers": [
-        {
-          "url": "https://buy.trychannel3.com/ciDVWsE-p1PB-8tFxDf?o=01KYYAXW4BSGJ7EBAW9Q83RNX3&aid=01M66D87WVPGS5P20FS2DWQRJM",
-          "domain": "bestbuy.com",
-          "price": {
-            "price": 1899.99,
-            "compare_at_price": null,
-            "currency": "USD"
-          },
-          "availability": "InStock",
-          "condition": "new",
-          "max_commission_rate": 0.004,
-          "dimensions": {
-            "length": {
-              "number": 11.7,
-              "unit": "in"
-            },
-            "width": {
-              "number": 7.75,
-              "unit": "in"
-            },
-            "height": {
-              "number": 0.6,
-              "unit": "in"
-            },
-            "weight": {
-              "number": 2.7,
-              "unit": "lb"
-            }
-          }
-        }
-      ],
-      "variants": {
-        "options": [
-          {
-            "name": "Operating System",
-            "values": [
-              {
-                "label": "Ubuntu Linux 24.04 LTS",
-                "exists": true,
-                "available": null,
-                "thumbnail_url": "https://cdn.trychannel3.com/234a82ed-1823-4050-b3cd-23ff2f41ccbf",
-                "product_id": "ciDVWsE"
-              },
-              {
-                "label": "Windows 11 Pro",
-                "exists": true,
-                "available": null,
-                "thumbnail_url": "https://cdn.trychannel3.com/50499e13-26c5-4b17-af24-6cff96f18e06",
-                "product_id": "7AxEkPV"
-              }
-            ]
-          }
-        ],
-        "selected": [
-          {
-            "name": "Operating System",
-            "label": "Ubuntu Linux 24.04 LTS"
-          }
-        ]
-      },
-      "structured_attributes": {
-        "power-source": [
-          "AC-powered"
-        ],
-        "pattern": [
-          "Texture"
-        ],
-        "keyboard-type": [
-          "Standard"
-        ],
-        "operating-system": [
-          "Windows"
-        ],
-        "graphics-card-type": [
-          "Integrated"
-        ],
-        "keyboard-layout": [
-          "QWERTY"
-        ],
-        "computer-form": [
-          "Notebook",
-          "Ultrabook"
-        ],
-        "display-technology": [
-          "LCD"
-        ],
-        "processor-family": [
-          "Intel Core Ultra 7"
         ]
       },
       "ratings": null
