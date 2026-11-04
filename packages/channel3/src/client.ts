@@ -60,12 +60,14 @@ export class Channel3Client {
   private baseUrl: string;
   private cache: Map<string, { data: Channel3Benchmark; expiresAt: number }> = new Map();
   private cacheTtlMs: number;
+  private timeoutMs: number;
   private fixtureData?: Record<string, FixtureItem>;
 
-  constructor(options?: { apiKey?: string; baseUrl?: string; cacheTtlMs?: number }) {
+  constructor(options?: { apiKey?: string; baseUrl?: string; cacheTtlMs?: number; timeoutMs?: number }) {
     this.apiKey = options?.apiKey || process.env.CHANNEL3_API_KEY;
     this.baseUrl = options?.baseUrl || 'https://api.trychannel3.com';
     this.cacheTtlMs = options?.cacheTtlMs ?? 5 * 60 * 1000; // 5 min default
+    this.timeoutMs = options?.timeoutMs ?? 10000; // 10s strict timeout with fixture fallback
     this.loadFixtures();
   }
 
@@ -108,6 +110,7 @@ export class Channel3Client {
             'x-api-key': this.apiKey,
           },
           body: JSON.stringify({ query }),
+          signal: AbortSignal.timeout(this.timeoutMs),
         });
 
         if (res.ok) {

@@ -117,6 +117,7 @@ export async function generateProposals(
         knownIssuers: ['manager-agent'],
         remainingMonthlyBudget,
         itemCategory: item.category,
+        verifySignature: (_h, sig) => Boolean(sig),
       }
     );
 

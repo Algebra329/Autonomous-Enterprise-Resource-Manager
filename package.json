@@ -17,7 +17,7 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "arena:run": "pnpm --filter @rm/arena run",
+    "arena:run": "tsx arena/runner.ts",
     "db:migrate": "pnpm --filter @rm/api db:migrate",
     "db:seed": "pnpm --filter @rm/api db:seed",
     "demo:reset": "pnpm --filter @rm/api demo:reset"

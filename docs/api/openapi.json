@@ -1,0 +1,237 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Autonomous Enterprise Resource Manager API",
+    "version": "1.0.0",
+    "description": "Backend Fastify API specification for Autonomous Enterprise Resource Manager (PayPal AI Hackathon 2026)."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000",
+      "description": "Local development server"
+    }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "Health check",
+        "responses": {
+          "200": {
+            "description": "Service is healthy",
+            "content": {
+              "application/json": {
+                "example": {
+                  "status": "ok",
+                  "version": "0.1.0",
+                  "timestamp": "2026-11-04T12:00:00Z"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/policies/compile": {
+      "post": {
+        "summary": "Compile plain English to Policy (DeepSeek LLM)",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "text": "Buy monitors and laptops under $1800, max spend 25000 a month with vendor A."
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Compiled Policy",
+            "content": {
+              "application/json": {
+                "example": {
+                  "policy": {
+                    "categories": ["monitors", "laptops"],
+                    "max_unit_price": 1800,
+                    "monthly_cap": 25000,
+                    "currency": "USD",
+                    "approved_vendors": ["vendor_a"],
+                    "max_over_benchmark_pct": 10,
+                    "mode": "auto_under_cap"
+                  },
+                  "warnings": [],
+                  "questions": []
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/mandates/intent": {
+      "post": {
+        "summary": "Register an Intent Mandate",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "type": "intent",
+                "issuer": "alice@company.com",
+                "source_text": "Buy laptops under $1500",
+                "constraints": {
+                  "categories": ["laptops"],
+                  "max_unit_price": 1500,
+                  "monthly_cap": 25000,
+                  "currency": "USD",
+                  "approved_vendors": ["vendor_a"],
+                  "max_over_benchmark_pct": 10,
+                  "mode": "auto_under_cap"
+                },
+                "expires": "2026-12-31T23:59:59Z",
+                "nonce": "nonce-12345",
+                "signature": {
+                  "kind": "es256",
+                  "payload": "valid-signature"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Mandate registered and added to ledger"
+          }
+        }
+      }
+    },
+    "/v1/proposals": {
+      "get": {
+        "summary": "List Proposals for Approval Queue",
+        "parameters": [
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": ["needs_approval", "auto_approved", "executed", "rejected"]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of proposals"
+          }
+        }
+      }
+    },
+    "/v1/proposals/{id}/approve": {
+      "post": {
+        "summary": "Approve proposal with WebAuthn passkey",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "cart_mandate": {
+                  "type": "cart",
+                  "issuer": "alice@company.com",
+                  "parent": "parent-intent-id",
+                  "cart": {
+                    "vendor_id": "vendor_a",
+                    "sku": "LAP-14",
+                    "quantity": 2,
+                    "unit_price": 1450,
+                    "total": 2900,
+                    "currency": "USD"
+                  },
+                  "nonce": "nonce-cart-01",
+                  "expires": "2026-12-31T23:59:59Z"
+                },
+                "signature": {
+                  "kind": "webauthn",
+                  "payload": {
+                    "authenticatorData": "...",
+                    "clientDataJSON": "...",
+                    "signature": "..."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Order approved and executed on PayPal"
+          }
+        }
+      }
+    },
+    "/v1/orders/{id}/proof-pack": {
+      "get": {
+        "summary": "Retrieve Cryptographic ProofPack",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Self-contained ProofPack"
+          }
+        }
+      }
+    },
+    "/v1/ledger": {
+      "get": {
+        "summary": "Audit Ledger entries (SHA-256 hash chain)",
+        "responses": {
+          "200": {
+            "description": "Immutable ledger sequence"
+          }
+        }
+      }
+    },
+    "/v1/dashboard/studio": {
+      "get": {
+        "summary": "Next.js Dashboard Overview Metrics",
+        "responses": {
+          "200": {
+            "description": "Spend, savings, and queue counts"
+          }
+        }
+      }
+    },
+    "/v1/safety/breaker": {
+      "get": {
+        "summary": "Circuit Breaker & Rolling Velocity Metrics",
+        "responses": {
+          "200": {
+            "description": "Breaker state and 1-hour rolling metrics"
+          }
+        }
+      }
+    },
+    "/v1/safety/kill-switch": {
+      "post": {
+        "summary": "Emergency Kill Switch",
+        "responses": {
+          "200": {
+            "description": "All active mandates revoked and runs halted"
+          }
+        }
+      }
+    }
+  }
+}

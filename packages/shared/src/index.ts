@@ -137,7 +137,7 @@ export const ProposalPayloadSchema = z.object({
   sku: z.string(),
   quantity: z.number().int().positive(),
   unit_price: z.number().positive(),
-  currency: z.string().default('USD'),
+  currency: z.string(),
   quote_id: z.string(),
   app: z.string().optional(),
   subscription_id: z.string().optional(),

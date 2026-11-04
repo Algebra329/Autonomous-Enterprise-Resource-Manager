@@ -47,6 +47,7 @@ export const proposalRoutes: FastifyPluginAsync = async (app) => {
       remainingMonthlyBudget: 50000,
       circuitBreakerOpen: state.circuitBreakerOpen,
       killSwitchActive: state.killSwitchActive,
+      verifySignature: (_h, sig) => Boolean(sig && typeof sig === 'object'),
     });
 
     if (verdict.result === 'blocked') {
