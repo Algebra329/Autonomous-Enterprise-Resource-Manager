@@ -131,11 +131,11 @@
       "method": "isolation_forest",
       "is_fallback": false,
       "model_version": "anomaly-iforest-v1",
-      "threshold": 0.67,
+      "threshold": 0.64,
       "results": [
         {
           "id": "848f9fa8-8486-5987-a4cb-65c39022761d",
-          "anomaly_score": 0.688,
+          "anomaly_score": 0.664,
           "is_anomaly": true,
           "reasons": [
             "same vendor, item and quantity ordered within the previous 24 hours"
@@ -143,25 +143,23 @@
         },
         {
           "id": "69673a84-127d-52cf-b6f7-79a5030587dc",
-          "anomaly_score": 0.674,
+          "anomaly_score": 0.671,
           "is_anomaly": true,
           "reasons": []
         },
         {
           "id": "cb5ac02d-fdae-526b-aa91-0c9362fd3acf",
-          "anomaly_score": 0.75,
+          "anomaly_score": 0.712,
           "is_anomaly": true,
           "reasons": [
             "same vendor, item and quantity ordered within the previous 24 hours"
           ]
         },
         {
-          "id": "e3052e7d-f825-5fcf-9806-85ad566d0a65",
-          "anomaly_score": 0.845,
+          "id": "61e6df69-80fb-508f-b892-bd33dbdf1993",
+          "anomaly_score": 0.676,
           "is_anomaly": true,
-          "reasons": [
-            "same vendor, item and quantity ordered within the previous 24 hours"
-          ]
+          "reasons": []
         }
       ]
     }
@@ -201,13 +199,13 @@
         },
         "d61_90": {
           "count": 1,
-          "est_cost": 1250.0,
+          "est_cost": 1450.0,
           "n_unpriced": 0
         }
       },
       "cumulative_90d_incl_overdue": {
         "count": 1,
-        "est_cost": 1250.0
+        "est_cost": 1450.0
       },
       "items": [
         {
@@ -280,34 +278,35 @@
       "summary": {
         "n_purchases": 6,
         "counts": {
-          "auto_approved": 4,
-          "escalated": 2,
+          "auto_approved": 1,
+          "escalated": 5,
           "blocked": 0,
           "observed": 0
         },
         "shares": {
-          "auto_approved": 0.667,
-          "escalated": 0.333,
+          "auto_approved": 0.167,
+          "escalated": 0.833,
           "blocked": 0.0,
           "observed": 0.0
         },
-        "realized_savings": 407.16,
-        "potential_savings": 792.81,
-        "realized_savings_pct_of_human_spend": 7.26,
-        "human_spend_total_usd": 8878.26,
+        "realized_savings": -35.58,
+        "potential_savings": 1683.51,
+        "realized_savings_pct_of_human_spend": -4.97,
+        "human_spend_total_usd": 11411.61,
         "spend_held_by_breaker_usd": 0,
         "escalation_reasons": {
-          "UNIT_PRICE_EXCEEDED": 1,
-          "CATEGORY_NOT_ALLOWED": 1
+          "UNIT_PRICE_EXCEEDED": 3,
+          "CATEGORY_NOT_ALLOWED": 2,
+          "MONTHLY_CAP_EXCEEDED": 1
         },
         "negative_saving_purchases": 1,
         "excluded_non_usd": 0,
-        "top3_share_of_positive_savings": 0.972
+        "top3_share_of_positive_savings": 0.973
       },
       "weekly": [
         {
           "week": "2026-07-27",
-          "projected_savings": -21.0,
+          "projected_savings": -35.58,
           "potential_savings": 0.0,
           "auto_approved": 1,
           "escalated": 0,
@@ -326,7 +325,7 @@
         {
           "week": "2026-08-10",
           "projected_savings": 0.0,
-          "potential_savings": 792.81,
+          "potential_savings": 1207.95,
           "auto_approved": 0,
           "escalated": 2,
           "blocked": 0,
@@ -334,26 +333,26 @@
         },
         {
           "week": "2026-08-17",
-          "projected_savings": 318.5,
-          "potential_savings": 0.0,
-          "auto_approved": 2,
-          "escalated": 0,
+          "projected_savings": 0.0,
+          "potential_savings": 355.46,
+          "auto_approved": 0,
+          "escalated": 2,
           "blocked": 0,
           "observed": 0
         },
         {
           "week": "2026-08-24",
-          "projected_savings": 109.66,
-          "potential_savings": 0.0,
-          "auto_approved": 1,
-          "escalated": 0,
+          "projected_savings": 0.0,
+          "potential_savings": 120.1,
+          "auto_approved": 0,
+          "escalated": 1,
           "blocked": 0,
           "observed": 0
         }
       ],
       "savings_decomposition": {
-        "realized_with_negotiation": 407.16,
-        "realized_list_price_only": 383.84,
+        "realized_with_negotiation": -35.58,
+        "realized_list_price_only": -35.58,
         "note": "list_price_only = pick the cheaper approved vendor, no counter-offers"
       }
     }

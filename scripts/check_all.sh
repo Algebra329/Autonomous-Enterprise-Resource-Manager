@@ -31,6 +31,7 @@ echo "== C5 ML service"
   step "unit tests (18: scoring + backtest)" 0 python3 -m unittest tests.test_core
   step "evaluate on held-out seeds" 0 python3 evaluate.py
   step "backtest snapshot (seed/backtest-demo.json)" 0 python3 run_backtest.py
+  step "demo numbers sheet (docs/demo-numbers.md)" 0 python3 demo_numbers.py
   step "contract examples regenerate" 0 python3 make_examples.py
   step "FastAPI smoke test (all routes)" 0 python3 -m tests.smoke_api
   echo "$PASS $FAIL $SKIP" > "$LOG.counts" ) 

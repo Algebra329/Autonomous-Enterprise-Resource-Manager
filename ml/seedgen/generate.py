@@ -56,7 +56,26 @@ CATALOG = [
     {"sku": "MON-27", "name": "27in 4K Monitor", "category": "monitors", "market_price": 420.00},
     {"sku": "DOCK-TB", "name": "Thunderbolt Dock", "category": "accessories", "market_price": 240.00},
 ]
+
+
+def _apply_anchors(catalog):
+    """Real products and prices from the Channel3 probe (ml/channel3_probe/make_anchors.py). Without the file the fictional catalog is used."""
+    path = Path(__file__).with_name("anchors.json")
+    if not path.exists():
+        return catalog
+    a = json.loads(path.read_text())
+    out = []
+    for c in catalog:
+        if c["sku"] in a.get("retired", []):
+            continue
+        s = a["skus"].get(c["sku"])
+        out.append({**c, "name": s["name"], "market_price": s["market_price"], "benchmark_query": s["benchmark_query"], "price_source": s["source"]} if s else c)
+    return out
+
+
+CATALOG = _apply_anchors(CATALOG)
 CAT_BY_SKU = {c["sku"]: c for c in CATALOG}
+ACTIVE = set(CAT_BY_SKU)
 
 # Two vendors with deliberately different behaviour so negotiation is interesting.
 VENDORS = {
@@ -79,6 +98,9 @@ VENDORS = {
         "skus": ["LAP-13", "LAP-14", "MON-24", "MON-27", "DOCK-TB"],  # no LAP-16 in stock
     },
 }
+
+for _v in VENDORS.values():
+    _v["skus"] = [x for x in _v["skus"] if x in ACTIVE]
 
 FIRST = ["Ada", "Tunde", "Chioma", "Liam", "Maya", "Noah", "Amara", "Ethan", "Zara", "Omar",
          "Sofia", "Kwame", "Lena", "Ravi", "Ife", "Mateo", "Hana", "Sam", "Nia", "Jonas",
@@ -212,8 +234,8 @@ def make_assets(rng: random.Random, as_of: date, people):
 
     for p in people:
         creative = p["department"] in ("Engineering", "Design")
-        sku = weighted(rng, [("LAP-16", 40), ("LAP-14", 50), ("LAP-13", 10)] if creative
-                       else [("LAP-14", 50), ("LAP-13", 40), ("LAP-16", 10)])
+        opts = [("LAP-16", 40), ("LAP-14", 50), ("LAP-13", 10)] if creative else [("LAP-14", 50), ("LAP-13", 40), ("LAP-16", 10)]
+        sku = weighted(rng, [o for o in opts if o[0] in ACTIVE])
         add(p, sku, "laptops", 36, weighted(rng, [("overdue", 16), ("borderline", 12), ("fine", 72)]))
         for _ in range(2 if rng.random() < 0.4 else 1):
             add(p, rng.choice(["MON-24", "MON-27"]), "monitors", 60,
@@ -341,6 +363,7 @@ def make_history(rng, as_of: date):
         return pid
 
     sku_w = [("LAP-14", 28), ("LAP-13", 12), ("LAP-16", 8), ("MON-24", 18), ("MON-27", 18), ("DOCK-TB", 16)]
+    sku_w = [w for w in sku_w if w[0] in ACTIVE]
 
     def qty_for(sku):
         # Volumes sized to a 150-person company on 3-year laptop cycles (~4 laptops a month).

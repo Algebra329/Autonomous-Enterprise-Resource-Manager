@@ -12,7 +12,7 @@ from core import handlers
 from core.backtest import backtest
 
 ROOT = Path(__file__).resolve().parents[2]
-DEMO_POLICY = {"categories": ["laptops", "monitors"], "max_unit_price": 1500, "monthly_cap": 8000, "currency": "USD",
+DEMO_POLICY = {"categories": ["laptops", "monitors"], "max_unit_price": 1800, "monthly_cap": 12000, "currency": "USD",
                "approved_vendors": ["vendor_a", "vendor_b"], "max_over_benchmark_pct": 10, "mode": "auto_under_cap"}
 
 

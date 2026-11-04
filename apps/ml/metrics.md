@@ -31,9 +31,9 @@ Seeds: train [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112], valid
 
 | method | precision | recall | F1 | AUROC | recall by type |
 |---|---|---|---|---|---|
-| baseline_ratio_rule | 1.0 | 0.273 | 0.429 | 0.663 | cap_structuring 0/25, currency_mismatch 5/5, duplicate_order 0/5, first_time_vendor 0/5, price_inflation 10/10, quantity_outlier 0/5, too_good_to_be_true 0/5, velocity_burst 0/25 |
-| hand_written_rules | 0.93 | 0.964 | 0.946 | - | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, velocity_burst 25/25 |
-| isolation_forest | 0.93 | 0.964 | 0.946 | 0.987 | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, velocity_burst 25/25 |
+| baseline_ratio_rule | 1.0 | 0.273 | 0.429 | 0.674 | cap_structuring 0/25, currency_mismatch 5/5, duplicate_order 0/5, first_time_vendor 0/5, price_inflation 10/10, quantity_outlier 0/5, too_good_to_be_true 0/5, velocity_burst 0/25 |
+| hand_written_rules | 0.948 | 1.0 | 0.973 | - | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, price_inflation 10/10, quantity_outlier 5/5, too_good_to_be_true 5/5, velocity_burst 25/25 |
+| isolation_forest | 0.902 | 1.0 | 0.948 | 0.994 | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, price_inflation 10/10, quantity_outlier 5/5, too_good_to_be_true 5/5, velocity_burst 25/25 |
 
 ## /score/anomaly: plus two NOVEL types the rules were not written for
 
@@ -41,9 +41,9 @@ Seeds: train [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112], valid
 
 | method | precision | recall | F1 | AUROC | recall by type |
 |---|---|---|---|---|---|
-| baseline_ratio_rule | 1.0 | 0.158 | 0.273 | 0.595 | cap_structuring 0/25, currency_mismatch 5/5, duplicate_order 0/5, first_time_vendor 0/5, mild_inflation 0/20, price_inflation 10/10, quantity_outlier 0/5, too_good_to_be_true 0/5, underpriced_known_vendor 0/20, velocity_burst 0/25 |
-| hand_written_rules | 0.891 | 0.6 | 0.717 | - | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, mild_inflation 1/20, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, underpriced_known_vendor 3/20, velocity_burst 25/25 |
-| isolation_forest | 0.875 | 0.811 | 0.842 | 0.952 | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, mild_inflation 4/20, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, underpriced_known_vendor 20/20, velocity_burst 25/25 |
+| baseline_ratio_rule | 1.0 | 0.158 | 0.273 | 0.601 | cap_structuring 0/25, currency_mismatch 5/5, duplicate_order 0/5, first_time_vendor 0/5, mild_inflation 0/20, price_inflation 10/10, quantity_outlier 0/5, too_good_to_be_true 0/5, underpriced_known_vendor 0/20, velocity_burst 0/25 |
+| hand_written_rules | 0.935 | 0.611 | 0.739 | - | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, mild_inflation 1/20, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, underpriced_known_vendor 4/20, velocity_burst 25/25 |
+| isolation_forest | 0.888 | 0.832 | 0.859 | 0.968 | cap_structuring 25/25, currency_mismatch 5/5, duplicate_order 5/5, first_time_vendor 5/5, mild_inflation 6/20, price_inflation 10/10, quantity_outlier 3/5, too_good_to_be_true 5/5, underpriced_known_vendor 20/20, velocity_burst 25/25 |
 
 ## /score/price (simulated offers, 15% contaminated with bait/gouge prices)
 

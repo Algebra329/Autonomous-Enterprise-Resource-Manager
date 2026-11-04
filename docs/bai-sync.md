@@ -34,3 +34,15 @@ Goal of this call: unblock the two things that stop MLE from finishing (the Aren
 | Nov 5 | Integration day: ML service live on Render, B9 client calling it |
 | Nov 6 | Feature freeze. MLE: final policy test-split run, Arena numbers |
 | Nov 7-8 | `docs/evaluation.md` final, Devpost numbers |
+
+## E. Update Nov 4: the catalog is now anchored to real Channel3 products
+The Channel3 probe showed our invented catalog prices disagreed with real ones (for example a 27 inch 4K monitor: ours 420, real about 700). If the live agent benchmarked against real data while simulated vendors quoted fictional prices, everything would be flagged. So five SKUs now map to real products and prices, and LAP-13 is retired.
+
+| What | Who | Detail |
+| --- | --- | --- |
+| Re-run the seed loader | BAI | `assets.json` (names, SKUs, prices) and `catalog.json` changed. Seats and SaaS did not |
+| Vendor price lists | SWE (A6) | list = `vendors.json` multiplier x catalog `market_price`; the round-by-round table in `docs/demo-numbers.md` is the test oracle |
+| Benchmark queries | BAI (B6) | The agent must search Channel3 with `benchmark_query` from `seed/catalog.json`, never with the SKU name. Generic names return random products |
+| Fixtures | BAI (B8) | `seed/benchmarks-fixture.json` holds real offers per SKU for the fallback |
+| Latency | BAI | Channel3 took p50 8.7 s and p95 19.5 s per query. Cache benchmarks per SKU and prefetch before the demo, or the 90 second golden path is at risk |
+| Demo policy | everyone | "Laptops and monitors, up to $1,800 each, $12,000 a month, vendors A and B only, no more than 10% over market, buy automatically." The MacBook Pro 16 escalates on purpose (needs the manager's signature) |
