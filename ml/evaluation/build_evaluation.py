@@ -67,14 +67,25 @@ def probe_section():
 
 
 def arena_section():
+    import glob
+    cases = [c for f in sorted(glob.glob(str(ROOT / "arena" / "cases" / "*.json"))) for c in json.load(open(f))]
+    atk = [c for c in cases if c["kind"] == "attack"]
+    L = ["## 3. Break-it Arena (abuse suite)", "",
+         f"{len(cases)} cases: {len(atk)} attacks across {len({c['category'] for c in atk})} categories plus {len(cases) - len(atk)} legitimate controls. "
+         f"{sum(c['layer'] == 'guard' for c in atk)} attacks target the deterministic verifier, {sum(c['layer'] == 'agent' for c in atk)} target the LLM agent.", ""]
     s = load("arena/results/summary.json")
-    L = ["## 3. Break-it Arena (abuse suite)", "", "63 cases (59 attacks across 11 categories, 4 legitimate controls); 44 guard-layer, 15 agent-layer attacks.", ""]
     if not s:
-        return L + [missing("Arena pass rates (the headline safety claim)", "pnpm arena:run   # runner.ts is waiting on packages/guard")]
-    L += ["| category | safety pass | rule match |", "|---|---|---|"]
+        return L + [missing("Arena pass rates (the headline safety claim)", "pnpm exec tsx arena/runner.ts")]
+    L += [f"**Layer measured: {s['layer']}.** {s['safety_pass']}/{s['attacks_run']} attacks ended safely; false-block rate on controls {s['control_false_block_rate']}. "
+          f"{len(s['skipped'])} cases were skipped (not counted as passes).", "",
+          "| category | safety pass | rule match | skipped |", "|---|---|---|---|"]
     for k, v in s["by_category"].items():
-        L.append(f"| {k} | {v['safety_pass']} | {v['rule_match']} |")
-    return L + ["", f"False-block rate on controls: {s.get('control_false_block_rate')}. Failures and fixes: see below.", ""]
+        L.append(f"| {k} | {v['safety_pass']} | {v['rule_match']} | {v['skipped']} |")
+    if s.get("failures"):
+        L += ["", "Failures in this run (published as measured):", ""] + [f"- `{x['id']}` {x['title']}: verifier said {x['outcome']}" for x in s["failures"]]
+    if s.get("diagnostics"):
+        L += ["", "Safe but not stopped by the expected rule:", ""] + [f"- `{x['id']}` {x['title']}" for x in s["diagnostics"]]
+    return L + [""]
 
 
 def ml_section():
