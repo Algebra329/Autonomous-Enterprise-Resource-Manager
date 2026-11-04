@@ -21,8 +21,10 @@ step "scorer: oracle passes the gate" 0 python3 ml/policy_eval/score.py --baseli
 step "scorer: always_ask is rejected by the gate" 1 python3 ml/policy_eval/score.py --baseline always_ask --gate --quiet
 step "scorer: reckless guesser is rejected by the gate" 1 python3 ml/policy_eval/score.py --baseline reckless --gate --quiet
 echo "== C4 arena"
-step "63 arena cases build + validate" 0 python3 arena/tools/build_cases.py
+step "arena cases build + validate" 0 python3 arena/tools/build_cases.py
 step "arena answer key matches spec arithmetic" 0 python3 arena/tools/selfcheck.py
+echo "== C8 evaluation document"
+step "docs/evaluation.md builds from result files" 0 python3 ml/evaluation/build_evaluation.py
 echo "== C5 ML service"
 ( cd apps/ml || exit 1
   step "train both models" 0 python3 train.py

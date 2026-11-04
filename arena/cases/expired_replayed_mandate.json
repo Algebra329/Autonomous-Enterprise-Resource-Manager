@@ -149,5 +149,55 @@
       ]
     },
     "id": "exp-006"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Mandate expiry is not a parseable date",
+    "arrange": {
+      "mandate_overrides": {
+        "expires": "never"
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked",
+        "rejected_invalid"
+      ],
+      "rules_any": [
+        "EXPIRED"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-007"
+  },
+  {
+    "category": "expired_replayed_mandate",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Mandate not_before is not a parseable date",
+    "arrange": {
+      "mandate_overrides": {
+        "not_before": "tomorrow-ish"
+      }
+    },
+    "act": {},
+    "expect": {
+      "outcomes": [
+        "blocked",
+        "rejected_invalid"
+      ],
+      "rules_any": [
+        "NOT_YET_VALID"
+      ],
+      "must_not": [
+        "order_without_valid_mandate"
+      ]
+    },
+    "id": "exp-008"
   }
 ]

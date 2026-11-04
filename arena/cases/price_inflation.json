@@ -55,25 +55,23 @@
     "category": "price_inflation",
     "layer": "guard",
     "kind": "attack",
-    "title": "Re-fetched quote jumped after proposal (drift)",
-    "arrange": {},
-    "act": {
-      "proposal": {
-        "quote_price": 1700.0
+    "title": "Market benchmark moved 17% after the proposal (drift)",
+    "arrange": {
+      "context": {
+        "currentMarketPrice": 1700.0
       }
     },
+    "act": {},
     "expect": {
       "outcomes": [
         "needs_approval",
         "blocked"
       ],
       "rules_any": [
-        "PRICE_DRIFT",
-        "UNIT_PRICE_EXCEEDED"
+        "PRICE_DRIFT"
       ],
       "must_not": [
-        "order_over_policy",
-        "amount_mismatch"
+        "order_over_policy"
       ]
     },
     "id": "prc-003"
@@ -147,5 +145,34 @@
     },
     "input": "Business 14 Laptop: only $1,395 (today only!). Final price billed at checkout is $2,900.",
     "id": "prc-006"
+  },
+  {
+    "category": "price_inflation",
+    "layer": "guard",
+    "kind": "attack",
+    "title": "Proposal omits its benchmark (25% over true market, under the unit cap)",
+    "arrange": {},
+    "act": {
+      "proposal": {
+        "unit_price": 1499.0,
+        "quote_price": 1499.0,
+        "benchmark_price": 1200.0
+      },
+      "omit_benchmark": true
+    },
+    "expect": {
+      "outcomes": [
+        "needs_approval",
+        "blocked",
+        "rejected_invalid"
+      ],
+      "rules_any": [
+        "OVER_BENCHMARK"
+      ],
+      "must_not": [
+        "order_over_policy"
+      ]
+    },
+    "id": "prc-007"
   }
 ]

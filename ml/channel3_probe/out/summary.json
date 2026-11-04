@@ -1,23 +1,295 @@
 {
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-04",
   "n_queries": 30,
-  "usable": 17,
+  "usable": 14,
+  "queries": [
+    {
+      "id": "q01",
+      "sku": "LAP-13",
+      "query": "MacBook Air 13 inch M3",
+      "product_title": "Apple 13\" MacBook Air (M3, Starlight)",
+      "median_price": 1199.0,
+      "n_offers_usable": 1,
+      "usable": false
+    },
+    {
+      "id": "q02",
+      "sku": "LAP-13",
+      "query": "Dell XPS 13 laptop",
+      "product_title": "Dell XPS 13 9345 Laptop, Copilot+ AI PC",
+      "median_price": 1824.99,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q03",
+      "sku": "LAP-13",
+      "query": "HP Dragonfly G4 13 laptop",
+      "product_title": null,
+      "median_price": null,
+      "n_offers_usable": 0,
+      "usable": false
+    },
+    {
+      "id": "q04",
+      "sku": "LAP-14",
+      "query": "Lenovo ThinkPad T14 Gen 5",
+      "product_title": "Lenovo ThinkPad T14 Gen 5 - AI PC",
+      "median_price": 1587.99,
+      "n_offers_usable": 5,
+      "usable": true
+    },
+    {
+      "id": "q05",
+      "sku": "LAP-14",
+      "query": "Dell Latitude 7450 laptop",
+      "product_title": "Dell Latitude 7450 14\" FHD+ 2-in-1 Touchscreen AI PC Laptop",
+      "median_price": 1499.99,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q06",
+      "sku": "LAP-14",
+      "query": "HP EliteBook 840 G11",
+      "product_title": "EliteBook 840 G11 14\" Notebook",
+      "median_price": 1388.9850000000001,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q07",
+      "sku": "LAP-14",
+      "query": "14 inch business laptop 16GB 512GB",
+      "product_title": "Dell Pro 5 Series 14\" Business Laptop",
+      "median_price": 2129.99,
+      "n_offers_usable": 1,
+      "usable": false
+    },
+    {
+      "id": "q08",
+      "sku": "LAP-16",
+      "query": "MacBook Pro 16 inch",
+      "product_title": "MacBook Pro 16\"",
+      "median_price": 2979.495,
+      "n_offers_usable": 8,
+      "usable": true
+    },
+    {
+      "id": "q09",
+      "sku": "LAP-16",
+      "query": "Lenovo ThinkPad P16 mobile workstation",
+      "product_title": "Lenovo ThinkPad P16 Gen 3 Mobile Workstation",
+      "median_price": 4919.495,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q10",
+      "sku": "LAP-16",
+      "query": "Dell Precision 5690 laptop",
+      "product_title": "Dell Precision 5690 16\" Mobile Workstation Laptop Intel 16-Core Ultra 9 185H vPro 5.10GHz Max 64GB 2TB M.2 SSD Windows 11 Pro",
+      "median_price": 2999.99,
+      "n_offers_usable": 1,
+      "usable": false
+    },
+    {
+      "id": "q11",
+      "sku": "MON-24",
+      "query": "Dell P2422H 24 inch monitor",
+      "product_title": null,
+      "median_price": null,
+      "n_offers_usable": 0,
+      "usable": false
+    },
+    {
+      "id": "q12",
+      "sku": "MON-24",
+      "query": "HP E24 G5 monitor",
+      "product_title": "E24t G5 Monitor",
+      "median_price": 389.99,
+      "n_offers_usable": 5,
+      "usable": true
+    },
+    {
+      "id": "q13",
+      "sku": "MON-24",
+      "query": "24 inch full HD IPS monitor",
+      "product_title": "HP Series 7 Pro 724pf 24\" FHD IPS Monitor, Anti-Glare",
+      "median_price": 479.99,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q14",
+      "sku": "MON-24",
+      "query": "ASUS VA24EHE 24 inch monitor",
+      "product_title": null,
+      "median_price": null,
+      "n_offers_usable": 0,
+      "usable": false
+    },
+    {
+      "id": "q15",
+      "sku": "MON-24",
+      "query": "Lenovo ThinkVision 24 inch monitor",
+      "product_title": "ThinkVision S24e-10 24\" (23.8\" Viewable) 1920 x 1080 Full HD HDMI D-Sub FreeSync Tilt VESA Monitor",
+      "median_price": 203.5,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q16",
+      "sku": "MON-27",
+      "query": "Dell U2723QE 27 inch 4K monitor",
+      "product_title": "UltraSharp U2723QE 27\" 4K UHD LCD Monitor",
+      "median_price": 699.99,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q17",
+      "sku": "MON-27",
+      "query": "LG 27UP850 4K monitor",
+      "product_title": null,
+      "median_price": null,
+      "n_offers_usable": 0,
+      "usable": false
+    },
+    {
+      "id": "q18",
+      "sku": "MON-27",
+      "query": "27 inch 4K USB-C monitor",
+      "product_title": "ColorPro VP2776T-4K Monitor",
+      "median_price": 699.99,
+      "n_offers_usable": 5,
+      "usable": true
+    },
+    {
+      "id": "q19",
+      "sku": "MON-27",
+      "query": "Samsung ViewFinity S8 27 monitor",
+      "product_title": "Viewfinity S80 Series UHD 4K Monitor",
+      "median_price": 569.99,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q20",
+      "sku": "MON-27",
+      "query": "BenQ PD2706U 27 inch monitor",
+      "product_title": "PD2706U",
+      "median_price": 437.31,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q21",
+      "sku": "DOCK-TB",
+      "query": "Dell WD22TB4 Thunderbolt dock",
+      "product_title": "Thunderbolt WD22TB4 Laptop Dock",
+      "median_price": 209.99,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q22",
+      "sku": "DOCK-TB",
+      "query": "Lenovo ThinkPad Thunderbolt 4 dock",
+      "product_title": "Thinkpad Thunderbolt 4 Smart Dock Gen 2",
+      "median_price": 300.49,
+      "n_offers_usable": 4,
+      "usable": true
+    },
+    {
+      "id": "q23",
+      "sku": "DOCK-TB",
+      "query": "CalDigit TS4 Thunderbolt 4 dock",
+      "product_title": "CalDigit TS4 Thunderbolt 4 18-in-1 Hub",
+      "median_price": 379.99,
+      "n_offers_usable": 1,
+      "usable": false
+    },
+    {
+      "id": "q24",
+      "sku": "DOCK-TB",
+      "query": "HP Thunderbolt Dock G4",
+      "product_title": "Thunderbolt Dock 120W G4 (4J0A2AA) Docking Station Port Replicator",
+      "median_price": 274.755,
+      "n_offers_usable": 4,
+      "usable": true
+    },
+    {
+      "id": "q25",
+      "sku": "DOCK-TB",
+      "query": "Anker Thunderbolt 4 docking station",
+      "product_title": "Anker Prime 14-in-1 Thunderbolt 5 Docking Station",
+      "median_price": 399.99,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q26",
+      "sku": "DOCK-TB",
+      "query": "Thunderbolt 4 docking station",
+      "product_title": "Thunderbolt 4 Docking Station with DisplayLink",
+      "median_price": 299.99,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q27",
+      "sku": "LAP-13",
+      "query": "UltraLight 13 Laptop",
+      "product_title": "MSI Modern 13 inch Ultrabook Laptop Core 7-150U 16GB 1TB W11P 3 Year Warranty",
+      "median_price": 994.9,
+      "n_offers_usable": 3,
+      "usable": true
+    },
+    {
+      "id": "q28",
+      "sku": "LAP-14",
+      "query": "Business 14 Laptop",
+      "product_title": "V-Series V14 Gen 5 14\" Business Laptop",
+      "median_price": 719.495,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q29",
+      "sku": "LAP-16",
+      "query": "Performance 16 Laptop",
+      "product_title": "Dell 16 Laptop",
+      "median_price": 1249.99,
+      "n_offers_usable": 2,
+      "usable": false
+    },
+    {
+      "id": "q30",
+      "sku": "MON-27",
+      "query": "27in 4K Monitor",
+      "product_title": "ColorPro VP2776T-4K Monitor",
+      "median_price": 699.99,
+      "n_offers_usable": 5,
+      "usable": true
+    }
+  ],
   "categories": {
     "laptops": {
       "n": 13,
-      "usable": 5,
-      "plausible": 9,
+      "usable": 3,
+      "plausible": 10,
       "judged": 12,
-      "usable_rate": 0.38461538461538464,
+      "usable_rate": 0.23076923076923078,
       "demo_safe": false
     },
     "monitors": {
       "n": 11,
-      "usable": 7,
-      "plausible": 6,
-      "judged": 9,
-      "usable_rate": 0.6363636363636364,
-      "demo_safe": true
+      "usable": 6,
+      "plausible": 7,
+      "judged": 8,
+      "usable_rate": 0.5454545454545454,
+      "demo_safe": false
     },
     "accessories": {
       "n": 6,
@@ -36,13 +308,13 @@
     },
     "LAP-13": {
       "catalog_market_price": 1250.0,
-      "channel3_median_of_medians": 667.48,
-      "n_usable_queries": 2
+      "channel3_median_of_medians": 994.9,
+      "n_usable_queries": 1
     },
     "LAP-14": {
       "catalog_market_price": 1450.0,
-      "channel3_median_of_medians": 1199.99,
-      "n_usable_queries": 2
+      "channel3_median_of_medians": 1587.99,
+      "n_usable_queries": 1
     },
     "LAP-16": {
       "catalog_market_price": 1950.0,
@@ -51,8 +323,8 @@
     },
     "MON-24": {
       "catalog_market_price": 230.0,
-      "channel3_median_of_medians": 521.49,
-      "n_usable_queries": 2
+      "channel3_median_of_medians": 389.99,
+      "n_usable_queries": 1
     },
     "MON-27": {
       "catalog_market_price": 420.0,
@@ -60,9 +332,6 @@
       "n_usable_queries": 5
     }
   },
-  "latency": {
-    "p50_s": 8.65,
-    "p95_s": 19.46
-  },
+  "latency": null,
   "rule": "usable = a matched product with >= 3 priced, in-stock, USD offers; category demo-safe if >= 60% usable"
 }

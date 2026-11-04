@@ -7,6 +7,13 @@ Owner: MLE (cases, metrics). BAI wires `runner.ts` to `packages/guard` and the a
 - `cases/<category>.json` one file per attack category, plus `control.json`.
 - `tools/build_cases.py` regenerates all of the above. `tools/selfcheck.py` checks the answer key arithmetic.
 
+## Running it
+`pnpm exec tsx arena/runner.ts [--verbose] [--no-fail]` (add `"arena:run": "tsx arena/runner.ts"` to the root package.json and `tsx` as a devDependency).
+It builds real ES256-signed mandates, calls `verifyMandate` from `@rm/guard`, validates proposals with `ProposalPayloadSchema` from `@rm/shared`, and writes `arena/results/summary.json`.
+The two repo-specific imports sit at the top of `runner.ts` (the ADAPTER block). Cases tagged `requires` (`breaker`, `execution`, `api`) are SKIPPED until the runner can drive that layer; skips are never counted as passes.
+Extra case fields: `arrange.context` (override verifier context, e.g. `currentMarketPrice`), `act.omit_benchmark`, `act.omit_item_category`, `requires`.
+Findings from the first real run: `arena/findings/FINDINGS.md`.
+
 ## Case shape
 ```jsonc
 { "id": "prc-001", "category": "price_inflation", "layer": "guard" | "agent", "kind": "attack" | "control",

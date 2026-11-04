@@ -25,6 +25,10 @@ from urllib.parse import urlparse
 
 HERE = Path(__file__).resolve().parent
 MIN_OFFERS = 3            # fair-price scoring needs several independent offers
+# A title containing a model name is not necessarily the device: cases, chargers and cables carry it too.
+ACCESSORY_RE = __import__("re").compile(r"\b(case|sleeve|cover|skin|protector|charger|adapter|battery|cable|stand|mount|bag|backpack|keyboard|mouse|stylus|decal|sticker|riser|bracket|cleaner|wipes|replacement|compatible)\b", __import__("re").I)
+USED_RE = __import__("re").compile(r"\b(refurbished|renewed|used|pre-owned|open[- ]box|reconditioned)\b", __import__("re").I)
+PRICE_FLOOR = {"laptops": 250.0, "monitors": 80.0, "accessories": 50.0}   # absolute USD floors, independent of our catalog
 PLAUSIBLE = (0.5, 2.0)    # real median / our catalog market_price
 USABLE_CATEGORY = 0.6     # a category is demo-safe if >=60% of its queries are usable
 
@@ -94,9 +98,17 @@ def analyse(q, resp, catalog):
     prods = resp.get("products") or []
     must = [m.lower() for m in q["must"]]
     cands = [p for p in prods if all(m in title(p).lower() for m in must)] if must else prods[:5]
-    best, best_offers = None, []
+    cands = [p for p in cands if not USED_RE.search(title(p))]           # new hardware only
+    n_acc = 0
+    if q["category"] in ("laptops", "monitors"):          # docks are accessories themselves, so only filter for devices
+        kept = [p for p in cands if not ACCESSORY_RE.search(title(p))]
+        n_acc, cands = len(cands) - len(kept), kept
+    floor = PRICE_FLOOR.get(q["category"], 0)
+    best, best_offers, n_floor = None, [], 0
     for p in cands:
-        offs = [o for o in parse_offers(p) if o["price"] is not None and o["price"] > 0 and o["in_stock"] and o["currency"] == "USD"]
+        allo = [o for o in parse_offers(p) if o["price"] is not None and o["price"] > 0 and o["in_stock"] and o["currency"] == "USD"]
+        offs = [o for o in allo if o["price"] >= floor]
+        n_floor += len(allo) - len(offs)
         if len(offs) > len(best_offers):
             best, best_offers = p, offs
     prices = [o["price"] for o in best_offers]
@@ -105,7 +117,7 @@ def analyse(q, resp, catalog):
     ratio = (med / cat) if (med and cat) else None
     return {
         "id": q["id"], "sku": q["sku"], "category": q["category"], "query": q["query"],
-        "error": resp.get("_error"), "n_products": len(prods), "n_matched": len(cands),
+        "error": resp.get("_error"), "n_products": len(prods), "n_matched": len(cands), "n_accessory_excluded": n_acc, "n_below_floor": n_floor,
         "n_offers_usable": len(best_offers), "n_merchants": len({o["merchant"] for o in best_offers}),
         "median_price": med, "min_price": min(prices) if prices else None, "max_price": max(prices) if prices else None,
         "ratio_vs_catalog": ratio,
@@ -169,13 +181,14 @@ def main():
     ps = sorted(lat)
     latency = {"p50_s": round(statistics.median(ps), 2), "p95_s": round(ps[int(0.95 * (len(ps) - 1))], 2)} if ps else None
     summary = {"as_of": date.today().isoformat(), "n_queries": len(rows), "usable": sum(r["usable"] for r in rows),
+               "queries": [{k: r[k] for k in ("id", "sku", "query", "product_title", "median_price", "n_offers_usable", "usable")} for r in rows],
                "categories": cats, "skus": skus, "latency": latency,
                "rule": f"usable = a matched product with >= {MIN_OFFERS} priced, in-stock, USD offers; category demo-safe if >= {USABLE_CATEGORY:.0%} usable"}
     (out / "summary.json").write_text(json.dumps(summary, indent=2) + "\n")
 
     # ---- report ---------------------------------------------------------------------------
-    L = ["# Channel3 coverage probe", "", f"Run date: {summary['as_of']}  |  queries: {len(rows)}  |  usable: {summary['usable']}",
-         f"Rule: {summary['rule']}", ""]
+    L = ["# Channel3 coverage probe (v2: accessory and price-floor filters)", "", f"Run date: {summary['as_of']}  |  queries: {len(rows)}  |  usable: {summary['usable']}",
+         f"Rule: {summary['rule']}", f"Filters: laptop/monitor titles with accessory words are dropped; offers below {PRICE_FLOOR} are dropped.", ""]
     if latency:
         L += [f"Latency: p50 {latency['p50_s']}s, p95 {latency['p95_s']}s", ""]
     L += ["## By category", "", "| category | usable | rate | plausible price | demo-safe |", "|---|---|---|---|---|"]
@@ -184,11 +197,12 @@ def main():
     L += ["", "## Our fake catalog vs real market prices", "", "| SKU | catalog price | Channel3 median | usable queries |", "|---|---|---|---|"]
     for s, v in skus.items():
         L.append(f"| {s} | {v['catalog_market_price']} | {v['channel3_median_of_medians']} | {v['n_usable_queries']} |")
-    L += ["", "## Per query", "", "| id | query | products | matched | offers | merchants | median $ | vs catalog | usable |", "|---|---|---|---|---|---|---|---|---|"]
+    L += ["", "## Per query", "", "| id | query | best match | matched | offers | median $ | vs catalog | usable |", "|---|---|---|---|---|---|---|---|"]
     for r in rows:
         m = f"{r['median_price']:.0f}" if r["median_price"] else "-"
         ra = f"{r['ratio_vs_catalog']:.2f}x" if r["ratio_vs_catalog"] else "-"
-        L.append(f"| {r['id']} | {r['query'][:40]} | {r['n_products']} | {r['n_matched']} | {r['n_offers_usable']} | {r['n_merchants']} | {m} | {ra} | {'yes' if r['usable'] else 'no'} |")
+        t = (r["product_title"] or "-").replace("|", "/")[:46]
+        L.append(f"| {r['id']} | {r['query'][:34]} | {t} | {r['n_matched']} (-{r['n_accessory_excluded']} acc.) | {r['n_offers_usable']} (-{r['n_below_floor']} cheap) | {m} | {ra} | {'yes' if r['usable'] else 'no'} |")
     errs = [r for r in rows if r["error"]]
     if errs:
         L += ["", "## Errors", ""] + [f"- {r['id']}: {r['error']}" for r in errs]

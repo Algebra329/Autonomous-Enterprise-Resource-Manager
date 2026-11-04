@@ -1,0 +1,49 @@
+{
+  "as_of": "2026-11-04",
+  "source": "Channel3 probe 2026-11-04",
+  "retired": [
+    "LAP-13"
+  ],
+  "skus": {
+    "LAP-14": {
+      "name": "Lenovo ThinkPad T14 Gen 5 - AI PC",
+      "market_price": 1587.99,
+      "benchmark_query": "Lenovo ThinkPad T14 Gen 5",
+      "probe_query": "q04",
+      "n_offers": 5,
+      "source": "channel3"
+    },
+    "LAP-16": {
+      "name": "MacBook Pro 16\"",
+      "market_price": 2979.49,
+      "benchmark_query": "MacBook Pro 16 inch",
+      "probe_query": "q08",
+      "n_offers": 8,
+      "source": "channel3"
+    },
+    "MON-24": {
+      "name": "E24t G5 Monitor",
+      "market_price": 389.99,
+      "benchmark_query": "HP E24 G5 monitor",
+      "probe_query": "q12",
+      "n_offers": 5,
+      "source": "channel3"
+    },
+    "MON-27": {
+      "name": "ColorPro VP2776T-4K Monitor",
+      "market_price": 699.99,
+      "benchmark_query": "27 inch 4K USB-C monitor",
+      "probe_query": "q18",
+      "n_offers": 5,
+      "source": "channel3"
+    },
+    "DOCK-TB": {
+      "name": "Thinkpad Thunderbolt 4 Smart Dock Gen 2",
+      "market_price": 300.49,
+      "benchmark_query": "Lenovo ThinkPad Thunderbolt 4 dock",
+      "probe_query": "q22",
+      "n_offers": 4,
+      "source": "channel3"
+    }
+  }
+}
