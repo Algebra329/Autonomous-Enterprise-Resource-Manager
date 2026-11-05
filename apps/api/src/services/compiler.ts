@@ -78,7 +78,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
 
   // 3. Currency & Warnings
   const warnings: string[] = [];
-  let currency = 'USD';
+  const currency = 'USD';
   if (lower.includes('euro') || lower.includes('€') || lower.includes('gbp') || lower.includes('£')) {
     return {
       policy: null,
@@ -208,10 +208,54 @@ export async function compilePolicy(text: string): Promise<PolicyCompileResponse
     return compilePolicyFallback(text);
   }
 
+  const baseUrl = (process.env.LLM_BASE_URL || 'https://api.deepseek.com').replace(/\/+$/, '');
+  const model = process.env.LLM_MODEL || 'deepseek-flash';
+
   try {
-    return compilePolicyFallback(text);
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 4000);
+
+    const res = await fetch(`${baseUrl}/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model,
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          { role: 'user', content: `<policy_text>${text}</policy_text>` },
+        ],
+        temperature: 0,
+        max_tokens: 400,
+      }),
+      signal: controller.signal,
+    });
+
+    clearTimeout(timeout);
+
+    if (res.ok) {
+      const data = (await res.json()) as {
+        choices?: Array<{ message?: { content?: string } }>;
+      };
+      const content = data.choices?.[0]?.message?.content?.trim();
+      if (content) {
+        // Strip markdown code fences if model returned them
+        const cleanJson = content.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '').trim();
+        const parsed = JSON.parse(cleanJson);
+        if (parsed && ('policy' in parsed || 'questions' in parsed)) {
+          return {
+            policy: parsed.policy || null,
+            warnings: Array.isArray(parsed.warnings) ? parsed.warnings : [],
+            questions: Array.isArray(parsed.questions) ? parsed.questions : [],
+          };
+        }
+      }
+    }
   } catch (err) {
-    console.warn('[compiler] Fallback triggered due to error:', err);
-    return compilePolicyFallback(text);
+    console.warn('[compiler] LLM compilation failed, using deterministic fallback:', err);
   }
+
+  return compilePolicyFallback(text);
 }

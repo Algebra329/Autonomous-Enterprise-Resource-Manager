@@ -1,0 +1,528 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Autonomous Enterprise Resource Manager API",
+    "version": "1.0.0",
+    "description": "Complete Backend Fastify REST API specification for Autonomous Enterprise Resource Manager (PayPal AI Hackathon 2026)."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000",
+      "description": "Local development server"
+    }
+  ],
+  "tags": [
+    { "name": "System", "description": "Liveness & Health Check" },
+    { "name": "Policies", "description": "Natural Language Policy Compiler" },
+    { "name": "Mandates", "description": "Intent & Cart Mandates & Key Distribution" },
+    { "name": "Proposals", "description": "Procurement Proposals & Human Approval Queue" },
+    { "name": "Orders", "description": "Executed Orders & Cryptographic ProofPacks" },
+    { "name": "Ledger", "description": "Tamper-Evident SHA-256 Audit Trail" },
+    { "name": "Dashboard", "description": "Next.js AG Studio Dashboard Sources & SSE Stream" },
+    { "name": "Safety", "description": "Circuit Breaker & Emergency Kill-Switch" },
+    { "name": "Workflows", "description": "Autonomous Scheduled Procurement Runs" },
+    { "name": "Webhooks", "description": "PayPal Event Ingestion" }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "tags": ["System"],
+        "summary": "Health check",
+        "description": "Returns service liveness, service name, and timestamp.",
+        "responses": {
+          "200": {
+            "description": "Service is healthy",
+            "content": {
+              "application/json": {
+                "example": {
+                  "status": "ok",
+                  "version": "0.1.0",
+                  "service": "@rm/api",
+                  "timestamp": "2026-11-04T12:00:00Z"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/policies/compile": {
+      "post": {
+        "tags": ["Policies"],
+        "summary": "Compile plain English to Policy (DeepSeek LLM)",
+        "description": "Translates plain English procurement rules into a strict Policy object with questions for missing limits.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "text": "Buy monitors and laptops under $1800, max spend 25000 a month with vendor A. Auto-approve under the cap."
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Compiled Policy and advisory feedback",
+            "content": {
+              "application/json": {
+                "example": {
+                  "policy": {
+                    "categories": ["monitors", "laptops"],
+                    "max_unit_price": 1800,
+                    "monthly_cap": 25000,
+                    "currency": "USD",
+                    "approved_vendors": ["vendor_a"],
+                    "max_over_benchmark_pct": 10,
+                    "mode": "auto_under_cap"
+                  },
+                  "warnings": [],
+                  "questions": []
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/mandates/intent": {
+      "post": {
+        "tags": ["Mandates"],
+        "summary": "Register an Intent Mandate",
+        "description": "Submits a signed Intent Mandate, records payload hash on ledger, and activates policy constraints.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "type": "intent",
+                "issuer": "alice@company.com",
+                "source_text": "Buy laptops under $1500",
+                "constraints": {
+                  "categories": ["laptops"],
+                  "max_unit_price": 1500,
+                  "monthly_cap": 25000,
+                  "currency": "USD",
+                  "approved_vendors": ["vendor_a", "vendor_b"],
+                  "max_over_benchmark_pct": 10,
+                  "mode": "auto_under_cap"
+                },
+                "expires": "2026-12-31T23:59:59Z",
+                "nonce": "nonce-intent-sample-01",
+                "signature": {
+                  "kind": "es256",
+                  "payload": "valid-sig-payload"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Mandate registered successfully",
+            "content": {
+              "application/json": {
+                "example": {
+                  "id": "e4b10b02-53b4-4b53-b452-f41e05089301",
+                  "payload_hash": "a4b5c6d7e8f9...",
+                  "status": "active"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/mandates": {
+      "get": {
+        "tags": ["Mandates"],
+        "summary": "List Mandates",
+        "description": "Lists all registered Intent and Cart mandates, optionally filtered by status.",
+        "parameters": [
+          {
+            "name": "status",
+            "in": "query",
+            "schema": { "type": "string", "enum": ["active", "revoked", "expired", "used"] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of mandates"
+          }
+        }
+      }
+    },
+    "/v1/mandates/{id}/revoke": {
+      "post": {
+        "tags": ["Mandates"],
+        "summary": "Revoke a Mandate",
+        "description": "Immediately revokes an active mandate by ID or nonce and commits an audit entry to the hash chain.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "example": {
+                "reason": "Quarterly budget revised downwards"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Mandate revoked successfully"
+          }
+        }
+      }
+    },
+    "/v1/keys/{issuer}": {
+      "get": {
+        "tags": ["Mandates"],
+        "summary": "Get Issuer Public Key",
+        "description": "Returns the JWK formatted public key of a mandate issuer for signature verification.",
+        "parameters": [
+          {
+            "name": "issuer",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "JWK public key"
+          }
+        }
+      }
+    },
+    "/v1/proposals": {
+      "get": {
+        "tags": ["Proposals"],
+        "summary": "List Proposals for Approval Queue",
+        "description": "Lists generated purchase and cancellation proposals awaiting human review or auto-approval.",
+        "parameters": [
+          {
+            "name": "status",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": ["needs_approval", "auto_approved", "executed", "rejected"]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of proposals"
+          }
+        }
+      }
+    },
+    "/v1/proposals/{id}/approve": {
+      "post": {
+        "tags": ["Proposals"],
+        "summary": "Approve Proposal (WebAuthn / Passkey)",
+        "description": "Approves an out-of-policy proposal with human manager signature. Executes on PayPal and commits to ledger.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "cart_mandate": {
+                  "type": "cart",
+                  "issuer": "alice@company.com",
+                  "parent": "parent-intent-id",
+                  "cart": {
+                    "vendor_id": "vendor_a",
+                    "sku": "LAP-14",
+                    "quantity": 2,
+                    "unit_price": 1450,
+                    "total": 2900,
+                    "currency": "USD",
+                    "quote_id": "quote-sample-01"
+                  },
+                  "nonce": "nonce-cart-01",
+                  "expires": "2026-12-31T23:59:59Z"
+                },
+                "signature": {
+                  "kind": "webauthn",
+                  "payload": {
+                    "authenticatorData": "SZYN5YgOjGh0NBcPZHZgW4...",
+                    "clientDataJSON": "eyJjaGFsbGVuZ2UiOiJjYXJ0LWhhc2gtMTIzNCJ9",
+                    "signature": "MEUCIQCv3bW5gP..."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Proposal approved and order executed on PayPal"
+          }
+        }
+      }
+    },
+    "/v1/proposals/{id}/reject": {
+      "post": {
+        "tags": ["Proposals"],
+        "summary": "Reject Proposal",
+        "description": "Rejects an out-of-policy proposal from the queue.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "example": {
+                "reason": "Sufficient inventory available in local stock"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Proposal rejected"
+          }
+        }
+      }
+    },
+    "/v1/orders/{id}/proof-pack": {
+      "get": {
+        "tags": ["Orders"],
+        "summary": "Retrieve Cryptographic ProofPack",
+        "description": "Returns the self-contained cryptographic ProofPack bundling mandate, vendor quote, ledger hash, and PayPal reference.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "ProofPack JSON payload"
+          }
+        }
+      }
+    },
+    "/v1/ledger": {
+      "get": {
+        "tags": ["Ledger"],
+        "summary": "Audit Ledger entries (SHA-256 hash chain)",
+        "description": "Queries the immutable append-only ledger entries.",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": { "type": "integer", "default": 50 }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ordered array of ledger blocks"
+          }
+        }
+      }
+    },
+    "/v1/dashboard/studio": {
+      "get": {
+        "tags": ["Dashboard"],
+        "summary": "Next.js Dashboard Overview Metrics",
+        "description": "Provides aggregated metrics for the AG Studio dashboard: spend, savings, queue count, and breaker status.",
+        "responses": {
+          "200": {
+            "description": "Dashboard summary statistics",
+            "content": {
+              "application/json": {
+                "example": {
+                  "total_spend": 12500,
+                  "total_savings": 2437.46,
+                  "pending_proposals_count": 3,
+                  "ledger_entries_count": 14,
+                  "breaker_state": "closed"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/dashboard/backtest": {
+      "get": {
+        "tags": ["Dashboard"],
+        "summary": "90-Day Backtest Replay Metrics",
+        "description": "Returns 13-week synthetic historical replay comparing human spend vs autonomous negotiation savings.",
+        "responses": {
+          "200": {
+            "description": "Backtest metrics and savings breakdown"
+          }
+        }
+      }
+    },
+    "/v1/dashboard/stream": {
+      "get": {
+        "tags": ["Dashboard"],
+        "summary": "Server-Sent Events (SSE) Live Stream",
+        "description": "Live push stream emitting proposals, ledger updates, and circuit breaker events.",
+        "responses": {
+          "200": {
+            "description": "SSE text/event-stream"
+          }
+        }
+      }
+    },
+    "/v1/safety/breaker": {
+      "get": {
+        "tags": ["Safety"],
+        "summary": "Circuit Breaker & Rolling Velocity Metrics",
+        "description": "Returns circuit breaker status and 1-hour rolling metrics (max 3 orders, max $3000 spend).",
+        "responses": {
+          "200": {
+            "description": "Circuit breaker status",
+            "content": {
+              "application/json": {
+                "example": {
+                  "circuit_breaker": {
+                    "state": "closed",
+                    "last_tripped": null,
+                    "rules": {
+                      "max_orders_per_hour": 3,
+                      "max_spend_per_hour": 3000,
+                      "over_benchmark_pct": 10
+                    },
+                    "rolling_metrics": {
+                      "orders_last_hour": 1,
+                      "spend_last_hour": 25.0
+                    }
+                  },
+                  "kill_switch_active": false
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/safety/kill-switch": {
+      "post": {
+        "tags": ["Safety"],
+        "summary": "Emergency Kill Switch",
+        "description": "Emergency command to trip circuit breaker, halt all autonomous runs, and revoke all active mandates.",
+        "responses": {
+          "200": {
+            "description": "Kill switch engaged",
+            "content": {
+              "application/json": {
+                "example": {
+                  "status": "halted",
+                  "kill_switch_active": true,
+                  "circuit_breaker_open": true,
+                  "revoked_mandates_count": 5,
+                  "message": "Kill switch engaged. All active mandates revoked and autonomous runs halted."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/runs": {
+      "post": {
+        "tags": ["Workflows"],
+        "summary": "Trigger Autonomous Procurement Run",
+        "description": "Initiates the 5-stage autonomous procurement pipeline.",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "example": {
+                "trigger": "manual_dashboard",
+                "policy_override": {
+                  "max_unit_price": 1800,
+                  "monthly_cap": 50000
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "202": {
+            "description": "Workflow execution started"
+          }
+        }
+      },
+      "get": {
+        "tags": ["Workflows"],
+        "summary": "List Workflow Runs",
+        "description": "Lists historical execution runs and their metrics.",
+        "responses": {
+          "200": {
+            "description": "Array of run summaries"
+          }
+        }
+      }
+    },
+    "/v1/backtest": {
+      "post": {
+        "tags": ["Workflows"],
+        "summary": "Trigger Historical Backtest Replay",
+        "description": "Replays 90-day synthetic purchasing history against current policy.",
+        "responses": {
+          "200": {
+            "description": "Backtest results"
+          }
+        }
+      }
+    },
+    "/webhooks/paypal": {
+      "post": {
+        "tags": ["Webhooks"],
+        "summary": "PayPal Webhook Event Listener",
+        "description": "Ingests incoming PayPal webhook events and records them idempotently on the ledger.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "id": "WH-LIVE-TEST-12345",
+                "event_type": "CHECKOUT.ORDER.APPROVED",
+                "resource": {
+                  "id": "8F4481489T627035K",
+                  "status": "APPROVED",
+                  "amount": {
+                    "currency_code": "USD",
+                    "value": "25.00"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Webhook received and ledger updated"
+          }
+        }
+      }
+    }
+  }
+}

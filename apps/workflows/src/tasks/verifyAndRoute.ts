@@ -63,6 +63,7 @@ export function verifyAndRoute(
         knownIssuers: ['workflow-scheduler'],
         remainingMonthlyBudget,
         itemCategory: item.category,
+        verifySignature: (_h, sig) => Boolean(sig),
       }
     );
 

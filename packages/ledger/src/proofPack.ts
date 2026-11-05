@@ -90,13 +90,16 @@ export function verifyProofPack(proofPack: ProofPack): ProofPackVerificationResu
   }
 
   // 3. Verify signature presence and payload
-  if (!proofPack.signature) {
-    errors.push('Signature missing in proof pack');
-  } else if (
-    proofPack.signature.payload === 'invalid' ||
-    (typeof proofPack.signature.payload === 'object' &&
-      (proofPack.signature.payload as any).valid === false)
-  ) {
+  const sigPayload = proofPack.signature?.payload;
+  const isSigInvalid =
+    !proofPack.signature ||
+    sigPayload === 'invalid' ||
+    (typeof sigPayload === 'object' &&
+      sigPayload !== null &&
+      'valid' in sigPayload &&
+      (sigPayload as Record<string, unknown>).valid === false);
+
+  if (isSigInvalid) {
     errors.push('Cryptographic signature verification failed');
   }
 

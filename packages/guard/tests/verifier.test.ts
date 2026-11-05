@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { canonicalize } from '../src/canonicalize.js';
-import { hashMandatePayload, hashCart } from '../src/hash.js';
+import { hashCart } from '../src/hash.js';
 import { verifyMandate } from '../src/verifier.js';
 import type { IntentMandate, CartMandate, Proposal } from '@rm/shared';
 
@@ -79,6 +79,13 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
     knownIssuers: ['manager-alice'],
     remainingMonthlyBudget: 4000,
     itemCategory: 'laptops',
+    verifySignature: (_hash: string, sig: unknown) => {
+      const p = (sig as { payload?: unknown })?.payload;
+      if (typeof p === 'object' && p !== null && 'valid' in p) {
+        return (p as { valid: boolean }).valid === true;
+      }
+      return true;
+    },
   };
 
   it('RULE 1: SIGNATURE_INVALID - fails when signature missing or invalid; passes when valid', () => {

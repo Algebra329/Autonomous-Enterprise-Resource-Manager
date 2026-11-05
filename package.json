@@ -13,18 +13,22 @@
     "typecheck": "pnpm -r --if-present typecheck",
     "test": "pnpm -r --if-present test",
     "test:channel3:live": "tsx scripts/test_live_channel3.ts",
+    "test:llm": "tsx scripts/test_llm_key.ts",
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "arena:run": "pnpm --filter @rm/arena run",
+    "arena:run": "tsx arena/runner.ts",
     "db:migrate": "pnpm --filter @rm/api db:migrate",
     "db:seed": "pnpm --filter @rm/api db:seed",
     "demo:reset": "pnpm --filter @rm/api demo:reset"
   },
   "devDependencies": {
     "@types/node": "^22.10.1",
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.0",
     "vitest": "^2.1.8"
   }
 }

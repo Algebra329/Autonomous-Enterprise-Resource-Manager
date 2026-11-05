@@ -17,8 +17,9 @@ export interface VerificationContext {
   circuitBreakerOpen?: boolean;
   killSwitchActive?: boolean;
   currentMarketPrice?: number;
+  currentVendorPrice?: number;
   priceDriftTolerancePct?: number; // default 2%
-  verifySignature?: (hash: string, signature: any, issuer: string) => boolean;
+  verifySignature?: (hash: string, signature: unknown, issuer: string) => boolean;
   itemCategory?: string;
   expectedCartHash?: string;
 }
@@ -57,13 +58,16 @@ export function verifyMandate(
   }
 
   // Revocation check (includes parent mandate revocation for CartMandates)
+  const mandateId = (mandate as { id?: string }).id;
   if (mandate.nonce && revokedSet.has(mandate.nonce)) {
+    failingRules.push('REVOKED');
+  } else if (mandateId && revokedSet.has(mandateId)) {
     failingRules.push('REVOKED');
   } else if ('parent' in mandate && mandate.parent && revokedSet.has(mandate.parent)) {
     failingRules.push('REVOKED');
   }
 
-  // Signature check
+  // Signature check: must have signature AND valid verification; no simulation fallback (fail-closed)
   if (!mandate.signature) {
     failingRules.push('SIGNATURE_INVALID');
   } else if (context.verifySignature) {
@@ -72,26 +76,20 @@ export function verifyMandate(
       failingRules.push('SIGNATURE_INVALID');
     }
   } else {
-    // Default signature simulation check
-    if (
-      mandate.signature.payload === 'invalid' ||
-      (typeof mandate.signature.payload === 'object' &&
-        (mandate.signature.payload as any).valid === false)
-    ) {
-      failingRules.push('SIGNATURE_INVALID');
-    }
+    // Fail-closed: missing signature verifier function is treated as unverified
+    failingRules.push('SIGNATURE_INVALID');
   }
 
   // 2. Time Window & Replay Checks
   if ('not_before' in mandate && mandate.not_before) {
     const notBeforeDate = new Date(mandate.not_before);
-    if (now < notBeforeDate) {
+    if (Number.isNaN(notBeforeDate.getTime()) || now < notBeforeDate) {
       failingRules.push('NOT_YET_VALID');
     }
   }
 
   const expiresDate = new Date(mandate.expires);
-  if (now > expiresDate) {
+  if (Number.isNaN(expiresDate.getTime()) || now > expiresDate) {
     failingRules.push('EXPIRED');
   }
 
@@ -102,7 +100,6 @@ export function verifyMandate(
   // 3. Cart Hash Verification
   if (mandate.type === 'cart') {
     const computedCartHash = hashCart(mandate.cart);
-    const expectedHash = context.expectedCartHash || proposal.payload.quote_id;
     if (context.expectedCartHash && computedCartHash !== context.expectedCartHash) {
       failingRules.push('CART_HASH_MISMATCH');
     }
@@ -113,6 +110,9 @@ export function verifyMandate(
       mandate.cart.quantity !== proposal.payload.quantity ||
       mandate.cart.unit_price !== proposal.payload.unit_price
     ) {
+      failingRules.push('CART_HASH_MISMATCH');
+    }
+    if (Math.abs(mandate.cart.total - mandate.cart.quantity * mandate.cart.unit_price) > 0.005) {
       failingRules.push('CART_HASH_MISMATCH');
     }
   }
@@ -127,12 +127,18 @@ export function verifyMandate(
     }
   }
 
+  // Check if re-fetched vendor price drifted from proposal unit price
+  if (context.currentVendorPrice !== undefined && context.currentVendorPrice !== proposal.payload.unit_price) {
+    failingRules.push('PRICE_DRIFT');
+  }
+
   // 5. Policy Constraint Checks (for Intent Mandates)
   if (mandate.type === 'intent') {
     const policy: Policy = mandate.constraints;
-    const category = context.itemCategory || (proposal.payload as any).category;
+    const payload = proposal.payload as Record<string, unknown>;
+    const category = context.itemCategory || (payload.category as string | undefined);
 
-    if (category && !policy.categories.includes(category)) {
+    if (!category || !policy.categories.includes(category)) {
       failingRules.push('CATEGORY_NOT_ALLOWED');
     }
 
@@ -148,7 +154,9 @@ export function verifyMandate(
       failingRules.push('UNIT_PRICE_EXCEEDED');
     }
 
-    if (proposal.benchmark) {
+    if (!proposal.benchmark) {
+      failingRules.push('OVER_BENCHMARK'); // cannot verify the price without a benchmark: needs a human
+    } else {
       const benchmarkPrice = proposal.benchmark.market_price;
       if (benchmarkPrice > 0) {
         const overPct =

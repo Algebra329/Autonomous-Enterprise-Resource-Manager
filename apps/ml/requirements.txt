@@ -5,3 +5,5 @@ joblib
 fastapi               # pin after your first successful install
 uvicorn[standard]     # pin after your first successful install
 pydantic>=2
+pytest
+

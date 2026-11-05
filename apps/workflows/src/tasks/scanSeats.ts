@@ -35,7 +35,22 @@ export async function scanSeats(
     path.resolve(__dirname, '../../../../seed/seats.json'),
   ];
 
-  let saasApps: any[] = [];
+  interface RawSaasApp {
+    id: string;
+    subscription_id: string;
+    app: string;
+    vendor_id: string;
+    monthly_cost: number;
+    seat_count?: number;
+  }
+
+  interface RawSeat {
+    id: string;
+    subscription_id: string;
+    last_active_at?: string;
+  }
+
+  let saasApps: RawSaasApp[] = [];
   for (const p of saasCandidates) {
     if (fs.existsSync(p)) {
       saasApps = JSON.parse(fs.readFileSync(p, 'utf8'));
@@ -43,7 +58,7 @@ export async function scanSeats(
     }
   }
 
-  let seats: any[] = [];
+  let seats: RawSeat[] = [];
   for (const p of seatsCandidates) {
     if (fs.existsSync(p)) {
       seats = JSON.parse(fs.readFileSync(p, 'utf8'));
@@ -52,7 +67,7 @@ export async function scanSeats(
   }
 
   // Group seats by subscription_id
-  const seatsBySub = new Map<string, any[]>();
+  const seatsBySub = new Map<string, RawSeat[]>();
   for (const st of seats) {
     const list = seatsBySub.get(st.subscription_id) || [];
     list.push(st);
@@ -64,6 +79,10 @@ export async function scanSeats(
     let idleCount = 0;
 
     for (const seat of subSeats) {
+      if (!seat.last_active_at) {
+        idleCount++;
+        continue;
+      }
       const lastActive = new Date(seat.last_active_at);
       const daysInactive = Math.floor((asOfDate.getTime() - lastActive.getTime()) / (1000 * 60 * 60 * 24));
       if (daysInactive >= idleDaysThreshold) {
