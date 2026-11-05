@@ -43,8 +43,17 @@ export async function buildApp() {
   return app;
 }
 
-// Start server if run directly
-if (import.meta.url === `file://${process.argv[1]?.replace(/\\/g, '/')}`) {
+// Start server when run directly (not during vitest test execution)
+const isDirectRun =
+  !process.env.VITEST &&
+  Boolean(
+    process.argv[1] &&
+      (import.meta.url.toLowerCase().includes(process.argv[1].replace(/\\/g, '/').toLowerCase()) ||
+        process.argv[1].endsWith('index.ts') ||
+        process.argv[1].endsWith('index.js'))
+  );
+
+if (isDirectRun) {
   const port = parseInt(process.env.PORT || '4000', 10);
   const host = process.env.HOST || '0.0.0.0';
 
