@@ -30,7 +30,7 @@ for p in a.pick:
     sku, qid = p.split("=")
     q = queries[qid]
     assert q["sku"] == sku, f"{qid} is a probe for {q['sku']}, not {sku}"
-    raw = HERE / "out" / "raw" / f"{qid}.json" if a.raw == str(HERE / "out" / "raw") else Path(a.raw) / f"{qid}.json"
+    raw = Path(a.raw) / f"{qid}.json"
     r = probe.analyse(q, json.loads(raw.read_text()), catalog)
     if not r["usable"]:
         sys.exit(f"{qid} ({sku}) is not usable (needs >= {probe.MIN_OFFERS} clean offers, has {r['n_offers_usable']}). Pick another query.")

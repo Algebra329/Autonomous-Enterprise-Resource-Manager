@@ -74,7 +74,7 @@ def novel(batch, types, seed):
                                         ("mild_inflation", 1.22, "MON-27", "monitors", "vendor_a")):
         for k in range(4):
             t = ts[rng.randrange(len(ts))] + timedelta(hours=rng.randint(1, 5), minutes=rng.randint(0, 59))
-            bench = round(rng.uniform(0.98, 1.02) * (1450 if cat == "laptops" else 420), 2)
+            bench = round(rng.uniform(0.98, 1.02) * data.G.CAT_BY_SKU[sku]["market_price"], 2)
             unit = round(bench * mult * rng.uniform(0.99, 1.01), 2)
             q = rng.choice([1, 2])
             batch.append({"id": f"nov-{kind}-{seed}-{k}", "ordered_at": t.strftime("%Y-%m-%dT%H:%M:%SZ"), "vendor_id": vendor, "sku": sku,
@@ -118,7 +118,7 @@ def eval_anomaly():
 # ------------------------------------------------------------------ price
 def eval_price(trials=3000):
     rng = np.random.default_rng(0)
-    skus = [1250, 1450, 1950, 230, 420, 240]
+    skus = [c["market_price"] for c in data.G.CATALOG]
     err = defaultdict(lambda: defaultdict(list)); tp = fp = fn = 0
     for _ in range(trials):
         true = float(rng.choice(skus)) * rng.uniform(0.97, 1.03)

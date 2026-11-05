@@ -27,10 +27,10 @@ from .common import InputError, MAX_PURCHASES, need, parse_ts
 DEFAULT_VENDORS = {
     "vendor_a": {"list_multiplier": {"laptops": 1.10, "monitors": 1.04, "accessories": 1.06},
                  "floor_multiplier": {"laptops": 1.00, "monitors": 0.98, "accessories": 1.00},
-                 "concession_rate": 0.40, "max_rounds": 3, "skus": ["LAP-13", "LAP-14", "LAP-16", "MON-24", "MON-27", "DOCK-TB"]},
+                 "concession_rate": 0.40, "max_rounds": 3, "skus": ["LAP-14", "LAP-16", "MON-24", "MON-27", "DOCK-TB"]},
     "vendor_b": {"list_multiplier": {"laptops": 1.02, "monitors": 0.95, "accessories": 0.97},
                  "floor_multiplier": {"laptops": 1.00, "monitors": 0.94, "accessories": 0.96},
-                 "concession_rate": 0.10, "max_rounds": 3, "skus": ["LAP-13", "LAP-14", "MON-24", "MON-27", "DOCK-TB"]},
+                 "concession_rate": 0.10, "max_rounds": 3, "skus": ["LAP-14", "MON-24", "MON-27", "DOCK-TB"]},
 }
 DEFAULT_BREAKER = {"max_orders_per_hour": 10, "max_spend_per_hour": 5000, "cooldown_minutes": 60}
 POLICY_FIELDS = ("categories", "max_unit_price", "monthly_cap", "currency", "approved_vendors", "max_over_benchmark_pct", "mode")

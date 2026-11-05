@@ -127,44 +127,44 @@
           "too_good_to_be_true": "0/5",
           "velocity_burst": "0/25"
         },
-        "auroc": 0.663
+        "auroc": 0.674
       },
       "hand_written_rules": {
-        "precision": 0.93,
-        "recall": 0.964,
-        "f1": 0.946,
-        "tp": 53,
-        "fp": 4,
-        "fn": 2,
+        "precision": 0.948,
+        "recall": 1.0,
+        "f1": 0.973,
+        "tp": 55,
+        "fp": 3,
+        "fn": 0,
         "recall_by_type": {
           "cap_structuring": "25/25",
           "currency_mismatch": "5/5",
           "duplicate_order": "5/5",
           "first_time_vendor": "5/5",
           "price_inflation": "10/10",
-          "quantity_outlier": "3/5",
+          "quantity_outlier": "5/5",
           "too_good_to_be_true": "5/5",
           "velocity_burst": "25/25"
         }
       },
       "isolation_forest": {
-        "precision": 0.93,
-        "recall": 0.964,
-        "f1": 0.946,
-        "tp": 53,
-        "fp": 4,
-        "fn": 2,
+        "precision": 0.902,
+        "recall": 1.0,
+        "f1": 0.948,
+        "tp": 55,
+        "fp": 6,
+        "fn": 0,
         "recall_by_type": {
           "cap_structuring": "25/25",
           "currency_mismatch": "5/5",
           "duplicate_order": "5/5",
           "first_time_vendor": "5/5",
           "price_inflation": "10/10",
-          "quantity_outlier": "3/5",
+          "quantity_outlier": "5/5",
           "too_good_to_be_true": "5/5",
           "velocity_burst": "25/25"
         },
-        "auroc": 0.987
+        "auroc": 0.994
       }
     },
     "with_novel_types": {
@@ -190,15 +190,15 @@
           "underpriced_known_vendor": "0/20",
           "velocity_burst": "0/25"
         },
-        "auroc": 0.595
+        "auroc": 0.601
       },
       "hand_written_rules": {
-        "precision": 0.891,
-        "recall": 0.6,
-        "f1": 0.717,
-        "tp": 57,
-        "fp": 7,
-        "fn": 38,
+        "precision": 0.935,
+        "recall": 0.611,
+        "f1": 0.739,
+        "tp": 58,
+        "fp": 4,
+        "fn": 37,
         "recall_by_type": {
           "cap_structuring": "25/25",
           "currency_mismatch": "5/5",
@@ -208,30 +208,30 @@
           "price_inflation": "10/10",
           "quantity_outlier": "3/5",
           "too_good_to_be_true": "5/5",
-          "underpriced_known_vendor": "3/20",
+          "underpriced_known_vendor": "4/20",
           "velocity_burst": "25/25"
         }
       },
       "isolation_forest": {
-        "precision": 0.875,
-        "recall": 0.811,
-        "f1": 0.842,
-        "tp": 77,
-        "fp": 11,
-        "fn": 18,
+        "precision": 0.888,
+        "recall": 0.832,
+        "f1": 0.859,
+        "tp": 79,
+        "fp": 10,
+        "fn": 16,
         "recall_by_type": {
           "cap_structuring": "25/25",
           "currency_mismatch": "5/5",
           "duplicate_order": "5/5",
           "first_time_vendor": "5/5",
-          "mild_inflation": "4/20",
+          "mild_inflation": "6/20",
           "price_inflation": "10/10",
           "quantity_outlier": "3/5",
           "too_good_to_be_true": "5/5",
           "underpriced_known_vendor": "20/20",
           "velocity_burst": "25/25"
         },
-        "auroc": 0.952
+        "auroc": 0.968
       }
     }
   },

@@ -9,8 +9,8 @@
         "laptops",
         "monitors"
       ],
-      "max_unit_price": 1500,
-      "monthly_cap": 8000,
+      "max_unit_price": 1800,
+      "monthly_cap": 12000,
       "currency": "USD",
       "approved_vendors": [
         "vendor_a",
@@ -32,34 +32,34 @@
       "n_purchases": 35,
       "counts": {
         "auto_approved": 16,
-        "escalated": 16,
-        "blocked": 3,
+        "escalated": 14,
+        "blocked": 5,
         "observed": 0
       },
       "shares": {
         "auto_approved": 0.457,
-        "escalated": 0.457,
-        "blocked": 0.086,
+        "escalated": 0.4,
+        "blocked": 0.143,
         "observed": 0.0
       },
-      "realized_savings": 1198.53,
-      "potential_savings": 2437.46,
-      "realized_savings_pct_of_human_spend": 6.61,
-      "human_spend_total_usd": 49745.01,
-      "spend_held_by_breaker_usd": 6759.0,
+      "realized_savings": 1540.21,
+      "potential_savings": 2566.37,
+      "realized_savings_pct_of_human_spend": 6.78,
+      "human_spend_total_usd": 67894.04,
+      "spend_held_by_breaker_usd": 22624.8,
       "escalation_reasons": {
-        "UNIT_PRICE_EXCEEDED": 3,
-        "CATEGORY_NOT_ALLOWED": 4,
-        "MONTHLY_CAP_EXCEEDED": 10
+        "UNIT_PRICE_EXCEEDED": 2,
+        "CATEGORY_NOT_ALLOWED": 5,
+        "MONTHLY_CAP_EXCEEDED": 8
       },
       "negative_saving_purchases": 5,
       "excluded_non_usd": 1,
-      "top3_share_of_positive_savings": 0.388
+      "top3_share_of_positive_savings": 0.483
     },
     "weekly": [
       {
         "week": "2026-07-27",
-        "projected_savings": -21.0,
+        "projected_savings": -35.58,
         "potential_savings": 0.0,
         "auto_approved": 1,
         "escalated": 0,
@@ -78,7 +78,7 @@
       {
         "week": "2026-08-10",
         "projected_savings": 0.0,
-        "potential_savings": 792.81,
+        "potential_savings": 1207.95,
         "auto_approved": 0,
         "escalated": 2,
         "blocked": 0,
@@ -86,26 +86,26 @@
       },
       {
         "week": "2026-08-17",
-        "projected_savings": 318.5,
-        "potential_savings": 0.0,
-        "auto_approved": 2,
-        "escalated": 0,
+        "projected_savings": 325.58,
+        "potential_savings": 29.88,
+        "auto_approved": 1,
+        "escalated": 1,
         "blocked": 0,
         "observed": 0
       },
       {
         "week": "2026-08-24",
-        "projected_savings": 109.66,
-        "potential_savings": 504.08,
-        "auto_approved": 1,
-        "escalated": 4,
+        "projected_savings": 232.15,
+        "potential_savings": 439.99,
+        "auto_approved": 2,
+        "escalated": 3,
         "blocked": 2,
         "observed": 0
       },
       {
         "week": "2026-08-31",
-        "projected_savings": 44.82,
-        "potential_savings": 190.46,
+        "projected_savings": 74.68,
+        "potential_savings": 41.79,
         "auto_approved": 1,
         "escalated": 1,
         "blocked": 0,
@@ -122,25 +122,25 @@
       },
       {
         "week": "2026-09-14",
-        "projected_savings": 84.92,
+        "projected_savings": 0.0,
         "potential_savings": 0.0,
-        "auto_approved": 1,
+        "auto_approved": 0,
         "escalated": 0,
-        "blocked": 0,
+        "blocked": 1,
         "observed": 0
       },
       {
         "week": "2026-09-21",
-        "projected_savings": 116.73,
-        "potential_savings": -6.63,
-        "auto_approved": 2,
-        "escalated": 2,
+        "projected_savings": 165.58,
+        "potential_savings": -8.3,
+        "auto_approved": 3,
+        "escalated": 1,
         "blocked": 0,
         "observed": 0
       },
       {
         "week": "2026-09-28",
-        "projected_savings": -30.76,
+        "projected_savings": -104.92,
         "potential_savings": 0.0,
         "auto_approved": 2,
         "escalated": 0,
@@ -149,7 +149,7 @@
       },
       {
         "week": "2026-10-05",
-        "projected_savings": 110.78,
+        "projected_savings": 106.08,
         "potential_savings": 0.0,
         "auto_approved": 3,
         "escalated": 0,
@@ -158,8 +158,8 @@
       },
       {
         "week": "2026-10-12",
-        "projected_savings": 464.88,
-        "potential_savings": 18.6,
+        "projected_savings": 776.64,
+        "potential_savings": 23.28,
         "auto_approved": 3,
         "escalated": 2,
         "blocked": 0,
@@ -168,16 +168,16 @@
       {
         "week": "2026-10-19",
         "projected_savings": 0.0,
-        "potential_savings": 785.16,
+        "potential_savings": 489.65,
         "auto_approved": 0,
-        "escalated": 4,
-        "blocked": 0,
+        "escalated": 3,
+        "blocked": 1,
         "observed": 0
       },
       {
         "week": "2026-10-26",
         "projected_savings": 0.0,
-        "potential_savings": 152.98,
+        "potential_savings": 342.13,
         "auto_approved": 0,
         "escalated": 1,
         "blocked": 0,
@@ -193,12 +193,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 221.42,
+        "agent_unit_price": 375.43,
         "human_vendor": "vendor_b",
-        "human_unit_price": 210.92,
+        "human_unit_price": 357.64,
         "currency": "USD",
-        "saving": -21.0,
-        "human_total_usd": 421.84
+        "saving": -35.58,
+        "human_total_usd": 715.28
       },
       {
         "id": "f7c9b3f8-78d0-56ff-acdb-3907d096503e",
@@ -210,12 +210,12 @@
           "UNIT_PRICE_EXCEEDED"
         ],
         "agent_vendor": "vendor_a",
-        "agent_unit_price": 2013.98,
+        "agent_unit_price": 3077.25,
         "human_vendor": "vendor_a",
-        "human_unit_price": 2794.35,
+        "human_unit_price": 4269.62,
         "currency": "USD",
-        "saving": 780.37,
-        "human_total_usd": 2794.35
+        "saving": 1192.37,
+        "human_total_usd": 4269.62
       },
       {
         "id": "d60c44fc-58b2-5744-bfef-ab95633c0b7a",
@@ -227,27 +227,29 @@
           "CATEGORY_NOT_ALLOWED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 230.36,
+        "agent_unit_price": 288.42,
         "human_vendor": "vendor_b",
-        "human_unit_price": 236.58,
+        "human_unit_price": 296.21,
         "currency": "USD",
-        "saving": 12.44,
-        "human_total_usd": 473.16
+        "saving": 15.58,
+        "human_total_usd": 592.42
       },
       {
         "id": "7641449a-9f2a-503b-8d01-28d2de017bac",
         "ordered_at": "2026-08-17T13:02:11Z",
-        "sku": "MON-27",
-        "quantity": 1,
-        "verdict": "auto_approved",
-        "reasons": [],
+        "sku": "DOCK-TB",
+        "quantity": 2,
+        "verdict": "escalated",
+        "reasons": [
+          "CATEGORY_NOT_ALLOWED"
+        ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 396.09,
+        "agent_unit_price": 289.35,
         "human_vendor": "vendor_a",
-        "human_unit_price": 417.29,
+        "human_unit_price": 304.29,
         "currency": "USD",
-        "saving": 21.2,
-        "human_total_usd": 417.29
+        "saving": 29.88,
+        "human_total_usd": 608.58
       },
       {
         "id": "4ba62b87-b4d4-5e4b-915f-1e573f9b313d",
@@ -257,12 +259,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1454.16,
+        "agent_unit_price": 1592.55,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1602.81,
+        "human_unit_price": 1755.34,
         "currency": "USD",
-        "saving": 297.3,
-        "human_total_usd": 3205.62
+        "saving": 325.58,
+        "human_total_usd": 3510.68
       },
       {
         "id": "61e6df69-80fb-508f-b892-bd33dbdf1993",
@@ -272,29 +274,27 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1456.34,
+        "agent_unit_price": 1594.93,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1566.0,
+        "human_unit_price": 1715.03,
         "currency": "USD",
-        "saving": 109.66,
-        "human_total_usd": 1566.0
+        "saving": 120.1,
+        "human_total_usd": 1715.03
       },
       {
         "id": "e3052e7d-f825-5fcf-9806-85ad566d0a65",
         "ordered_at": "2026-08-24T13:15:31Z",
         "sku": "LAP-14",
         "quantity": 1,
-        "verdict": "escalated",
-        "reasons": [
-          "MONTHLY_CAP_EXCEEDED"
-        ],
+        "verdict": "auto_approved",
+        "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1463.68,
+        "agent_unit_price": 1602.98,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1566.0,
+        "human_unit_price": 1715.03,
         "currency": "USD",
-        "saving": 102.32,
-        "human_total_usd": 1566.0
+        "saving": 112.05,
+        "human_total_usd": 1715.03
       },
       {
         "id": "d4a33c31-fe08-54fa-9437-68ad3552e8c0",
@@ -306,12 +306,12 @@
           "MONTHLY_CAP_EXCEEDED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1456.83,
+        "agent_unit_price": 1595.47,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1566.0,
+        "human_unit_price": 1715.03,
         "currency": "USD",
-        "saving": 109.17,
-        "human_total_usd": 1566.0
+        "saving": 119.56,
+        "human_total_usd": 1715.03
       },
       {
         "id": "4fb060fd-f97a-57c6-9220-d10e79798640",
@@ -323,12 +323,12 @@
           "BREAKER_SPEND"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1458.27,
+        "agent_unit_price": 1597.04,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1566.0,
+        "human_unit_price": 1715.03,
         "currency": "USD",
         "saving": null,
-        "human_total_usd": 1566.0
+        "human_total_usd": 1715.03
       },
       {
         "id": "bba64c2c-e463-5e3e-875c-9c5d8c4a127f",
@@ -340,12 +340,12 @@
           "BREAKER_OPEN"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1469.22,
+        "agent_unit_price": 1609.04,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1566.0,
+        "human_unit_price": 1715.03,
         "currency": "USD",
         "saving": null,
-        "human_total_usd": 1566.0
+        "human_total_usd": 1715.03
       },
       {
         "id": "27520178-2820-556b-9c69-b450cf5b1df9",
@@ -357,12 +357,12 @@
           "MONTHLY_CAP_EXCEEDED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1475.14,
+        "agent_unit_price": 1615.53,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1644.04,
+        "human_unit_price": 1800.5,
         "currency": "USD",
-        "saving": 168.9,
-        "human_total_usd": 1644.04
+        "saving": 184.97,
+        "human_total_usd": 1800.5
       },
       {
         "id": "848f9fa8-8486-5987-a4cb-65c39022761d",
@@ -374,30 +374,29 @@
           "MONTHLY_CAP_EXCEEDED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1478.76,
+        "agent_unit_price": 1619.49,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1602.45,
+        "human_unit_price": 1754.95,
         "currency": "USD",
-        "saving": 123.69,
-        "human_total_usd": 1602.45
+        "saving": 135.46,
+        "human_total_usd": 1754.95
       },
       {
         "id": "937591a4-671c-5a9f-b7e0-f4cffecbec1e",
         "ordered_at": "2026-08-31T13:14:53Z",
-        "sku": "LAP-16",
+        "sku": "MON-24",
         "quantity": 1,
         "verdict": "escalated",
         "reasons": [
-          "UNIT_PRICE_EXCEEDED",
           "MONTHLY_CAP_EXCEEDED"
         ],
-        "agent_vendor": "vendor_a",
-        "agent_unit_price": 2045.71,
+        "agent_vendor": "vendor_b",
+        "agent_unit_price": 375.17,
         "human_vendor": "vendor_a",
-        "human_unit_price": 2236.17,
+        "human_unit_price": 416.96,
         "currency": "USD",
-        "saving": 190.46,
-        "human_total_usd": 2236.17
+        "saving": 41.79,
+        "human_total_usd": 416.96
       },
       {
         "id": "0b35f474-a8a8-52b4-b97a-d79a3a696886",
@@ -407,41 +406,41 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 395.52,
+        "agent_unit_price": 659.19,
         "human_vendor": "vendor_a",
-        "human_unit_price": 440.34,
+        "human_unit_price": 733.87,
         "currency": "USD",
-        "saving": 44.82,
-        "human_total_usd": 440.34
+        "saving": 74.68,
+        "human_total_usd": 733.87
       },
       {
         "id": "d17e735e-6171-5669-b0f5-cfecf541ecd9",
         "ordered_at": "2026-09-17T09:36:41Z",
-        "sku": "LAP-13",
+        "sku": "LAP-16",
         "quantity": 2,
-        "verdict": "auto_approved",
-        "reasons": [],
-        "agent_vendor": "vendor_b",
-        "agent_unit_price": 1286.13,
+        "verdict": "blocked",
+        "reasons": [
+          "BREAKER_SPEND"
+        ],
+        "agent_vendor": "vendor_a",
+        "agent_unit_price": 3061.7,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1328.59,
+        "human_unit_price": 3141.04,
         "currency": "USD",
-        "saving": 84.92,
-        "human_total_usd": 2657.18
+        "saving": null,
+        "human_total_usd": 6282.08
       },
       {
         "id": "14454ccd-9780-598e-b341-74429b3d956b",
         "ordered_at": "2026-09-23T12:53:08Z",
         "sku": "LAP-14",
         "quantity": 1,
-        "verdict": "escalated",
-        "reasons": [
-          "UNIT_PRICE_EXCEEDED"
-        ],
+        "verdict": "auto_approved",
+        "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1504.69,
+        "agent_unit_price": 1647.88,
         "human_vendor": "vendor_b",
-        "human_unit_price": 1986.5,
+        "human_unit_price": 2175.55,
         "currency": "CAD",
         "saving": null,
         "human_total_usd": null
@@ -449,17 +448,17 @@
       {
         "id": "869c744c-6f9b-53d2-a717-7391ff2772e7",
         "ordered_at": "2026-09-24T10:46:27Z",
-        "sku": "LAP-13",
+        "sku": "LAP-14",
         "quantity": 1,
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1307.65,
+        "agent_unit_price": 1658.82,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1380.4,
+        "human_unit_price": 1751.1,
         "currency": "USD",
-        "saving": 72.75,
-        "human_total_usd": 1380.4
+        "saving": 92.28,
+        "human_total_usd": 1751.1
       },
       {
         "id": "9c963ce2-867c-5070-80dc-18bb12a98cb2",
@@ -469,12 +468,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 398.61,
+        "agent_unit_price": 664.34,
         "human_vendor": "vendor_a",
-        "human_unit_price": 420.6,
+        "human_unit_price": 700.99,
         "currency": "USD",
-        "saving": 43.98,
-        "human_total_usd": 841.2
+        "saving": 73.3,
+        "human_total_usd": 1401.98
       },
       {
         "id": "d1eef414-c3c4-59b9-bee2-1c940d8f7c53",
@@ -486,27 +485,27 @@
           "CATEGORY_NOT_ALLOWED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 234.04,
+        "agent_unit_price": 293.03,
         "human_vendor": "vendor_b",
-        "human_unit_price": 227.41,
+        "human_unit_price": 284.73,
         "currency": "USD",
-        "saving": -6.63,
-        "human_total_usd": 227.41
+        "saving": -8.3,
+        "human_total_usd": 284.73
       },
       {
         "id": "69673a84-127d-52cf-b6f7-79a5030587dc",
         "ordered_at": "2026-09-30T15:45:07Z",
-        "sku": "MON-24",
+        "sku": "MON-27",
         "quantity": 3,
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 214.02,
+        "agent_unit_price": 671.26,
         "human_vendor": "vendor_b",
-        "human_unit_price": 201.82,
+        "human_unit_price": 632.99,
         "currency": "USD",
-        "saving": -36.6,
-        "human_total_usd": 605.46
+        "saving": -114.81,
+        "human_total_usd": 1898.97
       },
       {
         "id": "a866aa0f-2b46-50d0-bffc-64c345847716",
@@ -516,12 +515,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 216.89,
+        "agent_unit_price": 367.76,
         "human_vendor": "vendor_a",
-        "human_unit_price": 222.73,
+        "human_unit_price": 377.65,
         "currency": "USD",
-        "saving": 5.84,
-        "human_total_usd": 222.73
+        "saving": 9.89,
+        "human_total_usd": 377.65
       },
       {
         "id": "fdb35859-ef75-5f54-98f5-92cf561763fc",
@@ -531,12 +530,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 409.43,
+        "agent_unit_price": 682.38,
         "human_vendor": "vendor_b",
-        "human_unit_price": 396.07,
+        "human_unit_price": 660.12,
         "currency": "USD",
-        "saving": -26.72,
-        "human_total_usd": 792.14
+        "saving": -44.52,
+        "human_total_usd": 1320.24
       },
       {
         "id": "8760f9cd-5e33-5870-8c9c-442746a9d4b4",
@@ -546,12 +545,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1472.31,
+        "agent_unit_price": 1612.42,
         "human_vendor": "vendor_b",
-        "human_unit_price": 1541.06,
+        "human_unit_price": 1687.72,
         "currency": "USD",
-        "saving": 68.75,
-        "human_total_usd": 1541.06
+        "saving": 75.3,
+        "human_total_usd": 1687.72
       },
       {
         "id": "80b6b569-4fa7-5e92-95bf-ba4fdad9e689",
@@ -561,12 +560,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1472.31,
+        "agent_unit_price": 1612.42,
         "human_vendor": "vendor_b",
-        "human_unit_price": 1541.06,
+        "human_unit_price": 1687.72,
         "currency": "USD",
-        "saving": 68.75,
-        "human_total_usd": 1541.06
+        "saving": 75.3,
+        "human_total_usd": 1687.72
       },
       {
         "id": "14390d2c-dc6d-5980-9304-a7c853b2c2ea",
@@ -578,12 +577,12 @@
           "BREAKER_SPEND"
         ],
         "agent_vendor": "vendor_a",
-        "agent_unit_price": 1947.23,
+        "agent_unit_price": 2975.26,
         "human_vendor": "vendor_x_unvetted",
-        "human_unit_price": 1209.0,
+        "human_unit_price": 1847.28,
         "currency": "USD",
         "saving": null,
-        "human_total_usd": 3627.0
+        "human_total_usd": 5541.84
       },
       {
         "id": "10ccd5b5-70bd-5051-b66a-667bc8f7c193",
@@ -593,12 +592,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 400.69,
+        "agent_unit_price": 667.81,
         "human_vendor": "vendor_a",
-        "human_unit_price": 436.04,
+        "human_unit_price": 726.73,
         "currency": "USD",
-        "saving": 70.7,
-        "human_total_usd": 872.08
+        "saving": 117.84,
+        "human_total_usd": 1453.46
       },
       {
         "id": "6a5bb6e7-4e7d-5fd1-99ec-1869e3d3ea52",
@@ -610,12 +609,12 @@
           "CATEGORY_NOT_ALLOWED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 239.43,
+        "agent_unit_price": 299.78,
         "human_vendor": "vendor_b",
-        "human_unit_price": 252.33,
+        "human_unit_price": 315.93,
         "currency": "USD",
-        "saving": 25.8,
-        "human_total_usd": 504.66
+        "saving": 32.3,
+        "human_total_usd": 631.86
       },
       {
         "id": "d6a14ed5-5344-5129-8664-70d1eb9916b3",
@@ -625,12 +624,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 215.07,
+        "agent_unit_price": 364.67,
         "human_vendor": "vendor_a",
-        "human_unit_price": 247.34,
+        "human_unit_price": 419.38,
         "currency": "USD",
-        "saving": 64.54,
-        "human_total_usd": 494.68
+        "saving": 109.42,
+        "human_total_usd": 838.76
       },
       {
         "id": "e708f543-7564-5a0f-bfd5-1901b075abec",
@@ -642,12 +641,12 @@
           "CATEGORY_NOT_ALLOWED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 236.02,
+        "agent_unit_price": 295.51,
         "human_vendor": "vendor_b",
-        "human_unit_price": 228.82,
+        "human_unit_price": 286.49,
         "currency": "USD",
-        "saving": -7.2,
-        "human_total_usd": 228.82
+        "saving": -9.02,
+        "human_total_usd": 286.49
       },
       {
         "id": "c2db657e-e1bb-5f26-ab9c-7c11aebebd16",
@@ -657,12 +656,12 @@
         "verdict": "auto_approved",
         "reasons": [],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 408.41,
+        "agent_unit_price": 680.68,
         "human_vendor": "vendor_b",
-        "human_unit_price": 573.23,
+        "human_unit_price": 955.37,
         "currency": "USD",
-        "saving": 329.64,
-        "human_total_usd": 1146.46
+        "saving": 549.38,
+        "human_total_usd": 1910.74
       },
       {
         "id": "13a6cd69-446e-578a-bbe9-48834b449efc",
@@ -674,29 +673,29 @@
           "MONTHLY_CAP_EXCEEDED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1443.99,
+        "agent_unit_price": 1581.42,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1520.32,
+        "human_unit_price": 1665.01,
         "currency": "USD",
-        "saving": 152.66,
-        "human_total_usd": 3040.64
+        "saving": 167.18,
+        "human_total_usd": 3330.02
       },
       {
         "id": "14101e63-59fb-5327-b091-79c06ded3873",
         "ordered_at": "2026-10-21T16:11:21Z",
         "sku": "MON-24",
         "quantity": 18,
-        "verdict": "escalated",
+        "verdict": "blocked",
         "reasons": [
-          "MONTHLY_CAP_EXCEEDED"
+          "BREAKER_SPEND"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 222.72,
+        "agent_unit_price": 377.64,
         "human_vendor": "vendor_a",
-        "human_unit_price": 241.5,
+        "human_unit_price": 409.49,
         "currency": "USD",
-        "saving": 338.04,
-        "human_total_usd": 4347.0
+        "saving": null,
+        "human_total_usd": 7370.82
       },
       {
         "id": "698caf75-31c2-548c-9d04-fc1686db7371",
@@ -708,12 +707,12 @@
           "MONTHLY_CAP_EXCEEDED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1442.08,
+        "agent_unit_price": 1579.33,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1584.73,
+        "human_unit_price": 1735.54,
         "currency": "USD",
-        "saving": 142.65,
-        "human_total_usd": 1584.73
+        "saving": 156.21,
+        "human_total_usd": 1735.54
       },
       {
         "id": "cb5ac02d-fdae-526b-aa91-0c9362fd3acf",
@@ -725,174 +724,175 @@
           "MONTHLY_CAP_EXCEEDED"
         ],
         "agent_vendor": "vendor_b",
-        "agent_unit_price": 1454.7,
+        "agent_unit_price": 1593.13,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1606.51,
+        "human_unit_price": 1759.39,
         "currency": "USD",
-        "saving": 151.81,
-        "human_total_usd": 1606.51
+        "saving": 166.26,
+        "human_total_usd": 1759.39
       },
       {
         "id": "90dec036-c6b0-599a-b57b-2c16cb110511",
         "ordered_at": "2026-10-26T13:47:42Z",
-        "sku": "LAP-13",
+        "sku": "LAP-16",
         "quantity": 1,
         "verdict": "escalated",
         "reasons": [
+          "UNIT_PRICE_EXCEEDED",
           "MONTHLY_CAP_EXCEEDED"
         ],
-        "agent_vendor": "vendor_b",
-        "agent_unit_price": 1265.55,
+        "agent_vendor": "vendor_a",
+        "agent_unit_price": 3022.79,
         "human_vendor": "vendor_a",
-        "human_unit_price": 1418.53,
+        "human_unit_price": 3364.92,
         "currency": "USD",
-        "saving": 152.98,
-        "human_total_usd": 1418.53
+        "saving": 342.13,
+        "human_total_usd": 3364.92
       }
     ],
     "savings_decomposition": {
-      "realized_with_negotiation": 1198.53,
-      "realized_list_price_only": 1138.76,
+      "realized_with_negotiation": 1540.21,
+      "realized_list_price_only": 1480.03,
       "note": "list_price_only = pick the cheaper approved vendor, no counter-offers"
     },
     "sensitivity": {
       "policy_grid": [
         {
-          "monthly_cap": 4000.0,
-          "max_unit_price": 1500.0,
-          "auto_share": 0.229,
-          "escalated_share": 0.686,
-          "blocked_share": 0.086,
-          "realized_savings": 246.56
-        },
-        {
-          "monthly_cap": 4000.0,
+          "monthly_cap": 6000.0,
           "max_unit_price": 1800.0,
-          "auto_share": 0.229,
-          "escalated_share": 0.686,
-          "blocked_share": 0.086,
-          "realized_savings": 246.56
-        },
-        {
-          "monthly_cap": 4000.0,
-          "max_unit_price": 2250.0,
           "auto_share": 0.257,
-          "escalated_share": 0.657,
-          "blocked_share": 0.086,
-          "realized_savings": 1026.93
+          "escalated_share": 0.6,
+          "blocked_share": 0.143,
+          "realized_savings": 320.65
         },
         {
-          "monthly_cap": 8000.0,
-          "max_unit_price": 1500.0,
+          "monthly_cap": 6000.0,
+          "max_unit_price": 2160.0,
+          "auto_share": 0.257,
+          "escalated_share": 0.6,
+          "blocked_share": 0.143,
+          "realized_savings": 320.65
+        },
+        {
+          "monthly_cap": 6000.0,
+          "max_unit_price": 2700.0,
+          "auto_share": 0.257,
+          "escalated_share": 0.6,
+          "blocked_share": 0.143,
+          "realized_savings": 320.65
+        },
+        {
+          "monthly_cap": 12000.0,
+          "max_unit_price": 1800.0,
           "auto_share": 0.457,
-          "escalated_share": 0.457,
-          "blocked_share": 0.086,
-          "realized_savings": 1198.53
-        },
-        {
-          "monthly_cap": 8000.0,
-          "max_unit_price": 1800.0,
-          "auto_share": 0.486,
-          "escalated_share": 0.429,
-          "blocked_share": 0.086,
-          "realized_savings": 1198.53
-        },
-        {
-          "monthly_cap": 8000.0,
-          "max_unit_price": 2250.0,
-          "auto_share": 0.514,
           "escalated_share": 0.4,
-          "blocked_share": 0.086,
-          "realized_savings": 1978.9
+          "blocked_share": 0.143,
+          "realized_savings": 1540.21
         },
         {
           "monthly_cap": 12000.0,
-          "max_unit_price": 1500.0,
-          "auto_share": 0.571,
-          "escalated_share": 0.343,
-          "blocked_share": 0.086,
-          "realized_savings": 1731.58
+          "max_unit_price": 2160.0,
+          "auto_share": 0.457,
+          "escalated_share": 0.4,
+          "blocked_share": 0.143,
+          "realized_savings": 1540.21
         },
         {
           "monthly_cap": 12000.0,
+          "max_unit_price": 2700.0,
+          "auto_share": 0.457,
+          "escalated_share": 0.4,
+          "blocked_share": 0.143,
+          "realized_savings": 1540.21
+        },
+        {
+          "monthly_cap": 18000.0,
           "max_unit_price": 1800.0,
-          "auto_share": 0.6,
-          "escalated_share": 0.314,
-          "blocked_share": 0.086,
-          "realized_savings": 1731.58
-        },
-        {
-          "monthly_cap": 12000.0,
-          "max_unit_price": 2250.0,
-          "auto_share": 0.629,
-          "escalated_share": 0.286,
-          "blocked_share": 0.086,
-          "realized_savings": 2511.95
-        },
-        {
-          "monthly_cap": 16000.0,
-          "max_unit_price": 1500.0,
           "auto_share": 0.657,
-          "escalated_share": 0.257,
-          "blocked_share": 0.086,
-          "realized_savings": 2335.96
-        },
-        {
-          "monthly_cap": 16000.0,
-          "max_unit_price": 1800.0,
-          "auto_share": 0.686,
-          "escalated_share": 0.229,
-          "blocked_share": 0.086,
-          "realized_savings": 2335.96
-        },
-        {
-          "monthly_cap": 16000.0,
-          "max_unit_price": 2250.0,
-          "auto_share": 0.743,
-          "escalated_share": 0.171,
-          "blocked_share": 0.086,
-          "realized_savings": 3306.79
-        },
-        {
-          "monthly_cap": 24000.0,
-          "max_unit_price": 1500.0,
-          "auto_share": 0.714,
           "escalated_share": 0.2,
-          "blocked_share": 0.086,
-          "realized_savings": 2640.75
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
+        },
+        {
+          "monthly_cap": 18000.0,
+          "max_unit_price": 2160.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
+        },
+        {
+          "monthly_cap": 18000.0,
+          "max_unit_price": 2700.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
         },
         {
           "monthly_cap": 24000.0,
           "max_unit_price": 1800.0,
-          "auto_share": 0.743,
-          "escalated_share": 0.171,
-          "blocked_share": 0.086,
-          "realized_savings": 2640.75
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
         },
         {
           "monthly_cap": 24000.0,
-          "max_unit_price": 2250.0,
-          "auto_share": 0.8,
-          "escalated_share": 0.114,
-          "blocked_share": 0.086,
-          "realized_savings": 3611.58
+          "max_unit_price": 2160.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
+        },
+        {
+          "monthly_cap": 24000.0,
+          "max_unit_price": 2700.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
+        },
+        {
+          "monthly_cap": 36000.0,
+          "max_unit_price": 1800.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
+        },
+        {
+          "monthly_cap": 36000.0,
+          "max_unit_price": 2160.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
+        },
+        {
+          "monthly_cap": 36000.0,
+          "max_unit_price": 2700.0,
+          "auto_share": 0.657,
+          "escalated_share": 0.2,
+          "blocked_share": 0.143,
+          "realized_savings": 2511.64
         }
       ],
       "negotiation_scenarios": [
         {
           "scenario": "list price only (no negotiation)",
-          "realized_savings": 1138.76,
-          "potential_savings": 2056.85
+          "realized_savings": 1480.03,
+          "potential_savings": 2038.61
         },
         {
           "scenario": "as configured",
-          "realized_savings": 1198.53,
-          "potential_savings": 2437.46
+          "realized_savings": 1540.21,
+          "potential_savings": 2566.37
         },
         {
           "scenario": "vendors twice as flexible",
-          "realized_savings": 1350.51,
-          "potential_savings": 2695.64
+          "realized_savings": 1693.24,
+          "potential_savings": 2842.21
         }
       ]
     }
@@ -915,8 +915,8 @@
       "SignFlow": 350.0,
       "TeamChat Pro": 262.5,
       "DocuHub": 228.0,
-      "PlanTrack": 210.0,
       "CodeVault": 210.0,
+      "PlanTrack": 210.0,
       "TimeKeep": 138.0
     },
     "eval_only_ground_truth_check": {
