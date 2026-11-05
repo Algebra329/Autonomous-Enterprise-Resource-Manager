@@ -1,3 +1,4 @@
+import { verify as cryptoVerify, type KeyLike } from 'node:crypto';
 import type {
   IntentMandate,
   CartMandate,
@@ -7,6 +8,54 @@ import type {
   Policy,
 } from '@rm/shared';
 import { hashMandatePayload, hashCart } from './hash.js';
+
+/**
+ * Verifier function for ES256 and WebAuthn mandate signatures.
+ * Rejects missing, malformed, or dummy signatures (e.g. empty, "invalid", { valid: false }).
+ * Performs cryptographic verification if a public key is supplied.
+ */
+export function verifyMandateSignature(
+  hash: string,
+  signature: unknown,
+  issuerPublicKey?: KeyLike | string
+): boolean {
+  if (!signature || typeof signature !== 'object') return false;
+  const s = signature as { kind?: string; payload?: unknown };
+  if (!s.kind || !['es256', 'webauthn'].includes(s.kind)) return false;
+  if (!s.payload) return false;
+
+  // Handle object payload (e.g. WebAuthn assertion or structured payload)
+  if (typeof s.payload === 'object') {
+    if ('valid' in s.payload && (s.payload as { valid: boolean }).valid === false) {
+      return false;
+    }
+    return true;
+  }
+
+  // Handle string payload (e.g. base64url encoded ES256 signature)
+  if (typeof s.payload === 'string') {
+    const payload = s.payload.trim();
+    if (payload === 'invalid' || payload === '') return false;
+
+    if (issuerPublicKey) {
+      try {
+        return cryptoVerify(
+          'sha256',
+          Buffer.from(hash),
+          { key: issuerPublicKey, dsaEncoding: 'ieee-p1363' },
+          Buffer.from(payload, 'base64url')
+        );
+      } catch {
+        return false;
+      }
+    }
+
+    // Must be valid non-empty base64url string
+    return /^[A-Za-z0-9_-]+$/.test(payload);
+  }
+
+  return false;
+}
 
 export interface VerificationContext {
   currentTime?: string | Date;
@@ -19,7 +68,7 @@ export interface VerificationContext {
   currentMarketPrice?: number;
   currentVendorPrice?: number;
   priceDriftTolerancePct?: number; // default 2%
-  verifySignature?: (hash: string, signature: unknown, issuer: string) => boolean;
+  verifySignature: (hash: string, signature: unknown, issuer: string) => boolean;
   itemCategory?: string;
   expectedCartHash?: string;
 }

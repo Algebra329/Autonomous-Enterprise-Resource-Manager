@@ -1,6 +1,6 @@
 import { randomUUID } from 'node:crypto';
 import type { Policy, Proposal } from '@rm/shared';
-import { verifyMandate } from '@rm/guard';
+import { verifyMandate, verifyMandateSignature } from '@rm/guard';
 import type { SourcedItem } from './sourceAndNegotiate.js';
 import type { IdleSubscriptionSummary } from './scanSeats.js';
 
@@ -63,7 +63,7 @@ export function verifyAndRoute(
         knownIssuers: ['workflow-scheduler'],
         remainingMonthlyBudget,
         itemCategory: item.category,
-        verifySignature: (_h, sig) => Boolean(sig),
+        verifySignature: (hash, sig) => verifyMandateSignature(hash, sig),
       }
     );
 

@@ -1,7 +1,7 @@
 import type { FastifyPluginAsync } from 'fastify';
 import { randomUUID } from 'node:crypto';
 import { ProposalApproveRequestSchema, ProposalRejectRequestSchema } from '@rm/shared';
-import { verifyMandate } from '@rm/guard';
+import { verifyMandate, verifyMandateSignature } from '@rm/guard';
 import { state, recordLedgerEntry } from '../services/state.js';
 
 export const proposalRoutes: FastifyPluginAsync = async (app) => {
@@ -47,7 +47,7 @@ export const proposalRoutes: FastifyPluginAsync = async (app) => {
       remainingMonthlyBudget: 50000,
       circuitBreakerOpen: state.circuitBreakerOpen,
       killSwitchActive: state.killSwitchActive,
-      verifySignature: (_h, sig) => Boolean(sig && typeof sig === 'object'),
+      verifySignature: (hash, sig) => verifyMandateSignature(hash, sig),
     });
 
     if (verdict.result === 'blocked') {

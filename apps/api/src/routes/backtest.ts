@@ -3,8 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 export const backtestRoutes: FastifyPluginAsync = async (app) => {
-  // POST /v1/backtest
-  app.post('/v1/backtest', async (req, reply) => {
+  const handleBacktest = async (req: any, reply: any) => {
     const mlUrl = process.env.ML_SERVICE_URL;
     const serviceToken = process.env.SERVICE_TOKEN;
 
@@ -50,6 +49,10 @@ export const backtestRoutes: FastifyPluginAsync = async (app) => {
     return reply.status(500).send({
       error: { code: 'BACKTEST_UNAVAILABLE', message: 'No backtest fixture or ML service available' },
     });
-  });
+  };
+
+  // Support both singular (/v1/backtest) and plural (/v1/backtests)
+  app.post('/v1/backtest', handleBacktest);
+  app.post('/v1/backtests', handleBacktest);
 };
 
