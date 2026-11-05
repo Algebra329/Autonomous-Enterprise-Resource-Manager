@@ -1,6 +1,6 @@
 import { randomUUID } from 'node:crypto';
 import type { Policy, Proposal } from '@rm/shared';
-import { verifyMandate } from '@rm/guard';
+import { verifyMandate, verifyMandateSignature } from '@rm/guard';
 import { AgentTools } from './tools.js';
 
 export interface HardwareNeed {
@@ -117,7 +117,7 @@ export async function generateProposals(
         knownIssuers: ['manager-agent'],
         remainingMonthlyBudget,
         itemCategory: item.category,
-        verifySignature: (_h, sig) => Boolean(sig),
+        verifySignature: (hash, sig) => verifyMandateSignature(hash, sig),
       }
     );
 

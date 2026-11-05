@@ -59,3 +59,5 @@ arena/out/
 # local agent rules
 antigravity.md
 .agents/
+docs/AUDIT_REPORT.md
+*audit*.md

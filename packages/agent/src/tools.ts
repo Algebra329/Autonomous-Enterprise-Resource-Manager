@@ -11,6 +11,15 @@ export const VENDOR_CATALOG: Record<string, { price_a: number; price_b: number; 
   'DOCK-TB': { price_a: 240, price_b: 250, title: 'Thunderbolt Dock' },
 };
 
+// Anchored benchmark search queries from seed/catalog.json (Spec E)
+export const SKU_BENCHMARK_QUERIES: Record<string, string> = {
+  'LAP-14': 'Lenovo ThinkPad T14 Gen 5',
+  'LAP-16': 'MacBook Pro 16 inch',
+  'MON-24': 'HP E24 G5 monitor',
+  'MON-27': '27 inch 4K USB-C monitor',
+  'DOCK-TB': 'Lenovo ThinkPad Thunderbolt 4 dock',
+};
+
 export class AgentTools {
   private channel3: Channel3Client;
 
@@ -19,12 +28,14 @@ export class AgentTools {
   }
 
   /**
-   * Tool 1: channel3_search - Query Channel3 price benchmarks
+   * Tool 1: channel3_search - Query Channel3 price benchmarks.
+   * Automatically resolves SKU names to official benchmark queries (Spec E).
    */
-  async channel3_search(query: string) {
+  async channel3_search(queryOrSku: string) {
+    const query = SKU_BENCHMARK_QUERIES[queryOrSku.toUpperCase()] || queryOrSku;
     const res = await this.channel3.search(query);
     return {
-      sku: res.sku,
+      sku: res.sku || queryOrSku,
       title: res.title,
       market_price: res.medianPrice || res.bestPrice,
       currency: res.currency,
