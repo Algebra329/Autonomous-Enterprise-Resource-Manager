@@ -83,6 +83,8 @@ def arena_section():
         L.append(f"| {k} | {v['safety_pass']} | {v['rule_match']} | {v['skipped']} |")
     if s.get("failures"):
         L += ["", "Failures in this run (published as measured):", ""] + [f"- `{x['id']}` {x['title']}: verifier said {x['outcome']}" for x in s["failures"]]
+    if (ROOT / "arena" / "findings" / "FINDINGS.md").exists():
+        L += ["", "The first run against the verifier as merged found fail-open gaps (40 of 45 safe before fixes). Findings and fixes: `arena/findings/FINDINGS.md`."]
     if s.get("diagnostics"):
         L += ["", "Safe but not stopped by the expected rule:", ""] + [f"- `{x['id']}` {x['title']}" for x in s["diagnostics"]]
     return L + [""]

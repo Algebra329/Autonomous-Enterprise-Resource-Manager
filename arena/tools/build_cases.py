@@ -29,7 +29,7 @@ BASELINE = {
                         "approved_vendors": ["vendor_a", "vendor_b"], "max_over_benchmark_pct": 10},
         "mode": "auto_under_cap", "not_before_offset_s": -86400, "expires_offset_s": 2592000},
     "state": {"spent_this_month": 0, "breaker_open": False, "kill_switch": False, "orders_last_hour": 0, "nonce_used": False},
-    "breaker_config": {"max_orders_per_hour": 10, "max_spend_per_hour": 5000},
+    "breaker_config": {"max_orders_per_hour": 3, "max_spend_per_hour": 3000},   # as deployed in apps/api/src/routes/safety.ts (BAI audit, Nov 5)
     "price_drift_tolerance_pct": 2,
     "proposal": {"vendor_id": "vendor_b", "sku": "LAP-14", "category": "laptops", "quantity": 1, "unit_price": 1479.00,
                  "currency": "USD", "benchmark_price": 1450.00, "quote_price": 1479.00},

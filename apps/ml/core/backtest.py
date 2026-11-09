@@ -135,7 +135,7 @@ def replay(policy, purchases, vendors=None, breaker=None, rounds=None, details=F
                     "agent_vendor": vendor, "agent_unit_price": round(agent_unit, 2), "human_vendor": p.get("vendor_id"),
                     "human_unit_price": human_unit, "currency": p.get("currency") or "USD",
                     "saving": None if saving is None else round(saving, 2), "human_total_usd": round(human_unit * qty, 2) if usd else None})
-    return summarize(out, pol, details)
+    return summarize(out, pol, details, br)
 
 
 def _week(ts):
@@ -143,7 +143,7 @@ def _week(ts):
     return (t - timedelta(days=t.weekday())).date()
 
 
-def summarize(res, pol, details):
+def summarize(res, pol, details, br=None):
     n = len(res)
     cnt = Counter(r["verdict"] for r in res)
     realized = round(sum(r["saving"] for r in res if r["verdict"] == "auto_approved" and r["saving"] is not None), 2)
@@ -176,7 +176,7 @@ def summarize(res, pol, details):
         "excluded_non_usd": sum(1 for r in res if r["human_total_usd"] is None),
         "top3_share_of_positive_savings": round(sum(pos[:3]) / sum(pos), 3) if pos else None,
     }
-    out = {"method": "replay_v1", "policy": pol, "assumptions": ASSUMPTIONS, "summary": summary, "weekly": weekly}
+    out = {"method": "replay_v1", "policy": pol, "breaker": br or DEFAULT_BREAKER, "assumptions": ASSUMPTIONS, "summary": summary, "weekly": weekly}
     if details:
         out["purchases"] = res
     return out

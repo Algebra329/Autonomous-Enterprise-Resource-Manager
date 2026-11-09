@@ -45,15 +45,19 @@ def seat_projection():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--policy")
+    ap.add_argument("--breaker-orders", type=int, help="max orders per hour (default 10; BAI deployed 3)")
+    ap.add_argument("--breaker-spend", type=float, help="max spend per hour in USD (default 5000; BAI deployed 3000)")
     ap.add_argument("--out", default=str(ROOT / "seed" / "backtest-demo.json"))
     a = ap.parse_args()
     pol = json.loads(Path(a.policy).read_text()) if a.policy else DEMO_POLICY
     hist = json.loads((ROOT / "seed" / "history-90d.json").read_text())
-    res = backtest({"policy": pol, "purchases": hist, "include_details": True})
+    br = {k: v for k, v in (("max_orders_per_hour", a.breaker_orders), ("max_spend_per_hour", a.breaker_spend)) if v is not None}
+    res = backtest({"policy": pol, "purchases": hist, "include_details": True, "breaker": br or None})
     out = {"generated_for": "seed/history-90d.json", "as_of": data.AS_OF.date().isoformat(),
            "synthetic": True, "backtest": res, "seat_pruning": seat_projection()}
     Path(a.out).write_text(json.dumps(out, indent=2) + "\n")
     s, sp = res["summary"], out["seat_pruning"]
+    print(f"breaker: {res['breaker']}")
     print(f"purchases: {s['counts']} | realized ${s['realized_savings']:,.2f} ({s['realized_savings_pct_of_human_spend']}% of human spend on those) | potential ${s['potential_savings']:,.2f}")
     print(f"decomposition: {res['savings_decomposition']['realized_list_price_only']} list-price-only vs {res['savings_decomposition']['realized_with_negotiation']} with negotiation")
     print(f"seats: flag {sp['seats_flagged']}/{sp['total_seats']} = ${sp['monthly_saving_if_all_flagged_cancelled']:,.2f}/month of ${sp['total_monthly_seat_spend']:,.2f}; wrongly flagged ${sp['eval_only_ground_truth_check']['wrongly_flagged_monthly_cost']}")

@@ -19,6 +19,11 @@
       "max_over_benchmark_pct": 10,
       "mode": "auto_under_cap"
     },
+    "breaker": {
+      "max_orders_per_hour": 10,
+      "max_spend_per_hour": 5000,
+      "cooldown_minutes": 60
+    },
     "assumptions": [
       "Replays demand (sku, quantity, date, benchmark), not the human's vendor or price choices.",
       "The agent buys from the cheapest approved vendor after up to max_rounds of counters at the benchmark price.",
@@ -915,8 +920,8 @@
       "SignFlow": 350.0,
       "TeamChat Pro": 262.5,
       "DocuHub": 228.0,
-      "CodeVault": 210.0,
       "PlanTrack": 210.0,
+      "CodeVault": 210.0,
       "TimeKeep": 138.0
     },
     "eval_only_ground_truth_check": {

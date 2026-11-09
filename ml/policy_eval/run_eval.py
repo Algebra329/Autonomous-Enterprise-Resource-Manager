@@ -39,9 +39,10 @@ def main():
     ap.add_argument("--prompt", default=str(HERE / "prompt_v1.txt"))
     ap.add_argument("--split", choices=["all", "dev", "test"], default="all")
     ap.add_argument("--out", default="responses.json")
+    ap.add_argument("--cases", default=str(HERE / "cases.json"), help="exam file (default: the 55-case exam)")
     ap.add_argument("--delay", type=float, default=0.0)
     a = ap.parse_args()
-    cases = [c for c in json.loads((HERE / "cases.json").read_text())["cases"] if a.split in ("all", c["split"])]
+    cases = [c for c in json.loads(Path(a.cases).read_text())["cases"] if a.split in ("all", c["split"])]
     system = Path(a.prompt).read_text()
     out = {}
     for i, c in enumerate(cases, 1):

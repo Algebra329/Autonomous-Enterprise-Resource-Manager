@@ -171,6 +171,7 @@ class Backtest(unittest.TestCase):
         r = handlers.handle_backtest({"policy": POL, "purchases": [P("h", "2026-07-06T10:00:00Z")]})
         self.assertIn("savings_decomposition", r)
         self.assertEqual(len(r["sensitivity"]["policy_grid"]), 15)
+        self.assertIn("max_orders_per_hour", r["breaker"])          # every result says which breaker produced it
 
 
 if __name__ == "__main__":

@@ -1,0 +1,49 @@
+--- a/packages/guard/src/verifier.ts
++++ b/packages/guard/src/verifier.ts
+@@ -83,7 +83,7 @@
+   }
+ 
+   // 2. Time Window & Replay Checks
+-  if ('not_before' in mandate && mandate.not_before) {
++  if ('not_before' in mandate && mandate.not_before !== undefined) {
+     const notBeforeDate = new Date(mandate.not_before);
+     if (Number.isNaN(notBeforeDate.getTime()) || now < notBeforeDate) {
+       failingRules.push('NOT_YET_VALID');
+@@ -121,11 +121,14 @@
+   }
+ 
+   // 4. Price Drift Check
+-  if (proposal.benchmark && context.currentMarketPrice !== undefined) {
++  const currentPrice = context.currentMarketPrice;
++  if (proposal.benchmark && currentPrice === undefined) {
++    failingRules.push('PRICE_DRIFT'); // market price was not re-fetched: drift cannot be verified
++  } else if (proposal.benchmark && currentPrice !== undefined) {
+     const originalPrice = proposal.benchmark.market_price;
+     const tolerance = context.priceDriftTolerancePct ?? 2;
+-    const diffPct = Math.abs((context.currentMarketPrice - originalPrice) / originalPrice) * 100;
+-    if (diffPct > tolerance) {
++    const diffPct = Math.abs((currentPrice - originalPrice) / originalPrice) * 100;
++    if (!(diffPct <= tolerance)) {
+       failingRules.push('PRICE_DRIFT');
+     }
+   }
+@@ -156,7 +159,9 @@
+     }
+     if (proposal.benchmark) {
+       const benchmarkPrice = proposal.benchmark.market_price;
+-      if (benchmarkPrice > 0) {
++      if (!(benchmarkPrice > 0) || !Number.isFinite(benchmarkPrice)) {
++        failingRules.push('OVER_BENCHMARK'); // unusable benchmark: cannot verify the price
++      } else {
+         const overPct =
+           ((proposal.payload.unit_price - benchmarkPrice) / benchmarkPrice) * 100;
+         if (overPct > policy.max_over_benchmark_pct) {
+@@ -167,7 +172,7 @@
+ 
+     // Monthly Cap Check
+     const orderTotal = proposal.payload.quantity * proposal.payload.unit_price;
+-    if (orderTotal > context.remainingMonthlyBudget) {
++    if (!Number.isFinite(context.remainingMonthlyBudget) || !(orderTotal <= context.remainingMonthlyBudget)) {
+       failingRules.push('MONTHLY_CAP_EXCEEDED');
+     }
+ 

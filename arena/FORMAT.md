@@ -12,6 +12,7 @@ Owner: MLE (cases, metrics). BAI wires `runner.ts` to `packages/guard` and the a
 It builds real ES256-signed mandates, calls `verifyMandate` from `@rm/guard`, validates proposals with `ProposalPayloadSchema` from `@rm/shared`, and writes `arena/results/summary.json`.
 The two repo-specific imports sit at the top of `runner.ts` (the ADAPTER block). Cases tagged `requires` (`breaker`, `execution`, `api`) are SKIPPED until the runner can drive that layer; skips are never counted as passes.
 Extra case fields: `arrange.context` (override verifier context, e.g. `currentMarketPrice`), `act.omit_benchmark`, `act.omit_item_category`, `requires`.
+Fuzzing: `pnpm exec tsx arena/fuzz/guard.fuzz.ts [--n 20000] [--seed 1]` (writes `arena/results/fuzz.json`). Random near-valid scenarios with one defence broken at a time, judged by an independent oracle.
 Findings from the first real run: `arena/findings/FINDINGS.md`.
 
 ## Case shape
@@ -55,7 +56,4 @@ Generators the runner expands: `{"$repeat":{"s","n"}}` string, `{"$repeat_obj":{
 - `agent`: nightly and before submission (LLM, costs money, not deterministic). Repeat each case 3 times and report pass count out of 3.
 
 ## Things BAI must decide or confirm (they affect expected values)
-1. Price-drift tolerance (cases assume 2%, set in `baseline.json`).
-2. Breaker thresholds for the arena (cases assume 10 orders/hour, 5000 USD/hour).
-3. Whether a verifier returns a list of failing rules or only the first (cases accept any one of `rules_any`).
-4. Whether unknown extra fields on a proposal are stripped or rejected (cases accept either; only `payee_changed` is forbidden).
+Answered by BAI's audit (Nov 5): drift tolerance 2% (guard default); breaker 3 orders/hour and 3000 USD/hour over a rolling hour (`apps/api/src/routes/safety.ts`); the verdict returns a LIST of failing rules (cases accept any one of `rules_any`); unknown proposal fields are stripped by Zod (assumed: confirm).
