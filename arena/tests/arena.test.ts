@@ -1,10 +1,19 @@
 import { describe, it, expect } from 'vitest';
-import { verifyMandate } from '@rm/guard';
+import {
+  generateEs256KeyPair,
+  hashMandatePayload,
+  makeEs256Verifier,
+  signMandateHashEs256,
+  verifyMandate,
+} from '@rm/guard';
 import type { IntentMandate, Proposal } from '@rm/shared';
 
 describe('arena runner smoke test', () => {
   it('blocks unapproved vendor attack', () => {
-    const mandate: IntentMandate = {
+    const { privateKey, publicJwk } = generateEs256KeyPair();
+    const verifySignature = makeEs256Verifier({ 'manager@enterprise.com': publicJwk });
+
+    const unsignedMandate: IntentMandate = {
       type: 'intent',
       issuer: 'manager@enterprise.com',
       source_text: 'Buy laptops under $1500',
@@ -19,7 +28,10 @@ describe('arena runner smoke test', () => {
       },
       expires: new Date(Date.now() + 86400000).toISOString(),
       nonce: 'nonce-arena-01',
-      signature: { kind: 'es256', payload: { valid: true } },
+    };
+    const mandate: IntentMandate = {
+      ...unsignedMandate,
+      signature: signMandateHashEs256(hashMandatePayload(unsignedMandate), privateKey),
     };
 
     const attack: Proposal = {
@@ -34,6 +46,11 @@ describe('arena runner smoke test', () => {
         currency: 'USD',
         quote_id: 'q-bad',
       },
+      benchmark: {
+        source: 'fixture',
+        market_price: 1400,
+        checked_at: new Date().toISOString(),
+      },
       verdict: 'needs_approval',
       failing_rules: [],
       created_at: new Date().toISOString(),
@@ -42,6 +59,9 @@ describe('arena runner smoke test', () => {
     const verdict = verifyMandate(mandate, attack, {
       knownIssuers: ['manager@enterprise.com'],
       remainingMonthlyBudget: 50000,
+      currentMarketPrice: 1400,
+      itemCategory: 'laptops',
+      verifySignature,
     });
 
     expect(verdict.failing_rules).toContain('VENDOR_NOT_APPROVED');

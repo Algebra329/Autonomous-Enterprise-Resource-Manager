@@ -1,6 +1,7 @@
 import Fastify from 'fastify';
 import cors from '@fastify/cors';
 import cookie from '@fastify/cookie';
+import { defaultChannel3 } from '@rm/channel3';
 import { healthRoutes } from './routes/health.js';
 import { policyRoutes } from './routes/policies.js';
 import { mandateRoutes } from './routes/mandates.js';
@@ -61,6 +62,10 @@ if (isDirectRun) {
     .then((app) => app.listen({ port, host }))
     .then((address) => {
       console.log(`[api] Autonomous Enterprise Resource Manager API listening on ${address}`);
+      void defaultChannel3
+        .prefetchAnchors()
+        .then(() => console.log('[api] Channel3 anchor benchmarks prefetched into cache'))
+        .catch((err) => console.warn('[api] Channel3 prefetch error:', err));
     })
     .catch((err) => {
       console.error('[api] Failed to start server:', err);

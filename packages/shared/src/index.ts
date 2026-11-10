@@ -60,8 +60,8 @@ export const IntentMandateSchema = z.object({
   issuer: z.string(),
   source_text: z.string(),
   constraints: PolicySchema,
-  not_before: z.string().optional(),
-  expires: z.string(),
+  not_before: z.string().datetime({ offset: true }).optional(),
+  expires: z.string().datetime({ offset: true }),
   nonce: z.string(),
   signature: SignatureSchema.optional(),
 });
@@ -96,8 +96,8 @@ export const CartMandateSchema = z.object({
   parent: z.string().optional(), // parent intent mandate id
   cart: CartSchema,
   nonce: z.string(),
-  not_before: z.string().optional(),
-  expires: z.string(),
+  not_before: z.string().datetime({ offset: true }).optional(),
+  expires: z.string().datetime({ offset: true }),
   signature: SignatureSchema.optional(),
 });
 export type CartMandate = z.infer<typeof CartMandateSchema>;
@@ -147,7 +147,7 @@ export type ProposalPayload = z.infer<typeof ProposalPayloadSchema>;
 
 export const ProposalBenchmarkSchema = z.object({
   source: z.string(),
-  market_price: z.number(),
+  market_price: z.number().positive(),
   checked_at: z.string(),
   title: z.string().optional(),
 });
@@ -309,6 +309,7 @@ export const PolicyCompileResponseSchema = z.object({
   policy: PolicySchema.nullable(),
   warnings: z.array(z.string()),
   questions: z.array(z.string()),
+  path: z.enum(['llm', 'fallback']).optional(),
 });
 export type PolicyCompileResponse = z.infer<typeof PolicyCompileResponseSchema>;
 

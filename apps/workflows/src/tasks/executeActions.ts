@@ -1,6 +1,9 @@
 import { randomUUID } from 'node:crypto';
-import type { Proposal, VendorQuote, ProofPack } from '@rm/shared';
+import type { IntentMandate, Proposal, VendorQuote, ProofPack } from '@rm/shared';
+import { generateEs256KeyPair, hashMandatePayload, signMandateHashEs256 } from '@rm/guard';
 import { buildProofPack, createLedgerEntry, GENESIS_PREV_HASH } from '@rm/ledger';
+
+const runtimeExecutionKeys = generateEs256KeyPair();
 
 export interface ExecutedOrder {
   order_id: string;
@@ -59,28 +62,38 @@ export function executePurchase(
     prev_hash: prevHash,
   });
 
+  // Build and sign execution mandate with ES256
+  const unsignedMandate: IntentMandate = {
+    type: 'intent',
+    issuer: 'workflow-scheduler',
+    source_text: 'Autonomous Scheduled Execution',
+    constraints: {
+      categories: ['laptops', 'monitors', 'accessories'],
+      max_unit_price: 2000,
+      monthly_cap: 50000,
+      currency: 'USD',
+      approved_vendors: ['vendor_a', 'vendor_b'],
+      max_over_benchmark_pct: 10,
+      mode: 'auto_under_cap',
+    },
+    expires: new Date(Date.now() + 86400000).toISOString(),
+    nonce: `nonce-${orderId}`,
+  };
+  const signature = signMandateHashEs256(
+    hashMandatePayload(unsignedMandate),
+    runtimeExecutionKeys.privateKey
+  );
+  const signedMandate: IntentMandate = {
+    ...unsignedMandate,
+    signature,
+  };
+
   // Build ProofPack
   const proofPack = buildProofPack({
     proposal_id: proposal.id,
     order_id: orderId,
-    mandate: {
-      type: 'intent',
-      issuer: 'workflow-scheduler',
-      source_text: 'Autonomous Scheduled Execution',
-      constraints: {
-        categories: ['laptops', 'monitors', 'accessories'],
-        max_unit_price: 2000,
-        monthly_cap: 50000,
-        currency: 'USD',
-        approved_vendors: ['vendor_a', 'vendor_b'],
-        max_over_benchmark_pct: 10,
-        mode: 'auto_under_cap',
-      },
-      expires: new Date(Date.now() + 86400000).toISOString(),
-      nonce: `nonce-${orderId}`,
-      signature: { kind: 'es256', payload: { valid: true } },
-    },
-    signature: { kind: 'es256', payload: { valid: true } },
+    mandate: signedMandate,
+    signature,
     vendor_quote: vendorQuote,
     ledger_hash: ledgerEntry.hash,
     prev_hash: prevHash,

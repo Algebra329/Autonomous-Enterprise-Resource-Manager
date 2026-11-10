@@ -15,6 +15,7 @@ export const policyRoutes: FastifyPluginAsync = async (app) => {
     }
 
     const compiled = await compilePolicy(parseResult.data.text);
+    reply.header('X-Compiler-Path', compiled.path);
     return reply.send(compiled);
   });
 };

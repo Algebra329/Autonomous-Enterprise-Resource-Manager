@@ -64,7 +64,7 @@ export async function sourceAndNegotiate(
       category: item.category,
       quantity: item.quantity,
       market_price: benchmark.market_price,
-      benchmark_source: 'channel3',
+      benchmark_source: benchmark.source,
       checked_at: benchmark.checked_at,
       best_quote: bestQuote,
       negotiated,

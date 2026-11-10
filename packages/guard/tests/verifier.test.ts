@@ -1,7 +1,8 @@
 import { describe, it, expect } from 'vitest';
 import { canonicalize } from '../src/canonicalize.js';
-import { hashCart } from '../src/hash.js';
-import { verifyMandate } from '../src/verifier.js';
+import { hashCart, hashMandatePayload } from '../src/hash.js';
+import { verifyMandate, verifyMandateSignature } from '../src/verifier.js';
+import { generateEs256KeyPair, makeEs256Verifier, signMandateHashEs256 } from '../src/es256.js';
 import type { IntentMandate, CartMandate, Proposal } from '@rm/shared';
 
 describe('packages/guard - Canonicalize & Hashing', () => {
@@ -55,7 +56,10 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
     failing_rules: [],
   };
 
-  const baseIntentMandate: IntentMandate = {
+  const managerKeyPair = generateEs256KeyPair();
+  const realVerifySignature = makeEs256Verifier({ 'manager-alice': managerKeyPair.publicJwk });
+
+  const unsignedIntentMandate: IntentMandate = {
     type: 'intent',
     issuer: 'manager-alice',
     source_text: 'Laptops under $1500 from vendor_a',
@@ -71,40 +75,56 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
     not_before: '2026-10-01T00:00:00Z',
     expires: '2026-12-31T23:59:59Z',
     nonce: 'nonce-12345',
-    signature: { kind: 'es256', payload: { valid: true } },
   };
+
+  const signIntent = (m: IntentMandate): IntentMandate => ({
+    ...m,
+    signature: signMandateHashEs256(hashMandatePayload(m), managerKeyPair.privateKey),
+  });
+
+  const signCart = (m: CartMandate): CartMandate => ({
+    ...m,
+    signature: signMandateHashEs256(hashMandatePayload(m), managerKeyPair.privateKey),
+  });
+
+  const baseIntentMandate: IntentMandate = signIntent(unsignedIntentMandate);
 
   const baseContext = {
     currentTime: '2026-11-01T12:00:00Z',
     knownIssuers: ['manager-alice'],
     remainingMonthlyBudget: 4000,
+    currentMarketPrice: 1400,
     itemCategory: 'laptops',
-    verifySignature: (_hash: string, sig: unknown) => {
-      const p = (sig as { payload?: unknown })?.payload;
-      if (typeof p === 'object' && p !== null && 'valid' in p) {
-        return (p as { valid: boolean }).valid === true;
-      }
-      return true;
-    },
+    verifySignature: realVerifySignature,
   };
 
-  it('RULE 1: SIGNATURE_INVALID - fails when signature missing or invalid; passes when valid', () => {
+  it('RULE 1: SIGNATURE_INVALID - fails when signature missing, garbage, webauthn, or forged; passes with real ES256', () => {
     // Fail: missing signature
     const mandateNoSig = { ...baseIntentMandate, signature: undefined };
     const resNoSig = verifyMandate(mandateNoSig, baseProposal, baseContext);
     expect(resNoSig.failing_rules).toContain('SIGNATURE_INVALID');
     expect(resNoSig.result).toBe('blocked');
 
-    // Fail: invalid signature
-    const mandateBadSig = {
+    // Fail: garbage string payload (must NEVER pass)
+    const mandateGarbageSig = {
       ...baseIntentMandate,
-      signature: { kind: 'es256' as const, payload: { valid: false } },
+      signature: { kind: 'es256' as const, payload: 'garbage' },
     };
-    const resBadSig = verifyMandate(mandateBadSig, baseProposal, baseContext);
-    expect(resBadSig.failing_rules).toContain('SIGNATURE_INVALID');
-    expect(resBadSig.result).toBe('blocked');
+    const resGarbage = verifyMandate(mandateGarbageSig, baseProposal, baseContext);
+    expect(resGarbage.failing_rules).toContain('SIGNATURE_INVALID');
+    expect(resGarbage.result).toBe('blocked');
+    expect(verifyMandateSignature(hashMandatePayload(baseIntentMandate), mandateGarbageSig.signature)).toBe(false);
 
-    // Pass
+    // Fail: unimplemented { valid: true } object payload
+    const mandateObjSig = {
+      ...baseIntentMandate,
+      signature: { kind: 'es256' as const, payload: { valid: true } },
+    };
+    const resObj = verifyMandate(mandateObjSig, baseProposal, baseContext);
+    expect(resObj.failing_rules).toContain('SIGNATURE_INVALID');
+    expect(resObj.result).toBe('blocked');
+
+    // Pass: valid ES256 signature
     const resValid = verifyMandate(baseIntentMandate, baseProposal, baseContext);
     expect(resValid.failing_rules).not.toContain('SIGNATURE_INVALID');
     expect(resValid.result).toBe('auto_approved');
@@ -133,7 +153,7 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
   });
 
   it('RULE 4: EXPIRED - fails when current time is past expiry; passes when within window', () => {
-    const expiredMandate = { ...baseIntentMandate, expires: '2026-10-31T00:00:00Z' };
+    const expiredMandate = signIntent({ ...baseIntentMandate, expires: '2026-10-31T00:00:00Z' });
     const resFail = verifyMandate(expiredMandate, baseProposal, {
       ...baseContext,
       currentTime: '2026-11-01T00:00:00Z',
@@ -146,7 +166,7 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
   });
 
   it('RULE 5: NOT_YET_VALID - fails when current time is before not_before; passes when after', () => {
-    const futureMandate = { ...baseIntentMandate, not_before: '2026-11-15T00:00:00Z' };
+    const futureMandate = signIntent({ ...baseIntentMandate, not_before: '2026-11-15T00:00:00Z' });
     const resFail = verifyMandate(futureMandate, baseProposal, {
       ...baseContext,
       currentTime: '2026-11-01T00:00:00Z',
@@ -174,7 +194,7 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
   });
 
   it('RULE 7: CART_HASH_MISMATCH - fails when cart content does not match proposal in CartMandate', () => {
-    const cartMandate: CartMandate = {
+    const cartMandate: CartMandate = signCart({
       type: 'cart',
       issuer: 'manager-alice',
       cart: {
@@ -187,8 +207,7 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
       },
       nonce: 'cart-nonce-1',
       expires: '2026-12-31T00:00:00Z',
-      signature: { kind: 'es256', payload: { valid: true } },
-    };
+    });
 
     // Mismatched SKU
     const tamperedProposal: Proposal = {
@@ -288,7 +307,10 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
         checked_at: '2026-11-01T12:00:00Z',
       },
     };
-    const resFail = verifyMandate(baseIntentMandate, overBenchmarkProposal, baseContext);
+    const resFail = verifyMandate(baseIntentMandate, overBenchmarkProposal, {
+      ...baseContext,
+      currentMarketPrice: 1000,
+    });
     expect(resFail.failing_rules).toContain('OVER_BENCHMARK');
     expect(resFail.result).toBe('needs_approval');
 
@@ -336,21 +358,67 @@ describe('packages/guard - All 16 Rule Codes (Pass & Fail)', () => {
   });
 
   it('RULE 16: MODE_NOT_AUTO - fails auto-execution when policy mode is shadow or suggest', () => {
-    const suggestMandate: IntentMandate = {
+    const suggestMandate: IntentMandate = signIntent({
       ...baseIntentMandate,
       constraints: { ...baseIntentMandate.constraints, mode: 'suggest' },
-    };
+    });
     const resSuggest = verifyMandate(suggestMandate, baseProposal, baseContext);
     expect(resSuggest.failing_rules).toContain('MODE_NOT_AUTO');
     expect(resSuggest.result).toBe('needs_approval');
 
-    const autoMandate: IntentMandate = {
+    const autoMandate: IntentMandate = signIntent({
       ...baseIntentMandate,
       constraints: { ...baseIntentMandate.constraints, mode: 'auto_under_cap' },
-    };
+    });
     const resAuto = verifyMandate(autoMandate, baseProposal, baseContext);
     expect(resAuto.failing_rules).not.toContain('MODE_NOT_AUTO');
     expect(resAuto.result).toBe('auto_approved');
+  });
+
+  it('FAIL-CLOSED EDGE CASES (P3 Fuzz Delta): empty not_before, missing market price, bad benchmark, NaN/Infinity budget', () => {
+    const emptyNbMandate = signIntent({ ...unsignedIntentMandate, not_before: '' });
+    const resNb = verifyMandate(emptyNbMandate, baseProposal, baseContext);
+    expect(resNb.failing_rules).toContain('NOT_YET_VALID');
+    expect(resNb.result).toBe('blocked');
+
+    const resMissingPrice = verifyMandate(baseIntentMandate, baseProposal, {
+      ...baseContext,
+      currentMarketPrice: undefined,
+    });
+    expect(resMissingPrice.failing_rules).toContain('PRICE_DRIFT');
+    expect(resMissingPrice.result).toBe('needs_approval');
+
+    const zeroBenchProposal: Proposal = {
+      ...baseProposal,
+      benchmark: { source: 'channel3', market_price: 0, checked_at: '2026-11-01T12:00:00Z' },
+    };
+    const resZeroBench = verifyMandate(baseIntentMandate, zeroBenchProposal, baseContext);
+    expect(resZeroBench.failing_rules).toContain('OVER_BENCHMARK');
+    expect(resZeroBench.result).toBe('needs_approval');
+
+    const resInfBudget = verifyMandate(baseIntentMandate, baseProposal, {
+      ...baseContext,
+      remainingMonthlyBudget: Infinity,
+    });
+    expect(resInfBudget.failing_rules).toContain('MONTHLY_CAP_EXCEEDED');
+    expect(resInfBudget.result).toBe('needs_approval');
+  });
+
+  it('verifyMandateSignature supports public KeyObject, SPKI PEM string, and PEM Buffer while failing closed on invalid inputs', () => {
+    const hash = hashMandatePayload(unsignedIntentMandate);
+    const sig = signMandateHashEs256(hash, managerKeyPair.privateKey);
+    const otherKeyPair = generateEs256KeyPair();
+    const pemString = managerKeyPair.publicKey.export({ type: 'spki', format: 'pem' }) as string;
+    const pemBuffer = Buffer.from(pemString, 'utf8');
+
+    expect(verifyMandateSignature(hash, sig, managerKeyPair.publicKey)).toBe(true);
+    expect(verifyMandateSignature(hash, sig, pemString)).toBe(true);
+    expect(verifyMandateSignature(hash, sig, pemBuffer)).toBe(true);
+
+    expect(verifyMandateSignature(hash, sig, otherKeyPair.publicKey)).toBe(false);
+    expect(verifyMandateSignature(hash.replace(/^./, (c) => (c === 'a' ? 'b' : 'a')), sig, managerKeyPair.publicKey)).toBe(false);
+    expect(verifyMandateSignature(hash, { kind: 'webauthn', payload: sig.payload }, managerKeyPair.publicKey)).toBe(false);
+    expect(verifyMandateSignature(hash, sig, 'not-a-valid-pem-key')).toBe(false);
   });
 });
 

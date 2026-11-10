@@ -10,6 +10,13 @@ export default tseslint.config(
       '@typescript-eslint/no-explicit-any': 'error',
     },
   },
+  // Arena runner, fuzzer, and reference interop script construct untyped/malformed payloads intentionally.
+  {
+    files: ['arena/**/*.ts'],
+    rules: {
+      '@typescript-eslint/no-explicit-any': 'off',
+    },
+  },
   // packages/guard must stay pure: no network, DB, PayPal, or LLM imports.
   {
     files: ['packages/guard/**/*.ts'],

@@ -32,10 +32,8 @@ async function demoReset() {
 
   // 2. Reset Database (if PostgreSQL is running)
   console.log('[reset] 2. Checking PostgreSQL database connection...');
-  let hasPostgres = false;
   try {
     const client = await pool.connect();
-    hasPostgres = true;
     try {
       console.log('[reset] PostgreSQL connected. Truncating transactional tables...');
       await client.query('BEGIN');
@@ -120,7 +118,7 @@ async function demoReset() {
     state.orders.set(order.order_id, {
       id: order.order_id,
       proposal_id: order.proposal_id,
-      mandate: order.proof_pack.mandate as any,
+      mandate: order.proof_pack.mandate,
       vendor_id: order.proof_pack.vendor_quote.vendor_id,
       sku: order.proof_pack.vendor_quote.sku,
       quantity: order.proof_pack.vendor_quote.quantity,

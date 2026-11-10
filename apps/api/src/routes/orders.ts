@@ -19,7 +19,7 @@ export const orderRoutes: FastifyPluginAsync = async (app) => {
     const prevLedger = state.ledger.length > 1 ? state.ledger[state.ledger.length - 2] : null;
 
     const vendorQuote: VendorQuote = {
-      quote_id: order.mandate.cart.quote_id || 'q-default',
+      quote_id: order.mandate.type === 'cart' ? order.mandate.cart.quote_id || 'q-default' : 'q-auto',
       vendor_id: order.vendor_id,
       sku: order.sku,
       quantity: order.quantity,
@@ -28,11 +28,17 @@ export const orderRoutes: FastifyPluginAsync = async (app) => {
       valid_until: order.mandate.expires,
     };
 
+    if (!order.mandate.signature) {
+      return reply.status(500).send({
+        error: { code: 'MISSING_SIGNATURE', message: `Order ${id} is missing mandate signature` },
+      });
+    }
+
     const proofPack = buildProofPack({
       proposal_id: order.proposal_id,
       order_id: id,
       mandate: order.mandate,
-      signature: order.mandate.signature || { kind: 'es256', payload: 'valid' },
+      signature: order.mandate.signature,
       vendor_quote: vendorQuote,
       ledger_hash: latestLedger ? latestLedger.hash : '0'.repeat(64),
       prev_hash: prevLedger ? prevLedger.hash : '0'.repeat(64),

@@ -1,9 +1,9 @@
-import type { FastifyPluginAsync } from 'fastify';
+import type { FastifyPluginAsync, FastifyReply, FastifyRequest } from 'fastify';
 import fs from 'fs';
 import path from 'path';
 
 export const backtestRoutes: FastifyPluginAsync = async (app) => {
-  const handleBacktest = async (req: any, reply: any) => {
+  const handleBacktest = async (req: FastifyRequest, reply: FastifyReply) => {
     const mlUrl = process.env.ML_SERVICE_URL;
     const serviceToken = process.env.SERVICE_TOKEN;
 

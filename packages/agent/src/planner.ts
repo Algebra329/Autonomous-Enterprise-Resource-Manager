@@ -1,7 +1,17 @@
 import { randomUUID } from 'node:crypto';
-import type { Policy, Proposal } from '@rm/shared';
-import { verifyMandate, verifyMandateSignature } from '@rm/guard';
+import type { IntentMandate, Policy, Proposal } from '@rm/shared';
+import {
+  generateEs256KeyPair,
+  hashMandatePayload,
+  makeEs256Verifier,
+  signMandateHashEs256,
+  verifyMandate,
+  type Jwk,
+} from '@rm/guard';
 import { AgentTools } from './tools.js';
+
+const runtimePlannerKeys = generateEs256KeyPair();
+const DEFAULT_PLANNER_ISSUER = 'manager-agent';
 
 export interface HardwareNeed {
   sku: string;
@@ -23,6 +33,8 @@ export interface ProposalGenerationParams {
   hardwareNeeds?: HardwareNeed[];
   idleSubscriptions?: IdleSaaSNeed[];
   remainingMonthlyBudget?: number;
+  signedIntentMandate?: IntentMandate;
+  issuerKeys?: Record<string, Jwk>;
 }
 
 /**
@@ -92,7 +104,7 @@ export async function generateProposals(
         quote_id: bestQuote.quote_id,
       },
       benchmark: {
-        source: 'channel3',
+        source: benchmark.source,
         market_price: benchmark.market_price,
         checked_at: benchmark.checked_at,
         title: sanitizeUntrustedText(benchmark.title),
@@ -101,29 +113,49 @@ export async function generateProposals(
       failing_rules: [],
     };
 
-    // Synthesize mandate context
-    const verdict = verifyMandate(
-      {
+    const registry: Record<string, Jwk> = params.issuerKeys ?? {
+      [DEFAULT_PLANNER_ISSUER]: runtimePlannerKeys.publicJwk,
+    };
+    const verifier = makeEs256Verifier(registry);
+
+    let intentMandate: IntentMandate;
+    if (params.signedIntentMandate) {
+      intentMandate = params.signedIntentMandate;
+    } else {
+      const unsignedMandate: IntentMandate = {
         type: 'intent',
-        issuer: 'manager-agent',
+        issuer: DEFAULT_PLANNER_ISSUER,
         source_text: 'Autonomous policy planner',
         constraints: policy,
         expires: new Date(Date.now() + 3600000).toISOString(),
-        nonce: `nonce-${Date.now()}`,
-        signature: { kind: 'es256', payload: { valid: true } },
-      },
-      simulatedProposal,
-      {
-        knownIssuers: ['manager-agent'],
-        remainingMonthlyBudget,
-        itemCategory: item.category,
-        verifySignature: (hash, sig) => verifyMandateSignature(hash, sig),
-      }
-    );
+        nonce: `nonce-${Date.now()}-${randomUUID().substring(0, 6)}`,
+      };
+      intentMandate = {
+        ...unsignedMandate,
+        signature: signMandateHashEs256(
+          hashMandatePayload(unsignedMandate),
+          runtimePlannerKeys.privateKey
+        ),
+      };
+    }
+
+    // Evaluate with @rm/guard verifier using real ES256 key verification
+    const verdict = verifyMandate(intentMandate, simulatedProposal, {
+      knownIssuers: Object.keys(registry),
+      remainingMonthlyBudget,
+      currentMarketPrice: benchmark.market_price,
+      itemCategory: item.category,
+      verifySignature: verifier,
+    });
 
     simulatedProposal.verdict = verdict.result;
     simulatedProposal.failing_rules = verdict.failing_rules;
-    simulatedProposal.status = verdict.result === 'auto_approved' ? 'auto_approved' : 'needs_approval';
+    simulatedProposal.status =
+      verdict.result === 'auto_approved'
+        ? 'auto_approved'
+        : verdict.result === 'blocked'
+          ? 'blocked'
+          : 'needs_approval';
     simulatedProposal.reason = verdict.reason;
 
     proposals.push(simulatedProposal);

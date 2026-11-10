@@ -50,7 +50,7 @@
       "post": {
         "tags": ["Policies"],
         "summary": "Compile plain English to Policy (DeepSeek LLM)",
-        "description": "Translates plain English procurement rules into a strict Policy object with questions for missing limits.",
+        "description": "Translates plain English procurement rules into a strict Policy object with questions for missing limits. Sets response header X-Compiler-Path and JSON field path to 'llm' or 'fallback'.",
         "requestBody": {
           "required": true,
           "content": {
@@ -77,7 +77,8 @@
                     "mode": "auto_under_cap"
                   },
                   "warnings": [],
-                  "questions": []
+                  "questions": [],
+                  "path": "llm"
                 }
               }
             }
@@ -182,6 +183,42 @@
       }
     },
     "/v1/keys/{issuer}": {
+      "post": {
+        "tags": ["Mandates"],
+        "summary": "Register Issuer Public Key (TOFU)",
+        "description": "Registers the EC P-256 JWK public key for a mandate issuer (Trust-On-First-Use).",
+        "parameters": [
+          {
+            "name": "issuer",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "example": {
+                "public_key": {
+                  "kty": "EC",
+                  "crv": "P-256",
+                  "x": "base64url-x-coordinate",
+                  "y": "base64url-y-coordinate"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Public key registered for issuer"
+          },
+          "409": {
+            "description": "Issuer already registered with a different public key"
+          }
+        }
+      },
       "get": {
         "tags": ["Mandates"],
         "summary": "Get Issuer Public Key",
@@ -197,6 +234,9 @@
         "responses": {
           "200": {
             "description": "JWK public key"
+          },
+          "404": {
+            "description": "Issuer public key not registered"
           }
         }
       }
@@ -226,8 +266,8 @@
     "/v1/proposals/{id}/approve": {
       "post": {
         "tags": ["Proposals"],
-        "summary": "Approve Proposal (WebAuthn / Passkey)",
-        "description": "Approves an out-of-policy proposal with human manager signature. Executes on PayPal and commits to ledger.",
+        "summary": "Approve Proposal (ES256 Cart Mandate)",
+        "description": "Approves an out-of-policy proposal with an ES256-signed Cart Mandate (raw r||s base64url over UTF-8 SHA-256 payload hash), executes order, and commits to ledger.",
         "parameters": [
           {
             "name": "id",
@@ -258,12 +298,8 @@
                   "expires": "2026-12-31T23:59:59Z"
                 },
                 "signature": {
-                  "kind": "webauthn",
-                  "payload": {
-                    "authenticatorData": "SZYN5YgOjGh0NBcPZHZgW4...",
-                    "clientDataJSON": "eyJjaGFsbGVuZ2UiOiJjYXJ0LWhhc2gtMTIzNCJ9",
-                    "signature": "MEUCIQCv3bW5gP..."
-                  }
+                  "kind": "es256",
+                  "payload": "<base64url-encoded-64-byte-raw-r||s-signature-of-payloadHash>"
                 }
               }
             }
@@ -395,7 +431,7 @@
       "get": {
         "tags": ["Safety"],
         "summary": "Circuit Breaker & Rolling Velocity Metrics",
-        "description": "Returns circuit breaker status and 1-hour rolling metrics (max 3 orders, max $3000 spend).",
+        "description": "Returns circuit breaker status and 1-hour rolling metrics (max 5 orders, max $5000 spend).",
         "responses": {
           "200": {
             "description": "Circuit breaker status",
@@ -406,8 +442,8 @@
                     "state": "closed",
                     "last_tripped": null,
                     "rules": {
-                      "max_orders_per_hour": 3,
-                      "max_spend_per_hour": 3000,
+                      "max_orders_per_hour": 5,
+                      "max_spend_per_hour": 5000,
                       "over_benchmark_pct": 10
                     },
                     "rolling_metrics": {

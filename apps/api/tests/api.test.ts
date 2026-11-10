@@ -1,13 +1,44 @@
 import { describe, it, expect, beforeAll } from 'vitest';
+import { webcrypto } from 'node:crypto';
 import type { FastifyInstance } from 'fastify';
+import { hashMandatePayload } from '@rm/guard';
+import type { CartMandate, IntentMandate } from '@rm/shared';
 import { buildApp } from '../src/index.js';
+
+const b64u = (buf: ArrayBuffer | Uint8Array) => Buffer.from(buf as ArrayBuffer).toString('base64url');
+
+async function generateBrowserKeyPair() {
+  const kp = (await webcrypto.subtle.generateKey(
+    { name: 'ECDSA', namedCurve: 'P-256' },
+    true,
+    ['sign', 'verify']
+  )) as webcrypto.CryptoKeyPair;
+  const jwk = (await webcrypto.subtle.exportKey('jwk', kp.publicKey)) as {
+    kty: 'EC';
+    crv: 'P-256';
+    x: string;
+    y: string;
+  };
+  return { privateKey: kp.privateKey, jwk: { kty: jwk.kty, crv: jwk.crv, x: jwk.x, y: jwk.y } };
+}
+
+async function browserSignHash(privateKey: webcrypto.CryptoKey, hash: string) {
+  const sig = await webcrypto.subtle.sign(
+    { name: 'ECDSA', hash: 'SHA-256' },
+    privateKey,
+    new TextEncoder().encode(hash)
+  );
+  return { kind: 'es256' as const, payload: b64u(sig) };
+}
 
 describe('apps/api - Fastify REST API Integration Tests', () => {
   let app: FastifyInstance;
+  let managerKeys: Awaited<ReturnType<typeof generateBrowserKeyPair>>;
 
   beforeAll(async () => {
     app = await buildApp();
     await app.ready();
+    managerKeys = await generateBrowserKeyPair();
   });
 
   it('GET /health - returns liveness probe', async () => {
@@ -37,6 +68,8 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
       expect(body.policy.approved_vendors).toEqual(['vendor_a', 'vendor_b']);
       expect(body.policy.mode).toBe('auto_under_cap');
       expect(body.questions).toHaveLength(0);
+      expect(['llm', 'fallback']).toContain(body.path);
+      expect(res.headers['x-compiler-path']).toBe(body.path);
     });
 
     it('POST /v1/policies/compile - asks questions when vital limits are missing', async () => {
@@ -72,26 +105,32 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
   });
 
   describe('Mandates & Proposals Workflow (Spec 7.1, 7.2)', () => {
-    it('POST /v1/mandates/intent - submits signed Intent Mandate and records to ledger', async () => {
+    it('POST /v1/mandates/intent - registers issuer public key (TOFU), verifies ES256 signature, and records to ledger', async () => {
+      const unsignedIntent: IntentMandate = {
+        type: 'intent',
+        issuer: 'manager-alice',
+        source_text: 'Laptops under $1,500 from vendor A and B',
+        constraints: {
+          categories: ['laptops'],
+          max_unit_price: 1500,
+          monthly_cap: 8000,
+          currency: 'USD',
+          approved_vendors: ['vendor_a', 'vendor_b'],
+          max_over_benchmark_pct: 10,
+          mode: 'auto_under_cap',
+        },
+        expires: '2026-12-31T23:59:59Z',
+        nonce: 'nonce-api-test-01',
+      };
+      const signature = await browserSignHash(managerKeys.privateKey, hashMandatePayload(unsignedIntent));
+
       const res = await app.inject({
         method: 'POST',
         url: '/v1/mandates/intent',
         payload: {
-          type: 'intent',
-          issuer: 'manager-alice',
-          source_text: 'Laptops under $1,500 from vendor A and B',
-          constraints: {
-            categories: ['laptops'],
-            max_unit_price: 1500,
-            monthly_cap: 8000,
-            currency: 'USD',
-            approved_vendors: ['vendor_a', 'vendor_b'],
-            max_over_benchmark_pct: 10,
-            mode: 'auto_under_cap',
-          },
-          expires: '2026-12-31T23:59:59Z',
-          nonce: 'nonce-api-test-01',
-          signature: { kind: 'es256', payload: { valid: true } },
+          ...unsignedIntent,
+          signature,
+          public_key: managerKeys.jwk,
         },
       });
 
@@ -99,6 +138,10 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
       const body = res.json();
       expect(body.status).toBe('active');
       expect(body.payload_hash).toHaveLength(64);
+
+      const keyRes = await app.inject({ method: 'GET', url: '/v1/keys/manager-alice' });
+      expect(keyRes.statusCode).toBe(200);
+      expect(keyRes.json().public_key).toEqual(managerKeys.jwk);
     });
 
     it('GET /v1/mandates - lists registered mandates', async () => {
@@ -117,29 +160,82 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
       expect(body.length).toBeGreaterThan(0);
     });
 
-    it('POST /v1/proposals/:id/approve - verifies Cart Mandate and executes order', async () => {
+    it('POST /v1/proposals/:id/approve - rejects forged "garbage", dummy object, and unknown-issuer signatures (P1)', async () => {
+      const proposalId = '550e8400-e29b-41d4-a716-446655440000';
+      const baseCart = {
+        type: 'cart' as const,
+        issuer: 'manager-alice',
+        cart: {
+          vendor_id: 'vendor_a',
+          sku: 'LAP-14',
+          quantity: 2,
+          unit_price: 1450,
+          total: 2900,
+          currency: 'USD',
+        },
+        nonce: 'cart-nonce-attack-01',
+        expires: '2026-12-31T23:59:59Z',
+      };
+
+      const garbageRes = await app.inject({
+        method: 'POST',
+        url: `/v1/proposals/${proposalId}/approve`,
+        payload: {
+          cart_mandate: baseCart,
+          signature: { kind: 'es256', payload: 'garbage' },
+        },
+      });
+      expect(garbageRes.statusCode).toBe(403);
+      expect(garbageRes.json().error.failing_rules).toContain('SIGNATURE_INVALID');
+
+      const dummyObjRes = await app.inject({
+        method: 'POST',
+        url: `/v1/proposals/${proposalId}/approve`,
+        payload: {
+          cart_mandate: baseCart,
+          signature: { kind: 'es256', payload: { valid: true } },
+        },
+      });
+      expect(dummyObjRes.statusCode).toBe(403);
+      expect(dummyObjRes.json().error.failing_rules).toContain('SIGNATURE_INVALID');
+
+      const unknownRes = await app.inject({
+        method: 'POST',
+        url: `/v1/proposals/${proposalId}/approve`,
+        payload: {
+          cart_mandate: { ...baseCart, issuer: 'unknown-attacker' },
+          signature: { kind: 'es256', payload: 'garbage' },
+        },
+      });
+      expect(unknownRes.statusCode).toBe(403);
+      expect(unknownRes.json().error.failing_rules).toContain('ISSUER_UNKNOWN');
+    });
+
+    it('POST /v1/proposals/:id/approve - verifies WebCrypto ES256 Cart Mandate and executes order', async () => {
       // Use the seeded sample proposal
       const proposalId = '550e8400-e29b-41d4-a716-446655440000';
+      const unsignedCart: CartMandate = {
+        type: 'cart',
+        issuer: 'manager-alice',
+        cart: {
+          vendor_id: 'vendor_a',
+          sku: 'LAP-14',
+          quantity: 2,
+          unit_price: 1450,
+          total: 2900,
+          currency: 'USD',
+        },
+        nonce: 'cart-nonce-approval-01',
+        expires: '2026-12-31T23:59:59Z',
+      };
+      const signature = await browserSignHash(managerKeys.privateKey, hashMandatePayload(unsignedCart));
 
       const res = await app.inject({
         method: 'POST',
         url: `/v1/proposals/${proposalId}/approve`,
         payload: {
-          cart_mandate: {
-            type: 'cart',
-            issuer: 'manager-alice',
-            cart: {
-              vendor_id: 'vendor_a',
-              sku: 'LAP-14',
-              quantity: 2,
-              unit_price: 1450,
-              total: 2900,
-              currency: 'USD',
-            },
-            nonce: 'cart-nonce-approval-01',
-            expires: '2026-12-31T23:59:59Z',
-          },
-          signature: { kind: 'es256', payload: { valid: true } },
+          cart_mandate: unsignedCart,
+          signature,
         },
       });
 
@@ -184,6 +280,15 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
   });
 
   describe('Safety & Webhooks', () => {
+    it('GET /v1/safety/breaker - uses raised P4 velocity/spend thresholds (5 orders, $5000)', async () => {
+      const res = await app.inject({ method: 'GET', url: '/v1/safety/breaker' });
+      expect(res.statusCode).toBe(200);
+      const body = res.json();
+      expect(body.circuit_breaker.rules.max_orders_per_hour).toBe(5);
+      expect(body.circuit_breaker.rules.max_spend_per_hour).toBe(5000);
+      expect(body.circuit_breaker.state).toBe('closed');
+    });
+
     it('POST /v1/safety/kill-switch - revokes all mandates and halts execution', async () => {
       const res = await app.inject({ method: 'POST', url: '/v1/safety/kill-switch' });
       expect(res.statusCode).toBe(200);

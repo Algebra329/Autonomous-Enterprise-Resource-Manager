@@ -1,4 +1,4 @@
-import { Channel3Client, defaultChannel3 } from '@rm/channel3';
+import { Channel3Client, defaultChannel3, CHANNEL3_ANCHOR_QUERIES } from '@rm/channel3';
 import type { VendorQuote, VendorCounterResponse } from '@rm/shared';
 
 // Simulated static vendor catalogs for unblocked local development and tests
@@ -12,13 +12,7 @@ export const VENDOR_CATALOG: Record<string, { price_a: number; price_b: number; 
 };
 
 // Anchored benchmark search queries from seed/catalog.json (Spec E)
-export const SKU_BENCHMARK_QUERIES: Record<string, string> = {
-  'LAP-14': 'Lenovo ThinkPad T14 Gen 5',
-  'LAP-16': 'MacBook Pro 16 inch',
-  'MON-24': 'HP E24 G5 monitor',
-  'MON-27': '27 inch 4K USB-C monitor',
-  'DOCK-TB': 'Lenovo ThinkPad Thunderbolt 4 dock',
-};
+export const SKU_BENCHMARK_QUERIES: Record<string, string> = CHANNEL3_ANCHOR_QUERIES;
 
 export class AgentTools {
   private channel3: Channel3Client;
@@ -40,6 +34,7 @@ export class AgentTools {
       market_price: res.medianPrice || res.bestPrice,
       currency: res.currency,
       checked_at: res.checked_at,
+      source: res.source,
     };
   }
 

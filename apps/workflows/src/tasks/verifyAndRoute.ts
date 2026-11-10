@@ -1,8 +1,18 @@
 import { randomUUID } from 'node:crypto';
-import type { Policy, Proposal } from '@rm/shared';
-import { verifyMandate, verifyMandateSignature } from '@rm/guard';
+import type { IntentMandate, Policy, Proposal } from '@rm/shared';
+import {
+  generateEs256KeyPair,
+  hashMandatePayload,
+  makeEs256Verifier,
+  signMandateHashEs256,
+  verifyMandate,
+  type Jwk,
+} from '@rm/guard';
 import type { SourcedItem } from './sourceAndNegotiate.js';
 import type { IdleSubscriptionSummary } from './scanSeats.js';
+
+const runtimeWorkflowKeys = generateEs256KeyPair();
+const DEFAULT_WORKFLOW_ISSUER = 'workflow-scheduler';
 
 export interface WorkflowRoutingResult {
   autoApproved: Proposal[];
@@ -17,11 +27,18 @@ export function verifyAndRoute(
   sourcedItems: SourcedItem[],
   idleSubscriptions: IdleSubscriptionSummary[],
   policy: Policy,
-  remainingMonthlyBudget = 50000
+  remainingMonthlyBudget = 50000,
+  options?: { signedIntentMandate?: IntentMandate; issuerKeys?: Record<string, Jwk> }
 ): WorkflowRoutingResult {
   const autoApproved: Proposal[] = [];
   const needsApproval: Proposal[] = [];
   const blocked: Proposal[] = [];
+
+  const registry: Record<string, Jwk> = options?.issuerKeys ?? {
+    [DEFAULT_WORKFLOW_ISSUER]: runtimeWorkflowKeys.publicJwk,
+  };
+  const verifier = makeEs256Verifier(registry);
+  const knownIssuers = Object.keys(registry);
 
   // 1. Route Hardware Proposals
   for (const item of sourcedItems) {
@@ -48,24 +65,34 @@ export function verifyAndRoute(
       created_at: new Date().toISOString(),
     };
 
-    const verdict = verifyMandate(
-      {
+    let intentMandate: IntentMandate;
+    if (options?.signedIntentMandate) {
+      intentMandate = options.signedIntentMandate;
+    } else {
+      const unsignedMandate: IntentMandate = {
         type: 'intent',
-        issuer: 'workflow-scheduler',
+        issuer: DEFAULT_WORKFLOW_ISSUER,
         source_text: 'Autonomous Scheduled Run',
         constraints: policy,
         expires: new Date(Date.now() + 86400000).toISOString(),
         nonce: `nonce-${Date.now()}-${randomUUID().substring(0, 6)}`,
-        signature: { kind: 'es256', payload: { valid: true } },
-      },
-      proposal,
-      {
-        knownIssuers: ['workflow-scheduler'],
-        remainingMonthlyBudget,
-        itemCategory: item.category,
-        verifySignature: (hash, sig) => verifyMandateSignature(hash, sig),
-      }
-    );
+      };
+      intentMandate = {
+        ...unsignedMandate,
+        signature: signMandateHashEs256(
+          hashMandatePayload(unsignedMandate),
+          runtimeWorkflowKeys.privateKey
+        ),
+      };
+    }
+
+    const verdict = verifyMandate(intentMandate, proposal, {
+      knownIssuers,
+      remainingMonthlyBudget,
+      currentMarketPrice: item.market_price,
+      itemCategory: item.category,
+      verifySignature: verifier,
+    });
 
     proposal.verdict = verdict.result;
     proposal.failing_rules = verdict.failing_rules;

@@ -1,35 +1,57 @@
 import type { FastifyPluginAsync } from 'fastify';
 import { state, recordLedgerEntry } from '../services/state.js';
 
+function readPositiveInt(val: string | undefined, fallback: number): number {
+  const n = Number(val);
+  return Number.isFinite(n) && n > 0 ? n : fallback;
+}
+
+export const BREAKER_MAX_ORDERS_PER_HOUR = readPositiveInt(process.env.BREAKER_MAX_ORDERS_PER_HOUR, 5);
+export const BREAKER_MAX_SPEND_PER_HOUR = readPositiveInt(process.env.BREAKER_MAX_SPEND_PER_HOUR, 5000);
+
+export function evaluateCircuitBreaker() {
+  const oneHourAgo = Date.now() - 3600_000;
+  const recentOrders = Array.from(state.orders.values()).filter(
+    (o) => new Date(o.created_at).getTime() > oneHourAgo
+  );
+  const recentSpend = recentOrders.reduce((sum, o) => sum + (o.amount || 0), 0);
+
+  if (
+    recentOrders.length >= BREAKER_MAX_ORDERS_PER_HOUR ||
+    recentSpend >= BREAKER_MAX_SPEND_PER_HOUR
+  ) {
+    state.circuitBreakerOpen = true;
+    if (!state.lastBreakerTripped) {
+      state.lastBreakerTripped = new Date().toISOString();
+    }
+  }
+
+  return {
+    recentOrdersCount: recentOrders.length,
+    recentSpend,
+    maxOrdersPerHour: BREAKER_MAX_ORDERS_PER_HOUR,
+    maxSpendPerHour: BREAKER_MAX_SPEND_PER_HOUR,
+    open: state.circuitBreakerOpen,
+  };
+}
+
 export const safetyRoutes: FastifyPluginAsync = async (app) => {
   // GET /v1/safety/breaker
   app.get('/v1/safety/breaker', async (req, reply) => {
-    // Dynamic rolling 1-hour window calculation (Spec velocity & spend rules)
-    const oneHourAgo = Date.now() - 3600_000;
-    const recentOrders = Array.from(state.orders.values()).filter(
-      (o) => new Date(o.created_at).getTime() > oneHourAgo
-    );
-    const recentSpend = recentOrders.reduce((sum, o) => sum + (o.amount || 0), 0);
-
-    if (recentOrders.length >= 3 || recentSpend >= 3000) {
-      state.circuitBreakerOpen = true;
-      if (!state.lastBreakerTripped) {
-        state.lastBreakerTripped = new Date().toISOString();
-      }
-    }
+    const metrics = evaluateCircuitBreaker();
 
     return reply.send({
       circuit_breaker: {
-        state: state.circuitBreakerOpen ? 'open' : 'closed',
+        state: metrics.open ? 'open' : 'closed',
         last_tripped: state.lastBreakerTripped,
         rules: {
-          max_orders_per_hour: 3,
-          max_spend_per_hour: 3000,
+          max_orders_per_hour: metrics.maxOrdersPerHour,
+          max_spend_per_hour: metrics.maxSpendPerHour,
           over_benchmark_pct: 10,
         },
         rolling_metrics: {
-          orders_last_hour: recentOrders.length,
-          spend_last_hour: recentSpend,
+          orders_last_hour: metrics.recentOrdersCount,
+          spend_last_hour: metrics.recentSpend,
         },
       },
       kill_switch_active: state.killSwitchActive,

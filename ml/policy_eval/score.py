@@ -44,7 +44,7 @@ def is_num(x):
 
 
 def schema_ok(r):
-    if not isinstance(r, dict) or set(r) - {"policy", "warnings", "questions", "_error"} or not {"policy", "warnings", "questions"} <= set(r):
+    if not isinstance(r, dict) or set(r) - {"policy", "warnings", "questions", "_error", "path"} or not {"policy", "warnings", "questions"} <= set(r):
         return False, "bad top-level keys"
     if not isinstance(r["warnings"], list) or not all(isinstance(w, str) for w in r["warnings"]):
         return False, "warnings not list[str]"

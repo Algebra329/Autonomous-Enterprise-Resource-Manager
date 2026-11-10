@@ -23,6 +23,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['Could you please state your procurement spending policy?'],
+      path: 'fallback',
     };
   }
 
@@ -42,6 +43,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       questions: [
         'The text appears to request bypassing standard policy limits or rules. Should the stated price caps strictly apply?',
       ],
+      path: 'fallback',
     };
   }
 
@@ -56,6 +58,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['Which category of items is this policy for (laptops, monitors, or accessories)?'],
+      path: 'fallback',
     };
   }
 
@@ -73,6 +76,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['Which approved vendors may be used (vendor_a / Apex, or vendor_b / ValueByte)?'],
+      path: 'fallback',
     };
   }
 
@@ -84,6 +88,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['Only USD is currently supported. Would you like to set limits in USD?'],
+      path: 'fallback',
     };
   }
   if (clean.includes('$') && !lower.includes('usd')) {
@@ -113,6 +118,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['What is the maximum allowable price per unit?'],
+      path: 'fallback',
     };
   }
 
@@ -123,6 +129,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['A weekly or daily limit cannot be converted safely. What is the monthly spending cap?'],
+      path: 'fallback',
     };
   }
 
@@ -152,6 +159,7 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
       policy: null,
       warnings: [],
       questions: ['What is the monthly spending cap for this policy?'],
+      path: 'fallback',
     };
   }
 
@@ -195,25 +203,29 @@ export function compilePolicyFallback(text: string): PolicyCompileResponse {
     policy,
     warnings,
     questions: [],
+    path: 'fallback',
   };
 }
 
 /**
  * Main policy compiler entrypoint.
  * Uses LLM if configured; otherwise runs deterministic fallback.
+ * Returns which path answered (`llm` or `fallback`).
  */
-export async function compilePolicy(text: string): Promise<PolicyCompileResponse> {
+export async function compilePolicy(text: string): Promise<PolicyCompileResponse & { path: 'llm' | 'fallback' }> {
   const apiKey = process.env.LLM_API_KEY || process.env.OPENAI_API_KEY;
-  if (!apiKey) {
-    return compilePolicyFallback(text);
+  if (!apiKey || process.env.VITEST) {
+    return { ...compilePolicyFallback(text), path: 'fallback' };
   }
 
   const baseUrl = (process.env.LLM_BASE_URL || 'https://api.deepseek.com').replace(/\/+$/, '');
   const model = process.env.LLM_MODEL || 'deepseek-flash';
+  const rawTimeout = Number(process.env.LLM_TIMEOUT_MS);
+  const timeoutMs = Number.isFinite(rawTimeout) && rawTimeout > 0 ? rawTimeout : 15000;
 
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 4000);
+    const timeout = setTimeout(() => controller.abort(), timeoutMs);
 
     const res = await fetch(`${baseUrl}/chat/completions`, {
       method: 'POST',
@@ -228,7 +240,7 @@ export async function compilePolicy(text: string): Promise<PolicyCompileResponse
           { role: 'user', content: `<policy_text>${text}</policy_text>` },
         ],
         temperature: 0,
-        max_tokens: 400,
+        max_tokens: 800,
       }),
       signal: controller.signal,
     });
@@ -249,6 +261,7 @@ export async function compilePolicy(text: string): Promise<PolicyCompileResponse
             policy: parsed.policy || null,
             warnings: Array.isArray(parsed.warnings) ? parsed.warnings : [],
             questions: Array.isArray(parsed.questions) ? parsed.questions : [],
+            path: 'llm',
           };
         }
       }
@@ -257,5 +270,5 @@ export async function compilePolicy(text: string): Promise<PolicyCompileResponse
     console.warn('[compiler] LLM compilation failed, using deterministic fallback:', err);
   }
 
-  return compilePolicyFallback(text);
+  return { ...compilePolicyFallback(text), path: 'fallback' };
 }

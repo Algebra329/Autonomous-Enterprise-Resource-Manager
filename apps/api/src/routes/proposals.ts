@@ -1,8 +1,10 @@
 import type { FastifyPluginAsync } from 'fastify';
 import { randomUUID } from 'node:crypto';
 import { ProposalApproveRequestSchema, ProposalRejectRequestSchema } from '@rm/shared';
-import { verifyMandate, verifyMandateSignature } from '@rm/guard';
-import { state, recordLedgerEntry } from '../services/state.js';
+import { verifyMandate, makeEs256Verifier } from '@rm/guard';
+import { defaultChannel3 } from '@rm/channel3';
+import { state, recordLedgerEntry, getIssuerRegistry } from '../services/state.js';
+import { evaluateCircuitBreaker } from './safety.js';
 
 export const proposalRoutes: FastifyPluginAsync = async (app) => {
   // GET /v1/proposals
@@ -39,15 +41,29 @@ export const proposalRoutes: FastifyPluginAsync = async (app) => {
     const { cart_mandate, signature } = parseResult.data;
     cart_mandate.signature = signature;
 
-    // Run deterministic verification via packages/guard
+    // Refresh rolling circuit breaker state before verifying mandate
+    evaluateCircuitBreaker();
+
+    // Re-check current market benchmark price (FR-10) when proposal carries a benchmark
+    let currentMarketPrice: number | undefined;
+    if (proposal.benchmark) {
+      const latestBenchmark = await defaultChannel3.getBySku(proposal.payload.sku);
+      currentMarketPrice = latestBenchmark.medianPrice || latestBenchmark.bestPrice;
+    }
+
+    const registry = getIssuerRegistry();
+    const verifySignature = makeEs256Verifier(registry);
+
+    // Run deterministic verification via packages/guard with real ES256 key verification
     const verdict = verifyMandate(cart_mandate, proposal, {
-      knownIssuers: [cart_mandate.issuer],
+      knownIssuers: Object.keys(registry),
       revokedMandateIds: state.revokedMandateIds,
       usedNonces: state.usedNonces,
       remainingMonthlyBudget: 50000,
       circuitBreakerOpen: state.circuitBreakerOpen,
       killSwitchActive: state.killSwitchActive,
-      verifySignature: (hash, sig) => verifyMandateSignature(hash, sig),
+      currentMarketPrice,
+      verifySignature,
     });
 
     if (verdict.result === 'blocked') {
@@ -84,6 +100,7 @@ export const proposalRoutes: FastifyPluginAsync = async (app) => {
 
     state.orders.set(orderId, orderRecord);
     state.usedNonces.add(cart_mandate.nonce);
+    evaluateCircuitBreaker();
 
     // Record on ledger
     const ledgerEntry = recordLedgerEntry('order_executed', orderId, {

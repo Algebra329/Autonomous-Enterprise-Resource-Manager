@@ -40,7 +40,7 @@ const verifySignature = (hash: string, sig: J, issuer: string): boolean => {
   try { return verify('sha256', Buffer.from(hash), { key: pub, dsaEncoding: 'ieee-p1363' }, Buffer.from(sig.payload, 'base64url')); }
   catch { return false; }
 };
-const setPath = (o: J, dotted: string, v: J) => { const ks = dotted.split('.'); let t = o; for (const k of ks.slice(0, -1)) t = t[k]; t[ks[ks.length - 1]] = v; };
+const setPath = (o: J, dotted: string, v: J) => { const ks = dotted.split('.'); let t = o; for (const k of ks.slice(0, -1)) t = t[k]; const last = ks[ks.length - 1]; if (last !== undefined) t[last] = v; };
 
 // ---- load cases ---------------------------------------------------------------------------------------------------------
 const cases: J[] = readdirSync(path.join(HERE, 'cases')).filter((f) => f.endsWith('.json')).sort()
@@ -57,7 +57,7 @@ function runGuardCase(c: J): Result {
   for (const k of act.proposal_remove ?? []) delete sub[k];
 
   // ---- mandate under test -------------------------------------------------------------------------------------------
-  let mandate: J; let revoked: string[] = []; let cartIssues: string[] = []; let signedTotalMismatch = false;
+  let mandate: J; let revoked: string[] = []; const cartIssues: string[] = []; let signedTotalMismatch = false;
   const cm = arr.cart_mandate;
   if (cm) {
     const signed = { ...baseline.proposal, ...(cm.signed ?? {}) };
@@ -102,7 +102,7 @@ function runGuardCase(c: J): Result {
     const t = NOW + (steps > 1 ? (i * spread) / (steps - 1) : 0);
     const input: J = { ...sub }; delete input.category; delete input.benchmark_price; delete input.quote_price; input.quote_id ??= 'q-arena';
     let parsed: J;
-    try { parsed = ProposalPayloadSchema.safeParse(input); } catch (e) { events.add('crash'); return fin(c, last, events, 'schema parse threw'); }
+    try { parsed = ProposalPayloadSchema.safeParse(input); } catch { events.add('crash'); return fin(c, last, events, 'schema parse threw'); }
     if (!parsed.success) { last = { outcome: 'rejected_invalid', rules: [] }; continue; }
     if (Object.keys(parsed.data).some((k) => /payee|account|iban/i.test(k))) events.add('payee_changed');
 

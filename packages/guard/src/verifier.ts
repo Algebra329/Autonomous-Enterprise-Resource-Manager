@@ -1,4 +1,4 @@
-import { verify as cryptoVerify, type KeyLike } from 'node:crypto';
+import { createPublicKey, verify as cryptoVerify, type KeyLike, type KeyObject } from 'node:crypto';
 import type {
   IntentMandate,
   CartMandate,
@@ -10,51 +10,41 @@ import type {
 import { hashMandatePayload, hashCart } from './hash.js';
 
 /**
- * Verifier function for ES256 and WebAuthn mandate signatures.
- * Rejects missing, malformed, or dummy signatures (e.g. empty, "invalid", { valid: false }).
- * Performs cryptographic verification if a public key is supplied.
+ * Strict cryptographic verifier for ES256 mandate signatures.
+ * Fails closed on missing keys, unimplemented kinds (e.g. webauthn), malformed/non-64-byte
+ * payloads, or dummy/placeholder signatures such as "garbage" or { valid: true }.
  */
 export function verifyMandateSignature(
   hash: string,
   signature: unknown,
   issuerPublicKey?: KeyLike | string
 ): boolean {
+  if (!issuerPublicKey) return false;
   if (!signature || typeof signature !== 'object') return false;
   const s = signature as { kind?: string; payload?: unknown };
-  if (!s.kind || !['es256', 'webauthn'].includes(s.kind)) return false;
-  if (!s.payload) return false;
+  if (s.kind !== 'es256' || typeof s.payload !== 'string') return false;
 
-  // Handle object payload (e.g. WebAuthn assertion or structured payload)
-  if (typeof s.payload === 'object') {
-    if ('valid' in s.payload && (s.payload as { valid: boolean }).valid === false) {
-      return false;
-    }
-    return true;
+  const payload = s.payload.trim();
+  const raw = Buffer.from(payload, 'base64url');
+  if (raw.length !== 64) return false;
+
+  try {
+    const publicKeyObj: KeyObject =
+      typeof issuerPublicKey === 'string' || Buffer.isBuffer(issuerPublicKey)
+        ? createPublicKey(issuerPublicKey)
+        : issuerPublicKey.type === 'public'
+          ? issuerPublicKey
+          : createPublicKey(issuerPublicKey);
+
+    return cryptoVerify(
+      'sha256',
+      Buffer.from(hash, 'utf8'),
+      { key: publicKeyObj, dsaEncoding: 'ieee-p1363' },
+      raw
+    );
+  } catch {
+    return false;
   }
-
-  // Handle string payload (e.g. base64url encoded ES256 signature)
-  if (typeof s.payload === 'string') {
-    const payload = s.payload.trim();
-    if (payload === 'invalid' || payload === '') return false;
-
-    if (issuerPublicKey) {
-      try {
-        return cryptoVerify(
-          'sha256',
-          Buffer.from(hash),
-          { key: issuerPublicKey, dsaEncoding: 'ieee-p1363' },
-          Buffer.from(payload, 'base64url')
-        );
-      } catch {
-        return false;
-      }
-    }
-
-    // Must be valid non-empty base64url string
-    return /^[A-Za-z0-9_-]+$/.test(payload);
-  }
-
-  return false;
 }
 
 export interface VerificationContext {
@@ -130,7 +120,7 @@ export function verifyMandate(
   }
 
   // 2. Time Window & Replay Checks
-  if ('not_before' in mandate && mandate.not_before) {
+  if ('not_before' in mandate && mandate.not_before !== undefined) {
     const notBeforeDate = new Date(mandate.not_before);
     if (Number.isNaN(notBeforeDate.getTime()) || now < notBeforeDate) {
       failingRules.push('NOT_YET_VALID');
@@ -167,11 +157,14 @@ export function verifyMandate(
   }
 
   // 4. Price Drift Check
-  if (proposal.benchmark && context.currentMarketPrice !== undefined) {
+  const currentPrice = context.currentMarketPrice;
+  if (proposal.benchmark && currentPrice === undefined) {
+    failingRules.push('PRICE_DRIFT'); // market price was not re-fetched: drift cannot be verified
+  } else if (proposal.benchmark && currentPrice !== undefined) {
     const originalPrice = proposal.benchmark.market_price;
     const tolerance = context.priceDriftTolerancePct ?? 2;
-    const diffPct = Math.abs((context.currentMarketPrice - originalPrice) / originalPrice) * 100;
-    if (diffPct > tolerance) {
+    const diffPct = Math.abs((currentPrice - originalPrice) / originalPrice) * 100;
+    if (!(diffPct <= tolerance)) {
       failingRules.push('PRICE_DRIFT');
     }
   }
@@ -199,7 +192,7 @@ export function verifyMandate(
       failingRules.push('CURRENCY_MISMATCH');
     }
 
-    if (proposal.payload.unit_price > policy.max_unit_price) {
+    if (!(proposal.payload.unit_price <= policy.max_unit_price)) {
       failingRules.push('UNIT_PRICE_EXCEEDED');
     }
 
@@ -207,10 +200,12 @@ export function verifyMandate(
       failingRules.push('OVER_BENCHMARK'); // cannot verify the price without a benchmark: needs a human
     } else {
       const benchmarkPrice = proposal.benchmark.market_price;
-      if (benchmarkPrice > 0) {
+      if (!(benchmarkPrice > 0) || !Number.isFinite(benchmarkPrice)) {
+        failingRules.push('OVER_BENCHMARK'); // unusable benchmark: cannot verify the price
+      } else {
         const overPct =
           ((proposal.payload.unit_price - benchmarkPrice) / benchmarkPrice) * 100;
-        if (overPct > policy.max_over_benchmark_pct) {
+        if (!(overPct <= policy.max_over_benchmark_pct)) {
           failingRules.push('OVER_BENCHMARK');
         }
       }
@@ -218,7 +213,10 @@ export function verifyMandate(
 
     // Monthly Cap Check
     const orderTotal = proposal.payload.quantity * proposal.payload.unit_price;
-    if (orderTotal > context.remainingMonthlyBudget) {
+    if (
+      !Number.isFinite(context.remainingMonthlyBudget) ||
+      !(orderTotal <= context.remainingMonthlyBudget)
+    ) {
       failingRules.push('MONTHLY_CAP_EXCEEDED');
     }
 
