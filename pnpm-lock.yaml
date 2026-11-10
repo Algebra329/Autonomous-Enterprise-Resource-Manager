@@ -56,6 +56,9 @@ importers:
       '@rm/shared':
         specifier: workspace:*
         version: link:../../packages/shared
+      '@rm/workflows':
+        specifier: workspace:*
+        version: link:../workflows
       dotenv:
         specifier: ^16.4.7
         version: 16.6.1
