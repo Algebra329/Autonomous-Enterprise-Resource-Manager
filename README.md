@@ -195,4 +195,4 @@ Try to redirect a payment, inflate a price, tamper with a quantity, replay a man
 
 ## License
 
-`TODO: add a LICENSE file (for example MIT) and name it here.`
+`MIT`
