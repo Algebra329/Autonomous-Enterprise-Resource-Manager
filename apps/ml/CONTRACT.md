@@ -4,6 +4,7 @@ Owner: MLE. Consumer: BAI's ML client (task B9). Real request/response examples:
 (generated from actual service output by `python make_examples.py`).
 
 ## Rules that never change
+0. `/backtest` is a deterministic simulation, not a model: no `is_fallback` path. Everything else below applies.
 1. **Advisory only.** Nothing here may influence `packages/guard`. Scores appear in the UI (Approval Queue, dashboard) as hints.
 2. Every response has `advisory: true`, `method`, `is_fallback`.
 3. Client timeout **2 s**, one retry max. On timeout, 5xx, 401 or connection error: use the TypeScript fallback below and set `is_fallback: true` in what the UI receives. The API must keep working with the service switched off.
@@ -18,6 +19,7 @@ Owner: MLE. Consumer: BAI's ML client (task B9). Real request/response examples:
 | `POST /score/price` | `offers[]` {`price`, `merchant?`, `in_stock?`, `currency?`}, `candidate_price?`, `threshold_pct?` (default 10) | `fair_price`, `confidence` (none/low/medium/high), `outliers[]`, `candidate.hint` (`ok`/`high`/`suspiciously_low`) | 500 offers |
 | `POST /score/seat-idle` | `seats[]` {`seat_id`, `last_active_at`, `weekly_sessions_13w` (13 ints, oldest first), `offboarded?`}, `as_of?`, `threshold_days?` | per seat `idle_score` 0-1, `suggest_prune`, `reason` | 5000 seats |
 | `POST /score/anomaly` | `purchases[]` (shape of `seed/history-90d.json`), `approved_vendors?` | per purchase `anomaly_score` 0-1, `is_anomaly`, `reasons[]` | 5000 purchases |
+| `POST /backtest` | `policy` (7-field Policy, USD), `purchases[]` (shape of `seed/history-90d.json`), `vendors?`, `breaker?`, `include_details?`, `include_sensitivity?` (default true) | `summary` (counts, shares, `realized_savings`, `potential_savings`, escalation reasons), `weekly[]` (dashboard source: `week, projected_savings, auto_approved, escalated, blocked` + `potential_savings`, `observed`), `savings_decomposition`, `sensitivity`, `assumptions[]` | 5000 purchases |
 | `POST /forecast/replacement` | `assets[]` {`id`, `purchased_at`, `replace_after_months`, `sku?`, `category?`}, `as_of?`, `unit_prices?` | `buckets` (overdue, d1_30, d31_60, d61_90) with counts and `est_cost`, `items[]` | 10000 assets |
 
 Notes:
@@ -31,6 +33,7 @@ Keep them this simple on purpose. They must be easy to reimplement and review.
   Candidate hint: `high` if `candidate / fair - 1 > threshold_pct / 100`, else `ok`.
 - **seat-idle:** `suggest_prune = daysSince(last_active_at) >= threshold_days` (default 30); `idle_score = min(1, days / (2 * threshold_days))`.
 - **anomaly:** `is_anomaly = unit_price / benchmark_price > 1.25`; no other reasons.
+- **backtest:** no live fallback. When the service is down, `POST /v1/backtests` returns the precomputed `seed/backtest-demo.json` (`.backtest` object) and the UI shows "snapshot for the demo policy". It is only valid for the demo policy.
 - **forecast:** `due = purchased_at + round(replace_after_months * 30.44) days`; bucket by `due - as_of`. This one is already deterministic, so the fallback equals the service.
 
 ## Versioning

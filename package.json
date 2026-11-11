@@ -12,22 +12,30 @@
     "arena"
   ],
   "scripts": {
-    "dev:api": "bun run --filter @rm/api dev",
-    "dev:web": "bun run --filter @rm/web dev",
-    "dev:vendor-a": "bun run --filter @rm/vendor-a dev",
-    "dev:vendor-b": "bun run --filter @rm/vendor-b dev",
-    "build": "bun run --filter '*' build",
-    "typecheck": "bun run --filter '*' typecheck",
-    "test": "bun run --filter '*' test",
+    "dev:api": "pnpm --filter @rm/api dev",
+    "dev:web": "pnpm --filter @rm/web dev",
+    "dev:vendor-a": "pnpm --filter @rm/vendor-a dev",
+    "dev:vendor-b": "pnpm --filter @rm/vendor-b dev",
+    "build": "pnpm -r --if-present build",
+    "typecheck": "pnpm -r --if-present typecheck",
+    "test": "pnpm -r --if-present test",
+    "test:channel3:live": "tsx scripts/test_live_channel3.ts",
+    "test:llm": "tsx scripts/test_llm_key.ts",
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "arena:run": "bun run --filter @rm/arena run",
-    "db:migrate": "bun run --filter @rm/api db:migrate",
-    "db:seed": "bun run --filter @rm/api db:seed",
-    "demo:reset": "bun run --filter @rm/api demo:reset"
+    "arena:run": "tsx arena/runner.ts",
+    "db:migrate": "pnpm --filter @rm/api db:migrate",
+    "db:seed": "pnpm --filter @rm/api db:seed",
+    "demo:reset": "pnpm --filter @rm/api demo:reset"
   },
   "devDependencies": {
-    "jsdoc": "^4.0.5"
+    "@types/node": "^22.10.1",
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.18.0",
+    "vitest": "^2.1.8"
   }
 }

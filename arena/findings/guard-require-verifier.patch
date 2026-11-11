@@ -1,0 +1,19 @@
+--- a/packages/guard/src/verifier.ts
++++ b/packages/guard/src/verifier.ts
+@@ -72,14 +72,8 @@
+       failingRules.push('SIGNATURE_INVALID');
+     }
+   } else {
+-    // Default signature simulation check
+-    if (
+-      mandate.signature.payload === 'invalid' ||
+-      (typeof mandate.signature.payload === 'object' &&
+-        (mandate.signature.payload as any).valid === false)
+-    ) {
+-      failingRules.push('SIGNATURE_INVALID');
+-    }
++    // No verifier supplied: fail closed (the old default simulation accepted anything except the literal payload 'invalid').
++    failingRules.push('SIGNATURE_INVALID');
+   }
+ 
+   // 2. Time Window & Replay Checks

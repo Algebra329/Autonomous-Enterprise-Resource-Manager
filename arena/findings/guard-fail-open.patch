@@ -1,0 +1,79 @@
+--- a/packages/guard/src/verifier.ts
++++ b/packages/guard/src/verifier.ts
+@@ -83,15 +83,15 @@
+   }
+ 
+   // 2. Time Window & Replay Checks
+-  if ('not_before' in mandate && mandate.not_before) {
++  if ('not_before' in mandate && mandate.not_before !== undefined) {
+     const notBeforeDate = new Date(mandate.not_before);
+-    if (now < notBeforeDate) {
++    if (Number.isNaN(notBeforeDate.getTime()) || now < notBeforeDate) {
+       failingRules.push('NOT_YET_VALID');
+     }
+   }
+ 
+   const expiresDate = new Date(mandate.expires);
+-  if (now > expiresDate) {
++  if (Number.isNaN(expiresDate.getTime()) || now > expiresDate) {
+     failingRules.push('EXPIRED');
+   }
+ 
+@@ -115,14 +115,20 @@
+     ) {
+       failingRules.push('CART_HASH_MISMATCH');
+     }
++    if (Math.abs(mandate.cart.total - mandate.cart.quantity * mandate.cart.unit_price) > 0.005) {
++      failingRules.push('CART_HASH_MISMATCH');
++    }
+   }
+ 
+   // 4. Price Drift Check
+-  if (proposal.benchmark && context.currentMarketPrice !== undefined) {
++  const currentPrice = context.currentMarketPrice;
++  if (proposal.benchmark && currentPrice === undefined) {
++    failingRules.push('PRICE_DRIFT'); // market price was not re-fetched: drift cannot be verified
++  } else if (proposal.benchmark && currentPrice !== undefined) {
+     const originalPrice = proposal.benchmark.market_price;
+     const tolerance = context.priceDriftTolerancePct ?? 2;
+-    const diffPct = Math.abs((context.currentMarketPrice - originalPrice) / originalPrice) * 100;
+-    if (diffPct > tolerance) {
++    const diffPct = Math.abs((currentPrice - originalPrice) / originalPrice) * 100;
++    if (!(diffPct <= tolerance)) {
+       failingRules.push('PRICE_DRIFT');
+     }
+   }
+@@ -132,7 +138,7 @@
+     const policy: Policy = mandate.constraints;
+     const category = context.itemCategory || (proposal.payload as any).category;
+ 
+-    if (category && !policy.categories.includes(category)) {
++    if (!category || !policy.categories.includes(category)) {
+       failingRules.push('CATEGORY_NOT_ALLOWED');
+     }
+ 
+@@ -148,9 +154,14 @@
+       failingRules.push('UNIT_PRICE_EXCEEDED');
+     }
+ 
++    if (!proposal.benchmark) {
++      failingRules.push('OVER_BENCHMARK'); // cannot verify the price without a benchmark: needs a human
++    }
+     if (proposal.benchmark) {
+       const benchmarkPrice = proposal.benchmark.market_price;
+-      if (benchmarkPrice > 0) {
++      if (!(benchmarkPrice > 0) || !Number.isFinite(benchmarkPrice)) {
++        failingRules.push('OVER_BENCHMARK'); // unusable benchmark: cannot verify the price
++      } else {
+         const overPct =
+           ((proposal.payload.unit_price - benchmarkPrice) / benchmarkPrice) * 100;
+         if (overPct > policy.max_over_benchmark_pct) {
+@@ -161,7 +172,7 @@
+ 
+     // Monthly Cap Check
+     const orderTotal = proposal.payload.quantity * proposal.payload.unit_price;
+-    if (orderTotal > context.remainingMonthlyBudget) {
++    if (!Number.isFinite(context.remainingMonthlyBudget) || !(orderTotal <= context.remainingMonthlyBudget)) {
+       failingRules.push('MONTHLY_CAP_EXCEEDED');
+     }
+ 

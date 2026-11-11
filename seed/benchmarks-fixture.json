@@ -1,95 +1,7 @@
 {
   "source": "channel3",
-  "as_of": "2026-10-30",
+  "as_of": "2026-11-04",
   "items": {
-    "DOCK-TB": {
-      "query": "Lenovo ThinkPad Thunderbolt 4 dock",
-      "product_title": "ThinkPad Thunderbolt 4 Workstation Dock",
-      "currency": "USD",
-      "median_price": 370.46500000000003,
-      "offers": [
-        {
-          "merchant": "adorama.com",
-          "price": 334.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/CVCWwHm-T9Fg-8tFxDf?o=01KNMAGT22QT42AD0FFSK96CB2&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
-        },
-        {
-          "merchant": "bestbuy.com",
-          "price": 342.94,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/CVCWwHm-p1PB-8tFxDf?o=01KYC7543SH1WDH3AM7P593EWV&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
-        },
-        {
-          "merchant": "cdw.com",
-          "price": 397.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/CVCWwHm-TgS4-8tFxDf?o=01M5BW33GB1QCZKPG16SXNTGRW&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
-        },
-        {
-          "merchant": "beachcamera.com",
-          "price": 419.0,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/CVCWwHm-RnUy-8tFxDf?o=01KRZ3GH1MC8VCXGFRV2MYFT6P&aid=01M66D9Z5C2Z4WC8CM3AHQHNHD"
-        }
-      ]
-    },
-    "LAP-13": {
-      "query": "UltraLight 13 Laptop",
-      "product_title": "Microsoft Surface Laptop (13\", Snapdragon X Plus, 2025)",
-      "currency": "USD",
-      "median_price": 1249.99,
-      "offers": [
-        {
-          "merchant": "bestbuy.com",
-          "price": 1129.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/36jx1Uo-p1PB-8tFxDf?o=01KZQJE73ZVV0M6AN92039K8F0&aid=01M66DADGWZBXE9AJT02WFS3WR"
-        },
-        {
-          "merchant": "abt.com",
-          "price": 1249.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/36jx1Uo-DO3T-8tFxDf?o=01M2SHQXS1MMR0X6QM1R68JT37&aid=01M66DADGWZBXE9AJT02WFS3WR"
-        },
-        {
-          "merchant": "officedepot.com",
-          "price": 1249.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/36jx1Uo-6Uzl-8tFxDf?o=01M2NHN8Y0BG3G6855VCW9HYB3&aid=01M66DADGWZBXE9AJT02WFS3WR"
-        },
-        {
-          "merchant": "bhphotovideo.com",
-          "price": 1249.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/36jx1Uo-oHaU-8tFxDf?o=01M3B7PN5JE8VV7PDP402BNKNH&aid=01M66DADGWZBXE9AJT02WFS3WR"
-        },
-        {
-          "merchant": "staples.com",
-          "price": 1299.99,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/36jx1Uo-LFnL-8tFxDf?o=01KPF5ZEC2SM6E4VVM1Y53TN2R&aid=01M66DADGWZBXE9AJT02WFS3WR"
-        }
-      ]
-    },
     "LAP-14": {
       "query": "Lenovo ThinkPad T14 Gen 5",
       "product_title": "Lenovo ThinkPad T14 Gen 5 - AI PC",
@@ -102,7 +14,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/MKfy49V-T9Fg-8tFxDf?o=01M596WKPKAP1949909J8BJWHA&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+          "url": "https://buy.trychannel3.com/MKfy49V-T9Fg-8tFxDf?o=01M596WKPKAP1949909J8BJWHA&aid=01M6ECTVE0M6AJMC9JQDWRNM8P"
         },
         {
           "merchant": "cdw.com",
@@ -110,7 +22,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/MKfy49V-TgS4-8tFxDf?o=01M42F30N7MCXD1AVQ8YWBW2KD&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+          "url": "https://buy.trychannel3.com/MKfy49V-TgS4-8tFxDf?o=01M42F30N7MCXD1AVQ8YWBW2KD&aid=01M6ECTVE0M6AJMC9JQDWRNM8P"
         },
         {
           "merchant": "officedepot.com",
@@ -118,7 +30,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/MKfy49V-6Uzl-8tFxDf?o=01M32HWHCVJKB8HV877SXCJ3N5&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+          "url": "https://buy.trychannel3.com/MKfy49V-6Uzl-8tFxDf?o=01M32HWHCVJKB8HV877SXCJ3N5&aid=01M6ECTVE0M6AJMC9JQDWRNM8P"
         },
         {
           "merchant": "newegg.com",
@@ -126,15 +38,15 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/MKfy49V-LPzf-8tFxDf?o=01M61J9HX4FHR77H42FYKBX9DG&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+          "url": "https://buy.trychannel3.com/MKfy49V-LPzf-8tFxDf?o=01M61J9HX4FHR77H42FYKBX9DG&aid=01M6ECTVE0M6AJMC9JQDWRNM8P"
         },
         {
           "merchant": "bestbuy.com",
-          "price": 1797.07,
+          "price": 1953.99,
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/MKfy49V-p1PB-8tFxDf?o=01KXPGBJV6ANN2MQN6EXHZJTT1&aid=01M66D8D2X4DR2N14MRVW6S9XB"
+          "url": "https://buy.trychannel3.com/MKfy49V-p1PB-8tFxDf?o=01KXPGBJV6ANN2MQN6EXHZJTT1&aid=01M6ECTVE0M6AJMC9JQDWRNM8P"
         }
       ]
     },
@@ -145,20 +57,20 @@
       "median_price": 2979.495,
       "offers": [
         {
+          "merchant": "quickshipelectronics.com",
+          "price": 2399.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-xO6g-8tFxDf?o=01M0SYYNH195T93JCDG12YXNE2&aid=01M6ECVWS7AV3W6MSA422RR8BN"
+        },
+        {
           "merchant": "microcenter.com",
           "price": 2499.99,
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-yqJJ-8tFxDf?o=01M41TEK63Y0HPK7B3YNN0NH92&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
-        },
-        {
-          "merchant": "pcrichard.com",
-          "price": 2749.0,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-Pu5r-8tFxDf?o=01KR7XRK9FBSNWKTF661CJNV6M&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+          "url": "https://buy.trychannel3.com/yi8K0MJ-yqJJ-8tFxDf?o=01M41TEK63Y0HPK7B3YNN0NH92&aid=01M6ECVWS7AV3W6MSA422RR8BN"
         },
         {
           "merchant": "bhphotovideo.com",
@@ -166,7 +78,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-oHaU-8tFxDf?o=01M3QFTK3QPYV1W0AGETYCCMPW&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+          "url": "https://buy.trychannel3.com/yi8K0MJ-oHaU-8tFxDf?o=01M3QFTK3QPYV1W0AGETYCCMPW&aid=01M6ECVWS7AV3W6MSA422RR8BN"
         },
         {
           "merchant": "costco.com",
@@ -174,7 +86,15 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-ZO25-8tFxDf?o=01M13GB5X0H5HVTSKMM0T13YFS&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+          "url": "https://buy.trychannel3.com/yi8K0MJ-ZO25-8tFxDf?o=01M13GB5X0H5HVTSKMM0T13YFS&aid=01M6ECVWS7AV3W6MSA422RR8BN"
+        },
+        {
+          "merchant": "pcrichard.com",
+          "price": 2999.0,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/yi8K0MJ-Pu5r-8tFxDf?o=01KR7XRK9FBSNWKTF661CJNV6M&aid=01M6ECVWS7AV3W6MSA422RR8BN"
         },
         {
           "merchant": "adorama.com",
@@ -182,7 +102,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-T9Fg-8tFxDf?o=01KNJQYRE8715PNR859624S12Z&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+          "url": "https://buy.trychannel3.com/yi8K0MJ-T9Fg-8tFxDf?o=01KNJQYRE8715PNR859624S12Z&aid=01M6ECVWS7AV3W6MSA422RR8BN"
         },
         {
           "merchant": "bestbuy.com",
@@ -190,7 +110,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-p1PB-8tFxDf?o=01KYC98DSGX3WB8K69RNQ3MXG0&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+          "url": "https://buy.trychannel3.com/yi8K0MJ-p1PB-8tFxDf?o=01KYC98DSGX3WB8K69RNQ3MXG0&aid=01M6ECVWS7AV3W6MSA422RR8BN"
         },
         {
           "merchant": "cdw.com",
@@ -198,15 +118,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-TgS4-8tFxDf?o=01M5Z8J2AW7K1F98N34Z4HQZRR&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
-        },
-        {
-          "merchant": "quickshipelectronics.com",
-          "price": 4099.0,
-          "currency": "USD",
-          "availability": "InStock",
-          "in_stock": true,
-          "url": "https://buy.trychannel3.com/yi8K0MJ-xO6g-8tFxDf?o=01M19EZVAXG33ACG64XZA872E0&aid=01M66D8S48PNKWXVJ5WMGXV2HJ"
+          "url": "https://buy.trychannel3.com/yi8K0MJ-TgS4-8tFxDf?o=01M5Z8J2AW7K1F98N34Z4HQZRR&aid=01M6ECVWS7AV3W6MSA422RR8BN"
         }
       ]
     },
@@ -222,15 +134,15 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/58irpw3-KRXv-8tFxDf?o=01KF2R3V62C2PRBN8ZWVPJWT9P&aid=01M66D93QQDZ37W2FSQ94R7STE"
+          "url": "https://buy.trychannel3.com/58irpw3-KRXv-8tFxDf?o=01KF2R3V62C2PRBN8ZWVPJWT9P&aid=01M6ECWM2AKWVHMHRJQ450GRKX"
         },
         {
           "merchant": "bestbuy.com",
-          "price": 294.99,
+          "price": 387.98,
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/58irpw3-p1PB-8tFxDf?o=01KYC8NQVY5VGSRH1MXDKN05C6&aid=01M66D93QQDZ37W2FSQ94R7STE"
+          "url": "https://buy.trychannel3.com/58irpw3-p1PB-8tFxDf?o=01KYC8NQVY5VGSRH1MXDKN05C6&aid=01M6ECWM2AKWVHMHRJQ450GRKX"
         },
         {
           "merchant": "macys.com",
@@ -238,7 +150,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/58irpw3-K6RA-8tFxDf?o=01M1H6XSXNEZ4RJH8AZSZ3WC0V&aid=01M66D93QQDZ37W2FSQ94R7STE"
+          "url": "https://buy.trychannel3.com/58irpw3-K6RA-8tFxDf?o=01M1H6XSXNEZ4RJH8AZSZ3WC0V&aid=01M6ECWM2AKWVHMHRJQ450GRKX"
         },
         {
           "merchant": "adorama.com",
@@ -246,7 +158,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/58irpw3-T9Fg-8tFxDf?o=01KNM8PRD7N2Q7C38BP88PWNFZ&aid=01M66D93QQDZ37W2FSQ94R7STE"
+          "url": "https://buy.trychannel3.com/58irpw3-T9Fg-8tFxDf?o=01KNM8PRD7N2Q7C38BP88PWNFZ&aid=01M6ECWM2AKWVHMHRJQ450GRKX"
         },
         {
           "merchant": "cdw.com",
@@ -254,7 +166,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/58irpw3-TgS4-8tFxDf?o=01M38WDDJMWSEBKXWBZBCE3B8F&aid=01M66D93QQDZ37W2FSQ94R7STE"
+          "url": "https://buy.trychannel3.com/58irpw3-TgS4-8tFxDf?o=01M38WDDJMWSEBKXWBZBCE3B8F&aid=01M6ECWM2AKWVHMHRJQ450GRKX"
         }
       ]
     },
@@ -270,7 +182,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/FZSMl7u-K6RA-8tFxDf?o=01M3C5CT1T0MVWGFK38EJPJ03F&aid=01M66D9MR50VD82P0SDR9GQW7M"
+          "url": "https://buy.trychannel3.com/FZSMl7u-K6RA-8tFxDf?o=01M3C5CT1T0MVWGFK38EJPJ03F&aid=01M6ECYG75TCVWQQ02T09TBD52"
         },
         {
           "merchant": "officedepot.com",
@@ -278,7 +190,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/FZSMl7u-6Uzl-8tFxDf?o=01M63MYYNJ8REXFERQ48VK8QQ9&aid=01M66D9MR50VD82P0SDR9GQW7M"
+          "url": "https://buy.trychannel3.com/FZSMl7u-6Uzl-8tFxDf?o=01M63MYYNJ8REXFERQ48VK8QQ9&aid=01M6ECYG75TCVWQQ02T09TBD52"
         },
         {
           "merchant": "adorama.com",
@@ -286,7 +198,7 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/FZSMl7u-T9Fg-8tFxDf?o=01KNMHQZT4W98Z4D7KS776JYHK&aid=01M66D9MR50VD82P0SDR9GQW7M"
+          "url": "https://buy.trychannel3.com/FZSMl7u-T9Fg-8tFxDf?o=01KNMHQZT4W98Z4D7KS776JYHK&aid=01M6ECYG75TCVWQQ02T09TBD52"
         },
         {
           "merchant": "bhphotovideo.com",
@@ -294,15 +206,55 @@
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/FZSMl7u-oHaU-8tFxDf?o=01M2NDWEBW6WTG0W7JSJPBNENJ&aid=01M66D9MR50VD82P0SDR9GQW7M"
+          "url": "https://buy.trychannel3.com/FZSMl7u-oHaU-8tFxDf?o=01M2NDWEBW6WTG0W7JSJPBNENJ&aid=01M6ECYG75TCVWQQ02T09TBD52"
         },
         {
           "merchant": "bestbuy.com",
-          "price": 699.99,
+          "price": 790.86,
           "currency": "USD",
           "availability": "InStock",
           "in_stock": true,
-          "url": "https://buy.trychannel3.com/FZSMl7u-p1PB-8tFxDf?o=01KY013YK51B3C2ZFNAGEBQGH8&aid=01M66D9MR50VD82P0SDR9GQW7M"
+          "url": "https://buy.trychannel3.com/FZSMl7u-p1PB-8tFxDf?o=01KY013YK51B3C2ZFNAGEBQGH8&aid=01M6ECYG75TCVWQQ02T09TBD52"
+        }
+      ]
+    },
+    "DOCK-TB": {
+      "query": "Lenovo ThinkPad Thunderbolt 4 dock",
+      "product_title": "Thinkpad Thunderbolt 4 Smart Dock Gen 2",
+      "currency": "USD",
+      "median_price": 300.49,
+      "offers": [
+        {
+          "merchant": "lenovo.com",
+          "price": 277.19,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/5Tta170-hl1t-8tFxDf?o=01KBPDC8CW0DP0A07HBFK8JEEN&aid=01M6ED04P3J0DDM2NK6EXZXCBA"
+        },
+        {
+          "merchant": "bhphotovideo.com",
+          "price": 296.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/5Tta170-oHaU-8tFxDf?o=01M38CRWBNTSH1VKJJHWDH9BBV&aid=01M6ED04P3J0DDM2NK6EXZXCBA"
+        },
+        {
+          "merchant": "cdw.com",
+          "price": 303.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/5Tta170-TgS4-8tFxDf?o=01M4Z4DWBFT3RG4Q6DJ5M9B0CR&aid=01M6ED04P3J0DDM2NK6EXZXCBA"
+        },
+        {
+          "merchant": "bestbuy.com",
+          "price": 364.99,
+          "currency": "USD",
+          "availability": "InStock",
+          "in_stock": true,
+          "url": "https://buy.trychannel3.com/5Tta170-p1PB-8tFxDf?o=01M11N3H3CKEGJDBMTJ5V43BN2&aid=01M6ED04P3J0DDM2NK6EXZXCBA"
         }
       ]
     }

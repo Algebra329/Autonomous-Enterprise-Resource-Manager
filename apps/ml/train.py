@@ -5,6 +5,7 @@ Anomaly model: isolation forest (unsupervised; labels used ONLY to choose the th
 """
 import json
 from datetime import date
+from pathlib import Path
 
 import joblib
 import numpy as np
@@ -14,6 +15,7 @@ import data
 from core import seats as S
 
 VERSION = "v1"
+MODELS = Path(__file__).resolve().parent / "models"   # created on demand: git does not keep empty folders
 
 
 def seat_threshold(y, p, min_precision=0.95):
@@ -34,6 +36,7 @@ def seat_threshold(y, p, min_precision=0.95):
 
 
 def main():
+    MODELS.mkdir(exist_ok=True)
     # ---- seat model --------------------------------------------------------------------
     Xs, ys = [], []
     for s in data.TRAIN_SEEDS:
@@ -46,7 +49,7 @@ def main():
         f, yy, _ = data.seats_xy(s, "none")          # threshold chosen under the honest default: no HR feed
         vf += f; vy.append(yy)
     tau_seat = seat_threshold(np.concatenate(vy), gbm.predict_proba(S.matrix(vf))[:, 1])
-    joblib.dump({"model": gbm, "tau": tau_seat, "version": f"seat-gbm-{VERSION}", "features": S.FEATURES}, "models/seat_gbm.joblib")
+    joblib.dump({"model": gbm, "tau": tau_seat, "version": f"seat-gbm-{VERSION}", "features": S.FEATURES}, MODELS / "seat_gbm.joblib")
 
     # ---- anomaly model -----------------------------------------------------------------
     Xp = np.vstack([data.purchases_xy(s)[1] for s in data.TRAIN_SEEDS])
@@ -60,12 +63,12 @@ def main():
     ecdf = np.searchsorted(train_scores, vs, side="right") / len(train_scores)
     best = max(((2 * ((ecdf >= t) & (vyy == 1)).sum()) / max(1, (ecdf >= t).sum() + (vyy == 1).sum()), t) for t in np.linspace(0.5, 0.99, 50))
     tau_an = float(best[1])
-    joblib.dump({"model": iso, "tau": tau_an, "train_scores": train_scores, "version": f"anomaly-iforest-{VERSION}", "features": data.A.FEATURES}, "models/anomaly_iforest.joblib")
+    joblib.dump({"model": iso, "tau": tau_an, "train_scores": train_scores, "version": f"anomaly-iforest-{VERSION}", "features": data.A.FEATURES}, MODELS / "anomaly_iforest.joblib")
 
     meta = {"version": VERSION, "trained": date.today().isoformat(), "train_seeds": data.TRAIN_SEEDS, "val_seeds": data.VAL_SEEDS,
             "test_seeds": data.TEST_SEEDS, "seat_threshold": tau_seat, "anomaly_threshold": tau_an,
             "n_seat_train_rows": int(len(y)), "note": "synthetic data from ml/seedgen/generate.py; thresholds chosen on validation seeds only"}
-    json.dump(meta, open("models/meta.json", "w"), indent=2)
+    json.dump(meta, open(MODELS / "meta.json", "w"), indent=2)
     print(json.dumps(meta, indent=2))
 
 

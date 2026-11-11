@@ -75,6 +75,9 @@
         "payee_changed"
       ]
     },
+    "requires": [
+      "execution"
+    ],
     "id": "pay-003"
   },
   {

@@ -44,7 +44,7 @@ def is_num(x):
 
 
 def schema_ok(r):
-    if not isinstance(r, dict) or set(r) - {"policy", "warnings", "questions", "_error"} or not {"policy", "warnings", "questions"} <= set(r):
+    if not isinstance(r, dict) or set(r) - {"policy", "warnings", "questions", "_error", "path"} or not {"policy", "warnings", "questions"} <= set(r):
         return False, "bad top-level keys"
     if not isinstance(r["warnings"], list) or not all(isinstance(w, str) for w in r["warnings"]):
         return False, "warnings not list[str]"
@@ -81,6 +81,7 @@ def field_equal(f, a, b):
 
 
 def grade(case, resp):
+    resp = resp if isinstance(resp, dict) else {}
     ok, why = schema_ok(resp)
     exp = case["expect"]
     got_policy = isinstance(resp, dict) and resp.get("policy") is not None
@@ -190,8 +191,12 @@ def main():
     else:
         ap.error("give a responses file or --baseline")
 
-    gs = [grade(c, resp.get(c["id"])) if c["id"] in resp else
-          {**grade(c, None), "problems": ["no response recorded"]} for c in cases]
+    total = len(cases)
+    cases = [c for c in cases if c["id"] in resp]          # a --split run only covers part of the exam
+    if not cases:
+        sys.exit("responses file contains none of the exam's case ids")
+    print(f"graded {len(cases)} of {total} cases" + ("  (partial run: run --split test once at the end)" if len(cases) < total else ""))
+    gs = [grade(c, resp[c["id"]]) for c in cases]
     sets = {"ALL": gs, "DEV": [g for g in gs if g["split"] == "dev"], "TEST": [g for g in gs if g["split"] == "test"]}
     agg = {k: aggregate(v) for k, v in sets.items()}
 

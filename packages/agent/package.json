@@ -13,7 +13,8 @@
     "test": "vitest run --passWithNoTests"
   },
   "dependencies": {
-    "@rm/shared": "workspace:*",
-    "@rm/channel3": "workspace:*"
+    "@rm/channel3": "workspace:*",
+    "@rm/guard": "workspace:*",
+    "@rm/shared": "workspace:*"
   }
 }

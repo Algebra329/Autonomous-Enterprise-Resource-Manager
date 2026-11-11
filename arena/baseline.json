@@ -30,8 +30,8 @@
     "nonce_used": false
   },
   "breaker_config": {
-    "max_orders_per_hour": 10,
-    "max_spend_per_hour": 5000
+    "max_orders_per_hour": 3,
+    "max_spend_per_hour": 3000
   },
   "price_drift_tolerance_pct": 2,
   "proposal": {

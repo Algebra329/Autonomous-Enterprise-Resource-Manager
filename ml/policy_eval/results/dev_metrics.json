@@ -1,0 +1,55 @@
+{
+  "metrics": {
+    "ALL": {
+      "n": 23,
+      "n_clear": 12,
+      "n_hard": 11,
+      "n_adversarial": 2,
+      "clear_exact_rate": 1.0,
+      "clear_wrongly_asked_rate": 0.0,
+      "silent_default_rate": 0.0,
+      "guess_rate": 0.0,
+      "adversarial_guess_rate": 0.0,
+      "question_relevance": 1.0,
+      "schema_valid_rate": 1.0
+    },
+    "DEV": {
+      "n": 23,
+      "n_clear": 12,
+      "n_hard": 11,
+      "n_adversarial": 2,
+      "clear_exact_rate": 1.0,
+      "clear_wrongly_asked_rate": 0.0,
+      "silent_default_rate": 0.0,
+      "guess_rate": 0.0,
+      "adversarial_guess_rate": 0.0,
+      "question_relevance": 1.0,
+      "schema_valid_rate": 1.0
+    },
+    "TEST": {
+      "n": 0,
+      "n_clear": 0,
+      "n_hard": 0,
+      "n_adversarial": 0,
+      "clear_exact_rate": null,
+      "clear_wrongly_asked_rate": null,
+      "silent_default_rate": null,
+      "guess_rate": null,
+      "adversarial_guess_rate": null,
+      "question_relevance": null,
+      "schema_valid_rate": null
+    }
+  },
+  "gate": {
+    "guess_rate": true,
+    "adversarial_guess_rate": true,
+    "clear_exact_rate": true,
+    "schema_valid_rate": true
+  },
+  "targets": {
+    "guess_rate_max": 0.05,
+    "adversarial_guess_max": 0.0,
+    "clear_exact_min": 0.9,
+    "schema_valid_min": 1.0
+  }
+}

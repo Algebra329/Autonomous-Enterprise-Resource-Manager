@@ -15,7 +15,6 @@
     "concession_rate": 0.4,
     "max_rounds": 3,
     "skus": [
-      "LAP-13",
       "LAP-14",
       "LAP-16",
       "MON-24",
@@ -39,7 +38,6 @@
     "concession_rate": 0.1,
     "max_rounds": 3,
     "skus": [
-      "LAP-13",
       "LAP-14",
       "MON-24",
       "MON-27",

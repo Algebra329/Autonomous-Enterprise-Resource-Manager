@@ -1,0 +1,425 @@
+{
+  "info": {
+    "name": "Autonomous Enterprise Resource Manager API",
+    "_postman_id": "aerm-api-collection-v1",
+    "description": "Complete API Collection for Autonomous Enterprise Resource Manager (PayPal AI Hackathon 2026). Fastify backend serving the SWE Next.js dashboard.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3000",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "System",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/health",
+              "host": ["{{baseUrl}}"],
+              "path": ["health"]
+            },
+            "description": "Returns API health status, version, and current UTC timestamp."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Policies",
+      "item": [
+        {
+          "name": "Compile Policy from Plain English (LLM)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"Buy ergonomic monitors and Mac laptops under $1800, max spend 25000 a month with vendor A.\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/v1/policies/compile",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "policies", "compile"]
+            },
+            "description": "Uses DeepSeek LLM (with deterministic fallback) to compile natural language into a strict Policy object."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mandates",
+      "item": [
+        {
+          "name": "Register Intent Mandate",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"type\": \"intent\",\n  \"issuer\": \"alice@company.com\",\n  \"source_text\": \"Buy laptops under $1500\",\n  \"constraints\": {\n    \"categories\": [\"laptops\"],\n    \"max_unit_price\": 1500,\n    \"monthly_cap\": 25000,\n    \"currency\": \"USD\",\n    \"approved_vendors\": [\"vendor_a\", \"vendor_b\"],\n    \"max_over_benchmark_pct\": 10,\n    \"mode\": \"auto_under_cap\"\n  },\n  \"expires\": \"2026-12-31T23:59:59Z\",\n  \"nonce\": \"nonce-intent-sample-01\",\n  \"signature\": {\n    \"kind\": \"es256\",\n    \"payload\": \"valid-sig-payload\"\n  }\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/v1/mandates/intent",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "mandates", "intent"]
+            },
+            "description": "Registers an Intent Mandate, records payload hash on the tamper-evident ledger, and marks nonce as used."
+          }
+        },
+        {
+          "name": "List Mandates",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/mandates?status=active",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "mandates"],
+              "query": [
+                {
+                  "key": "status",
+                  "value": "active"
+                }
+              ]
+            },
+            "description": "Lists registered mandates filtered by status (active, revoked, expired)."
+          }
+        },
+        {
+          "name": "Revoke Mandate",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"reason\": \"Budget slashed for Q4\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/v1/mandates/:id/revoke",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "mandates", ":id", "revoke"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "mandate-id-here"
+                }
+              ]
+            },
+            "description": "Immediately revokes an active mandate, adds to revocation set, and records revocation entry in hash chain."
+          }
+        },
+        {
+          "name": "Get Public Key for Issuer",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/keys/:issuer",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "keys", ":issuer"],
+              "variable": [
+                {
+                  "key": "issuer",
+                  "value": "alice@company.com"
+                }
+              ]
+            },
+            "description": "Returns JWK public key of mandate issuer for cryptographic signature verification."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Proposals & Approval Queue",
+      "item": [
+        {
+          "name": "List Proposals",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/proposals?status=needs_approval",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "proposals"],
+              "query": [
+                {
+                  "key": "status",
+                  "value": "needs_approval"
+                }
+              ]
+            },
+            "description": "Lists purchase proposals and SaaS cancellation recommendations for the SWE approval queue."
+          }
+        },
+        {
+          "name": "Approve Proposal (WebAuthn / Passkey)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"cart_mandate\": {\n    \"type\": \"cart\",\n    \"issuer\": \"alice@company.com\",\n    \"parent\": \"parent-intent-id\",\n    \"cart\": {\n      \"vendor_id\": \"vendor_a\",\n      \"sku\": \"LAP-14\",\n      \"quantity\": 2,\n      \"unit_price\": 1450,\n      \"total\": 2900,\n      \"currency\": \"USD\",\n      \"quote_id\": \"quote-sample-01\"\n    },\n    \"nonce\": \"nonce-cart-01\",\n    \"expires\": \"2026-12-31T23:59:59Z\"\n  },\n  \"signature\": {\n    \"kind\": \"webauthn\",\n    \"payload\": {\n      \"authenticatorData\": \"SZYN5YgOjGh0NBcPZHZgW4/krbkhiEkfBQMWuu63lnQBAAAAAw==\",\n      \"clientDataJSON\": \"eyJjaGFsbGVuZ2UiOiJjYXJ0LWhhc2gtMTIzNCJ9\",\n      \"signature\": \"MEUCIQCv3bW5gP...\"\n    }\n  }\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/v1/proposals/:id/approve",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "proposals", ":id", "approve"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "550e8400-e29b-41d4-a716-446655440000"
+                }
+              ]
+            },
+            "description": "Approves an out-of-policy proposal with human passkey signature. Runs Guard Verifier, executes PayPal order, appends to Ledger."
+          }
+        },
+        {
+          "name": "Reject Proposal",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"reason\": \"We already have spare monitors in the IT storage closet\"\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/v1/proposals/:id/reject",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "proposals", ":id", "reject"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "550e8400-e29b-41d4-a716-446655440000"
+                }
+              ]
+            },
+            "description": "Rejects a proposal from the approval queue with optional reason and audits to ledger."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orders & Proof Packs",
+      "item": [
+        {
+          "name": "Get Cryptographic ProofPack for Order",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/orders/:id/proof-pack",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "orders", ":id", "proof-pack"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "order-id-here"
+                }
+              ]
+            },
+            "description": "Returns the self-contained cryptographic ProofPack (Spec 7.2) for auditor inspection."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ledger & Audit",
+      "item": [
+        {
+          "name": "Get Tamper-Evident Ledger",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/ledger?limit=50",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "ledger"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "50"
+                }
+              ]
+            },
+            "description": "Returns append-only ledger entries linked by SHA-256 hash chains."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dashboard & AG Studio (Spec 13)",
+      "item": [
+        {
+          "name": "Get Studio Dashboard Overview",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/dashboard/studio",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "dashboard", "studio"]
+            },
+            "description": "Provides aggregated metrics: total spend, realized savings, pending proposals count, ledger height."
+          }
+        },
+        {
+          "name": "Get 90-Day Backtest Replay",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/dashboard/backtest",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "dashboard", "backtest"]
+            },
+            "description": "Returns 13-week backtest replay comparing human spend vs autonomous negotiation savings."
+          }
+        },
+        {
+          "name": "SSE Event Stream",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/dashboard/stream",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "dashboard", "stream"]
+            },
+            "description": "Server-Sent Events (SSE) stream for live updates on proposals, ledger entries, and safety alerts."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Safety & Circuit Breaker",
+      "item": [
+        {
+          "name": "Get Circuit Breaker Status",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/safety/breaker",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "safety", "breaker"]
+            },
+            "description": "Returns breaker state (open/closed), rolling orders and spend in the past hour, and kill switch status."
+          }
+        },
+        {
+          "name": "Engage Emergency Kill-Switch",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/safety/kill-switch",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "safety", "kill-switch"]
+            },
+            "description": "Emergency kill switch: immediately trips circuit breaker, halts active workflows, and revokes all active mandates."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Workflows & Automation",
+      "item": [
+        {
+          "name": "Trigger Autonomous Procurement Run",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"trigger\": \"manual_dashboard\",\n  \"policy_override\": {\n    \"max_unit_price\": 1800,\n    \"monthly_cap\": 50000\n  }\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/v1/runs",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "runs"]
+            },
+            "description": "Triggers the 5-stage autonomous procurement pipeline: scanAssets, scanSeats, sourceAndNegotiate, verifyAndRoute, executePurchase."
+          }
+        },
+        {
+          "name": "List Workflow Runs",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/v1/runs",
+              "host": ["{{baseUrl}}"],
+              "path": ["v1", "runs"]
+            },
+            "description": "Lists recent autonomous run records with execution status and savings."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Webhooks",
+      "item": [
+        {
+          "name": "PayPal Webhook Event Listener",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id\": \"WH-LIVE-TEST-12345\",\n  \"event_type\": \"CHECKOUT.ORDER.APPROVED\",\n  \"resource\": {\n    \"id\": \"8F4481489T627035K\",\n    \"status\": \"APPROVED\",\n    \"amount\": {\n      \"currency_code\": \"USD\",\n      \"value\": \"25.00\"\n    }\n  }\n}"
+            },
+            "url": {
+              "raw": "{{baseUrl}}/webhooks/paypal",
+              "host": ["{{baseUrl}}"],
+              "path": ["webhooks", "paypal"]
+            },
+            "description": "Ingests incoming PayPal webhook events and records them idempotently on the tamper-evident ledger."
+          }
+        }
+      ]
+    }
+  ]
+}

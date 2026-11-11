@@ -4,6 +4,7 @@
 python train.py              # trains models/ from the synthetic generator (seconds)
 python evaluate.py           # writes metrics.json + metrics.md on held-out seeds
 python -m unittest tests.test_core -v
+python run_backtest.py       # writes ../../seed/backtest-demo.json (dashboard fixture + API fallback)
 python make_examples.py      # regenerates contract_examples.json from real output
 uvicorn main:app --reload    # run the API (needs fastapi, uvicorn, pydantic)
 ```

@@ -7043,321 +7043,72 @@
       "types": []
     },
     "c2db657e-e1bb-5f26-ab9c-7c11aebebd16": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "price_inflation"
+      ]
     },
     "f7c9b3f8-78d0-56ff-acdb-3907d096503e": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "price_inflation"
+      ]
     },
     "14101e63-59fb-5327-b091-79c06ded3873": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "quantity_outlier"
+      ]
     },
     "61e6df69-80fb-508f-b892-bd33dbdf1993": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "velocity_burst",
+        "cap_structuring"
+      ]
     },
     "e3052e7d-f825-5fcf-9806-85ad566d0a65": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "velocity_burst",
+        "cap_structuring"
+      ]
     },
     "d4a33c31-fe08-54fa-9437-68ad3552e8c0": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "velocity_burst",
+        "cap_structuring"
+      ]
     },
     "4fb060fd-f97a-57c6-9220-d10e79798640": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "velocity_burst",
+        "cap_structuring"
+      ]
     },
     "bba64c2c-e463-5e3e-875c-9c5d8c4a127f": {
-      "anomaly": false,
-      "types": []
+      "anomaly": true,
+      "types": [
+        "velocity_burst",
+        "cap_structuring"
+      ]
     },
     "14390d2c-dc6d-5980-9304-a7c853b2c2ea": {
-      "anomaly": false,
-      "types": []
-    },
-    "14454ccd-9780-598e-b341-74429b3d956b": {
-      "anomaly": false,
-      "types": []
-    },
-    "80b6b569-4fa7-5e92-95bf-ba4fdad9e689": {
-      "anomaly": false,
-      "types": []
-    },
-    "834a0cbc-7912-5299-b157-8f275985a33d": {
-      "anomaly": false,
-      "types": []
-    },
-    "28339602-677a-55e2-a4ac-d5f1d3384ed7": {
-      "anomaly": false,
-      "types": []
-    },
-    "2e2ce97d-2a19-5cfc-8ddc-6c7477b67b83": {
-      "anomaly": false,
-      "types": []
-    },
-    "941f0578-053e-5320-a855-21c6ffc6c002": {
-      "anomaly": false,
-      "types": []
-    },
-    "efc65c3a-e30e-5d99-8148-4cdf7669259c": {
-      "anomaly": false,
-      "types": []
-    },
-    "609590f1-ab5d-5a90-be3d-b71e7b955b87": {
-      "anomaly": false,
-      "types": []
-    },
-    "7ae575c2-813b-5e73-8ef3-81b0fb3e43b5": {
-      "anomaly": false,
-      "types": []
-    },
-    "d3d99de6-44e2-5249-b44e-27234223b120": {
-      "anomaly": false,
-      "types": []
-    },
-    "f13d7090-f5f5-5f14-bf1b-62bc75f03386": {
-      "anomaly": false,
-      "types": []
-    },
-    "0fdb80b4-1a74-5848-bcea-3755fc5e4444": {
-      "anomaly": false,
-      "types": []
-    },
-    "3e19b6d2-b9a2-5d93-a87f-09291d380072": {
-      "anomaly": false,
-      "types": []
-    },
-    "fa72c034-a38f-59f6-9ff7-8e2e334044eb": {
-      "anomaly": false,
-      "types": []
-    },
-    "e6df585d-de62-527e-a4af-8de76209f0b4": {
-      "anomaly": false,
-      "types": []
-    },
-    "1c19f3dc-971d-56dc-b8b3-e64b3b6022e5": {
-      "anomaly": false,
-      "types": []
-    },
-    "958ccdef-10cf-5fae-bb66-5eee3aea4e7c": {
-      "anomaly": false,
-      "types": []
-    },
-    "19b86ac7-ead3-51f4-a943-f48e3ee6587a": {
-      "anomaly": false,
-      "types": []
-    },
-    "2a50e762-5190-57e2-9cd1-c01fcd908f3d": {
-      "anomaly": false,
-      "types": []
-    },
-    "a2ddb1ea-99a4-569c-a91e-cca6b93e8659": {
-      "anomaly": false,
-      "types": []
-    },
-    "567c557b-8348-58ce-869f-34f97bd8a7b9": {
-      "anomaly": false,
-      "types": []
-    },
-    "87cbbeca-f4c0-579e-a31a-e28607e8abd7": {
-      "anomaly": false,
-      "types": []
-    },
-    "a7143176-21a4-5593-9840-8b2846019a34": {
-      "anomaly": false,
-      "types": []
-    },
-    "c1133fe2-c6b5-5ac7-b74f-724fd04fa2f6": {
-      "anomaly": false,
-      "types": []
-    },
-    "cd414d72-55d6-5023-af0d-0b935636736d": {
-      "anomaly": false,
-      "types": []
-    },
-    "6bdfd872-6495-5208-a21f-e59e01050266": {
-      "anomaly": false,
-      "types": []
-    },
-    "ac9d08e9-9063-51b3-b716-f61e88a5de44": {
-      "anomaly": false,
-      "types": []
-    },
-    "c1664d73-f2f3-5c2d-af15-796445365efc": {
-      "anomaly": false,
-      "types": []
-    },
-    "fd8e9b11-2e57-58ed-8e26-899359f4f8a6": {
-      "anomaly": false,
-      "types": []
-    },
-    "83571fcf-907f-525b-ab21-d17ae96ae7f4": {
-      "anomaly": false,
-      "types": []
-    },
-    "80397bf4-10c2-53b5-a71a-663d1ac23271": {
-      "anomaly": false,
-      "types": []
-    },
-    "dad9565a-6455-5a1b-b649-01ba42a28609": {
-      "anomaly": false,
-      "types": []
-    },
-    "6316c96e-c949-50f9-ad61-b4d6ae50b754": {
-      "anomaly": false,
-      "types": []
-    },
-    "d2b087c9-2e5e-5491-ae67-229d53d675e7": {
-      "anomaly": false,
-      "types": []
-    },
-    "32a66186-504a-57a2-8023-9caf65d28d4a": {
-      "anomaly": false,
-      "types": []
-    },
-    "62c7d05d-6c78-5fc8-883d-d2ddcee92e8e": {
-      "anomaly": false,
-      "types": []
-    },
-    "3dae54c9-3eb4-513c-9d85-a2e22fae2379": {
-      "anomaly": false,
-      "types": []
-    },
-    "f557b720-5af0-5cb3-98a4-e17a65e44278": {
-      "anomaly": false,
-      "types": []
-    },
-    "299310ea-42cb-5520-b58f-f81d509f5af7": {
-      "anomaly": false,
-      "types": []
-    },
-    "8981329f-1873-5ff7-8f85-f646afc1ce41": {
-      "anomaly": false,
-      "types": []
-    },
-    "487325db-ebb8-50f2-be83-d10fa37c040b": {
-      "anomaly": false,
-      "types": []
-    },
-    "31f8cd13-555a-5d24-ad3f-1b5d6e6b7e5b": {
-      "anomaly": false,
-      "types": []
-    },
-    "5dc78c42-2525-5280-9ee7-ccca7abf11e7": {
-      "anomaly": false,
-      "types": []
-    },
-    "0a779b59-d836-5d62-86b6-a9bd7bbaaa48": {
-      "anomaly": false,
-      "types": []
-    },
-    "8dd2fd51-9bef-5071-8f99-309a09b90bef": {
-      "anomaly": false,
-      "types": []
-    },
-    "3a487b42-5950-5d36-9b37-70cfa4dd15d2": {
-      "anomaly": false,
-      "types": []
-    },
-    "75fd21a4-464e-5f38-b8d4-ffc3f3719db8": {
-      "anomaly": false,
-      "types": []
-    },
-    "659fa82f-878e-5260-84d9-164652dd4088": {
-      "anomaly": true,
-      "types": [
-        "price_inflation"
-      ]
-    },
-    "18f1fac1-6a84-53fd-ae46-8b9a49c9daa2": {
-      "anomaly": true,
-      "types": [
-        "price_inflation"
-      ]
-    },
-    "f090f09d-138d-5717-898d-b965bb3d82ef": {
-      "anomaly": true,
-      "types": [
-        "price_inflation"
-      ]
-    },
-    "b7183cf1-8871-5583-97a3-a8239021358d": {
-      "anomaly": true,
-      "types": [
-        "price_inflation"
-      ]
-    },
-    "ba5321ed-7cc2-5b17-a821-f618ff21f3f6": {
-      "anomaly": true,
-      "types": [
-        "quantity_outlier"
-      ]
-    },
-    "639ba57c-9340-5745-b96a-c3f1e99fc0fd": {
-      "anomaly": true,
-      "types": [
-        "quantity_outlier"
-      ]
-    },
-    "7b54443f-979f-5aac-959e-95277974f3a4": {
-      "anomaly": true,
-      "types": [
-        "velocity_burst",
-        "cap_structuring"
-      ]
-    },
-    "2618b61f-c44b-5ad8-998a-61229b33669e": {
-      "anomaly": true,
-      "types": [
-        "velocity_burst",
-        "cap_structuring"
-      ]
-    },
-    "7f78df57-f4ed-5595-b6a4-78a35d31c54c": {
-      "anomaly": true,
-      "types": [
-        "velocity_burst",
-        "cap_structuring"
-      ]
-    },
-    "d4b051ad-be92-58c7-8d05-17055f394434": {
-      "anomaly": true,
-      "types": [
-        "velocity_burst",
-        "cap_structuring"
-      ]
-    },
-    "60214942-cb6b-504c-b6b9-fe2c1880cd61": {
-      "anomaly": true,
-      "types": [
-        "velocity_burst",
-        "cap_structuring"
-      ]
-    },
-    "a9731b8b-653d-5b7b-b50d-f3727bde6572": {
-      "anomaly": true,
-      "types": [
-        "velocity_burst",
-        "cap_structuring"
-      ]
-    },
-    "ff389d71-80bd-5622-ad93-99592948c996": {
       "anomaly": true,
       "types": [
         "first_time_vendor",
         "too_good_to_be_true"
       ]
     },
-    "4278d599-76b3-50f7-95b3-09d4bc479c6d": {
+    "14454ccd-9780-598e-b341-74429b3d956b": {
       "anomaly": true,
       "types": [
         "currency_mismatch"
       ]
     },
-    "1d6d7d46-bbb5-5ac8-95c0-ebed2919f345": {
+    "80b6b569-4fa7-5e92-95bf-ba4fdad9e689": {
       "anomaly": true,
       "types": [
         "duplicate_order"

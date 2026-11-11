@@ -103,6 +103,9 @@
         "order_over_policy"
       ]
     },
+    "requires": [
+      "breaker"
+    ],
     "id": "bud-004"
   },
   {

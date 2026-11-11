@@ -1,5 +1,5 @@
 """FastAPI wrapper (advisory ML service). Run:  uvicorn main:app --host 0.0.0.0 --port $PORT
- First todo on your machine: run it and hit /health.
+NOTE: written without FastAPI installed in the authoring sandbox. First thing to do on your machine: run it and hit /health.
 Auth: if SERVICE_TOKEN is set, every route except /health requires 'Authorization: Bearer <token>'."""
 import os
 from typing import Any, Optional
@@ -74,3 +74,17 @@ def score_anomaly(body: AnomalyReq):
 @app.post("/forecast/replacement", dependencies=[Depends(auth)])
 def forecast_replacement(body: ForecastReq):
     return run(handlers.handle_forecast, body)
+
+
+class BacktestReq(BaseModel):
+    policy: dict[str, Any]
+    purchases: list[dict[str, Any]]
+    vendors: Optional[dict[str, Any]] = None
+    breaker: Optional[dict[str, Any]] = None
+    include_details: bool = False
+    include_sensitivity: bool = True
+
+
+@app.post("/backtest", dependencies=[Depends(auth)])
+def backtest(body: BacktestReq):
+    return run(handlers.handle_backtest, body)

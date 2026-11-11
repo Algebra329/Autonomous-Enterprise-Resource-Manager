@@ -55,3 +55,9 @@ ml/artifacts/
 
 # arena run outputs (commit final reports under docs/ on purpose)
 arena/out/
+
+# local agent rules
+antigravity.md
+.agents/
+docs/AUDIT_REPORT.md
+*audit*.md

@@ -1,38 +1,42 @@
 [
   {
-    "sku": "LAP-13",
-    "name": "UltraLight 13 Laptop",
-    "category": "laptops",
-    "market_price": 1250.0
-  },
-  {
     "sku": "LAP-14",
-    "name": "Business 14 Laptop",
+    "name": "Lenovo ThinkPad T14 Gen 5 - AI PC",
     "category": "laptops",
-    "market_price": 1450.0
+    "market_price": 1587.99,
+    "benchmark_query": "Lenovo ThinkPad T14 Gen 5",
+    "price_source": "channel3"
   },
   {
     "sku": "LAP-16",
-    "name": "Performance 16 Laptop",
+    "name": "MacBook Pro 16\"",
     "category": "laptops",
-    "market_price": 1950.0
+    "market_price": 2979.49,
+    "benchmark_query": "MacBook Pro 16 inch",
+    "price_source": "channel3"
   },
   {
     "sku": "MON-24",
-    "name": "24in FHD Monitor",
+    "name": "E24t G5 Monitor",
     "category": "monitors",
-    "market_price": 230.0
+    "market_price": 389.99,
+    "benchmark_query": "HP E24 G5 monitor",
+    "price_source": "channel3"
   },
   {
     "sku": "MON-27",
-    "name": "27in 4K Monitor",
+    "name": "ColorPro VP2776T-4K Monitor",
     "category": "monitors",
-    "market_price": 420.0
+    "market_price": 699.99,
+    "benchmark_query": "27 inch 4K USB-C monitor",
+    "price_source": "channel3"
   },
   {
     "sku": "DOCK-TB",
-    "name": "Thunderbolt Dock",
+    "name": "Thinkpad Thunderbolt 4 Smart Dock Gen 2",
     "category": "accessories",
-    "market_price": 240.0
+    "market_price": 300.49,
+    "benchmark_query": "Lenovo ThinkPad Thunderbolt 4 dock",
+    "price_source": "channel3"
   }
 ]

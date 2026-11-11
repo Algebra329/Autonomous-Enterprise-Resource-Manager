@@ -101,17 +101,17 @@
       "method": "gradient_boosting",
       "is_fallback": false,
       "model_version": "seat-gbm-v1",
-      "threshold": 0.75,
+      "threshold": 0.55,
       "results": [
         {
           "seat_id": "18ad6a2f-8bb2-5676-bfe5-e9012c4dada8",
-          "idle_score": 1.0,
+          "idle_score": 0.999,
           "suggest_prune": true,
           "reason": "no activity for 46 days, usage was already declining before that"
         },
         {
           "seat_id": "978017fe-bdbd-5d87-9a1d-e4e3b6021c7f",
-          "idle_score": 0.0,
+          "idle_score": 0.002,
           "suggest_prune": false,
           "reason": "periodic usage (about every 6 weeks), probably still needed"
         }
@@ -131,39 +131,35 @@
       "method": "isolation_forest",
       "is_fallback": false,
       "model_version": "anomaly-iforest-v1",
-      "threshold": 0.83,
+      "threshold": 0.64,
       "results": [
         {
-          "id": "28339602-677a-55e2-a4ac-d5f1d3384ed7",
-          "anomaly_score": 0.909,
+          "id": "848f9fa8-8486-5987-a4cb-65c39022761d",
+          "anomaly_score": 0.664,
           "is_anomaly": true,
           "reasons": [
             "same vendor, item and quantity ordered within the previous 24 hours"
           ]
         },
         {
-          "id": "2618b61f-c44b-5ad8-998a-61229b33669e",
-          "anomaly_score": 0.837,
+          "id": "69673a84-127d-52cf-b6f7-79a5030587dc",
+          "anomaly_score": 0.671,
+          "is_anomaly": true,
+          "reasons": []
+        },
+        {
+          "id": "cb5ac02d-fdae-526b-aa91-0c9362fd3acf",
+          "anomaly_score": 0.712,
           "is_anomaly": true,
           "reasons": [
             "same vendor, item and quantity ordered within the previous 24 hours"
           ]
         },
         {
-          "id": "7f78df57-f4ed-5595-b6a4-78a35d31c54c",
-          "anomaly_score": 0.842,
+          "id": "61e6df69-80fb-508f-b892-bd33dbdf1993",
+          "anomaly_score": 0.676,
           "is_anomaly": true,
-          "reasons": [
-            "same vendor, item and quantity ordered within the previous 24 hours"
-          ]
-        },
-        {
-          "id": "b7183cf1-8871-5583-97a3-a8239021358d",
-          "anomaly_score": 0.865,
-          "is_anomaly": true,
-          "reasons": [
-            "price is 32% above benchmark"
-          ]
+          "reasons": []
         }
       ]
     }
@@ -203,13 +199,13 @@
         },
         "d61_90": {
           "count": 1,
-          "est_cost": 1250.0,
+          "est_cost": 1450.0,
           "n_unpriced": 0
         }
       },
       "cumulative_90d_incl_overdue": {
         "count": 1,
-        "est_cost": 1250.0
+        "est_cost": 1450.0
       },
       "items": [
         {
@@ -231,6 +227,139 @@
           "bucket": "later"
         }
       ]
+    }
+  },
+  "POST /backtest": {
+    "request": {
+      "policy": {
+        "categories": [
+          "laptops",
+          "monitors"
+        ],
+        "max_unit_price": 1500,
+        "monthly_cap": 8000,
+        "currency": "USD",
+        "approved_vendors": [
+          "vendor_a",
+          "vendor_b"
+        ],
+        "max_over_benchmark_pct": 10,
+        "mode": "auto_under_cap"
+      },
+      "purchases": "[... purchase objects as in seed/history-90d.json ...]",
+      "include_sensitivity": false
+    },
+    "response": {
+      "method": "replay_v1",
+      "policy": {
+        "categories": [
+          "laptops",
+          "monitors"
+        ],
+        "max_unit_price": 1500,
+        "monthly_cap": 8000,
+        "currency": "USD",
+        "approved_vendors": [
+          "vendor_a",
+          "vendor_b"
+        ],
+        "max_over_benchmark_pct": 10,
+        "mode": "auto_under_cap"
+      },
+      "breaker": {
+        "max_orders_per_hour": 10,
+        "max_spend_per_hour": 5000,
+        "cooldown_minutes": 60
+      },
+      "assumptions": [
+        "Replays demand (sku, quantity, date, benchmark), not the human's vendor or price choices.",
+        "The agent buys from the cheapest approved vendor after up to max_rounds of counters at the benchmark price.",
+        "Vendor price lists and concession behaviour come from our simulated vendors, so savings depend on that configuration.",
+        "Escalated purchases are assumed approved by the manager and count toward the monthly cap.",
+        "Blocked purchases (circuit breaker) are not executed and never counted as savings.",
+        "Non-USD purchases are excluded from savings (no FX data).",
+        "Duplicate orders are not detected by any verifier rule, so a duplicate would be replayed as a second purchase."
+      ],
+      "summary": {
+        "n_purchases": 6,
+        "counts": {
+          "auto_approved": 1,
+          "escalated": 5,
+          "blocked": 0,
+          "observed": 0
+        },
+        "shares": {
+          "auto_approved": 0.167,
+          "escalated": 0.833,
+          "blocked": 0.0,
+          "observed": 0.0
+        },
+        "realized_savings": -35.58,
+        "potential_savings": 1683.51,
+        "realized_savings_pct_of_human_spend": -4.97,
+        "human_spend_total_usd": 11411.61,
+        "spend_held_by_breaker_usd": 0,
+        "escalation_reasons": {
+          "UNIT_PRICE_EXCEEDED": 3,
+          "CATEGORY_NOT_ALLOWED": 2,
+          "MONTHLY_CAP_EXCEEDED": 1
+        },
+        "negative_saving_purchases": 1,
+        "excluded_non_usd": 0,
+        "top3_share_of_positive_savings": 0.973
+      },
+      "weekly": [
+        {
+          "week": "2026-07-27",
+          "projected_savings": -35.58,
+          "potential_savings": 0.0,
+          "auto_approved": 1,
+          "escalated": 0,
+          "blocked": 0,
+          "observed": 0
+        },
+        {
+          "week": "2026-08-03",
+          "projected_savings": 0.0,
+          "potential_savings": 0.0,
+          "auto_approved": 0,
+          "escalated": 0,
+          "blocked": 0,
+          "observed": 0
+        },
+        {
+          "week": "2026-08-10",
+          "projected_savings": 0.0,
+          "potential_savings": 1207.95,
+          "auto_approved": 0,
+          "escalated": 2,
+          "blocked": 0,
+          "observed": 0
+        },
+        {
+          "week": "2026-08-17",
+          "projected_savings": 0.0,
+          "potential_savings": 355.46,
+          "auto_approved": 0,
+          "escalated": 2,
+          "blocked": 0,
+          "observed": 0
+        },
+        {
+          "week": "2026-08-24",
+          "projected_savings": 0.0,
+          "potential_savings": 120.1,
+          "auto_approved": 0,
+          "escalated": 1,
+          "blocked": 0,
+          "observed": 0
+        }
+      ],
+      "savings_decomposition": {
+        "realized_with_negotiation": -35.58,
+        "realized_list_price_only": -35.58,
+        "note": "list_price_only = pick the cheaper approved vendor, no counter-offers"
+      }
     }
   },
   "GET /health": {

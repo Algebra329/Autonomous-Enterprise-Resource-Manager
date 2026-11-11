@@ -3,7 +3,7 @@ If a model file cannot be loaded, the endpoint answers with the deterministic ba
 import os
 from pathlib import Path
 
-from . import anomaly, forecast, price, seats
+from . import anomaly, backtest, forecast, price, seats
 from .common import InputError  # noqa: F401  (re-exported for main.py)
 
 SERVICE_VERSION = "0.1.0"
@@ -56,3 +56,7 @@ def handle_anomaly(p):
 
 def handle_forecast(p):
     return forecast.forecast(p)
+
+
+def handle_backtest(p):
+    return backtest.backtest(p)
