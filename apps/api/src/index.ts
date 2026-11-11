@@ -16,6 +16,7 @@ import { webhookRoutes } from './routes/webhooks.js';
 import { backtestRoutes } from './routes/backtest.js';
 import { arenaRoutes } from './routes/arena.js';
 import { docRoutes } from './routes/docs.js';
+import { webRoutes } from './routes/web.js';
 
 export async function buildApp() {
   const app = Fastify({
@@ -43,6 +44,7 @@ export async function buildApp() {
   await app.register(backtestRoutes);
   await app.register(arenaRoutes);
   await app.register(docRoutes);
+  await app.register(webRoutes);
 
   return app;
 }

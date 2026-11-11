@@ -23,7 +23,7 @@ services:
     name: rm-api
     runtime: node
     plan: free
-    buildCommand: corepack enable && pnpm install --frozen-lockfile
+    buildCommand: corepack enable && pnpm install --frozen-lockfile --prod=false && pnpm --filter @rm/web build
     startCommand: pnpm --filter @rm/api start
     healthCheckPath: /health
     envVars:

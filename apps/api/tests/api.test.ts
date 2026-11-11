@@ -49,6 +49,71 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
     expect(body.service).toBe('@rm/api');
   });
 
+  it('GET / & SPA routes - serves React frontend or API status (never 404), while unknown /v1 routes remain 404 JSON', async () => {
+    const rootRes = await app.inject({ method: 'GET', url: '/' });
+    expect(rootRes.statusCode).toBe(200);
+    const contentType = String(rootRes.headers['content-type'] || '');
+    expect(
+      contentType.includes('text/html') || contentType.includes('application/json')
+    ).toBe(true);
+
+    const headRes = await app.inject({ method: 'HEAD', url: '/' });
+    expect(headRes.statusCode).toBe(200);
+
+    if (contentType.includes('text/html')) {
+      const html = rootRes.body;
+      expect(html).toContain('<title>AERM');
+      expect(html).toContain('<div id="root"></div>');
+
+      for (const spaPath of ['/dashboard', '/policies', '/approvals', '/arena', '/audit']) {
+        const spaRes = await app.inject({ method: 'GET', url: spaPath });
+        expect(spaRes.statusCode).toBe(200);
+        expect(String(spaRes.headers['content-type'] || '')).toContain('text/html');
+        expect(spaRes.body).toContain('<div id="root"></div>');
+      }
+
+      const icoRes = await app.inject({ method: 'GET', url: '/favicon.ico' });
+      expect(icoRes.statusCode).toBe(200);
+      expect(String(icoRes.headers['content-type'] || '')).toContain('image/svg+xml');
+
+      const svgRes = await app.inject({ method: 'GET', url: '/favicon.svg' });
+      expect(svgRes.statusCode).toBe(200);
+      expect(String(svgRes.headers['content-type'] || '')).toContain('image/svg+xml');
+
+      const jsMatch = html.match(/src="(\/assets\/[^"]+\.js)"/);
+      const cssMatch = html.match(/href="(\/assets\/[^"]+\.css)"/);
+      expect(jsMatch?.[1]).toBeDefined();
+      expect(cssMatch?.[1]).toBeDefined();
+
+      if (jsMatch?.[1]) {
+        const jsRes = await app.inject({ method: 'GET', url: jsMatch[1] });
+        expect(jsRes.statusCode).toBe(200);
+        expect(String(jsRes.headers['content-type'] || '')).toContain('javascript');
+        expect(String(jsRes.headers['cache-control'] || '')).toContain('immutable');
+        expect(jsRes.body).toContain('aerm_api_url_override_v1');
+      }
+
+      if (cssMatch?.[1]) {
+        const cssRes = await app.inject({ method: 'GET', url: cssMatch[1] });
+        expect(cssRes.statusCode).toBe(200);
+        expect(String(cssRes.headers['content-type'] || '')).toContain('text/css');
+      }
+
+      const missingAssetRes = await app.inject({ method: 'GET', url: '/assets/nonexistent.js' });
+      expect(missingAssetRes.statusCode).toBe(404);
+
+      const travRes = await app.inject({ method: 'GET', url: '/..%2f..%2fpackage.json' });
+      expect(travRes.body).not.toContain('"autonomous-enterprise-resource-manager"');
+    }
+
+    const docsRes = await app.inject({ method: 'GET', url: '/docs' });
+    expect(docsRes.statusCode).toBe(200);
+
+    const apiMissingRes = await app.inject({ method: 'GET', url: '/v1/nonexistent-route' });
+    expect(apiMissingRes.statusCode).toBe(404);
+    expect(apiMissingRes.json().error).toBe('Not Found');
+  });
+
   describe('Policy Compiler (Spec 7.1)', () => {
     it('POST /v1/policies/compile - compiles clear policy text into structured Policy', async () => {
       const res = await app.inject({

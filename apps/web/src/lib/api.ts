@@ -19,9 +19,22 @@ import type { BrowserSigner, Es256PublicJwk } from './crypto';
 
 const API_OVERRIDE_KEY = 'aerm_api_url_override_v1';
 
-export const DEFAULT_API_URL = (
-  import.meta.env.VITE_API_URL || 'http://localhost:4000'
-).replace(/\/+$/, '');
+function resolveDefaultApiUrl(): string {
+  const configured = import.meta.env.VITE_API_URL?.trim();
+  if (configured) {
+    return configured.replace(/\/+$/, '');
+  }
+  if (
+    typeof window !== 'undefined' &&
+    window.location?.origin &&
+    !/^https?:\/\/(localhost|127\.0\.0\.1):(5173|4173)$/i.test(window.location.origin)
+  ) {
+    return window.location.origin.replace(/\/+$/, '');
+  }
+  return 'http://localhost:4000';
+}
+
+export const DEFAULT_API_URL = resolveDefaultApiUrl();
 
 export function getApiBaseUrl(): string {
   try {
