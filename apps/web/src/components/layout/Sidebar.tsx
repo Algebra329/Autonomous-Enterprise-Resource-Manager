@@ -4,13 +4,15 @@ import {
   ChevronLeft,
   ClipboardCheck,
   FlaskConical,
+  KeyRound,
   LayoutDashboard,
   ScrollText,
   ShieldCheck,
   X,
 } from "lucide-react";
 
-import { pendingApprovalCount } from "../../features/dashboard/data/dashboard.mock";
+import { useBreakerQuery, useHealthQuery, useProposalsQuery } from "../../lib/queries";
+import { useAermSigner } from "../../lib/useAermSigner";
 
 interface SidebarProps {
   isOpen: boolean;
@@ -19,51 +21,64 @@ interface SidebarProps {
   onToggleCollapse: () => void;
 }
 
-const navigation = [
-  {
-    label: "WORKSPACE",
-    items: [
-      {
-        name: "AG Studio",
-        path: "/dashboard",
-        icon: LayoutDashboard,
-      },
-      {
-        name: "Procurement Policies",
-        path: "/policies",
-        icon: ShieldCheck,
-      },
-      {
-        name: "Approval Queue",
-        path: "/approvals",
-        icon: ClipboardCheck,
-        count: pendingApprovalCount,
-      },
-    ],
-  },
-  {
-    label: "GOVERNANCE",
-    items: [
-      {
-        name: "Break-it Arena",
-        path: "/arena",
-        icon: FlaskConical,
-      },
-      {
-        name: "Audit & Proof",
-        path: "/audit",
-        icon: ScrollText,
-      },
-    ],
-  },
-];
-
 export default function Sidebar({
   isOpen,
   onClose,
   isCollapsed,
   onToggleCollapse,
 }: SidebarProps) {
+  const { data: proposals } = useProposalsQuery();
+  const { data: health, isError: healthError } = useHealthQuery();
+  const { data: breaker } = useBreakerQuery();
+  const { signer } = useAermSigner();
+
+  const pendingApprovalCount = (proposals ?? []).filter(
+    (p) => p.status === "needs_approval",
+  ).length;
+
+  const isHalted =
+    Boolean(breaker?.kill_switch_active) ||
+    breaker?.circuit_breaker.state === "open";
+
+  const navigation = [
+    {
+      label: "WORKSPACE",
+      items: [
+        {
+          name: "AG Studio",
+          path: "/dashboard",
+          icon: LayoutDashboard,
+        },
+        {
+          name: "Procurement Policies",
+          path: "/policies",
+          icon: ShieldCheck,
+        },
+        {
+          name: "Approval Queue",
+          path: "/approvals",
+          icon: ClipboardCheck,
+          count: pendingApprovalCount,
+        },
+      ],
+    },
+    {
+      label: "GOVERNANCE",
+      items: [
+        {
+          name: "Break-it Arena",
+          path: "/arena",
+          icon: FlaskConical,
+        },
+        {
+          name: "Audit & Proof",
+          path: "/audit",
+          icon: ScrollText,
+        },
+      ],
+    },
+  ];
+
   return (
     <>
       {isOpen && (
@@ -139,8 +154,14 @@ export default function Sidebar({
                         <>
                           <span className="flex-1">{item.name}</span>
 
-                          {"count" in item && (
-                            <span className="rounded-md bg-zinc-800 px-2 py-0.5 text-xs text-zinc-300">
+                          {"count" in item && typeof item.count === "number" && (
+                            <span
+                              className={`rounded-md px-2 py-0.5 text-xs ${
+                                item.count > 0
+                                  ? "bg-amber-500/20 font-semibold text-amber-300"
+                                  : "bg-zinc-800 text-zinc-400"
+                              }`}
+                            >
                               {item.count}
                             </span>
                           )}
@@ -154,29 +175,62 @@ export default function Sidebar({
           ))}
         </nav>
 
-        <div className="border-t border-zinc-800 p-3">
+        <div className="border-t border-zinc-800 p-3 space-y-2">
+          {!isCollapsed && (
+            <div className="flex items-center justify-between rounded-lg border border-zinc-800/80 bg-zinc-900/60 px-3 py-2 text-[11px]">
+              <span className="flex items-center gap-2 text-zinc-400">
+                <span
+                  className={`size-2 rounded-full ${
+                    healthError
+                      ? "bg-red-500"
+                      : isHalted
+                        ? "bg-amber-400"
+                        : health?.status === "ok"
+                          ? "bg-emerald-400"
+                          : "bg-zinc-500"
+                  }`}
+                />
+                {healthError
+                  ? "API Offline"
+                  : isHalted
+                    ? "Safety Halted"
+                    : health?.status === "ok"
+                      ? "API Connected"
+                      : "Connecting..."}
+              </span>
+              <span className="font-mono text-[10px] text-zinc-500">ES256</span>
+            </div>
+          )}
+
           <div
             className={`flex items-center gap-3 rounded-lg bg-zinc-900 p-3 ${
               isCollapsed ? "justify-center" : ""
             }`}
+            title={
+              signer
+                ? `ES256 Signer: ${signer.issuer} (${signer.fingerprint})`
+                : "Initializing P-256 signing key"
+            }
           >
             <div className="flex size-9 shrink-0 items-center justify-center rounded-full bg-emerald-400/15 text-sm font-bold text-emerald-400">
-              AD
+              <KeyRound size={16} />
             </div>
 
             {!isCollapsed && (
               <div className="min-w-0">
                 <p className="truncate text-sm font-medium text-white">
-                  Administrator
+                  {signer ? signer.issuer : "Manager Key"}
                 </p>
-                <p className="text-xs text-zinc-500">Workspace admin</p>
+                <p className="truncate font-mono text-[11px] text-zinc-500">
+                  {signer ? `P-256 · ${signer.fingerprint}` : "Initializing..."}
+                </p>
               </div>
             )}
           </div>
 
           <button
             onClick={onToggleCollapse}
-            className="mt-3 hidden w-full items-center justify-center rounded-lg p-2 text-zinc-500 hover:bg-zinc-900 hover:text-white lg:flex"
+            className="mt-1 hidden w-full items-center justify-center rounded-lg p-2 text-zinc-500 hover:bg-zinc-900 hover:text-white lg:flex"
             aria-label="Toggle sidebar width"
           >
             <ChevronLeft

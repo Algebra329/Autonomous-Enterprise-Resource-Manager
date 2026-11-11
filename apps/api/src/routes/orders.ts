@@ -4,6 +4,26 @@ import type { VendorQuote } from '@rm/shared';
 import { state } from '../services/state.js';
 
 export const orderRoutes: FastifyPluginAsync = async (app) => {
+  // GET /v1/orders
+  app.get('/v1/orders', async (_req, reply) => {
+    const orders = Array.from(state.orders.values()).map((o) => ({
+      id: o.id,
+      proposal_id: o.proposal_id,
+      vendor_id: o.vendor_id,
+      sku: o.sku,
+      quantity: o.quantity,
+      unit_price: o.unit_price,
+      amount: o.amount,
+      currency: o.currency,
+      paypal_order_id: o.paypal_order_id,
+      status: o.status,
+      created_at: o.created_at,
+      issuer: o.mandate.issuer,
+      mandate_type: o.mandate.type,
+    }));
+    return reply.send(orders.reverse());
+  });
+
   // GET /v1/orders/:id/proof-pack
   app.get('/v1/orders/:id/proof-pack', async (req, reply) => {
     const { id } = req.params as { id: string };
@@ -15,8 +35,24 @@ export const orderRoutes: FastifyPluginAsync = async (app) => {
       });
     }
 
-    const latestLedger = state.ledger[state.ledger.length - 1];
-    const prevLedger = state.ledger.length > 1 ? state.ledger[state.ledger.length - 2] : null;
+    let ledgerIndex = -1;
+    for (let i = state.ledger.length - 1; i >= 0; i--) {
+      if (state.ledger[i]?.ref_id === id) {
+        ledgerIndex = i;
+        break;
+      }
+    }
+
+    const latestLedger =
+      ledgerIndex >= 0 ? state.ledger[ledgerIndex] : state.ledger[state.ledger.length - 1];
+    const prevLedger =
+      ledgerIndex > 0
+        ? state.ledger[ledgerIndex - 1]
+        : ledgerIndex === 0
+          ? null
+          : state.ledger.length > 1
+            ? state.ledger[state.ledger.length - 2]
+            : null;
 
     const vendorQuote: VendorQuote = {
       quote_id: order.mandate.type === 'cart' ? order.mandate.cart.quote_id || 'q-default' : 'q-auto',

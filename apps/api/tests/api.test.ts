@@ -256,6 +256,13 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
       expect(proofPack.order_id).toBe(body.order_id);
       expect(proofPack.mandate_hash).toHaveLength(64);
       expect(proofPack.cart_hash).toHaveLength(64);
+
+      // Verify executed order appears in GET /v1/orders
+      const ordersRes = await app.inject({ method: 'GET', url: '/v1/orders' });
+      expect(ordersRes.statusCode).toBe(200);
+      const ordersList = ordersRes.json();
+      expect(Array.isArray(ordersList)).toBe(true);
+      expect(ordersList.some((o: { id: string }) => o.id === body.order_id)).toBe(true);
     });
   });
 
@@ -295,6 +302,45 @@ describe('apps/api - Fastify REST API Integration Tests', () => {
       const body = res.json();
       expect(body.status).toBe('halted');
       expect(body.kill_switch_active).toBe(true);
+    });
+
+    it('POST /v1/safety/reset - re-arms circuit breaker and clears kill switch', async () => {
+      const res = await app.inject({ method: 'POST', url: '/v1/safety/reset' });
+      expect(res.statusCode).toBe(200);
+      const body = res.json();
+      expect(body.status).toBe('armed');
+      expect(body.kill_switch_active).toBe(false);
+      expect(body.circuit_breaker_open).toBe(false);
+
+      const breakerRes = await app.inject({ method: 'GET', url: '/v1/safety/breaker' });
+      expect(breakerRes.statusCode).toBe(200);
+      expect(breakerRes.json().circuit_breaker.state).toBe('closed');
+      expect(breakerRes.json().kill_switch_active).toBe(false);
+    });
+
+    it('POST /v1/runs & GET /v1/runs - executes real workflow run and persists results', async () => {
+      const res = await app.inject({
+        method: 'POST',
+        url: '/v1/runs',
+        payload: { trigger: 'manual' },
+      });
+      expect(res.statusCode).toBe(201);
+      const run = res.json();
+      expect(run.id).toBeDefined();
+      expect(run.metrics.assets_scanned).toBeGreaterThan(0);
+
+      const listRes = await app.inject({ method: 'GET', url: '/v1/runs' });
+      expect(listRes.statusCode).toBe(200);
+      const runs = listRes.json();
+      expect(runs.some((r: { id: string }) => r.id === run.id)).toBe(true);
+    });
+
+    it('GET /v1/arena/summary - returns Guard Arena suite telemetry', async () => {
+      const res = await app.inject({ method: 'GET', url: '/v1/arena/summary' });
+      expect(res.statusCode).toBe(200);
+      const summary = res.json();
+      expect(summary.attacks_run).toBeGreaterThan(0);
+      expect(summary.by_category).toBeDefined();
     });
 
     it('POST /webhooks/paypal - accepts events and appends to ledger', async () => {

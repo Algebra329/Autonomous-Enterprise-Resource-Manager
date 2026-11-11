@@ -33,6 +33,7 @@ export interface AppState {
   circuitBreakerOpen: boolean;
   killSwitchActive: boolean;
   lastBreakerTripped: string | null;
+  lastBreakerResetAt: number | null;
   runs: Map<string, Record<string, unknown>>;
 }
 
@@ -47,6 +48,7 @@ export const state: AppState = {
   circuitBreakerOpen: false,
   killSwitchActive: false,
   lastBreakerTripped: null,
+  lastBreakerResetAt: null,
   runs: new Map(),
 };
 

@@ -1,3 +1,4 @@
+import './env.js';
 import Fastify from 'fastify';
 import cors from '@fastify/cors';
 import cookie from '@fastify/cookie';
@@ -13,6 +14,7 @@ import { safetyRoutes } from './routes/safety.js';
 import { runRoutes } from './routes/runs.js';
 import { webhookRoutes } from './routes/webhooks.js';
 import { backtestRoutes } from './routes/backtest.js';
+import { arenaRoutes } from './routes/arena.js';
 import { docRoutes } from './routes/docs.js';
 
 export async function buildApp() {
@@ -39,6 +41,7 @@ export async function buildApp() {
   await app.register(runRoutes);
   await app.register(webhookRoutes);
   await app.register(backtestRoutes);
+  await app.register(arenaRoutes);
   await app.register(docRoutes);
 
   return app;

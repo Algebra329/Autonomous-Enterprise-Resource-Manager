@@ -11,8 +11,9 @@ export const BREAKER_MAX_SPEND_PER_HOUR = readPositiveInt(process.env.BREAKER_MA
 
 export function evaluateCircuitBreaker() {
   const oneHourAgo = Date.now() - 3600_000;
+  const windowStart = Math.max(oneHourAgo, state.lastBreakerResetAt ?? 0);
   const recentOrders = Array.from(state.orders.values()).filter(
-    (o) => new Date(o.created_at).getTime() > oneHourAgo
+    (o) => new Date(o.created_at).getTime() > windowStart
   );
   const recentSpend = recentOrders.reduce((sum, o) => sum + (o.amount || 0), 0);
 
@@ -94,6 +95,26 @@ export const safetyRoutes: FastifyPluginAsync = async (app) => {
       circuit_breaker_open: true,
       revoked_mandates_count: revokedCount,
       message: 'Kill switch engaged. All active mandates revoked and autonomous runs halted.',
+    });
+  });
+
+  // POST /v1/safety/reset
+  app.post('/v1/safety/reset', async (_req, reply) => {
+    state.killSwitchActive = false;
+    state.circuitBreakerOpen = false;
+    state.lastBreakerTripped = null;
+    state.lastBreakerResetAt = Date.now();
+
+    recordLedgerEntry('safety_breaker_reset', null, {
+      action: 'safety_breaker_reset',
+      timestamp: new Date().toISOString(),
+    });
+
+    return reply.send({
+      status: 'armed',
+      kill_switch_active: false,
+      circuit_breaker_open: false,
+      message: 'Circuit breaker and kill switch reset.',
     });
   });
 };
