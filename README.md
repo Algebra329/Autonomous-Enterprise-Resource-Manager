@@ -6,9 +6,9 @@ PayPal AI Hackathon 2026
 
 | | |
 | --- | --- |
-| Live app | `TODO: link` |
-| Break-it Arena | `TODO: link` |
-| Demo video | `TODO: link` |
+| Live app | `https://autonomous-enterprise-resource-manager.onrender.com` |
+| Break-it Arena | `https://autonomous-enterprise-resource-manager.onrender.com/arena` |
+| Demo video | `(https://youtu.be/AA4ANT9s9y8)` |
 | Evaluation (generated from real results) | [`docs/evaluation.md`](docs/evaluation.md) |
 
 ## What it is
